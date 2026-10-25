@@ -966,7 +966,7 @@
   },
   "510151": {
     "OriginalText": "有言実行",
-    "Text": "유언실행",
+    "Text": "말한 대로 실천",
     "Enabled": true
   },
   "510152": {
@@ -986,12 +986,12 @@
   },
   "510155": {
     "OriginalText": "頁戦錬磨",
-    "Text": "백전연마",
+    "Text": "산전수전",
     "Enabled": false
   },
   "510156": {
     "OriginalText": "質実剛健",
-    "Text": "질실강건",
+    "Text": "소박하고 강인함",
     "Enabled": true
   },
   "510157": {
