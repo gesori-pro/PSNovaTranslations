@@ -1,1637 +1,1627 @@
 {
-  "180000": {
-    "OriginalText": "---",
-    "Text": "",
-    "Enabled": false
-  },
   "180110": {
     "OriginalText": "Ｇクラーダ",
-    "Text": "G-Krahda",
+    "Text": "G 크라다",
     "Enabled": true
   },
   "180120": {
     "OriginalText": "Ｇクラーダ・ネロ",
-    "Text": "G-Krahda Nero",
+    "Text": "G 크라다 네로",
     "Enabled": true
   },
   "180210": {
     "OriginalText": "Ｇダガン",
-    "Text": "G-Dagan",
+    "Text": "G 다간",
     "Enabled": true
   },
   "180220": {
     "OriginalText": "Ｇエル・ダガン",
-    "Text": "G-El Dagan",
+    "Text": "G 엘 다간",
     "Enabled": true
   },
   "180230": {
     "OriginalText": "Ｇダガン・ネロ",
-    "Text": "G-Dagan Nero",
+    "Text": "G 다간 네로",
     "Enabled": true
   },
   "180310": {
     "OriginalText": "Ｇエル・アーダ",
-    "Text": "G-El Ahda",
+    "Text": "G 엘 아다",
     "Enabled": true
   },
   "180320": {
     "OriginalText": "Ｇエル・アーダ・ネロ",
-    "Text": "G-El Ahda Nero",
+    "Text": "G 엘 아다 네로",
     "Enabled": true
   },
   "180410": {
     "OriginalText": "Ｇプレディカーダ",
-    "Text": "G-Predicahda",
+    "Text": "G 프레디카다",
     "Enabled": true
   },
   "180420": {
     "OriginalText": "Ｇプレディカーダ・ネロ",
-    "Text": "G-Predicahda Nero",
+    "Text": "G 프레디카다 네로",
     "Enabled": true
   },
   "180510": {
     "OriginalText": "Ｇダーク・ラグネ",
-    "Text": "G-Dark Ragne",
+    "Text": "G 다크 라그네",
     "Enabled": true
   },
   "180520": {
     "OriginalText": "Ｇダーク・アグラニ",
-    "Text": "G-Dark Agrani",
+    "Text": "G 다크 아그라니",
     "Enabled": true
   },
   "180610": {
     "OriginalText": "Ｇミクダ",
-    "Text": "G-Micda",
+    "Text": "G 미크다",
     "Enabled": true
   },
   "180620": {
     "OriginalText": "Ｇミ・ミクダ",
-    "Text": "G-Mi Micda",
+    "Text": "G 미 미크다",
     "Enabled": true
   },
   "180710": {
     "OriginalText": "Ｇダーガッシュ",
-    "Text": "G-Dahgash",
+    "Text": "G 다갓슈",
     "Enabled": true
   },
   "180720": {
     "OriginalText": "Ｇダーガッシュ・ネロ",
-    "Text": "G-Dahgash Nero",
+    "Text": "G 다갓슈 네로",
     "Enabled": true
   },
   "180810": {
     "OriginalText": "Ｇガウォンダ",
-    "Text": "G-Ga Wonda",
+    "Text": "G 가원다",
     "Enabled": true
   },
   "180820": {
     "OriginalText": "Ｇガウォンダ・ネロ",
-    "Text": "G-Ga Wonda Nero",
+    "Text": "G 가원다 네로",
     "Enabled": true
   },
   "180910": {
     "OriginalText": "Ｇグウォンダ",
-    "Text": "G-Gu Wonda",
+    "Text": "G 구원다",
     "Enabled": true
   },
   "180920": {
     "OriginalText": "Ｇグウォンダ・ネロ",
-    "Text": "G-Gu Wonda Nero",
+    "Text": "G 구원다 네로",
     "Enabled": true
   },
   "181010": {
     "OriginalText": "Ｇウォルガーダ",
-    "Text": "G-Wolgahda",
+    "Text": "G 워루가다",
     "Enabled": true
   },
   "181020": {
     "OriginalText": "Ｇアロナガーダ",
-    "Text": "G-Alonagahda",
+    "Text": "G 아로나가다",
     "Enabled": true
   },
   "181110": {
     "OriginalText": "Ｇキュクロナーダ",
-    "Text": "G-Kuklonahda",
+    "Text": "G 큐크로나다",
     "Enabled": true
   },
   "181120": {
     "OriginalText": "Ｇパイクロナーダ",
-    "Text": "G-Piklonahda",
+    "Text": "G 파이크로나다",
     "Enabled": true
   },
   "181210": {
     "OriginalText": "Ｇシャルレイダ",
-    "Text": "G-Shalurayda",
+    "Text": "G 샤르레이다",
     "Enabled": true
   },
   "181220": {
     "OriginalText": "Ｇライルレイダ",
-    "Text": "G-Rilurayda",
+    "Text": "G 라일레이다",
     "Enabled": true
   },
   "181310": {
     "OriginalText": "バリドランナ",
-    "Text": "Baridran'na",
+    "Text": "바리드란나",
     "Enabled": true
   },
   "181320": {
     "OriginalText": "ノイバリドランナ",
-    "Text": "Noibaridran'na",
+    "Text": "노이 바리드란나",
     "Enabled": true
   },
   "181330": {
     "OriginalText": "フェブリルナ・ドラウ",
-    "Text": "Febriluna Draal",
+    "Text": "페브리루나 드라우",
     "Enabled": true
   },
   "181410": {
     "OriginalText": "ウィンディラス",
-    "Text": "Windiras",
+    "Text": "윈디라스",
     "Enabled": true
   },
   "181420": {
     "OriginalText": "ノイウィンディラス",
-    "Text": "Noiwindiras",
+    "Text": "노이 윈디라스",
     "Enabled": true
   },
   "181430": {
     "OriginalText": "ヴォーロラス・ドラウ",
-    "Text": "Voloras Draal",
+    "Text": "보로라스 드라우",
     "Enabled": true
   },
   "181510": {
     "OriginalText": "防御訓練用クラーダ",
-    "Text": "Training Defense Krahda",
+    "Text": "방어 훈련용 크라다",
     "Enabled": true
   },
   "181520": {
     "OriginalText": "キャタドラン２(仮)",
-    "Text": "Caterdran 2 (Simulation)",
+    "Text": "캐터드란2(임시)",
     "Enabled": true
   },
   "181610": {
     "OriginalText": "ヴォル・ドラゴン(仮)",
-    "Text": "Vol Dragon (Simulation)",
+    "Text": "볼 드래곤(임시)",
     "Enabled": true
   },
   "181620": {
     "OriginalText": "ヴォルドラ２(仮)",
-    "Text": "Vol Dragon 2 (Simulation)",
+    "Text": "볼드라2(임시)",
     "Enabled": true
   },
   "181710": {
     "OriginalText": "コラル・ドラゴン",
-    "Text": "Coral Dragon",
+    "Text": "코랄 드래곤",
     "Enabled": true
   },
   "181720": {
     "OriginalText": "ディアマ・ドラール",
-    "Text": "Diama Dragon",
+    "Text": "디아마 드라르",
     "Enabled": true
   },
   "181810": {
     "OriginalText": "ラウーダン",
-    "Text": "Ra Oodan",
+    "Text": "라우단",
     "Enabled": true
   },
   "181820": {
     "OriginalText": "フリラウーダン",
-    "Text": "Fury Ra Oodan",
+    "Text": "프리 라우단",
     "Enabled": true
   },
   "181830": {
     "OriginalText": "ラウーダン・リアス",
-    "Text": "Ra Oodan Lias",
+    "Text": "라우단 리아스",
     "Enabled": true
   },
   "181910": {
     "OriginalText": "ベガルフ",
-    "Text": "Begulf",
+    "Text": "베갈프",
     "Enabled": true
   },
   "181920": {
     "OriginalText": "フロベガルフ",
-    "Text": "Flobegulf",
+    "Text": "프로베갈프",
     "Enabled": true
   },
   "181930": {
     "OriginalText": "ベガルフ・ライオ",
-    "Text": "Begulf Rioh",
+    "Text": "베갈프 라이오",
     "Enabled": true
   },
   "182010": {
     "OriginalText": "イエーデン",
-    "Text": "Yeden",
+    "Text": "이에덴",
     "Enabled": true
   },
   "182020": {
     "OriginalText": "コパイエーデン",
-    "Text": "Kopa Yeden",
+    "Text": "코파이에덴",
     "Enabled": true
   },
   "182030": {
     "OriginalText": "イエーデン・アイエ",
-    "Text": "Yeden Aie",
+    "Text": "이에덴 아이에",
     "Enabled": true
   },
   "182110": {
     "OriginalText": "フォンベガルフ",
-    "Text": "Fonbegulf",
+    "Text": "폰베갈프",
     "Enabled": true
   },
   "182120": {
     "OriginalText": "フロフォンベガルフ",
-    "Text": "Flo Fonbegulf",
+    "Text": "프로폰베갈프",
     "Enabled": true
   },
   "182130": {
     "OriginalText": "フォンベガルフ・ライオ",
-    "Text": "Fonbegulf Rioh",
+    "Text": "폰베갈프 라이오",
     "Enabled": true
   },
   "182210": {
     "OriginalText": "シルブベア",
-    "Text": "Sirbu Bear",
+    "Text": "실브 베어",
     "Enabled": true
   },
   "182220": {
     "OriginalText": "ベア・ゴルヴァ",
-    "Text": "Bear Gorva",
+    "Text": "베어 골바",
     "Enabled": true
   },
   "182310": {
     "OriginalText": "グルナバンサー",
-    "Text": "Gluna Banther",
+    "Text": "그루나 밴서",
     "Enabled": true
   },
   "182320": {
     "OriginalText": "ジャッドバンサー",
-    "Text": "Jhad Banther",
+    "Text": "자드 밴서",
     "Enabled": true
   },
   "182330": {
     "OriginalText": "バンサ・ブライネス",
-    "Text": "Banther Braynes",
+    "Text": "밴사 브라이네스",
     "Enabled": true
   },
   "182410": {
     "OriginalText": "ラッピー",
-    "Text": "Rappy",
+    "Text": "랍피",
     "Enabled": true
   },
   "182420": {
     "OriginalText": "ニグ・ラッピー",
-    "Text": "Nig Rappy",
+    "Text": "니그 랍피",
     "Enabled": true
   },
   "182430": {
     "OriginalText": "ラッピー・アルマ",
-    "Text": "Rappy Alma",
+    "Text": "랍피 알마",
     "Enabled": true
   },
   "182510": {
     "OriginalText": "アルマラッピー",
-    "Text": "Alma Rappy",
+    "Text": "알마 랍피",
     "Enabled": true
   },
   "182520": {
     "OriginalText": "レウ・アヴラッピー",
-    "Text": "Leu Au Rappy",
+    "Text": "레우 아브 랍피",
     "Enabled": true
   },
   "182530": {
     "OriginalText": "ウィ・アヴラッピー",
-    "Text": "Oui Au Rappy",
+    "Text": "위 아브 랍피",
     "Enabled": true
   },
   "182540": {
     "OriginalText": "ロセ・アヴラッピー",
-    "Text": "Rosset Au Rappy",
+    "Text": "로세 아브 랍피",
     "Enabled": true
   },
   "182550": {
     "OriginalText": "アルマラッピー・オナー",
-    "Text": "Alma Rappy Onar",
+    "Text": "알마 랍피 오나",
     "Enabled": true
   },
   "182610": {
     "OriginalText": "ロヴラッピー",
-    "Text": "Rove Rappy",
+    "Text": "로브 랍피",
     "Enabled": true
   },
   "182620": {
     "OriginalText": "ウィ・ロヴラッピー",
-    "Text": "Oui Rove Rappy",
+    "Text": "위 로브 랍피",
     "Enabled": true
   },
   "182630": {
     "OriginalText": "レウ・ロヴラッピー",
-    "Text": "Leu Rove Rappy",
+    "Text": "레우 로브 랍피",
     "Enabled": true
   },
   "182640": {
     "OriginalText": "ロヴラッピー・ロセ",
-    "Text": "Rove Rappy Rosset",
+    "Text": "로브 랍피 로세",
     "Enabled": true
   },
   "182710": {
     "OriginalText": "マガヴルム",
-    "Text": "Magavulum",
+    "Text": "마가부름",
     "Enabled": true
   },
   "182720": {
     "OriginalText": "バオム・マガヴルム",
-    "Text": "Baum Magavulum",
+    "Text": "바옴 마가부름",
     "Enabled": true
   },
   "182730": {
     "OriginalText": "オルテ・マガヴルム",
-    "Text": "Orte Magavulum",
+    "Text": "오르테 마가부름",
     "Enabled": true
   },
   "182740": {
     "OriginalText": "マガヴルム・クロウ",
-    "Text": "Magavulum Crow",
+    "Text": "마가부름 크로우",
     "Enabled": true
   },
   "182810": {
     "OriginalText": "ラビーソ",
-    "Text": "Rabbisaw",
+    "Text": "라비소",
     "Enabled": true
   },
   "182820": {
     "OriginalText": "ブロラビーソ",
-    "Text": "Bro Rabbisaw",
+    "Text": "브로라비소",
     "Enabled": true
   },
   "182830": {
     "OriginalText": "アセラビーソ",
-    "Text": "Ase Rabbisaw",
+    "Text": "아세라비소",
     "Enabled": true
   },
   "182840": {
     "OriginalText": "ラビーソ・プラテ",
-    "Text": "Rabbisaw Platen",
+    "Text": "라비소 프라테",
     "Enabled": true
   },
   "182910": {
     "OriginalText": "ロザード",
-    "Text": "Rozad",
+    "Text": "로자드",
     "Enabled": true
   },
   "182920": {
     "OriginalText": "ウロザード",
-    "Text": "Pa Rozad",
+    "Text": "우로자드",
     "Enabled": true
   },
   "182930": {
     "OriginalText": "クロザード",
-    "Text": "Gu Rozad",
+    "Text": "크로자드",
     "Enabled": true
   },
   "182940": {
     "OriginalText": "スロザード",
-    "Text": "Su Rozad",
+    "Text": "스로자드",
     "Enabled": true
   },
   "182950": {
     "OriginalText": "ロザード・トカ",
-    "Text": "Rozad Toqa",
+    "Text": "로자드 토카",
     "Enabled": true
   },
   "183010": {
     "OriginalText": "マフレザール",
-    "Text": "Maphrezer",
+    "Text": "마프레자르",
     "Enabled": true
   },
   "183020": {
     "OriginalText": "ヴィマフレザール",
-    "Text": "Oui Maphrezer",
+    "Text": "비마프레자르",
     "Enabled": true
   },
   "183030": {
     "OriginalText": "エルマフレザール",
-    "Text": "El Maphrezer",
+    "Text": "엘마프레자르",
     "Enabled": true
   },
   "183040": {
     "OriginalText": "ウイマフレザール",
-    "Text": "Huy Maphrezer",
+    "Text": "위마프레자르",
     "Enabled": true
   },
   "183050": {
     "OriginalText": "マフレザール・オリヴ",
-    "Text": "Maphrezer Olive",
+    "Text": "마프레자르 오리브",
     "Enabled": true
   },
   "183110": {
     "OriginalText": "ジュラキア",
-    "Text": "Jurrakia",
+    "Text": "주라키아",
     "Enabled": true
   },
   "183120": {
     "OriginalText": "メドジュラキア",
-    "Text": "Med Jurrakia",
+    "Text": "메도주라키아",
     "Enabled": true
   },
   "183130": {
     "OriginalText": "ポリジュラキア",
-    "Text": "Poly Jurrakia",
+    "Text": "포리주라키아",
     "Enabled": true
   },
   "183140": {
     "OriginalText": "ガンジュラキア",
-    "Text": "Gun Jurrakia",
+    "Text": "간주라키아",
     "Enabled": true
   },
   "183150": {
     "OriginalText": "ジュラキア・スクア",
-    "Text": "Jurrakia Skuah",
+    "Text": "주라키아 스쿠아",
     "Enabled": true
   },
   "183210": {
     "OriginalText": "リバッツ",
-    "Text": "Ribatts",
+    "Text": "리바츠",
     "Enabled": true
   },
   "183220": {
     "OriginalText": "グリバッツ",
-    "Text": "Gribatts",
+    "Text": "그리바츠",
     "Enabled": true
   },
   "183230": {
     "OriginalText": "バリバッツ",
-    "Text": "Baribatts",
+    "Text": "바리바츠",
     "Enabled": true
   },
   "183240": {
     "OriginalText": "ブリバッツ",
-    "Text": "Bribatts",
+    "Text": "브리바츠",
     "Enabled": true
   },
   "183250": {
     "OriginalText": "リバッツ・シル",
-    "Text": "Ribatts Sill",
+    "Text": "리바츠 실",
     "Enabled": true
   },
   "183310": {
     "OriginalText": "グランブ",
-    "Text": "Granv",
+    "Text": "그란브",
     "Enabled": true
   },
   "183320": {
     "OriginalText": "ガーグランブ",
-    "Text": "Gargranv",
+    "Text": "가 그란브",
     "Enabled": true
   },
   "183330": {
     "OriginalText": "サフグランブ",
-    "Text": "Sahugranv",
+    "Text": "사프 그란브",
     "Enabled": true
   },
   "183340": {
     "OriginalText": "パーグランブ",
-    "Text": "Pergranv",
+    "Text": "파 그란브",
     "Enabled": true
   },
   "183350": {
     "OriginalText": "グランブ・ダイ",
-    "Text": "Granv Dai",
+    "Text": "그란브 다이",
     "Enabled": true
   },
   "183410": {
     "OriginalText": "バンクゥ",
-    "Text": "Ban'qu",
+    "Text": "방쿠",
     "Enabled": true
   },
   "183420": {
     "OriginalText": "フレスバンクゥ",
-    "Text": "Fresc Ban'qu",
+    "Text": "프레스방쿠",
     "Enabled": true
   },
   "183430": {
     "OriginalText": "ヴェンバンクゥ",
-    "Text": "Venn Ban'qu",
+    "Text": "벤방쿠",
     "Enabled": true
   },
   "183440": {
     "OriginalText": "トネルバンクゥ",
-    "Text": "Toner Ban'qu",
+    "Text": "토넬방쿠",
     "Enabled": true
   },
   "183450": {
     "OriginalText": "スォロバンクゥ",
-    "Text": "Swole Ban'qu",
+    "Text": "스오로방쿠",
     "Enabled": true
   },
   "183460": {
     "OriginalText": "バンクゥ・フリュ",
-    "Text": "Ban'qu Flew",
+    "Text": "방쿠 프류",
     "Enabled": true
   },
   "183510": {
     "OriginalText": "マクロージ",
-    "Text": "Makroge",
+    "Text": "마크로지",
     "Enabled": true
   },
   "183520": {
     "OriginalText": "レ・マクロージ",
-    "Text": "Le Makroge",
+    "Text": "레 마크로지",
     "Enabled": true
   },
   "183530": {
     "OriginalText": "ブ・マクロージ",
-    "Text": "Bu Makroge",
+    "Text": "브 마크로지",
     "Enabled": true
   },
   "183540": {
     "OriginalText": "ア・マクロージ",
-    "Text": "Ah Makroge",
+    "Text": "아 마크로지",
     "Enabled": true
   },
   "183550": {
     "OriginalText": "マクロージ・ネス",
-    "Text": "Makroge Ness",
+    "Text": "마크로지 네스",
     "Enabled": true
   },
   "183610": {
     "OriginalText": "アビアディノ",
-    "Text": "Aviadino",
+    "Text": "아비아디노",
     "Enabled": true
   },
   "183620": {
     "OriginalText": "ラーアビアディノ",
-    "Text": "Lar Aviadino",
+    "Text": "라 아비아디노",
     "Enabled": true
   },
   "183630": {
     "OriginalText": "マドアビアディノ",
-    "Text": "Mad Aviadino",
+    "Text": "마도 아비아디노",
     "Enabled": true
   },
   "183640": {
     "OriginalText": "アビアディノ・ロクサ",
-    "Text": "Aviadino Roxa",
+    "Text": "아비아디노 록사",
     "Enabled": true
   },
   "183710": {
     "OriginalText": "バレダイナス",
-    "Text": "Valdinas",
+    "Text": "바레다이너스",
     "Enabled": true
   },
   "183720": {
     "OriginalText": "ラーバレダイナス",
-    "Text": "Lar Valdinas",
+    "Text": "라 바레다이너스",
     "Enabled": true
   },
   "183730": {
     "OriginalText": "マーバレダイナス",
-    "Text": "Mar Valdinas",
+    "Text": "마 바레다이너스",
     "Enabled": true
   },
   "183740": {
     "OriginalText": "ヴィバレダイナス",
-    "Text": "Oui Valdinas",
+    "Text": "비바레다이너스",
     "Enabled": true
   },
   "183750": {
     "OriginalText": "ダイナス・タングス",
-    "Text": "Dinas Tungs",
+    "Text": "다이너스 탕그스",
     "Enabled": true
   },
   "183810": {
     "OriginalText": "シードギオス",
-    "Text": "Xie Dogios",
+    "Text": "시드기오스",
     "Enabled": true
   },
   "183820": {
     "OriginalText": "フォードギオス",
-    "Text": "Pho Dogios",
+    "Text": "포드기오스",
     "Enabled": true
   },
   "183830": {
     "OriginalText": "ヴァッドギオス",
-    "Text": "Vad Dogios",
+    "Text": "바드기오스",
     "Enabled": true
   },
   "183840": {
     "OriginalText": "エアドギオス",
-    "Text": "Air Dogios",
+    "Text": "에아드기오스",
     "Enabled": true
   },
   "183850": {
     "OriginalText": "ドギオス・ルフレ",
-    "Text": "Dogios Reflet",
+    "Text": "도기오스 루플레",
     "Enabled": true
   },
   "183910": {
     "OriginalText": "トルリンプ",
-    "Text": "Torrimp",
+    "Text": "토르림프",
     "Enabled": true
   },
   "183920": {
     "OriginalText": "ロウトルリンプ",
-    "Text": "Rol Torrimp",
+    "Text": "로우 토르림프",
     "Enabled": true
   },
   "183930": {
     "OriginalText": "ポルトルリンプ",
-    "Text": "Pol Torrimp",
+    "Text": "폴토르림프",
     "Enabled": true
   },
   "183940": {
     "OriginalText": "トルリンプ・ゴウル",
-    "Text": "Torrimp Gorr",
+    "Text": "토르림프 고울",
     "Enabled": true
   },
   "184010": {
     "OriginalText": "エデルクリトロ",
-    "Text": "Eder Crittro",
+    "Text": "에델크리트로",
     "Enabled": true
   },
   "184020": {
     "OriginalText": "スマラクリトロ",
-    "Text": "Smar Crittro",
+    "Text": "스마라 크리트로",
     "Enabled": true
   },
   "184030": {
     "OriginalText": "オーニクリトロ",
-    "Text": "Ouni Crittro",
+    "Text": "오니크리트로",
     "Enabled": true
   },
   "184040": {
     "OriginalText": "クリトロ・テュルレ",
-    "Text": "Crittro Ture",
+    "Text": "크리트로 튜르레",
     "Enabled": true
   },
   "184110": {
     "OriginalText": "エレマンデル",
-    "Text": "Err Mander",
+    "Text": "엘레만델",
     "Enabled": true
   },
   "184120": {
     "OriginalText": "テッラマンデル",
-    "Text": "Terra Mander",
+    "Text": "테라 만델",
     "Enabled": true
   },
   "184130": {
     "OriginalText": "イーグマンデル",
-    "Text": "Eag Mander",
+    "Text": "이그만델",
     "Enabled": true
   },
   "184140": {
     "OriginalText": "マンデル・ナート",
-    "Text": "Mander Nart",
+    "Text": "만델 나트",
     "Enabled": true
   },
   "184210": {
     "OriginalText": "エクセージＴ",
-    "Text": "Equsage T",
+    "Text": "엑세지 T",
     "Enabled": true
   },
   "184220": {
     "OriginalText": "レ・エクセージＴ",
-    "Text": "Le Equsage T",
+    "Text": "레 엑세지 T",
     "Enabled": true
   },
   "184230": {
     "OriginalText": "エクセージＴ・ネス",
-    "Text": "Equsage T Ness",
+    "Text": "엑세지 T 네스",
     "Enabled": true
   },
   "184310": {
     "OriginalText": "ミステルン",
-    "Text": "Mysteroon",
+    "Text": "미스테른",
     "Enabled": true
   },
   "184320": {
     "OriginalText": "アガミステルン",
-    "Text": "Aga Mysteroon",
+    "Text": "아가 미스테른",
     "Enabled": true
   },
   "184330": {
     "OriginalText": "ラピミステルン",
-    "Text": "Rap Mysteroon",
+    "Text": "라피 미스테른",
     "Enabled": true
   },
   "184340": {
     "OriginalText": "ミステルン・オーロ",
-    "Text": "Mysteroon Orro",
+    "Text": "미스테른 오로",
     "Enabled": true
   },
   "184410": {
     "OriginalText": "シルブカーネベア",
-    "Text": "Silve Carnnebear",
+    "Text": "실브 카네베어",
     "Enabled": true
   },
   "184420": {
     "OriginalText": "レゾルカーネベア",
-    "Text": "Resol Carnnebear",
+    "Text": "레조르 카네베어",
     "Enabled": true
   },
   "184430": {
     "OriginalText": "オラルカーネベア",
-    "Text": "Orale Carnnebear",
+    "Text": "오랄 카네베어",
     "Enabled": true
   },
   "184440": {
     "OriginalText": "モストカーネベア",
-    "Text": "Mossed Carnnebear",
+    "Text": "모스트 카네베어",
     "Enabled": true
   },
   "184450": {
     "OriginalText": "カーネベア・ゴルヴァ",
-    "Text": "Carnnebear Gorva",
+    "Text": "카네베어 골바",
     "Enabled": true
   },
   "184510": {
     "OriginalText": "アルレイバンサー",
-    "Text": "Alray Banther",
+    "Text": "알레이 밴서",
     "Enabled": true
   },
   "184520": {
     "OriginalText": "ゾンレイバンサー",
-    "Text": "Zonray Banther",
+    "Text": "존레이 밴서",
     "Enabled": true
   },
   "184530": {
     "OriginalText": "ナールレイバンサー",
-    "Text": "Nalray Banther",
+    "Text": "나르레이 밴서",
     "Enabled": true
   },
   "184540": {
     "OriginalText": "ファラレイバンサー",
-    "Text": "Fararay Banther",
+    "Text": "파라레이 밴서",
     "Enabled": true
   },
   "184550": {
     "OriginalText": "レイバンサ・オクシ",
-    "Text": "Ray Banther Oxy",
+    "Text": "레이 밴사 옥시",
     "Enabled": true
   },
   "184560": {
     "OriginalText": "頭角",
-    "Text": "Stand Out",
+    "Text": "머리 뿔",
     "Enabled": true
   },
   "184570": {
     "OriginalText": "腰角",
-    "Text": "Hip Bone",
+    "Text": "허리 뿔",
     "Enabled": true
   },
   "184580": {
     "OriginalText": "ガトリング",
-    "Text": "Gatling",
+    "Text": "개틀링",
     "Enabled": true
   },
   "184610": {
     "OriginalText": "ディートアス",
-    "Text": "Dietoas",
+    "Text": "디토아스",
     "Enabled": true
   },
   "184620": {
     "OriginalText": "テュルトアス",
-    "Text": "Tulletoas",
+    "Text": "튜르토아스",
     "Enabled": true
   },
   "184630": {
     "OriginalText": "マグネトアス",
-    "Text": "Magnetoas",
+    "Text": "마그네토아스",
     "Enabled": true
   },
   "184640": {
     "OriginalText": "トアス・ヒュブオン",
-    "Text": "Toas Hyubon",
+    "Text": "토아스 휴브온",
     "Enabled": true
   },
   "184710": {
     "OriginalText": "ゴルドス",
-    "Text": "Gordes",
+    "Text": "골도스",
     "Enabled": true
   },
   "184720": {
     "OriginalText": "ディゴルドス",
-    "Text": "Digordes",
+    "Text": "디골도스",
     "Enabled": true
   },
   "184730": {
     "OriginalText": "オルゴルドス",
-    "Text": "Orgordes",
+    "Text": "오르골도스",
     "Enabled": true
   },
   "184740": {
     "OriginalText": "ゴルドス・ビガオ",
-    "Text": "Gordes Bigaoh",
+    "Text": "골도스 비가오",
     "Enabled": true
   },
   "184810": {
     "OriginalText": "ファンアフォル",
-    "Text": "Fan'aphol",
+    "Text": "판아포르",
     "Enabled": true
   },
   "184820": {
     "OriginalText": "ウィルアフォル",
-    "Text": "Viluaphol",
+    "Text": "윌아포르",
     "Enabled": true
   },
   "184830": {
     "OriginalText": "アフォル・フェイズ",
-    "Text": "Aphol Phase",
+    "Text": "아포르 페이즈",
     "Enabled": true
   },
   "184910": {
     "OriginalText": "アグリオス",
-    "Text": "Agrios",
+    "Text": "아그리오스",
     "Enabled": true
   },
   "184911": {
     "OriginalText": "アグリオスＰ型",
-    "Text": "Agrios P-Type",
+    "Text": "아그리오스 P형",
     "Enabled": true
   },
   "184912": {
     "OriginalText": "アグリオスＳ型",
-    "Text": "Agrios S-Type",
+    "Text": "아그리오스 S형",
     "Enabled": true
   },
   "184920": {
     "OriginalText": "グレイオス",
-    "Text": "Greios",
+    "Text": "그레이오스",
     "Enabled": true
   },
   "184921": {
     "OriginalText": "グレイオスＳ型",
-    "Text": "Greios S-Type",
+    "Text": "그레이오스 S형",
     "Enabled": true
   },
   "184930": {
     "OriginalText": "アルテイオス",
-    "Text": "Alteios",
+    "Text": "알테이오스",
     "Enabled": true
   },
   "185000": {
     "OriginalText": "最弱点",
-    "Text": "Weakest Point",
+    "Text": "최대 약점",
     "Enabled": true
   },
   "185010": {
     "OriginalText": "エウリュード",
-    "Text": "Eurude",
+    "Text": "에우류드",
     "Enabled": true
   },
   "185020": {
     "OriginalText": "換装武器：ガトリング",
-    "Text": "Retrofitted Gatling",
+    "Text": "교체 무기: 개틀링",
     "Enabled": true
   },
   "185030": {
     "OriginalText": "換装武器：クロー",
-    "Text": "Retrofitted Claw",
+    "Text": "교체 무기: 클로",
     "Enabled": true
   },
   "185040": {
     "OriginalText": "換装武器：ビーム",
-    "Text": "Retrofitted Beam",
+    "Text": "교체 무기: 빔",
     "Enabled": true
   },
   "185050": {
     "OriginalText": "換装武器：ミサイル",
-    "Text": "Retrofitted Missile",
+    "Text": "교체 무기: 미사일",
     "Enabled": true
   },
   "185060": {
     "OriginalText": "レーザー射出口",
-    "Text": "Laser Exit Wound",
+    "Text": "레이저 사출구",
     "Enabled": true
   },
   "185070": {
     "OriginalText": "コンテナ：ガトリング",
-    "Text": "Gatling Container",
+    "Text": "컨테이너: 개틀링",
     "Enabled": true
   },
   "185080": {
     "OriginalText": "コンテナ：クロー",
-    "Text": "Claw Container",
+    "Text": "컨테이너: 클로",
     "Enabled": true
   },
   "185090": {
     "OriginalText": "コンテナ：ビーム",
-    "Text": "Beam Container",
+    "Text": "컨테이너: 빔",
     "Enabled": true
   },
   "185100": {
     "OriginalText": "コンテナ：ミサイル",
-    "Text": "Missile Container",
+    "Text": "컨테이너: 미사일",
     "Enabled": true
   },
   "185110": {
     "OriginalText": "ガラティオン",
-    "Text": "Garation",
+    "Text": "갈라티온",
     "Enabled": true
   },
   "185120": {
     "OriginalText": "ギガティオン",
-    "Text": "Gigation",
+    "Text": "기가티온",
     "Enabled": true
   },
   "185130": {
     "OriginalText": "グラヴディオン",
-    "Text": "Gravdion",
+    "Text": "그라브디온",
     "Enabled": true
   },
   "185135": {
     "OriginalText": "ブレード",
-    "Text": "Blade",
+    "Text": "블레이드",
     "Enabled": true
   },
   "185140": {
     "OriginalText": "角",
-    "Text": "Horn",
+    "Text": "뿔",
     "Enabled": true
   },
   "185145": {
     "OriginalText": "チェーンソー",
-    "Text": "Chainsaw",
+    "Text": "체인쏘우",
     "Enabled": true
   },
   "185150": {
     "OriginalText": "アンカー発射伝置",
-    "Text": "Anchor Launch Mechanism",
-    "Enabled": true
+    "Text": "앵커 발사 장치",
+    "Enabled": false
   },
   "185210": {
     "OriginalText": "アルキュオネ",
-    "Text": "Alcyone",
+    "Text": "알키오네",
     "Enabled": true
   },
   "185220": {
     "OriginalText": "デェフキュオネ",
-    "Text": "Defcyone",
+    "Text": "데프큐오네",
     "Enabled": true
   },
   "185310": {
     "OriginalText": "リ・ゲンテ",
-    "Text": "Re Gante",
+    "Text": "리 겐테",
     "Enabled": true
   },
   "185320": {
     "OriginalText": "セ・ゲンテ",
-    "Text": "Se Gante",
+    "Text": "세 겐테",
     "Enabled": true
   },
   "185330": {
     "OriginalText": "テ・ゲンテ",
-    "Text": "Te Gante",
+    "Text": "테 겐테",
     "Enabled": true
   },
   "185340": {
     "OriginalText": "ク・ゲンテ",
-    "Text": "Ku Gante",
+    "Text": "크 겐테",
     "Enabled": true
   },
   "185350": {
     "OriginalText": "キ・ゲンテ",
-    "Text": "Ki Gante",
+    "Text": "키 겐테",
     "Enabled": true
   },
   "185360": {
     "OriginalText": "ス・ゲンテ",
-    "Text": "Sugante",
+    "Text": "스 겐테",
     "Enabled": true
   },
   "185370": {
     "OriginalText": "テ・ゲンテ",
-    "Text": "Te Gante",
+    "Text": "테 겐테",
     "Enabled": true
   },
   "185380": {
     "OriginalText": "ギュゲンテ",
-    "Text": "Gygante",
+    "Text": "규겐테",
     "Enabled": true
   },
   "185381": {
     "OriginalText": "キャノン砲",
-    "Text": "Cannon Mortar",
+    "Text": "캐논포",
     "Enabled": true
   },
   "185382": {
     "OriginalText": "ランチャー",
-    "Text": "Launcher",
+    "Text": "런처",
     "Enabled": true
   },
   "185390": {
     "OriginalText": "エア・ゲンテ",
-    "Text": "Air Gante",
+    "Text": "에아 겐테",
     "Enabled": true
   },
   "185400": {
     "OriginalText": "ツヴ・ゲンテ",
-    "Text": "Shiv Gante",
+    "Text": "츠브 겐테",
     "Enabled": true
   },
   "185410": {
     "OriginalText": "ドリ・ゲンテ",
-    "Text": "Dol Gante",
+    "Text": "드리 겐테",
     "Enabled": true
   },
   "185420": {
     "OriginalText": "フィ・ゲンテ",
-    "Text": "Fi Gante",
+    "Text": "피 겐테",
     "Enabled": true
   },
   "185430": {
     "OriginalText": "フュ・ゲンテ",
-    "Text": "Few Gante",
+    "Text": "퓨 겐테",
     "Enabled": true
   },
   "185440": {
     "OriginalText": "ゼク・ゲンテ",
-    "Text": "Zek Gante",
+    "Text": "제크 겐테",
     "Enabled": true
   },
   "185450": {
     "OriginalText": "ズィ・ゲンテ",
-    "Text": "Zi Gante",
+    "Text": "즈이 겐테",
     "Enabled": true
   },
   "185460": {
     "OriginalText": "リベルゲンテ",
-    "Text": "Libelgante",
+    "Text": "리벨겐테",
     "Enabled": true
   },
   "185510": {
     "OriginalText": "レイヴフース",
-    "Text": "Rave Fus",
+    "Text": "레이브푸스",
     "Enabled": true
   },
   "185520": {
     "OriginalText": "レイヴヒュフテ",
-    "Text": "Rave Hufte",
+    "Text": "레이브휴프테",
     "Enabled": true
   },
   "185530": {
     "OriginalText": "レイヴガイスト",
-    "Text": "Rave Geist",
+    "Text": "레이브가이스트",
     "Enabled": true
   },
   "185531": {
     "OriginalText": "レイヴァン",
-    "Text": "Raven",
+    "Text": "레이반",
     "Enabled": true
   },
   "185540": {
     "OriginalText": "ネメスフース",
-    "Text": "Nemes Fus",
+    "Text": "네메스푸스",
     "Enabled": true
   },
   "185550": {
     "OriginalText": "ネメスヒュフテ",
-    "Text": "Nemes Hufte",
+    "Text": "네메스휴프테",
     "Enabled": true
   },
   "185560": {
     "OriginalText": "ネメスガイスト",
-    "Text": "Nemes Geist",
+    "Text": "네메스가이스트",
     "Enabled": true
   },
   "185561": {
     "OriginalText": "ミサイル発射伝置",
-    "Text": "Missile Firing Mechanism",
-    "Enabled": true
+    "Text": "미사일 발사 장치",
+    "Enabled": false
   },
   "185562": {
     "OriginalText": "二ードルガン",
-    "Text": "Needle Gun",
-    "Enabled": true
+    "Text": "니들건",
+    "Enabled": false
   },
   "185563": {
     "OriginalText": "レーザー",
-    "Text": "Laser",
+    "Text": "레이저",
     "Enabled": true
   },
   "185564": {
     "OriginalText": "グランデバイス",
-    "Text": "Gran Device",
+    "Text": "그란 디바이스",
     "Enabled": true
   },
   "189001": {
     "OriginalText": "主砲",
-    "Text": "Main Cannon",
+    "Text": "주포",
     "Enabled": true
   },
   "189002": {
     "OriginalText": "副砲",
-    "Text": "Sub Cannon",
+    "Text": "부포",
     "Enabled": true
   },
   "189003": {
     "OriginalText": "ファランクス",
-    "Text": "Phalanx",
+    "Text": "팔랑크스",
     "Enabled": true
   },
   "189004": {
     "OriginalText": "機銃",
-    "Text": "Machine Gun",
+    "Text": "기관총",
     "Enabled": true
   },
   "189005": {
     "OriginalText": "グランジェネレーター",
-    "Text": "Gran Generator",
+    "Text": "그란 제너레이터",
     "Enabled": true
   },
   "189006": {
     "OriginalText": "背板",
-    "Text": "Tergum",
+    "Text": "등판",
     "Enabled": true
   },
   "189007": {
     "OriginalText": "アンテナ",
-    "Text": "Antenna",
+    "Text": "안테나",
     "Enabled": true
   },
   "189008": {
     "OriginalText": "ミサイルポッド",
-    "Text": "Missile Pod",
+    "Text": "미사일 포드",
     "Enabled": true
   },
   "189009": {
     "OriginalText": "２連機関砲",
-    "Text": "Twin Guns",
+    "Text": "2연장 기관포",
     "Enabled": true
   },
   "189010": {
     "OriginalText": "伝甲:腹",
-    "Text": "Armor: Abdomen",
-    "Enabled": true
+    "Text": "장갑: 복부",
+    "Enabled": false
   },
   "189011": {
     "OriginalText": "伝甲:もも",
-    "Text": "Armor: Thigh",
-    "Enabled": true
+    "Text": "장갑: 허벅지",
+    "Enabled": false
   },
   "189012": {
     "OriginalText": "伝甲:後部",
-    "Text": "Armor: Rear End",
-    "Enabled": true
+    "Text": "장갑: 후부",
+    "Enabled": false
   },
   "189013": {
     "OriginalText": "砲台",
-    "Text": "Gun Battery",
+    "Text": "포대",
     "Enabled": true
   },
   "189014": {
     "OriginalText": "クラッカー発射口",
-    "Text": "Cracker Launch Port",
+    "Text": "크래커 발사구",
     "Enabled": true
   },
   "189015": {
     "OriginalText": "バーナー",
-    "Text": "Burner",
+    "Text": "버너",
     "Enabled": true
   },
   "189016": {
     "OriginalText": "タンク",
-    "Text": "Tank",
+    "Text": "탱크",
     "Enabled": true
   },
   "189017": {
     "OriginalText": "砲台",
-    "Text": "Gun Battery",
+    "Text": "포대",
     "Enabled": true
   },
   "189018": {
     "OriginalText": "角",
-    "Text": "Horn",
+    "Text": "뿔",
     "Enabled": true
   },
   "189019": {
     "OriginalText": "牙",
-    "Text": "Fang",
+    "Text": "엄니",
     "Enabled": true
   },
   "189020": {
     "OriginalText": "虚の骸Ｇダーク・ラグネ",
-    "Text": "Hollow Shell: G-Dark Ragne",
+    "Text": "공허의 유해 G 다크 라그네",
     "Enabled": true
   },
   "189021": {
     "OriginalText": "虚の骸Ｇダーク・アグラニ",
-    "Text": "Hollow Shell: G-Dark Agrani",
+    "Text": "공허의 유해 G 다크 아그라니",
     "Enabled": true
   },
   "189022": {
     "OriginalText": "沌の骸Ｇウォルガーダ",
-    "Text": "Primal Shell: G-Wolgahda",
+    "Text": "태고의 유해 G 워루가다",
     "Enabled": true
   },
   "189023": {
     "OriginalText": "沌の骸Ｇアロナガーダ",
-    "Text": "Primal Shell: G-Alonagahda",
+    "Text": "태고의 유해 G 아로나가다",
     "Enabled": true
   },
   "189024": {
     "OriginalText": "沌の骸Ｇキュクロナーダ",
-    "Text": "Primal Shell: G-Kuklonahda",
+    "Text": "태고의 유해 G 큐크로나다",
     "Enabled": true
   },
   "189025": {
     "OriginalText": "沌の骸Ｇパイクロナーダ",
-    "Text": "Primal Shell: G-Piklonahda",
+    "Text": "태고의 유해 G 파이크로나다",
     "Enabled": true
   },
   "189026": {
     "OriginalText": "磁晶模コラル・ドラゴン",
-    "Text": "Magnetic Crystal: Coral Dragon",
-    "Enabled": true
+    "Text": "자정룡 코랄 드래곤",
+    "Enabled": false
   },
   "189027": {
     "OriginalText": "磁晶模ディアマ・ドラール",
-    "Text": "Magnetic Crystal: Diama Dragon",
-    "Enabled": true
+    "Text": "자정룡 디아마 드라르",
+    "Enabled": false
   },
   "189028": {
     "OriginalText": "暴君グルナバンサー",
-    "Text": "Tyrant: Gluna Banther",
+    "Text": "폭군 그루나 밴서",
     "Enabled": true
   },
   "189029": {
     "OriginalText": "暴君ジャッドバンサー",
-    "Text": "Tyrant: Jhad Banther",
+    "Text": "폭군 자드 밴서",
     "Enabled": true
   },
   "189030": {
     "OriginalText": "暴君バンサ・ブライネス",
-    "Text": "Tyrant: Banther Brines",
+    "Text": "폭군 밴사 브라이네스",
     "Enabled": true
   },
   "189031": {
     "OriginalText": "伝悪鬼バレダイナス",
-    "Text": "Legendary Demon: Valdinas",
-    "Enabled": true
+    "Text": "무장 악귀 바레다이너스",
+    "Enabled": false
   },
   "189032": {
     "OriginalText": "伝悪鬼ラーバレダイナス",
-    "Text": "Legendary Demon: Lar Valdinas",
-    "Enabled": true
+    "Text": "무장 악귀 라 바레다이너스",
+    "Enabled": false
   },
   "189033": {
     "OriginalText": "伝悪鬼マーバレダイナス",
-    "Text": "Legendary Demon: Mar Valdinas",
-    "Enabled": true
+    "Text": "무장 악귀 마 바레다이너스",
+    "Enabled": false
   },
   "189034": {
     "OriginalText": "伝悪鬼ヴィバレダイナス",
-    "Text": "Legendary Demon: Oui Valdinas",
-    "Enabled": true
+    "Text": "무장 악귀 비바레다이너스",
+    "Enabled": false
   },
   "189035": {
     "OriginalText": "伝悪鬼ダイナス・タングス",
-    "Text": "Legendary Demon: Dinas Tungs",
-    "Enabled": true
+    "Text": "무장 악귀 다이너스 탕그스",
+    "Enabled": false
   },
   "189036": {
     "OriginalText": "伝悪鬼シードギオス",
-    "Text": "Legendary Demon: Xie Dogios",
-    "Enabled": true
+    "Text": "무장 악귀 시드기오스",
+    "Enabled": false
   },
   "189037": {
     "OriginalText": "伝悪鬼フォードギオス",
-    "Text": "Legendary Demon: Pho Dogios",
-    "Enabled": true
+    "Text": "무장 악귀 포드기오스",
+    "Enabled": false
   },
   "189038": {
     "OriginalText": "伝悪鬼ヴァッドギオス",
-    "Text": "Legendary Demon: Vad Dogios",
-    "Enabled": true
+    "Text": "무장 악귀 바드기오스",
+    "Enabled": false
   },
   "189039": {
     "OriginalText": "伝悪鬼エアドギオス",
-    "Text": "Legendary Demon: Air Dogios",
-    "Enabled": true
+    "Text": "무장 악귀 에아드기오스",
+    "Enabled": false
   },
   "189040": {
     "OriginalText": "伝悪鬼ドギオス・ルフレ",
-    "Text": "Legendary Demon: Dogios Reflet",
-    "Enabled": true
+    "Text": "무장 악귀 도기오스 루플레",
+    "Enabled": false
   },
   "189041": {
     "OriginalText": "伝悪鬼トルリンプ",
-    "Text": "Legendary Demon: Torrimp",
-    "Enabled": true
+    "Text": "무장 악귀 토르림프",
+    "Enabled": false
   },
   "189042": {
     "OriginalText": "伝悪鬼ロウトルリンプ",
-    "Text": "Legendary Demon: Rol Torrimp",
-    "Enabled": true
+    "Text": "무장 악귀 로우 토르림프",
+    "Enabled": false
   },
   "189043": {
     "OriginalText": "伝悪鬼ポルトルリンプ",
-    "Text": "Legendary Demon: Pol Torrimp",
-    "Enabled": true
+    "Text": "무장 악귀 폴토르림프",
+    "Enabled": false
   },
   "189044": {
     "OriginalText": "伝悪鬼トルリンプ・ゴウル",
-    "Text": "Legendary Demon: Torrimp Gorr",
-    "Enabled": true
+    "Text": "무장 악귀 토르림프 고울",
+    "Enabled": false
   },
   "189045": {
     "OriginalText": "怠帝エデルクリトロ",
-    "Text": "Laziness King: Eder Crittro",
+    "Text": "나태한 제왕 에델크리트로",
     "Enabled": true
   },
   "189046": {
     "OriginalText": "怠帝スマラクリトロ",
-    "Text": "Laziness King: Smar Crittro",
+    "Text": "나태한 제왕 스마라 크리트로",
     "Enabled": true
   },
   "189047": {
     "OriginalText": "怠帝オーニクリトロ",
-    "Text": "Laziness King: Ouni Crittro",
+    "Text": "나태한 제왕 오니크리트로",
     "Enabled": true
   },
   "189048": {
     "OriginalText": "怠帝クリトロ・テュルレ",
-    "Text": "Laziness King: Crittro Ture",
+    "Text": "나태한 제왕 크리트로 튜르레",
     "Enabled": true
   },
   "189049": {
     "OriginalText": "兇星エレマンデル",
-    "Text": "Evil Mark: Err Mander",
+    "Text": "흉성 엘레만델",
     "Enabled": true
   },
   "189050": {
     "OriginalText": "兇星テッラマンデル",
-    "Text": "Evil Mark: Terra Mander",
+    "Text": "흉성 테라 만델",
     "Enabled": true
   },
   "189051": {
     "OriginalText": "兇星イーグマンデル",
-    "Text": "Evil Mark: Eag Mander",
+    "Text": "흉성 이그만델",
     "Enabled": true
   },
   "189052": {
     "OriginalText": "兇星マンデル・ナート",
-    "Text": "Evil Mark: Mander Nart",
+    "Text": "흉성 만델 나트",
     "Enabled": true
   },
   "189053": {
     "OriginalText": "兇星エクセージＴ",
-    "Text": "Evil Mark: Equsage T",
+    "Text": "흉성 엑세지 T",
     "Enabled": true
   },
   "189054": {
     "OriginalText": "兇星レ・エクセージＴ",
-    "Text": "Evil Mark: Le Equsage T",
+    "Text": "흉성 레 엑세지 T",
     "Enabled": true
   },
   "189055": {
     "OriginalText": "兇星エクセージＴ・ネス",
-    "Text": "Evil Mark: Equsage T Ness",
+    "Text": "흉성 엑세지 T 네스",
     "Enabled": true
   },
   "189056": {
     "OriginalText": "兇星ミステルン",
-    "Text": "Evil Mark: Mysteroon",
+    "Text": "흉성 미스테른",
     "Enabled": true
   },
   "189057": {
     "OriginalText": "兇星アガミステルン",
-    "Text": "Evil Mark: Aga Mysteroon",
+    "Text": "흉성 아가 미스테른",
     "Enabled": true
   },
   "189058": {
     "OriginalText": "兇星ラピミステルン",
-    "Text": "Evil Mark: Rap Mysteroon",
+    "Text": "흉성 라피 미스테른",
     "Enabled": true
   },
   "189059": {
     "OriginalText": "兇星ミステルン・オーロ",
-    "Text": "Evil Mark: Mysteroon Orro",
+    "Text": "흉성 미스테른 오로",
     "Enabled": true
   },
   "189060": {
     "OriginalText": "伝悪鬼シルブカーネベア",
-    "Text": "Legendary Fiend: Silve Carnnebear",
-    "Enabled": true
+    "Text": "무장 악귀 실브 카네베어",
+    "Enabled": false
   },
   "189061": {
     "OriginalText": "伝悪鬼レゾルカーネベア",
-    "Text": "Legendary Fiend: Resol Carnnebear",
-    "Enabled": true
+    "Text": "무장 악귀 레조르 카네베어",
+    "Enabled": false
   },
   "189062": {
     "OriginalText": "伝悪鬼オラルカーネベア",
-    "Text": "Legendary Fiend: Orale Carnnebear",
-    "Enabled": true
+    "Text": "무장 악귀 오랄 카네베어",
+    "Enabled": false
   },
   "189063": {
     "OriginalText": "伝悪鬼モストカーネベア",
-    "Text": "Legendary Fiend: Mossed Carnnebear",
-    "Enabled": true
+    "Text": "무장 악귀 모스트 카네베어",
+    "Enabled": false
   },
   "189064": {
     "OriginalText": "伝悪鬼カーネベア・ゴルヴァ",
-    "Text": "Legendary Fiend: Carnnebear Gorva",
-    "Enabled": true
+    "Text": "무장 악귀 카네베어 골바",
+    "Enabled": false
   },
   "189065": {
     "OriginalText": "伝悪鬼アルレイバンサー",
-    "Text": "Legendary Fiend: Arlay Banther",
-    "Enabled": true
+    "Text": "무장 악귀 알레이 밴서",
+    "Enabled": false
   },
   "189066": {
     "OriginalText": "伝悪鬼ゾンレイバンサー",
-    "Text": "Legendary Fiend: Zonray Banther",
-    "Enabled": true
+    "Text": "무장 악귀 존레이 밴서",
+    "Enabled": false
   },
   "189067": {
     "OriginalText": "伝悪鬼ナールレイバンサー",
-    "Text": "Legendary Fiend: Nalray Banther",
-    "Enabled": true
+    "Text": "무장 악귀 나르레이 밴서",
+    "Enabled": false
   },
   "189068": {
     "OriginalText": "伝悪鬼ファラレイバンサー",
-    "Text": "Legendary Fiend: Fararay Banther",
-    "Enabled": true
+    "Text": "무장 악귀 파라레이 밴서",
+    "Enabled": false
   },
   "189069": {
     "OriginalText": "伝悪鬼レイバンサ・オクシ",
-    "Text": "Legendary Fiend: Ray Banther Oxy",
-    "Enabled": true
+    "Text": "무장 악귀 레이 밴사 옥시",
+    "Enabled": false
   },
   "189070": {
     "OriginalText": "猛銃ディートアス",
-    "Text": "Ferocious Gun: Dietoas",
+    "Text": "맹총 디토아스",
     "Enabled": true
   },
   "189071": {
     "OriginalText": "猛銃テュルトアス",
-    "Text": "Ferocious Gun: Tulletoas",
+    "Text": "맹총 튜르토아스",
     "Enabled": true
   },
   "189072": {
     "OriginalText": "猛銃マグネトアス",
-    "Text": "Ferocious Gun: Magnetoas",
+    "Text": "맹총 마그네토아스",
     "Enabled": true
   },
   "189073": {
     "OriginalText": "猛銃トアス・ヒュブオン",
-    "Text": "Ferocious Gun: Toas Hyubon",
+    "Text": "맹총 토아스 휴브온",
     "Enabled": true
   },
   "189074": {
     "OriginalText": "狂戦棘ゴルドス",
-    "Text": "Berserk Thorn: Gordes",
+    "Text": "광전극 골도스",
     "Enabled": true
   },
   "189075": {
     "OriginalText": "狂戦棘ディゴルドス",
-    "Text": "Berserk Thorn: Digordes",
+    "Text": "광전극 디골도스",
     "Enabled": true
   },
   "189076": {
     "OriginalText": "狂戦棘オルゴルドス",
-    "Text": "Berserk Thorn: Orgordes",
+    "Text": "광전극 오르골도스",
     "Enabled": true
   },
   "189077": {
     "OriginalText": "狂戦棘ゴルドス・ビガオ",
-    "Text": "Berserk Thorn: Gordes Bigaoh",
+    "Text": "광전극 골도스 비가오",
     "Enabled": true
   },
   "189078": {
     "OriginalText": "砲凰ファンアフォル",
-    "Text": "Armed Phoenix: Fan'aphol",
+    "Text": "포황 판아포르",
     "Enabled": true
   },
   "189079": {
     "OriginalText": "砲凰ウィルアフォル",
-    "Text": "Armed Phoenix: Viluaphol",
+    "Text": "포황 윌아포르",
     "Enabled": true
   },
   "189080": {
     "OriginalText": "砲凰アフォル・フェイズ",
-    "Text": "Armed Phoenix: Aphol Phase",
+    "Text": "포황 아포르 페이즈",
     "Enabled": true
   },
   "189081": {
     "OriginalText": "クラーダ",
-    "Text": "Krahda",
+    "Text": "크라다",
     "Enabled": true
   },
   "189082": {
     "OriginalText": "クリトロクィーン",
-    "Text": "Crittro Queen",
+    "Text": "크리트로 퀸",
     "Enabled": true
   },
   "189083": {
     "OriginalText": "ヴィヴリュード",
-    "Text": "Vivryude",
+    "Text": "비브류드",
     "Enabled": true
   },
   "189084": {
     "OriginalText": "ミステルンナイト",
-    "Text": "Mysteroon Knight",
-    "Enabled": true
-  },
-  "189085": {
-    "OriginalText": "？？？",
-    "Text": "???",
+    "Text": "미스테른 나이트",
     "Enabled": true
   },
   "189086": {
     "OriginalText": "追撃のＧアロナガーダ",
-    "Text": "G-Alonagahda Pursuit",
+    "Text": "추격의 G 아로나가다",
     "Enabled": true
   },
   "189087": {
     "OriginalText": "メガ・ロザード",
-    "Text": "Mega Rozad",
+    "Text": "메가 로자드",
     "Enabled": true
   },
   "189088": {
     "OriginalText": "メガ・ウロザード",
-    "Text": "Mega Pa Rozad",
+    "Text": "메가 우로자드",
     "Enabled": true
   },
   "189089": {
     "OriginalText": "メガ・クロザード",
-    "Text": "Mega Gu Rozad",
+    "Text": "메가 크로자드",
     "Enabled": true
   },
   "189090": {
     "OriginalText": "メガ・スロザード",
-    "Text": "Mega Su Rozad",
+    "Text": "메가 스로자드",
     "Enabled": true
   },
   "189091": {
     "OriginalText": "ヴィヴリュードＳ型",
-    "Text": "Vivryude S-type",
+    "Text": "비브류드 S형",
     "Enabled": true
   },
   "189092": {
     "OriginalText": "メガ・ラッピー",
-    "Text": "Mega Rappy",
+    "Text": "메가 랍피",
     "Enabled": true
   },
   "189093": {
     "OriginalText": "ノイヴァトアス",
-    "Text": "Neuvatoas",
+    "Text": "노이바토아스",
     "Enabled": true
   },
   "189094": {
     "OriginalText": "猛銃ノイヴァトアス",
-    "Text": "Violent Neuvatoas",
+    "Text": "맹총 노이바토아스",
     "Enabled": true
   },
   "189095": {
     "OriginalText": "ヴァリゴルドス ",
-    "Text": "Valigordes",
+    "Text": "바리골도스 ",
     "Enabled": true
   },
   "189096": {
     "OriginalText": "狂戦棘ヴァリゴルドス ",
-    "Text": "Berserk Valigordes",
+    "Text": "광전극 바리골도스 ",
     "Enabled": true
   },
   "189097": {
     "OriginalText": "ウィルアフォル",
-    "Text": "Viluaphol",
+    "Text": "윌아포르",
     "Enabled": true
   },
   "189098": {
     "OriginalText": "砲凰ウィルアフォル",
-    "Text": "Phoenix Cannon Viluaphol",
+    "Text": "포황 윌아포르",
     "Enabled": true
   },
   "189099": {
     "OriginalText": "穿火のノイヴァトアス",
-    "Text": "Igniting Neuvatoas",
+    "Text": "관통 화염의 노이바토아스",
     "Enabled": true
   },
   "189100": {
     "OriginalText": "アルテイオスＵ型",
-    "Text": "Alteios U-Type",
+    "Text": "알테이오스 U형",
     "Enabled": true
   },
   "189101": {
     "OriginalText": "ヴィヴリュードＷ型",
-    "Text": "Vivryude W-Type",
+    "Text": "비브류드 W형",
     "Enabled": true
   },
   "189102": {
     "OriginalText": "グラヴディオンＵ型",
-    "Text": "Gravdion U-Type",
+    "Text": "그라브디온 U형",
     "Enabled": true
   },
   "189103": {
     "OriginalText": "デェフキュオネＷ型",
-    "Text": "Defcyone W-Type",
+    "Text": "데프큐오네 W형",
     "Enabled": true
   },
   "189104": {
     "OriginalText": "メガ・アルマラッピー",
-    "Text": "Mega Alma Rappy",
+    "Text": "메가 알마 랍피",
     "Enabled": true
   }
 }

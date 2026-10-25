@@ -1,1342 +1,1327 @@
 {
-  "410000": {
-    "OriginalText": "//",
-    "Text": "",
-    "Enabled": false
-  },
   "410001": {
     "OriginalText": "謎の少女 １",
-    "Text": "The Enigmatic Girl 1",
+    "Text": "수수께끼의 소녀 1",
     "Enabled": true
   },
   "410002": {
     "OriginalText": "コールドスリープからの目覚め",
-    "Text": "Awakening From Cold Sleep",
+    "Text": "콜드 슬립에서 깨어나다",
     "Enabled": true
   },
   "410003": {
     "OriginalText": "リーティアの説明",
-    "Text": "Rietheia's Explanation",
+    "Text": "리티아의 설명",
     "Enabled": true
   },
   "410004": {
     "OriginalText": "フィルディアとの出会い",
-    "Text": "Meet Fildia",
+    "Text": "필디아와의 만남",
     "Enabled": true
   },
   "410005": {
     "OriginalText": "ルティナとの再会",
-    "Text": "Meet Lutina",
+    "Text": "루티나와의 재회",
     "Enabled": true
   },
   "410006": {
     "OriginalText": "緊急事態",
-    "Text": "Emergency Situation",
+    "Text": "비상사태",
     "Enabled": true
   },
   "410007": {
     "OriginalText": "艦、墜落",
-    "Text": "Ship, Crashed",
+    "Text": "함선 추락",
     "Enabled": true
   },
   "410008": {
     "OriginalText": "墜落直後",
-    "Text": "Following the Crash",
+    "Text": "추락 직후",
     "Enabled": true
   },
   "410009": {
     "OriginalText": "調査隊の危機",
-    "Text": "Search Team's Crisis",
+    "Text": "조사대의 위기",
     "Enabled": true
   },
   "410010": {
     "OriginalText": "宿るグラン",
-    "Text": "Gran Dwelling",
+    "Text": "깃든 그란",
     "Enabled": true
   },
   "410011": {
     "OriginalText": "塊死の艦長",
-    "Text": "Captain of Mass Death",
-    "Enabled": true
+    "Text": "빈사 상태의 함장",
+    "Enabled": false
   },
   "410012": {
     "OriginalText": "息を引き取る艦長",
-    "Text": "Captain's Last Breath",
+    "Text": "숨을 거두는 함장",
     "Enabled": true
   },
   "410013": {
     "OriginalText": "フィルディアの演説",
-    "Text": "Fildia's Speech",
+    "Text": "필디아의 연설",
     "Enabled": true
   },
   "410014": {
     "OriginalText": "仲間のコールドスリープ",
-    "Text": "Cold Sleep Comrades",
+    "Text": "동료들의 콜드 슬립",
     "Enabled": true
   },
   "410015": {
     "OriginalText": "隊員捜索任務",
-    "Text": "Search Team Mission",
+    "Text": "대원 수색 임무",
     "Enabled": true
   },
   "410016": {
     "OriginalText": "ルティナの不安",
-    "Text": "Restless Lutina",
+    "Text": "루티나의 불안",
     "Enabled": true
   },
   "410017": {
     "OriginalText": "セイルとイズナ",
-    "Text": "Sail and Izuna",
+    "Text": "세일과 이즈나",
     "Enabled": true
   },
   "410018": {
     "OriginalText": "救助成功",
-    "Text": "Successful Rescue",
+    "Text": "구조 성공",
     "Enabled": true
   },
   "410019": {
     "OriginalText": "グラン習得",
-    "Text": "Gran Training",
+    "Text": "그란 습득",
     "Enabled": true
   },
   "410020": {
     "OriginalText": "ルティナの日記①",
-    "Text": "Lutina's Diary 1",
+    "Text": "루티나의 일기 1",
     "Enabled": true
   },
   "410021": {
     "OriginalText": "新たな任務",
-    "Text": "New Mission",
+    "Text": "새로운 임무",
     "Enabled": true
   },
   "410022": {
     "OriginalText": "グラン結晶について",
-    "Text": "About Gran Crystals",
+    "Text": "그란 결정에 대하여",
     "Enabled": true
   },
   "410023": {
     "OriginalText": "グラン結晶を届ける",
-    "Text": "Delivering Gran Crystals",
+    "Text": "그란 결정 전달",
     "Enabled": true
   },
   "410024": {
     "OriginalText": "ルティナの引け目",
-    "Text": "Lutina's Inferiority",
+    "Text": "루티나의 열등감",
     "Enabled": true
   },
   "410025": {
     "OriginalText": "撤退戦",
-    "Text": "Battle Retreat",
+    "Text": "철수전",
     "Enabled": true
   },
   "410026": {
     "OriginalText": "ギガンテス対策会議",
-    "Text": "The Gigantes Encounter",
+    "Text": "기간테스 대책 회의",
     "Enabled": true
   },
   "410027": {
     "OriginalText": "ヘイロウ発明",
-    "Text": "Halo Development",
+    "Text": "헤일로 발명",
     "Enabled": true
   },
   "410028": {
     "OriginalText": "ユノ再び",
-    "Text": "Juno, Once Again",
+    "Text": "다시 나타난 유노",
     "Enabled": true
   },
   "410029": {
     "OriginalText": "ギガンテス撃破報告",
-    "Text": "Reporting the Defeat of Gigantes",
+    "Text": "기간테스 격파 보고",
     "Enabled": true
   },
   "410030": {
     "OriginalText": "ルティナの日記②",
-    "Text": "Lutina's Diary 2",
+    "Text": "루티나의 일기 2",
     "Enabled": true
   },
   "410031": {
     "OriginalText": "クルー増加の検討",
-    "Text": "Increasing the Crew",
+    "Text": "승무원 증원 검토",
     "Enabled": true
   },
   "410032": {
     "OriginalText": "仲間の解凍",
-    "Text": "Thawing a Comrade",
+    "Text": "동료 해동",
     "Enabled": true
   },
   "410033": {
     "OriginalText": "新たな仲間",
-    "Text": "New Comrades",
+    "Text": "새로운 동료",
     "Enabled": true
   },
   "410034": {
     "OriginalText": "ケンカの仲裁",
-    "Text": "Quarrel Mediation",
+    "Text": "싸움 중재",
     "Enabled": true
   },
   "410035": {
     "OriginalText": "ケンカの原因",
-    "Text": "Quarrel Cause",
+    "Text": "싸움의 원인",
     "Enabled": true
   },
   "410036": {
     "OriginalText": "リーティアのメディカルチェック",
-    "Text": "Rietheia's Medical Checkup",
+    "Text": "리티아의 건강 검진",
     "Enabled": true
   },
   "410037": {
     "OriginalText": "メディカルチームの支援完了",
-    "Text": "Aiding the Medical Team",
+    "Text": "메디컬 팀 지원 완료",
     "Enabled": true
   },
   "410038": {
     "OriginalText": "オペレーター増強",
-    "Text": "Operator Expansion",
+    "Text": "오퍼레이터 증원",
     "Enabled": true
   },
   "410039": {
     "OriginalText": "カリストの指示",
-    "Text": "Callisto's Designation",
+    "Text": "칼리스토의 지시",
     "Enabled": true
   },
   "410040": {
     "OriginalText": "カリストの評価",
-    "Text": "Callisto's Assessment",
+    "Text": "칼리스토의 평가",
     "Enabled": true
   },
   "410041": {
     "OriginalText": "ルティナの弱音１",
-    "Text": "Lutina's Whining 1",
+    "Text": "루티나의 약한 소리 1",
     "Enabled": true
   },
   "410042": {
     "OriginalText": "ルティナの弱音２",
-    "Text": "Lutina's Whining 2",
+    "Text": "루티나의 약한 소리 2",
     "Enabled": true
   },
   "410043": {
     "OriginalText": "仲間の信頼",
-    "Text": "Comrades' Trust",
+    "Text": "동료의 믿음",
     "Enabled": true
   },
   "410044": {
     "OriginalText": "英雄の勲章",
-    "Text": "Heroine's Medal",
+    "Text": "영웅의 훈장",
     "Enabled": true
   },
   "410045": {
     "OriginalText": "ユノとの通信 ルティナ編",
-    "Text": "Juno's Message, Lutina's Arc",
+    "Text": "유노와의 통신: 루티나 편",
     "Enabled": true
   },
   "410046": {
     "OriginalText": "ルティナの日記③",
-    "Text": "Lutina's Diary 3",
+    "Text": "루티나의 일기 3",
     "Enabled": true
   },
   "410047": {
     "OriginalText": "グランニウム探し",
-    "Text": "Looking for Granium",
+    "Text": "그란니움 찾기",
     "Enabled": true
   },
   "410048": {
     "OriginalText": "エネミーの急襲",
-    "Text": "Enemy Assault",
+    "Text": "에너미의 급습",
     "Enabled": true
   },
   "410049": {
     "OriginalText": "セイルの評価",
-    "Text": "Sail's Assessment",
+    "Text": "세일의 평가",
     "Enabled": true
   },
   "410050": {
     "OriginalText": "ヨミのお礼",
-    "Text": "Yomi's Gratitude",
+    "Text": "요미의 감사",
     "Enabled": true
   },
   "410051": {
     "OriginalText": "二手に分かれる",
-    "Text": "Divide Into Two",
+    "Text": "두 팀으로 나뉘다",
     "Enabled": true
   },
   "410052": {
     "OriginalText": "植洋発見",
-    "Text": "Finding the Plant",
-    "Enabled": true
+    "Text": "식물 발견",
+    "Enabled": false
   },
   "410053": {
     "OriginalText": "両者引き分け",
-    "Text": "Both Draw",
+    "Text": "무승부",
     "Enabled": true
   },
   "410054": {
     "OriginalText": "命令違反",
-    "Text": "Order Violation",
+    "Text": "명령 위반",
     "Enabled": true
   },
   "410055": {
     "OriginalText": "２体のギガンテス",
-    "Text": "Two Gigantes",
+    "Text": "두 마리의 기간테스",
     "Enabled": true
   },
   "410056": {
     "OriginalText": "違反の責任",
-    "Text": "Responsibility for Violation",
+    "Text": "위반의 책임",
     "Enabled": true
   },
   "410057": {
     "OriginalText": "セイルに認められる",
-    "Text": "Recognized by Sail",
+    "Text": "세일에게 인정받다",
     "Enabled": true
   },
   "410058": {
     "OriginalText": "ユノとの通信 セイル編",
-    "Text": "Juno's Message, Sail Arc",
+    "Text": "유노와의 통신: 세일 편",
     "Enabled": true
   },
   "410059": {
     "OriginalText": "ルティナの日記④",
-    "Text": "Lutina's Diary 4",
+    "Text": "루티나의 일기 4",
     "Enabled": true
   },
   "410060": {
     "OriginalText": "グランアーツ訓練開始",
-    "Text": "Gran Arts Training Begins",
+    "Text": "그란 아츠 훈련 시작",
     "Enabled": true
   },
   "410061": {
     "OriginalText": "エネミーの集まり発見",
-    "Text": "Discovering Group of Enemies",
+    "Text": "에너미 무리 발견",
     "Enabled": true
   },
   "410062": {
     "OriginalText": "仲間を活かす戦い方",
-    "Text": "Fighting With Your Comrades",
+    "Text": "동료의 힘을 살리는 전투",
     "Enabled": true
   },
   "410063": {
     "OriginalText": "エネミー撃破",
-    "Text": "Defeating the Enemy",
+    "Text": "에너미 격파",
     "Enabled": true
   },
   "410064": {
     "OriginalText": "研究員という生き方",
-    "Text": "Life as a Researcher",
+    "Text": "연구원으로 살아가는 길",
     "Enabled": true
   },
   "410065": {
     "OriginalText": "パイル完成",
-    "Text": "Pile Completion",
+    "Text": "파일 완성",
     "Enabled": true
   },
   "410066": {
     "OriginalText": "シャロンの戦い",
-    "Text": "Sharon's Fight",
+    "Text": "샤론의 싸움",
     "Enabled": true
   },
   "410067": {
     "OriginalText": "張り切るイズナ",
-    "Text": "Eager Izuna",
+    "Text": "의욕 넘치는 이즈나",
     "Enabled": true
   },
   "410068": {
     "OriginalText": "ギガンテス捕獲任務",
-    "Text": "Gigantes Capture Mission",
+    "Text": "기간테스 포획 임무",
     "Enabled": true
   },
   "410069": {
     "OriginalText": "悩みが晴れたイズナ",
-    "Text": "Clearing up Izuna's Worries",
+    "Text": "고민을 털어 낸 이즈나",
     "Enabled": true
   },
   "410070": {
     "OriginalText": "ユノとの通信 イズナ編",
-    "Text": "Juno's Message, Izuna Arc",
+    "Text": "유노와의 통신: 이즈나 편",
     "Enabled": true
   },
   "410071": {
     "OriginalText": "ルティナの日記⑤",
-    "Text": "Lutina's Diary 5",
+    "Text": "루티나의 일기 5",
     "Enabled": true
   },
   "410072": {
     "OriginalText": "グランドライブ開発開始",
-    "Text": "Gran Drive Development Begins",
+    "Text": "그란 드라이브 개발 시작",
     "Enabled": true
   },
   "410073": {
     "OriginalText": "レイヴァンの提案",
-    "Text": "Raven's Proposal",
+    "Text": "레이반의 제안",
     "Enabled": true
   },
   "410074": {
     "OriginalText": "レイヴァンに協力",
-    "Text": "Cooperation With Raven",
+    "Text": "레이반 돕기",
     "Enabled": true
   },
   "410075": {
     "OriginalText": "レイヴァンの執着",
-    "Text": "Raven's Fixation",
+    "Text": "레이반의 집착",
     "Enabled": true
   },
   "410076": {
     "OriginalText": "レイヴァンの死",
-    "Text": "Raven's Death",
+    "Text": "레이반의 죽음",
     "Enabled": true
   },
   "410077": {
     "OriginalText": "脱出の決意",
-    "Text": "Escape Decision",
+    "Text": "탈출의 결의",
     "Enabled": true
   },
   "410078": {
     "OriginalText": "ルティナの日記⑥",
-    "Text": "Lutina's Diary 6",
+    "Text": "루티나의 일기 6",
     "Enabled": true
   },
   "410079": {
     "OriginalText": "脱出の日取り決定",
-    "Text": "Escape Date Decision",
+    "Text": "탈출 날짜 결정",
     "Enabled": true
   },
   "410080": {
     "OriginalText": "拠点を襲う巨砲",
-    "Text": "Huge Gun Attacking the Base",
+    "Text": "거점을 덮치는 거포",
     "Enabled": true
   },
   "410081": {
     "OriginalText": "強襲迎撃",
-    "Text": "Assault Interception",
+    "Text": "강습 요격",
     "Enabled": true
   },
   "410082": {
     "OriginalText": "ギガンテス群撃退",
-    "Text": "Repelling Gigantes Swarm",
+    "Text": "기간테스 무리 격퇴",
     "Enabled": true
   },
   "410083": {
     "OriginalText": "賞杓",
-    "Text": "Appreciation",
-    "Enabled": true
+    "Text": "찬사",
+    "Enabled": false
   },
   "410084": {
     "OriginalText": "フィルディアの後悔",
-    "Text": "Fildia's Regret",
+    "Text": "필디아의 후회",
     "Enabled": true
   },
   "410085": {
     "OriginalText": "仲間への別れ",
-    "Text": "Farewell to Comrades",
+    "Text": "동료들과의 작별",
     "Enabled": true
   },
   "410086": {
     "OriginalText": "エンジン始動",
-    "Text": "Start Engines",
+    "Text": "엔진 가동",
     "Enabled": true
   },
   "410087": {
     "OriginalText": "艦出発",
-    "Text": "The Ship's Departure",
+    "Text": "함선 출발",
     "Enabled": true
   },
   "410088": {
     "OriginalText": "惑星からの攻撃",
-    "Text": "The Planet's Attack",
+    "Text": "행성의 공격",
     "Enabled": true
   },
   "410089": {
     "OriginalText": "退避命令",
-    "Text": "Orders to Withdraw",
+    "Text": "대피 명령",
     "Enabled": true
   },
   "410090": {
     "OriginalText": "最期の輝き",
-    "Text": "Radiance of Death",
+    "Text": "마지막 빛",
     "Enabled": true
   },
   "410091": {
     "OriginalText": "惨禍",
-    "Text": "Disaster",
+    "Text": "참화",
     "Enabled": true
   },
   "410092": {
     "OriginalText": "新たな艦長",
-    "Text": "The New Captain",
+    "Text": "새로운 함장",
     "Enabled": true
   },
   "410093": {
     "OriginalText": "謎の少女 ２",
-    "Text": "The Enigmatic Girl 2",
+    "Text": "수수께끼의 소녀 2",
     "Enabled": true
   },
   "410094": {
     "OriginalText": "大穴の探索依頼",
-    "Text": "Large Hole Investigation Request",
+    "Text": "거대 구덩이 탐사 의뢰",
     "Enabled": true
   },
   "410095": {
     "OriginalText": "ユノの謝露",
-    "Text": "Juno's Apology",
-    "Enabled": true
+    "Text": "유노의 사과",
+    "Enabled": false
   },
   "410096": {
     "OriginalText": "大穴から降りる方法",
-    "Text": "Large Hole Descent Method",
+    "Text": "거대 구덩이로 내려갈 방법",
     "Enabled": true
   },
   "410097": {
     "OriginalText": "地底探索の開始",
-    "Text": "Depths Investigation Begins",
+    "Text": "지하 탐사 시작",
     "Enabled": true
   },
   "410098": {
     "OriginalText": "地底へ",
-    "Text": "The Depths",
+    "Text": "지하로",
     "Enabled": true
   },
   "410099": {
     "OriginalText": "敵となった男",
-    "Text": "Friend to Foe",
+    "Text": "적이 된 남자",
     "Enabled": true
   },
   "410100": {
     "OriginalText": "沈黙のレイヴァン",
-    "Text": "Silent Raven",
+    "Text": "레이반의 침묵",
     "Enabled": true
   },
   "410101": {
     "OriginalText": "観測伝置開発依頼",
-    "Text": "Observer Development Request",
-    "Enabled": true
+    "Text": "관측 장치 개발 의뢰",
+    "Enabled": false
   },
   "410102": {
     "OriginalText": "艦長席に立つ",
-    "Text": "To Be in the Captain's Seat",
+    "Text": "함장 자리에 서다",
     "Enabled": true
   },
   "410103": {
     "OriginalText": "塔探索開始",
-    "Text": "Spire Investigation Begins",
+    "Text": "탑 탐사 시작",
     "Enabled": true
   },
   "410104": {
     "OriginalText": "塔内部潜入",
-    "Text": "Spire Infiltration",
+    "Text": "탑 내부 잠입",
     "Enabled": true
   },
   "410105": {
     "OriginalText": "謎の宝石",
-    "Text": "Mysterious Gemstone",
+    "Text": "수수께끼의 보석",
     "Enabled": true
   },
   "410106": {
     "OriginalText": "宝石の語る事実",
-    "Text": "Truth Inside the Gemstone",
+    "Text": "보석이 전하는 사실",
     "Enabled": true
   },
   "410107": {
     "OriginalText": "ユノとレイヴァン 回想①",
-    "Text": "Juno and Raven Memories 1",
+    "Text": "유노와 레이반의 회상 1",
     "Enabled": true
   },
   "410108": {
     "OriginalText": "塔探索依頼",
-    "Text": "Spire Investigation Request",
+    "Text": "탑 탐사 의뢰",
     "Enabled": true
   },
   "410109": {
     "OriginalText": "散らばる記録伝置",
-    "Text": "Scattered Records",
-    "Enabled": true
+    "Text": "흩어진 기록 장치",
+    "Enabled": false
   },
   "410110": {
     "OriginalText": "滅びの歴史",
-    "Text": "Extinction History",
+    "Text": "멸망의 역사",
     "Enabled": true
   },
   "410111": {
     "OriginalText": "古代人の歴史",
-    "Text": "History of the Ancients",
+    "Text": "고대인의 역사",
     "Enabled": true
   },
   "410112": {
     "OriginalText": "ユノとレイヴァン 回想②",
-    "Text": "Juno and Raven Memories 2",
+    "Text": "유노와 레이반의 회상 2",
     "Enabled": true
   },
   "410113": {
     "OriginalText": "ルティナの日記⑦",
-    "Text": "Lutina's Diary 7",
+    "Text": "루티나의 일기 7",
     "Enabled": true
   },
   "410114": {
     "OriginalText": "古代都市探索開始",
-    "Text": "Ancient City Investigation Begins",
+    "Text": "고대 도시 탐사 시작",
     "Enabled": true
   },
   "410115": {
     "OriginalText": "ギガンテスの工場",
-    "Text": "Gigantes Factory",
+    "Text": "기간테스 공장",
     "Enabled": true
   },
   "410116": {
     "OriginalText": "残された設計図",
-    "Text": "Bequeathed Blueprint",
+    "Text": "남겨진 설계도",
     "Enabled": true
   },
   "410117": {
     "OriginalText": "大型パイル開発開始",
-    "Text": "Large Pile Development Begins",
+    "Text": "대형 파일 개발 시작",
     "Enabled": true
   },
   "410118": {
     "OriginalText": "大型パイル説明１",
-    "Text": "Large Pile Exposition 1",
+    "Text": "대형 파일 설명 1",
     "Enabled": true
   },
   "410119": {
     "OriginalText": "大型パイル説明２",
-    "Text": "Large Pile Exposition 2",
+    "Text": "대형 파일 설명 2",
     "Enabled": true
   },
   "410120": {
     "OriginalText": "大型パイル着地点説明１",
-    "Text": "Large Pile LZ Exposition 1",
+    "Text": "대형 파일 착탄 지점 설명 1",
     "Enabled": true
   },
   "410121": {
     "OriginalText": "レイヴァンの待ち伏せ１",
-    "Text": "Raven's Ambush 1",
+    "Text": "레이반의 매복 1",
     "Enabled": true
   },
   "410122": {
     "OriginalText": "大型パイル発射１",
-    "Text": "Large Pile Firing 1",
+    "Text": "대형 파일 발사 1",
     "Enabled": true
   },
   "410123": {
     "OriginalText": "大型パイル弾着１",
-    "Text": "Large Pile Impact 1",
+    "Text": "대형 파일 착탄 1",
     "Enabled": true
   },
   "410124": {
     "OriginalText": "大型パイル結果報告１",
-    "Text": "Large Pile Effect Report 1",
+    "Text": "대형 파일 결과 보고 1",
     "Enabled": true
   },
   "410125": {
     "OriginalText": "大型パイル着地点説明２",
-    "Text": "Large Pile LZ Exposition 2",
+    "Text": "대형 파일 착탄 지점 설명 2",
     "Enabled": true
   },
   "410126": {
     "OriginalText": "レイヴァンの待ち伏せ２",
-    "Text": "Raven's Ambush 2",
+    "Text": "레이반의 매복 2",
     "Enabled": true
   },
   "410127": {
     "OriginalText": "大型パイル発射２",
-    "Text": "Large Pile Firing 2",
+    "Text": "대형 파일 발사 2",
     "Enabled": true
   },
   "410128": {
     "OriginalText": "大型パイル弾着２",
-    "Text": "Large Pile Impact 2",
+    "Text": "대형 파일 착탄 2",
     "Enabled": true
   },
   "410129": {
     "OriginalText": "大型パイル結果報告２",
-    "Text": "Large Pile Effect Report 2",
+    "Text": "대형 파일 결과 보고 2",
     "Enabled": true
   },
   "410130": {
     "OriginalText": "大型パイル着地点説明３",
-    "Text": "Large Pile LZ Exposition 3",
+    "Text": "대형 파일 착탄 지점 설명 3",
     "Enabled": true
   },
   "410131": {
     "OriginalText": "レイヴァンの待ち伏せ３",
-    "Text": "Raven's Ambush 3",
+    "Text": "레이반의 매복 3",
     "Enabled": true
   },
   "410132": {
     "OriginalText": "大型パイル発射３",
-    "Text": "Large Pile Firing 3",
+    "Text": "대형 파일 발사 3",
     "Enabled": true
   },
   "410133": {
     "OriginalText": "大型パイル弾着３",
-    "Text": "Large Pile Impact 3",
+    "Text": "대형 파일 착탄 3",
     "Enabled": true
   },
   "410134": {
     "OriginalText": "大型パイル結果報告３",
-    "Text": "Large Pile Effect Report 3",
+    "Text": "대형 파일 결과 보고 3",
     "Enabled": true
   },
   "410135": {
     "OriginalText": "ルティナの日記⑧",
-    "Text": "Lutina's Diary 8",
+    "Text": "루티나의 일기 8",
     "Enabled": true
   },
   "410136": {
     "OriginalText": "ユノの元を去るレイヴァン",
-    "Text": "Raven Leaves Juno",
+    "Text": "유노 곁을 떠나는 레이반",
     "Enabled": true
   },
   "410137": {
     "OriginalText": "ユノからの通信",
-    "Text": "Message From Juno",
+    "Text": "유노에게서 온 통신",
     "Enabled": true
   },
   "410138": {
     "OriginalText": "ユノとレイヴァン 回想③",
-    "Text": "Juno and Raven Memories 3",
+    "Text": "유노와 레이반의 회상 3",
     "Enabled": true
   },
   "410139": {
     "OriginalText": "ルティナの説得",
-    "Text": "Lutina's Persuasion",
+    "Text": "루티나의 설득",
     "Enabled": true
   },
   "410140": {
     "OriginalText": "ユノとの約束",
-    "Text": "Promise With Juno",
+    "Text": "유노와의 약속",
     "Enabled": true
   },
   "410141": {
     "OriginalText": "ルティナの日記⑨",
-    "Text": "Lutina's Diary 9",
+    "Text": "루티나의 일기 9",
     "Enabled": true
   },
   "410142": {
     "OriginalText": "コアへ向かう決意",
-    "Text": "Decision to Go to the Core",
+    "Text": "코어로 향하는 결의",
     "Enabled": true
   },
   "410143": {
     "OriginalText": "仲間からの手向け",
-    "Text": "Tribute From Comrades",
+    "Text": "동료들의 배웅",
     "Enabled": true
   },
   "410144": {
     "OriginalText": "ユノの決意",
-    "Text": "Juno's Decision",
+    "Text": "유노의 결의",
     "Enabled": true
   },
   "410145": {
     "OriginalText": "薄れゆく記憶",
-    "Text": "Fading Memories",
+    "Text": "희미해지는 기억",
     "Enabled": true
   },
   "410146": {
     "OriginalText": "コアに侵入",
-    "Text": "Invading the Core",
+    "Text": "코어 진입",
     "Enabled": true
   },
   "410147": {
     "OriginalText": "覚酷の予随",
-    "Text": "Before the Chaos",
-    "Enabled": true
+    "Text": "각성의 조짐",
+    "Enabled": false
   },
   "410148": {
     "OriginalText": "取り込まれた意識",
-    "Text": "Retake Consciousness",
+    "Text": "흡수된 의식",
     "Enabled": true
   },
   "410149": {
     "OriginalText": "タイムアップ",
-    "Text": "Time's Up",
+    "Text": "시간 종료",
     "Enabled": true
   },
   "410150": {
     "OriginalText": "ノヴァ覚酷",
-    "Text": "Nova's Awakening",
-    "Enabled": true
+    "Text": "노바 각성",
+    "Enabled": false
   },
   "410151": {
     "OriginalText": "あきらめないユノ",
-    "Text": "Juno Never Gave Up",
+    "Text": "포기하지 않는 유노",
     "Enabled": true
   },
   "410152": {
     "OriginalText": "レイヴァンとの対峙",
-    "Text": "Confrontation With Raven",
+    "Text": "레이반과의 대치",
     "Enabled": true
   },
   "410153": {
     "OriginalText": "レイヴァン敗北",
-    "Text": "Raven's Defeat",
+    "Text": "레이반의 패배",
     "Enabled": true
   },
   "410154": {
     "OriginalText": "繋がるグランリンク",
-    "Text": "Connecting Gran Link",
+    "Text": "이어지는 그란 링크",
     "Enabled": true
   },
   "410155": {
     "OriginalText": "グランリンク完成",
-    "Text": "Gran Link Complete",
+    "Text": "그란 링크 완성",
     "Enabled": true
   },
   "410156": {
     "OriginalText": "果たされる約束",
-    "Text": "A Promise Fulfilled",
+    "Text": "이루어지는 약속",
     "Enabled": true
   },
   "410157": {
     "OriginalText": "私の英雄",
-    "Text": "My Hero",
+    "Text": "나의 영웅",
     "Enabled": true
   },
   "410158": {
     "OriginalText": "帰還",
-    "Text": "Return",
+    "Text": "귀환",
     "Enabled": true
   },
   "410159": {
     "OriginalText": "探索報告",
-    "Text": "Search Report",
+    "Text": "탐사 보고",
     "Enabled": true
   },
   "410160": {
     "OriginalText": "サブストーリー ルティナ編①",
-    "Text": "Sub Story Lutina Episode 1",
+    "Text": "서브 스토리 루티나 편 1",
     "Enabled": true
   },
   "410161": {
     "OriginalText": "サブストーリー ルティナ編②",
-    "Text": "Sub Story Lutina Episode 2",
+    "Text": "서브 스토리 루티나 편 2",
     "Enabled": true
   },
   "410162": {
     "OriginalText": "サブストーリー ルティナ編③",
-    "Text": "Sub Story Lutina Episode 3",
+    "Text": "서브 스토리 루티나 편 3",
     "Enabled": true
   },
   "410163": {
     "OriginalText": "エピローグ ルティナ",
-    "Text": "Epilogue: Lutina",
+    "Text": "에필로그 루티나",
     "Enabled": true
   },
   "410164": {
     "OriginalText": "サブストーリー セイル編①",
-    "Text": "Sub Story Sail Episode 1",
+    "Text": "서브 스토리 세일 편 1",
     "Enabled": true
   },
   "410165": {
     "OriginalText": "サブストーリー セイル編②",
-    "Text": "Sub Story Sail Episode 2",
+    "Text": "서브 스토리 세일 편 2",
     "Enabled": true
   },
   "410166": {
     "OriginalText": "サブストーリー セイル編③",
-    "Text": "Sub Story Sail Episode 3",
+    "Text": "서브 스토리 세일 편 3",
     "Enabled": true
   },
   "410167": {
     "OriginalText": "エピローグ セイル",
-    "Text": "Epilogue: Sail",
+    "Text": "에필로그 세일",
     "Enabled": true
   },
   "410168": {
     "OriginalText": "サブストーリー イズナ編①",
-    "Text": "Sub Story Izuna Episode 1",
+    "Text": "서브 스토리 이즈나 편 1",
     "Enabled": true
   },
   "410169": {
     "OriginalText": "サブストーリー イズナ編②",
-    "Text": "Sub Story Izuna Episode 2",
+    "Text": "서브 스토리 이즈나 편 2",
     "Enabled": true
   },
   "410170": {
     "OriginalText": "サブストーリー イズナ編③",
-    "Text": "Sub Story Izuna Episode 3",
+    "Text": "서브 스토리 이즈나 편 3",
     "Enabled": true
   },
   "410171": {
     "OriginalText": "エピローグ イズナ",
-    "Text": "Epilogue: Izuna",
+    "Text": "에필로그 이즈나",
     "Enabled": true
   },
   "410172": {
     "OriginalText": "サブストーリー フィルディア編①",
-    "Text": "Sub Story Fildia Episode 1",
+    "Text": "서브 스토리 필디아 편 1",
     "Enabled": true
   },
   "410173": {
     "OriginalText": "サブストーリー フィルディア編②",
-    "Text": "Sub Story Fildia Episode 2",
+    "Text": "서브 스토리 필디아 편 2",
     "Enabled": true
   },
   "410174": {
     "OriginalText": "エピローグ フィルディア",
-    "Text": "Epilogue: Fildia",
+    "Text": "에필로그 필디아",
     "Enabled": true
   },
   "410175": {
     "OriginalText": "サブストーリー レイヴァンユノ編①回想",
-    "Text": "Sub Story Raven and Juno Ep 1 Memories",
+    "Text": "서브 스토리 레이반/유노 편 1 회상",
     "Enabled": true
   },
   "410176": {
     "OriginalText": "サブストーリー レイヴァンユノ編①",
-    "Text": "Sub Story Raven and Juno Ep 1",
+    "Text": "서브 스토리 레이반/유노 편 1",
     "Enabled": true
   },
   "410177": {
     "OriginalText": "サブストーリー レイヴァンユノ編②",
-    "Text": "Sub Story Raven and Juno Ep 2",
+    "Text": "서브 스토리 레이반/유노 편 2",
     "Enabled": true
   },
   "410178": {
     "OriginalText": "エピローグ レイヴァンユノ",
-    "Text": "Epilogue: Raven and Juno",
+    "Text": "에필로그 레이반/유노",
     "Enabled": true
   },
   "410179": {
     "OriginalText": "サブストーリー カリスト編①",
-    "Text": "Sub Story Callisto Episode 1",
+    "Text": "서브 스토리 칼리스토 편 1",
     "Enabled": true
   },
   "410180": {
     "OriginalText": "サブストーリー カリスト編②",
-    "Text": "Sub Story Callisto Episode 2",
+    "Text": "서브 스토리 칼리스토 편 2",
     "Enabled": true
   },
   "410181": {
     "OriginalText": "サブストーリー カリスト編③",
-    "Text": "Sub Story Callisto Episode 3",
+    "Text": "서브 스토리 칼리스토 편 3",
     "Enabled": true
   },
   "410182": {
     "OriginalText": "エピローグ カリスト",
-    "Text": "Epilogue: Callisto",
+    "Text": "에필로그 칼리스토",
     "Enabled": true
   },
   "410183": {
     "OriginalText": "サブストーリー キサラ編①",
-    "Text": "Sub Story Kisara Episode 1",
+    "Text": "서브 스토리 키사라 편 1",
     "Enabled": true
   },
   "410184": {
     "OriginalText": "サブストーリー キサラ編②",
-    "Text": "Sub Story Kisara Episode 2",
+    "Text": "서브 스토리 키사라 편 2",
     "Enabled": true
   },
   "410185": {
     "OriginalText": "エピローグ キサラ",
-    "Text": "Epilogue: Kisara",
+    "Text": "에필로그 키사라",
     "Enabled": true
   },
   "410186": {
     "OriginalText": "サブストーリー リーティア編①",
-    "Text": "Sub Story Rietheia Episode 1",
+    "Text": "서브 스토리 리티아 편 1",
     "Enabled": true
   },
   "410187": {
     "OriginalText": "サブストーリー リーティア編②",
-    "Text": "Sub Story Rietheia Episode 2",
+    "Text": "서브 스토리 리티아 편 2",
     "Enabled": true
   },
   "410188": {
     "OriginalText": "エピローグ リーティア",
-    "Text": "Epilogue: Rietheia",
+    "Text": "에필로그 리티아",
     "Enabled": true
   },
   "410189": {
     "OriginalText": "サブストーリー ヨミ編①",
-    "Text": "Sub Story Yomi Episode 1",
+    "Text": "서브 스토리 요미 편 1",
     "Enabled": true
   },
   "410190": {
     "OriginalText": "サブストーリー ヨミ編②",
-    "Text": "Sub Story Yomi Episode 2",
+    "Text": "서브 스토리 요미 편 2",
     "Enabled": true
   },
   "410191": {
     "OriginalText": "サブストーリー ヨミ編③",
-    "Text": "Sub Story Yomi Episode 3",
+    "Text": "서브 스토리 요미 편 3",
     "Enabled": true
   },
   "410192": {
     "OriginalText": "エピローグ ヨミ",
-    "Text": "Epilogue: Yomi",
+    "Text": "에필로그 요미",
     "Enabled": true
   },
   "410193": {
     "OriginalText": "サブストーリー オルクス編①",
-    "Text": "Sub Story Orcus Episode 1",
+    "Text": "서브 스토리 오르쿠스 편 1",
     "Enabled": true
   },
   "410194": {
     "OriginalText": "サブストーリー オルクス編②",
-    "Text": "Sub Story Orcus Episode 2",
+    "Text": "서브 스토리 오르쿠스 편 2",
     "Enabled": true
   },
   "410195": {
     "OriginalText": "サブストーリー オルクス編③",
-    "Text": "Sub Story Orcus Episode 3",
+    "Text": "서브 스토리 오르쿠스 편 3",
     "Enabled": true
   },
   "410196": {
     "OriginalText": "エピローグ オルクス",
-    "Text": "Epilogue: Orcus",
+    "Text": "에필로그 오르쿠스",
     "Enabled": true
   },
   "410197": {
     "OriginalText": "サブストーリー ヒュペリオン編①",
-    "Text": "Sub Story Hyperion Episode 1",
+    "Text": "서브 스토리 히페리온 편 1",
     "Enabled": true
   },
   "410198": {
     "OriginalText": "サブストーリー ヒュペリオン編②",
-    "Text": "Sub Story Hyperion Episode 2",
+    "Text": "서브 스토리 히페리온 편 2",
     "Enabled": true
   },
   "410199": {
     "OriginalText": "サブストーリー ヒュペリオン編③",
-    "Text": "Sub Story Hyperion Episode 3",
+    "Text": "서브 스토리 히페리온 편 3",
     "Enabled": true
   },
   "410200": {
     "OriginalText": "エピローグ ヒュペリオン",
-    "Text": "Epilogue: Hyperion",
+    "Text": "에필로그 히페리온",
     "Enabled": true
   },
   "410201": {
     "OriginalText": "サブストーリー シャロン編①",
-    "Text": "Sub Story Sharon Episode 1",
+    "Text": "서브 스토리 샤론 편 1",
     "Enabled": true
   },
   "410202": {
     "OriginalText": "サブストーリー シャロン編②",
-    "Text": "Sub Story Sharon Episode 2",
+    "Text": "서브 스토리 샤론 편 2",
     "Enabled": true
   },
   "410203": {
     "OriginalText": "サブストーリー シャロン編③",
-    "Text": "Sub Story Sharon Episode 3",
+    "Text": "서브 스토리 샤론 편 3",
     "Enabled": true
   },
   "410204": {
     "OriginalText": "エピローグ シャロン",
-    "Text": "Epilogue: Sharon",
+    "Text": "에필로그 샤론",
     "Enabled": true
   },
   "410205": {
     "OriginalText": "服の修復",
-    "Text": "Restoration of Clothes",
+    "Text": "옷 수복",
     "Enabled": true
   },
   "410206": {
     "OriginalText": "湯気の向こう側",
-    "Text": "Other Side of Steam",
+    "Text": "수증기 너머",
     "Enabled": true
   },
   "410207": {
     "OriginalText": "最期のデート",
-    "Text": "Last Date",
+    "Text": "마지막 데이트",
     "Enabled": true
   },
   "410208": {
     "OriginalText": "受け継がれるもの",
-    "Text": "To Inherit",
+    "Text": "이어받는 것",
     "Enabled": true
   },
   "410209": {
     "OriginalText": "ルティナの日記⑩ 語り出し",
-    "Text": "Lutina's Diary 10 Revelation",
+    "Text": "루티나의 일기 10 도입",
     "Enabled": true
   },
   "410210": {
     "OriginalText": "ルティナの日記⑩ 結び ノーマル",
-    "Text": "Lutina's Diary 10 Normal Bind",
+    "Text": "루티나의 일기 10 맺음말 일반",
     "Enabled": true
   },
   "410211": {
     "OriginalText": "ルティナの日記⑩ 結び フルコンプ",
-    "Text": "Lutina's Diary 10 Complete Bind",
+    "Text": "루티나의 일기 10 맺음말 전체 완료",
     "Enabled": true
-  },
-  "410300": {
-    "OriginalText": "//",
-    "Text": "",
-    "Enabled": false
   },
   "410301": {
     "OriginalText": "惑星の洗礼",
-    "Text": "Planet's Baptism",
+    "Text": "행성의 세례",
     "Enabled": true
   },
   "410302": {
     "OriginalText": "銅焔の巨獣",
-    "Text": "Steel Giants",
-    "Enabled": true
+    "Text": "강철 불꽃의 거수",
+    "Enabled": false
   },
   "410303": {
     "OriginalText": "生存への挑戦 Ⅰ",
-    "Text": "Subsistence I",
+    "Text": "생존을 위한 도전 I",
     "Enabled": true
   },
   "410304": {
     "OriginalText": "生存への挑戦 Ⅱ",
-    "Text": "Subsistence II",
+    "Text": "생존을 위한 도전 II",
     "Enabled": true
   },
   "410305": {
     "OriginalText": "生存への挑戦 Ⅲ",
-    "Text": "Subsistence III",
+    "Text": "생존을 위한 도전 III",
     "Enabled": true
   },
   "410306": {
     "OriginalText": "生存への挑戦 Ⅳ",
-    "Text": "Subsistence IV",
+    "Text": "생존을 위한 도전 IV",
     "Enabled": true
   },
   "410307": {
     "OriginalText": "生存への挑戦 Ⅴ",
-    "Text": "Subsistence V",
+    "Text": "생존을 위한 도전 V",
     "Enabled": true
   },
   "410308": {
     "OriginalText": "脱出",
-    "Text": "Escape",
+    "Text": "탈출",
     "Enabled": true
   },
   "410309": {
     "OriginalText": "惑星の真実 Ⅰ",
-    "Text": "Truth I",
+    "Text": "행성의 진실 I",
     "Enabled": true
   },
   "410310": {
     "OriginalText": "惑星の真実 Ⅱ",
-    "Text": "Truth II",
+    "Text": "행성의 진실 II",
     "Enabled": true
   },
   "410311": {
     "OriginalText": "惑星の真実 Ⅲ",
-    "Text": "Truth III",
+    "Text": "행성의 진실 III",
     "Enabled": true
   },
   "410312": {
     "OriginalText": "惑星の真実 Ⅳ",
-    "Text": "Truth IV",
+    "Text": "행성의 진실 IV",
     "Enabled": true
   },
   "410313": {
     "OriginalText": "ほんとうの約束",
-    "Text": "Real Promise",
+    "Text": "진정한 약속",
     "Enabled": true
   },
   "410314": {
     "OriginalText": "惑星より永遠に",
-    "Text": "Eternal Than the Planet",
+    "Text": "행성에서 영원으로",
     "Enabled": true
   },
   "410315": {
     "OriginalText": "サブストーリー",
-    "Text": "Sub Story",
+    "Text": "서브 스토리",
     "Enabled": true
-  },
-  "410316": {
-    "OriginalText": "//",
-    "Text": "",
-    "Enabled": false
   },
   "410317": {
     "OriginalText": "The Battle for Survival Begins",
-    "Text": "",
-    "Enabled": false
+    "Text": "생존을 위한 싸움의 시작",
+    "Enabled": true
   },
   "410318": {
     "OriginalText": "The Demon Above Us",
-    "Text": "",
-    "Enabled": false
+    "Text": "우리 위의 악마",
+    "Enabled": true
   },
   "410319": {
     "OriginalText": "Grand Act Ⅰ -Prologue-",
-    "Text": "",
-    "Enabled": false
+    "Text": "그랜드 액트 I -서막-",
+    "Enabled": true
   },
   "410320": {
     "OriginalText": "The Value of Friendship",
-    "Text": "",
-    "Enabled": false
+    "Text": "우정의 가치",
+    "Enabled": true
   },
   "410321": {
     "OriginalText": "Youth and Trust",
-    "Text": "",
-    "Enabled": false
+    "Text": "청춘과 신뢰",
+    "Enabled": true
   },
   "410322": {
     "OriginalText": "My Choice",
-    "Text": "",
-    "Enabled": false
+    "Text": "나의 선택",
+    "Enabled": true
   },
   "410323": {
     "OriginalText": "Grand Act Ⅰ -Epilogue-",
-    "Text": "",
-    "Enabled": false
+    "Text": "그랜드 액트 I -종막-",
+    "Enabled": true
   },
   "410324": {
     "OriginalText": "Tipping Point",
-    "Text": "",
-    "Enabled": false
+    "Text": "전환점",
+    "Enabled": true
   },
   "410325": {
     "OriginalText": "Grand Act Ⅱ -Prologue-",
-    "Text": "",
-    "Enabled": false
+    "Text": "그랜드 액트 II -서막-",
+    "Enabled": true
   },
   "410326": {
     "OriginalText": "Juno",
-    "Text": "",
-    "Enabled": false
+    "Text": "유노",
+    "Enabled": true
   },
   "410327": {
     "OriginalText": "The Enemy Below",
-    "Text": "",
-    "Enabled": false
+    "Text": "아래에 도사린 적",
+    "Enabled": true
   },
   "410328": {
     "OriginalText": "Grand Act Ⅱ -Epilogue-",
-    "Text": "",
-    "Enabled": false
+    "Text": "그랜드 액트 II -종막-",
+    "Enabled": true
   },
   "410329": {
     "OriginalText": "A Planet's End",
-    "Text": "",
-    "Enabled": false
+    "Text": "어느 행성의 끝",
+    "Enabled": true
   },
   "410330": {
     "OriginalText": "The Endless Chapter ∞",
-    "Text": "",
-    "Enabled": false
+    "Text": "끝없는 장 -무한-",
+    "Enabled": true
   },
   "410331": {
     "OriginalText": "Sub Story",
-    "Text": "",
-    "Enabled": false
+    "Text": "서브스토리",
+    "Enabled": true
   },
   "410501": {
     "OriginalText": "マキア外龍",
-    "Text": "Mahkia Side Story",
-    "Enabled": true
+    "Text": "마키아 외전",
+    "Enabled": false
   },
   "410502": {
     "OriginalText": "Another side to the story",
-    "Text": "",
-    "Enabled": false
+    "Text": "이야기의 또 다른 이면",
+    "Enabled": true
   },
   "410503": {
     "OriginalText": "事の起こり",
-    "Text": "How it Happened",
+    "Text": "사건의 시작",
     "Enabled": true
   },
   "410504": {
     "OriginalText": "残された記憶",
-    "Text": "Memories Left",
+    "Text": "남겨진 기억",
     "Enabled": true
   },
   "410505": {
     "OriginalText": "SIDE:Garnet 無敵艦隊、発進 Act.01",
-    "Text": "SIDE:Garnet Invincible Fleet, Take Off Act.1",
+    "Text": "가넷 편: 무적함대, 발진 제01막",
     "Enabled": true
   },
   "410506": {
     "OriginalText": "SIDE:Garnet 無敵艦隊、発進 Act.02",
-    "Text": "SIDE:Garnet Invincible Fleet, Take Off Act.2",
+    "Text": "가넷 편: 무적함대, 발진 제02막",
     "Enabled": true
   },
   "410507": {
     "OriginalText": "SIDE:Garnet 無敵艦隊、発進 Act.03",
-    "Text": "SIDE:Garnet Invincible Fleet, Take Off Act.3",
+    "Text": "가넷 편: 무적함대, 발진 제03막",
     "Enabled": true
   },
   "410508": {
     "OriginalText": "SIDE:Garnet お料理大作戦 Act.01",
-    "Text": "SIDE:Garnet Cooking Ops Act.1",
+    "Text": "가넷 편: 요리 대작전 제01막",
     "Enabled": true
   },
   "410509": {
     "OriginalText": "SIDE:Garnet お料理大作戦 Act.02",
-    "Text": "SIDE:Garnet Cooking Ops Act.2",
+    "Text": "가넷 편: 요리 대작전 제02막",
     "Enabled": true
   },
   "410510": {
     "OriginalText": "SIDE:Garnet お料理大作戦 Act.03",
-    "Text": "SIDE:Garnet Cooking Ops Act.3",
+    "Text": "가넷 편: 요리 대작전 제03막",
     "Enabled": true
   },
   "410511": {
     "OriginalText": "SIDE:Garnet 暴走の果て Act.01",
-    "Text": "SIDE:Garnet Recklessness Ends Act.1",
+    "Text": "가넷 편: 폭주의 끝 제01막",
     "Enabled": true
   },
   "410512": {
     "OriginalText": "SIDE:Garnet 暴走の果て Act.02",
-    "Text": "SIDE:Garnet Recklessness Ends Act.2",
+    "Text": "가넷 편: 폭주의 끝 제02막",
     "Enabled": true
   },
   "410513": {
     "OriginalText": "SIDE:Garnet 暴走の果て Act.03",
-    "Text": "SIDE:Garnet Recklessness Ends Act.3",
+    "Text": "가넷 편: 폭주의 끝 제03막",
     "Enabled": true
   },
   "410514": {
     "OriginalText": "SIDE:Sunshout 疑惑の捜査官 Act.01",
-    "Text": "SIDE:Sunshout Suspicious Investigator Act.1",
+    "Text": "선샤우트 편: 의혹의 수사관 제01막",
     "Enabled": true
   },
   "410515": {
     "OriginalText": "SIDE:Sunshout 疑惑の捜査官 Act.02",
-    "Text": "SIDE:Sunshout Suspicious Investigator Act.2",
+    "Text": "선샤우트 편: 의혹의 수사관 제02막",
     "Enabled": true
   },
   "410516": {
     "OriginalText": "SIDE:Sunshout 疑惑の捜査官 Act.03",
-    "Text": "SIDE:Sunshout Suspicious Investigator Act.3",
+    "Text": "선샤우트 편: 의혹의 수사관 제03막",
     "Enabled": true
   },
   "410517": {
     "OriginalText": "SIDE:Sunshout 見えぬ妨害 Act.01",
-    "Text": "SIDE:Sunshout Unseen Disturbance Act.1",
+    "Text": "선샤우트 편: 보이지 않는 방해 제01막",
     "Enabled": true
   },
   "410518": {
     "OriginalText": "SIDE:Sunshout 見えぬ妨害 Act.02",
-    "Text": "SIDE:Sunshout Unseen Disturbance Act.2",
+    "Text": "선샤우트 편: 보이지 않는 방해 제02막",
     "Enabled": true
   },
   "410519": {
     "OriginalText": "SIDE:Sunshout 見えぬ妨害 Act.03",
-    "Text": "SIDE:Sunshout Unseen Disturbance Act.3",
+    "Text": "선샤우트 편: 보이지 않는 방해 제03막",
     "Enabled": true
   },
   "410520": {
     "OriginalText": "SIDE:Sunshout 目な追走 Act.01",
-    "Text": "SIDE:Sunshout Bold Chase Act.1",
-    "Enabled": true
+    "Text": "선샤우트 편: 맹목적인 추격 제01막",
+    "Enabled": false
   },
   "410521": {
     "OriginalText": "SIDE:Sunshout 目な追走 Act.02",
-    "Text": "SIDE:Sunshout Bold Chase Act.2",
-    "Enabled": true
+    "Text": "선샤우트 편: 맹목적인 추격 제02막",
+    "Enabled": false
   },
   "410522": {
     "OriginalText": "SIDE:Sunshout 目な追走 Act.03",
-    "Text": "SIDE:Sunshout Bold Chase Act.3",
-    "Enabled": true
+    "Text": "선샤우트 편: 맹목적인 추격 제03막",
+    "Enabled": false
   },
   "410523": {
     "OriginalText": "語られる真相",
-    "Text": "The Truth to Be Told",
+    "Text": "밝혀지는 진상",
     "Enabled": true
   },
   "410524": {
     "OriginalText": "もう一人の英雄",
-    "Text": "My Other Hero",
+    "Text": "또 한 명의 영웅",
     "Enabled": true
   }
 }

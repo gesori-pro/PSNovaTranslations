@@ -1,52 +1,52 @@
 {
   "10601": {
     "OriginalText": "他人",
-    "Text": "Lv. 3",
+    "Text": "타인",
     "Enabled": true
   },
   "10602": {
     "OriginalText": "知人",
-    "Text": "Lv. 4",
+    "Text": "지인",
     "Enabled": true
   },
   "10603": {
     "OriginalText": "友人",
-    "Text": "Lv. 5",
+    "Text": "친구",
     "Enabled": true
   },
   "10604": {
     "OriginalText": "仲間",
-    "Text": "Lv. 6",
+    "Text": "동료",
     "Enabled": true
   },
   "10605": {
     "OriginalText": "親友",
-    "Text": "Lv. 7",
+    "Text": "절친",
     "Enabled": true
   },
   "10606": {
     "OriginalText": "親友",
-    "Text": "Lv. 8",
+    "Text": "절친",
     "Enabled": true
   },
   "10607": {
     "OriginalText": "悪友",
-    "Text": "Lv. 1",
+    "Text": "악우",
     "Enabled": true
   },
   "10608": {
     "OriginalText": "腐緑",
-    "Text": "Lv. 2",
-    "Enabled": true
+    "Text": "질긴 인연",
+    "Enabled": false
   },
   "10609": {
     "OriginalText": "戦友",
-    "Text": "Lv. 9",
+    "Text": "전우",
     "Enabled": true
   },
   "10610": {
     "OriginalText": "相棒",
-    "Text": "Lv. 10",
+    "Text": "파트너",
     "Enabled": true
   }
 }

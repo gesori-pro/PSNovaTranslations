@@ -1,302 +1,302 @@
 {
   "390000": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "390001": {
     "OriginalText": "EXPブースト+100％",
-    "Text": "EXP Boost +100%",
+    "Text": "EXP 부스트+100%",
     "Enabled": true
   },
   "390002": {
     "OriginalText": "スケープドール",
-    "Text": "Scape Doll",
+    "Text": "스케이프돌",
     "Enabled": true
   },
   "390003": {
     "OriginalText": "EXPブースト+200％",
-    "Text": "EXP Boost +200%",
+    "Text": "EXP 부스트+200%",
     "Enabled": true
   },
   "390004": {
     "OriginalText": "EXPブースト+100％A",
-    "Text": "EXP Boost +100% A",
+    "Text": "EXP 부스트+100%A",
     "Enabled": true
   },
   "390005": {
     "OriginalText": "EXPブースト+100％B",
-    "Text": "EXP Boost +100% B",
+    "Text": "EXP 부스트+100%B",
     "Enabled": true
   },
   "390006": {
     "OriginalText": "EXPブースト+100％C",
-    "Text": "EXP Boost +100% C",
+    "Text": "EXP 부스트+100%C",
     "Enabled": true
   },
   "390007": {
     "OriginalText": "EXPブースト+100％D",
-    "Text": "EXP Boost +100% D",
+    "Text": "EXP 부스트+100%D",
     "Enabled": true
   },
   "390008": {
     "OriginalText": "EXPブースト+100％E",
-    "Text": "EXP Boost +100% E",
+    "Text": "EXP 부스트+100%E",
     "Enabled": true
   },
   "390009": {
     "OriginalText": "EXPブースト+100％F",
-    "Text": "EXP Boost +100% F",
+    "Text": "EXP 부스트+100%F",
     "Enabled": true
   },
   "390010": {
     "OriginalText": "EXPブースト+100％G",
-    "Text": "EXP Boost +100% G",
+    "Text": "EXP 부스트+100%G",
     "Enabled": true
   },
   "390011": {
     "OriginalText": "EXPブースト+100％H",
-    "Text": "EXP Boost +100% H",
+    "Text": "EXP 부스트+100%H",
     "Enabled": true
   },
   "390012": {
     "OriginalText": "EXPブースト+100％I",
-    "Text": "EXP Boost +100% I",
+    "Text": "EXP 부스트+100%I",
     "Enabled": true
   },
   "390013": {
     "OriginalText": "EXPブースト+100％J",
-    "Text": "EXP Boost +100% J",
+    "Text": "EXP 부스트+100%J",
     "Enabled": true
   },
   "390014": {
     "OriginalText": "EXPブースト+100％K",
-    "Text": "EXP Boost +100% K",
+    "Text": "EXP 부스트+100%K",
     "Enabled": true
   },
   "390015": {
     "OriginalText": "EXPブースト+100％L",
-    "Text": "EXP Boost +100% L",
+    "Text": "EXP 부스트+100%L",
     "Enabled": true
   },
   "390016": {
     "OriginalText": "EXPブースト+100％M",
-    "Text": "EXP Boost +100% M",
+    "Text": "EXP 부스트+100%M",
     "Enabled": true
   },
   "390017": {
     "OriginalText": "EXPブースト+100％N",
-    "Text": "EXP Boost +100% N",
+    "Text": "EXP 부스트+100%N",
     "Enabled": true
   },
   "390018": {
     "OriginalText": "EXPブースト+100％O",
-    "Text": "EXP Boost +100% O",
+    "Text": "EXP 부스트+100%O",
     "Enabled": true
   },
   "390019": {
     "OriginalText": "EXPブースト+100％P",
-    "Text": "EXP Boost +100% P",
+    "Text": "EXP 부스트+100%P",
     "Enabled": true
   },
   "390020": {
     "OriginalText": "EXPブースト+100％Q",
-    "Text": "EXP Boost +100% Q",
+    "Text": "EXP 부스트+100%Q",
     "Enabled": true
   },
   "390021": {
     "OriginalText": "EXPブースト+100％R",
-    "Text": "EXP Boost +100% R",
+    "Text": "EXP 부스트+100%R",
     "Enabled": true
   },
   "390022": {
     "OriginalText": "EXPブースト+100％S",
-    "Text": "EXP Boost +100% S",
+    "Text": "EXP 부스트+100%S",
     "Enabled": true
   },
   "390023": {
     "OriginalText": "EXPブースト+100％T",
-    "Text": "EXP Boost +100% T",
+    "Text": "EXP 부스트+100%T",
     "Enabled": true
   },
   "390024": {
     "OriginalText": "EXPブースト+100％U",
-    "Text": "EXP Boost +100% U",
+    "Text": "EXP 부스트+100%U",
     "Enabled": true
   },
   "390025": {
     "OriginalText": "EXPブースト+100％V",
-    "Text": "EXP Boost +100% V",
+    "Text": "EXP 부스트+100%V",
     "Enabled": true
   },
   "390026": {
     "OriginalText": "EXPブースト+100％W",
-    "Text": "EXP Boost +100% W",
+    "Text": "EXP 부스트+100%W",
     "Enabled": true
   },
   "390027": {
     "OriginalText": "EXPブースト+100％X",
-    "Text": "EXP Boost +100% X",
+    "Text": "EXP 부스트+100%X",
     "Enabled": true
   },
   "390028": {
     "OriginalText": "EXPブースト+100％Y",
-    "Text": "EXP Boost +100% Y",
+    "Text": "EXP 부스트+100%Y",
     "Enabled": true
   },
   "390029": {
     "OriginalText": "EXPブースト+100％Z",
-    "Text": "EXP Boost +100% Z",
+    "Text": "EXP 부스트+100%Z",
     "Enabled": true
   },
   "400000": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "400001": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400002": {
     "OriginalText": "自律起動の自己復活用アイテム。\n所持者が戦闘不能になった際に\n一度だけ身代わりになってくれる。",
-    "Text": "Recovery medicine for ARKS. Revives the\nuser to maximum Health.",
+    "Text": "자동 작동하는 자기 부활용 아이템.\n소지자가 전투 불능에 빠졌을 때\n단 한 번 대신 희생되어 준다.",
     "Enabled": true
   },
   "400003": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+200%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +200%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +200% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400004": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400005": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400006": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400007": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400008": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400009": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400010": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400011": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400012": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400013": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400014": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400015": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400016": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400017": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400018": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400019": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400020": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400021": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400022": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400023": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400024": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400025": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400026": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400027": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400028": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   },
   "400029": {
     "OriginalText": "自己鍛錬用アイテム。\nエネミー撃破の経験値を+100%させる。\n３０分経過、またはクエスト終了まで有効。\n[a 03]※シングルプレイのクエスト中のみ使用可能[b]",
-    "Text": "A Self-Boost Item.\nFor 30 minutes, or until the end of a\nquest, increases EXP gained by +100%.\n[a 03]＊Only available during Single Player.[b]",
+    "Text": "자기 단련용 아이템.\n에너미 격파 시 경험치를 +100% 늘린다.\n30분 경과 또는 퀘스트 종료까지 유효하다.\n[a 03]주의: 싱글 플레이 퀘스트 중에만 사용 가능[b]",
     "Enabled": true
   }
 }

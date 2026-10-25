@@ -1,312 +1,312 @@
 {
   "600000": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "600001": {
     "OriginalText": "手を振る",
-    "Text": "Wave",
+    "Text": "손 흔들기",
     "Enabled": true
   },
   "600002": {
     "OriginalText": "礼",
-    "Text": "Bow",
+    "Text": "예의",
     "Enabled": true
   },
   "600003": {
     "OriginalText": "敬礼",
-    "Text": "Salute",
+    "Text": "경례",
     "Enabled": true
   },
   "600004": {
     "OriginalText": "肯定",
-    "Text": "Agree",
+    "Text": "긍정",
     "Enabled": true
   },
   "600005": {
     "OriginalText": "否定",
-    "Text": "Disagree",
+    "Text": "부정",
     "Enabled": true
   },
   "600006": {
     "OriginalText": "謝る",
-    "Text": "Apologize",
+    "Text": "사과하기",
     "Enabled": true
   },
   "600007": {
     "OriginalText": "挑発する",
-    "Text": "Provoke",
+    "Text": "도발하기",
     "Enabled": true
   },
   "600008": {
     "OriginalText": "拍手",
-    "Text": "Applause",
+    "Text": "박수",
     "Enabled": true
   },
   "600009": {
     "OriginalText": "キス",
-    "Text": "Kiss",
+    "Text": "키스",
     "Enabled": true
   },
   "600010": {
     "OriginalText": "グッジョブ",
-    "Text": "Good Job",
+    "Text": "엄지 척",
     "Enabled": true
   },
   "600011": {
     "OriginalText": "指をさす",
-    "Text": "Point",
+    "Text": "손가락으로 가리키기",
     "Enabled": true
   },
   "600012": {
     "OriginalText": "気合を入れる",
-    "Text": "Fighting Spirit",
+    "Text": "기합 넣기",
     "Enabled": true
   },
   "600013": {
     "OriginalText": "任せておけ！",
-    "Text": "Leave It To Me!",
+    "Text": "내게 맡겨!",
     "Enabled": true
   },
   "600014": {
     "OriginalText": "喜ぶ",
-    "Text": "Happy",
+    "Text": "기뻐하기",
     "Enabled": true
   },
   "600015": {
     "OriginalText": "怒る",
-    "Text": "Angry",
+    "Text": "화내기",
     "Enabled": true
   },
   "600016": {
     "OriginalText": "哀しい",
-    "Text": "Sad",
+    "Text": "슬픔",
     "Enabled": true
   },
   "600017": {
     "OriginalText": "楽しい",
-    "Text": "Pleased",
+    "Text": "즐거움",
     "Enabled": true
   },
   "600018": {
     "OriginalText": "呆れ",
-    "Text": "Astounded",
+    "Text": "어이없음",
     "Enabled": true
   },
   "600019": {
     "OriginalText": "照れる",
-    "Text": "Shy",
+    "Text": "부끄러움",
     "Enabled": true
   },
   "600020": {
     "OriginalText": "驚く",
-    "Text": "Surprised",
+    "Text": "놀라기",
     "Enabled": true
   },
   "600021": {
     "OriginalText": "地団太",
-    "Text": "Stomp Foot",
+    "Text": "발 구르기",
     "Enabled": true
   },
   "600022": {
     "OriginalText": "泣く",
-    "Text": "Cry",
+    "Text": "울기",
     "Enabled": true
   },
   "600023": {
     "OriginalText": "座る１",
-    "Text": "Sit 1",
+    "Text": "앉기 1",
     "Enabled": true
   },
   "600024": {
     "OriginalText": "座る２",
-    "Text": "Sit 2",
+    "Text": "앉기 2",
     "Enabled": true
   },
   "600025": {
     "OriginalText": "ベッド",
-    "Text": "Bed",
+    "Text": "침대",
     "Enabled": true
   },
   "600026": {
     "OriginalText": "ダンス１",
-    "Text": "Dance 1",
+    "Text": "댄스 1",
     "Enabled": true
   },
   "600027": {
     "OriginalText": "ダンス２",
-    "Text": "Dance 2",
+    "Text": "댄스 2",
     "Enabled": true
   },
   "600028": {
     "OriginalText": "セクシー",
-    "Text": "Sexy",
+    "Text": "섹시",
     "Enabled": true
   },
   "600029": {
     "OriginalText": "ポーズ",
-    "Text": "Pose",
+    "Text": "포즈",
     "Enabled": true
   },
   "600030": {
     "OriginalText": "ポーズ２",
-    "Text": "Pose 2",
+    "Text": "포즈 2",
     "Enabled": true
   },
   "610000": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "610001": {
     "OriginalText": "ロビーアクション 手を振る",
-    "Text": "Wave lobby action.",
+    "Text": "로비 액션  손 흔들기",
     "Enabled": true
   },
   "610002": {
     "OriginalText": "ロビーアクション 礼をする",
-    "Text": "Bow lobby action.",
+    "Text": "로비 액션  예의를 표한다",
     "Enabled": true
   },
   "610003": {
     "OriginalText": "ロビーアクション 敬礼をする",
-    "Text": "Salute lobby action.",
+    "Text": "로비 액션  경례한다",
     "Enabled": true
   },
   "610004": {
     "OriginalText": "ロビーアクション 肯定する",
-    "Text": "Agree lobby action.",
+    "Text": "로비 액션  긍정한다",
     "Enabled": true
   },
   "610005": {
     "OriginalText": "ロビーアクション 否定する",
-    "Text": "Disagree lobby action.",
+    "Text": "로비 액션  부정한다",
     "Enabled": true
   },
   "610006": {
     "OriginalText": "ロビーアクション 謝る",
-    "Text": "Apologize lobby action.",
+    "Text": "로비 액션  사과하기",
     "Enabled": true
   },
   "610007": {
     "OriginalText": "ロビーアクション 挑発をする",
-    "Text": "Provoke lobby action.",
+    "Text": "로비 액션  도발한다",
     "Enabled": true
   },
   "610008": {
     "OriginalText": "ロビーアクション 燭手をする",
-    "Text": "Clap lobby action.",
-    "Enabled": true
+    "Text": "로비 액션  박수를 친다",
+    "Enabled": false
   },
   "610009": {
     "OriginalText": "ロビーアクション 投げキッスをする",
-    "Text": "Kiss lobby action.",
+    "Text": "로비 액션  키스 날리기를 한다",
     "Enabled": true
   },
   "610010": {
     "OriginalText": "ロビーアクション グッジョブのサインを出す",
-    "Text": "Good job lobby action.",
+    "Text": "로비 액션  엄지 척 사인을 보낸다",
     "Enabled": true
   },
   "610011": {
     "OriginalText": "ロビーアクション 指をさす",
-    "Text": "Point lobby action.",
+    "Text": "로비 액션  손가락으로 가리킨다",
     "Enabled": true
   },
   "610012": {
     "OriginalText": "ロビーアクション 気合を入れる",
-    "Text": "Fighting spirit lobby action.",
+    "Text": "로비 액션  기합 넣기",
     "Enabled": true
   },
   "610013": {
     "OriginalText": "ロビーアクション 自信を示す",
-    "Text": "Leave it to me lobby action.",
+    "Text": "로비 액션  자신감을 드러낸다",
     "Enabled": true
   },
   "610014": {
     "OriginalText": "ロビーアクション 喜ぶ",
-    "Text": "Happy lobby action.",
+    "Text": "로비 액션  기뻐하기",
     "Enabled": true
   },
   "610015": {
     "OriginalText": "ロビーアクション 怒る",
-    "Text": "Angry lobby action.",
+    "Text": "로비 액션  화내기",
     "Enabled": true
   },
   "610016": {
     "OriginalText": "ロビーアクション 哀しむ",
-    "Text": "Sad lobby action.",
+    "Text": "로비 액션  슬퍼한다",
     "Enabled": true
   },
   "610017": {
     "OriginalText": "ロビーアクション はしゃぐ",
-    "Text": "Pleased lobby action.",
+    "Text": "로비 액션  신나게 들뜬다",
     "Enabled": true
   },
   "610018": {
     "OriginalText": "ロビーアクション 呆れる",
-    "Text": "Astounded lobby action.",
+    "Text": "로비 액션  질리다",
     "Enabled": true
   },
   "610019": {
     "OriginalText": "ロビーアクション 照れる",
-    "Text": "Shy lobby action.",
+    "Text": "로비 액션  부끄러움",
     "Enabled": true
   },
   "610020": {
     "OriginalText": "ロビーアクション 驚く",
-    "Text": "Surprised lobby action.",
+    "Text": "로비 액션  놀란다",
     "Enabled": true
   },
   "610021": {
     "OriginalText": "ロビーアクション 地団太を踏む",
-    "Text": "Stomp foot lobby action.",
+    "Text": "로비 액션  발을 구른다",
     "Enabled": true
   },
   "610022": {
     "OriginalText": "ロビーアクション 泣く",
-    "Text": "Cry lobby action.",
+    "Text": "로비 액션  울기",
     "Enabled": true
   },
   "610023": {
     "OriginalText": "ロビーアクション 座る その１",
-    "Text": "Sit 1 lobby action.",
+    "Text": "로비 액션  앉기 1",
     "Enabled": true
   },
   "610024": {
     "OriginalText": "ロビーアクション 座る その２",
-    "Text": "Sit 2 lobby action.",
+    "Text": "로비 액션  앉기 2",
     "Enabled": true
   },
   "610025": {
     "OriginalText": "ロビーアクション 寝ころぶ",
-    "Text": "Bed lobby action.",
+    "Text": "로비 액션  드러눕는다",
     "Enabled": true
   },
   "610026": {
     "OriginalText": "ロビーアクション ダンスをする その１",
-    "Text": "Dance 1 lobby action.",
+    "Text": "로비 액션  춤추기 동작 1",
     "Enabled": true
   },
   "610027": {
     "OriginalText": "ロビーアクション ダンスをする その２",
-    "Text": "Dance 2 lobby action.",
+    "Text": "로비 액션  춤추기 동작 2",
     "Enabled": true
   },
   "610028": {
     "OriginalText": "ロビーアクション セクシーポーズをとる",
-    "Text": "Sexy lobby action.",
+    "Text": "로비 액션  섹시 포즈를 취한다",
     "Enabled": true
   },
   "610029": {
     "OriginalText": "ロビーアクション 決めポーズをとる",
-    "Text": "Pose lobby action.",
+    "Text": "로비 액션  멋진 포즈를 취한다",
     "Enabled": true
   },
   "610030": {
     "OriginalText": "ロビーアクション 決めポーズをとる その２",
-    "Text": "Pose 2 lobby action.",
+    "Text": "로비 액션  멋진 포즈 2를 취한다",
     "Enabled": true
   }
 }

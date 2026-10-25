@@ -1,22 +1,22 @@
 {
   "10301": {
     "OriginalText": "ステータス",
-    "Text": "Status",
+    "Text": "스테이터스",
     "Enabled": true
   },
   "10302": {
     "OriginalText": "威力",
-    "Text": "Power",
+    "Text": "위력",
     "Enabled": true
   },
   "10303": {
     "OriginalText": "技量補正",
-    "Text": "Dex Mod",
+    "Text": "기량 보정",
     "Enabled": true
   },
   "10304": {
     "OriginalText": "消費GP",
-    "Text": "GP Cost",
+    "Text": "소비 GP",
     "Enabled": true
   },
   "10305": {
@@ -31,102 +31,102 @@
   },
   "10307": {
     "OriginalText": "打撃力",
-    "Text": "S-ATK",
+    "Text": "타격력",
     "Enabled": true
   },
   "10308": {
     "OriginalText": "射撃力",
-    "Text": "R-ATK",
+    "Text": "사격력",
     "Enabled": true
   },
   "10309": {
     "OriginalText": "法撃力",
-    "Text": "T-ATK",
+    "Text": "법격력",
     "Enabled": true
   },
   "10310": {
     "OriginalText": "技量",
-    "Text": "DEX",
+    "Text": "기량",
     "Enabled": true
   },
   "10311": {
     "OriginalText": "打撃防御",
-    "Text": "S-DEF",
+    "Text": "타격 방어",
     "Enabled": true
   },
   "10312": {
     "OriginalText": "射撃防御",
-    "Text": "R-DEF",
+    "Text": "사격 방어",
     "Enabled": true
   },
   "10313": {
     "OriginalText": "法撃防御",
-    "Text": "T-DEF",
+    "Text": "법격 방어",
     "Enabled": true
   },
   "10314": {
     "OriginalText": "レアリティ",
-    "Text": "Rarity",
+    "Text": "레어리티",
     "Enabled": true
   },
   "10315": {
     "OriginalText": "種族",
-    "Text": "Race",
+    "Text": "종족",
     "Enabled": true
   },
   "10316": {
     "OriginalText": "性別",
-    "Text": "Sex",
+    "Text": "성별",
     "Enabled": true
   },
   "10317": {
     "OriginalText": "特殊能力",
-    "Text": "Special Ability",
+    "Text": "특수 능력",
     "Enabled": true
   },
   "10318": {
     "OriginalText": "スキル",
-    "Text": "Skill",
+    "Text": "스킬",
     "Enabled": true
   },
   "10319": {
     "OriginalText": "攻撃 / グランアーツ",
-    "Text": "Attack/Gran Arts",
+    "Text": "공격 / 그란 아츠",
     "Enabled": true
   },
   "10320": {
     "OriginalText": "テクニック",
-    "Text": "Technique",
+    "Text": "테크닉",
     "Enabled": true
   },
   "10321": {
     "OriginalText": "スタイル",
-    "Text": "Style",
+    "Text": "스타일",
     "Enabled": true
   },
   "10322": {
     "OriginalText": "特微",
-    "Text": "Traits",
-    "Enabled": true
+    "Text": "특징",
+    "Enabled": false
   },
   "10323": {
     "OriginalText": "Lv.",
-    "Text": "Lv. ",
+    "Text": "Lv.",
     "Enabled": true
   },
   "10324": {
     "OriginalText": "キャラクター名",
-    "Text": "Name",
+    "Text": "캐릭터 이름",
     "Enabled": true
   },
   "10325": {
     "OriginalText": "経験値",
-    "Text": "EXP",
+    "Text": "경험치",
     "Enabled": true
   },
   "10326": {
     "OriginalText": "次のレベルまで",
-    "Text": "Next Level",
+    "Text": "다음 레벨까지",
     "Enabled": true
   },
   "10327": {
@@ -136,67 +136,67 @@
   },
   "10328": {
     "OriginalText": "炎属性",
-    "Text": "Fire",
+    "Text": "염속성",
     "Enabled": true
   },
   "10329": {
     "OriginalText": "劇属性",
-    "Text": "Ice",
-    "Enabled": true
+    "Text": "빙속성",
+    "Enabled": false
   },
   "10330": {
     "OriginalText": "雷属性",
-    "Text": "Lightning",
+    "Text": "뇌속성",
     "Enabled": true
   },
   "10331": {
     "OriginalText": "風属性",
-    "Text": "Wind",
+    "Text": "풍속성",
     "Enabled": true
   },
   "10332": {
     "OriginalText": "光属性",
-    "Text": "Light",
+    "Text": "광속성",
     "Enabled": true
   },
   "10333": {
     "OriginalText": "闇属性",
-    "Text": "Dark",
+    "Text": "암속성",
     "Enabled": true
   },
   "10334": {
     "OriginalText": "炎耐性",
-    "Text": "Resist",
+    "Text": "염내성",
     "Enabled": true
   },
   "10335": {
     "OriginalText": "劇耐性",
-    "Text": "Resist",
+    "Text": "빙내성",
     "Enabled": true
   },
   "10336": {
     "OriginalText": "雷耐性",
-    "Text": "Resist",
+    "Text": "뇌내성",
     "Enabled": true
   },
   "10337": {
     "OriginalText": "風耐性",
-    "Text": "Resist",
+    "Text": "풍내성",
     "Enabled": true
   },
   "10338": {
     "OriginalText": "光耐性",
-    "Text": "Resist",
+    "Text": "광내성",
     "Enabled": true
   },
   "10339": {
     "OriginalText": "闇耐性",
-    "Text": "Resist",
+    "Text": "암내성",
     "Enabled": true
   },
   "10340": {
     "OriginalText": "プレイヤー情報",
-    "Text": "Player Information",
+    "Text": "플레이어 정보",
     "Enabled": true
   }
 }

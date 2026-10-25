@@ -1,312 +1,312 @@
 {
   "580000": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "580001": {
     "OriginalText": "フォイエ",
-    "Text": "Foie",
+    "Text": "포이에",
     "Enabled": true
   },
   "580002": {
     "OriginalText": "ギ・フォイエ",
-    "Text": "Gifoie",
+    "Text": "기 포이에",
     "Enabled": true
   },
   "580003": {
     "OriginalText": "ラ・フォイエ",
-    "Text": "Rafoie",
+    "Text": "라 포이에",
     "Enabled": true
   },
   "580004": {
     "OriginalText": "サ・フォイエ",
-    "Text": "Safoie",
+    "Text": "사 포이에",
     "Enabled": true
   },
   "580005": {
     "OriginalText": "シフタ",
-    "Text": "Shifta",
+    "Text": "시프타",
     "Enabled": true
   },
   "580006": {
     "OriginalText": "バータ",
-    "Text": "Barta",
+    "Text": "바타",
     "Enabled": true
   },
   "580007": {
     "OriginalText": "ギ・バータ",
-    "Text": "Gibarta",
+    "Text": "기 바타",
     "Enabled": true
   },
   "580008": {
     "OriginalText": "ラ・バータ",
-    "Text": "Rabarta",
+    "Text": "라 바타",
     "Enabled": true
   },
   "580009": {
     "OriginalText": "サ・バータ",
-    "Text": "Sabarta",
+    "Text": "사 바타",
     "Enabled": true
   },
   "580010": {
     "OriginalText": "デバンド",
-    "Text": "Deband",
+    "Text": "데반드",
     "Enabled": true
   },
   "580011": {
     "OriginalText": "ゾンデ",
-    "Text": "Zonde",
+    "Text": "존데",
     "Enabled": true
   },
   "580012": {
     "OriginalText": "ギ・ゾンデ",
-    "Text": "Gizonde",
+    "Text": "기 존데",
     "Enabled": true
   },
   "580013": {
     "OriginalText": "ラ・ゾンデ",
-    "Text": "Razonde",
+    "Text": "라 존데",
     "Enabled": true
   },
   "580014": {
     "OriginalText": "サ・ゾンデ",
-    "Text": "Sazonde",
+    "Text": "사 존데",
     "Enabled": true
   },
   "580015": {
     "OriginalText": "ゾンディール",
-    "Text": "Zondeel",
+    "Text": "존딜",
     "Enabled": true
   },
   "580016": {
     "OriginalText": "ザン",
-    "Text": "Zan",
+    "Text": "잔",
     "Enabled": true
   },
   "580017": {
     "OriginalText": "ギ・ザン",
-    "Text": "Gizan",
+    "Text": "기 잔",
     "Enabled": true
   },
   "580018": {
     "OriginalText": "ラ・ザン",
-    "Text": "Razan",
+    "Text": "라 잔",
     "Enabled": true
   },
   "580019": {
     "OriginalText": "サ・ザン",
-    "Text": "Sazan",
+    "Text": "사 잔",
     "Enabled": true
   },
   "580020": {
     "OriginalText": "ナ・ザン",
-    "Text": "Nazan",
+    "Text": "나 잔",
     "Enabled": true
   },
   "580021": {
     "OriginalText": "グランツ",
-    "Text": "Grants",
+    "Text": "그란츠",
     "Enabled": true
   },
   "580022": {
     "OriginalText": "ギ・グランツ",
-    "Text": "Gigrants",
+    "Text": "기 그란츠",
     "Enabled": true
   },
   "580023": {
     "OriginalText": "ラ・グランツ",
-    "Text": "Ragrants",
+    "Text": "라 그란츠",
     "Enabled": true
   },
   "580024": {
     "OriginalText": "レスタ",
-    "Text": "Resta",
+    "Text": "레스타",
     "Enabled": true
   },
   "580025": {
     "OriginalText": "アンティ",
-    "Text": "Anti",
+    "Text": "안티",
     "Enabled": true
   },
   "580026": {
     "OriginalText": "メギド",
-    "Text": "Megid",
+    "Text": "메기드",
     "Enabled": true
   },
   "580027": {
     "OriginalText": "ギ・メギド",
-    "Text": "Gimegid",
+    "Text": "기 메기드",
     "Enabled": true
   },
   "580028": {
     "OriginalText": "ラ・メギド",
-    "Text": "Ramegid",
+    "Text": "라 메기드",
     "Enabled": true
   },
   "580029": {
     "OriginalText": "メギバース",
-    "Text": "Megiverse",
+    "Text": "메기바스",
     "Enabled": true
   },
   "580030": {
     "OriginalText": "サ・メギド",
-    "Text": "Samegid",
+    "Text": "사 메기드",
     "Enabled": true
   },
   "590000": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "590001": {
     "OriginalText": "照準のある位置へ向けて直線的に飛行する火の玉を\n打ち出す。",
-    "Text": "Shoots a fireball directy in front of\nyou.",
+    "Text": "조준한 위치를 향해 직선으로 날아가는 불덩이를\n발사한다.",
     "Enabled": true
   },
   "590002": {
     "OriginalText": "自身またはタリスのある地点を中心に螺旋状の\n火の玉を発生させる。",
-    "Text": "Generates a spiral of fire that engulfs\nyour surroundings.",
+    "Text": "자신이나 탈리스가 있는 지점을 중심으로\n나선형 불덩이를 만든다.",
     "Enabled": true
   },
   "590003": {
     "OriginalText": "照準のある位置に即座に爆発を発生させる。",
-    "Text": "Causes an immediate fire detonation\nwithin your targeted area.",
+    "Text": "조준한 위치에 즉시 폭발을 일으킨다.",
     "Enabled": true
   },
   "590004": {
     "OriginalText": "前方扇状の範囲に炎の波を発生させる。",
-    "Text": "Generates a wide arc of fire in front of\nyou.",
+    "Text": "전방 부채꼴 범위에 불꽃의 파도를 일으킨다.",
     "Enabled": true
   },
   "590005": {
     "OriginalText": "自身と周囲のプレイヤーキャラクターの打撃力・射撃力・\n法撃力を上昇させる。",
-    "Text": "Generates an active offensive field\nwhich raises attack for players within\nthe field.",
+    "Text": "자신과 주변 플레이어 캐릭터의 타격력, 사격력,\n법격력을 높인다.",
     "Enabled": true
   },
   "590006": {
     "OriginalText": "照準の位置へ向けて敵を貴通する劇柱を放つ。",
-    "Text": "Shoots a line of icicles towards your\ntarget.",
-    "Enabled": true
+    "Text": "조준 위치로 적을 관통하는 얼음 기둥을 쏜다.",
+    "Enabled": false
   },
   "590007": {
     "OriginalText": "自身またはタリスの前方に無数の劇の矢を出現させ、\n前方扇状の範囲内にいる対象に断続的にダメージを\n与える。",
-    "Text": "Produces sharp icicles that shoot in\nfront of you.",
-    "Enabled": true
+    "Text": "자신이나 탈리스 앞에 무수한 얼음 화살을 만들고,\n전방 부채꼴 범위 안에 있는 목표에게\n간헐적으로 데미지를 준다.",
+    "Enabled": false
   },
   "590008": {
     "OriginalText": "自身またはタリスを中心とした円筒状に吹雪を\n発生させる。",
-    "Text": "Generates a blizzard that engulfs your\nsurroundings.",
+    "Text": "자신이나 탈리스를 중심으로 원통 모양의\n눈보라를 일으킨다.",
     "Enabled": true
   },
   "590009": {
     "OriginalText": "目標地点に対し、劇柱を落とす。",
-    "Text": "Drops condensed icicles on top of your\ntarget.",
-    "Enabled": true
+    "Text": "목표 지점에 얼음 기둥을 떨어뜨린다.",
+    "Enabled": false
   },
   "590010": {
     "OriginalText": "自身と周囲のプレイヤーキャラクターの打撃防御力・\n射撃防御力・法撃防御力を上昇させる。",
-    "Text": "Generates an active defensive field\nwhich raises defense for players within\nthe field.",
+    "Text": "자신과 주변 플레이어 캐릭터의 타격 방어력,\n사격 방어력, 법격 방어력을 높인다.",
     "Enabled": true
   },
   "590011": {
     "OriginalText": "照準の地点またはロックオンした敵が居る地点に\n稲妻を落とす。",
-    "Text": "Summons lightning at your targeted area\nor enemy.",
+    "Text": "조준한 지점이나 록온한 적이 있는 지점에\n번개를 떨어뜨린다.",
     "Enabled": true
   },
   "590012": {
     "OriginalText": "自身またはタリスから照準の位置へ直線軌道の\n電撃を放つ。",
-    "Text": "Fires a lightning attack in a straight\nline from yourself or Talis' aiming\nposition.",
+    "Text": "자신이나 탈리스에서 조준한 위치를 향해\n직선으로 전격을 발사한다.",
     "Enabled": true
   },
   "590013": {
     "OriginalText": "放電球体を生成。電気体は周囲を巻き込む放電を\n起こす。",
-    "Text": "Generates a lightning orb that\ndischarges lightning to its surroundings.",
+    "Text": "방전 구체를 만든다. 구체는 주변을 휘말리게 하는\n방전을 일으킨다.",
     "Enabled": true
   },
   "590014": {
     "OriginalText": "他の電撃で攻撃を誘発させる雷の球を目標に\n植え付ける。",
-    "Text": "Plant a lightning ball that triggers\nwhen hit with another lightning attack.",
+    "Text": "다른 전격으로 공격이 유발되는 번개의 구체를\n목표에게 심는다.",
     "Enabled": true
   },
   "590015": {
     "OriginalText": "目標を吸い寄せる電磁場を発生させる。",
-    "Text": "Generates a electromagnetic field that\nsucks the target.",
+    "Text": "목표를 끌어당기는 전자기장을 만든다.",
     "Enabled": true
   },
   "590016": {
     "OriginalText": "目標に向けてかまいたちのブーメランを発射する。",
-    "Text": "Fires a boomerang of windblades toward\nthe target.",
+    "Text": "목표를 향해 날카로운 바람의 부메랑을 발사한다.",
     "Enabled": true
   },
   "590017": {
     "OriginalText": "自身またはタリスのある地点を中心にかまいたちを\n発生させる。",
-    "Text": "Creates windblades around you or\nthe Talis.",
+    "Text": "자신이나 탈리스가 있는 지점을 중심으로\n날카로운 바람을 일으킨다.",
     "Enabled": true
   },
   "590018": {
     "OriginalText": "照準の位置に打ち上げ効果のある竜巻を発生させる。",
-    "Text": "Creates a tornado with a launching\neffect at the aiming position.",
+    "Text": "조준한 위치에 목표를 띄우는 회오리를 만든다.",
     "Enabled": true
   },
   "590019": {
     "OriginalText": "照準の位置に吸い込み効果のある竜巻を発生させる。",
-    "Text": "Creates a tornado with a suction effect\nat the aiming position.",
+    "Text": "조준 위치에 목표를 빨아들이는 회오리를 만든다.",
     "Enabled": true
   },
   "590020": {
     "OriginalText": "自分の目前に強烈な風の衝撃波を発生させる。",
-    "Text": "Creates a strong wind shockwave in\nfront of you.",
+    "Text": "자신의 바로 앞에 강력한 바람 충격파를 일으킨다.",
     "Enabled": true
   },
   "590021": {
     "OriginalText": "光の矢を生成。照準の地点または\nロックオンした敵が居る地点に矢を落とす。",
-    "Text": "Creates an arrow of light and drops it\nonto the location of the locked-on enemy.",
+    "Text": "빛의 화살을 만든다. 조준한 지점이나\n록온한 적이 있는 지점에 화살을 떨어뜨린다.",
     "Enabled": true
   },
   "590022": {
     "OriginalText": "光の剣を展開。そのまま周囲の敵をなぎ払う。",
-    "Text": "Produces a sword of light to wipe out\nsurrounding enemies.",
+    "Text": "빛의 검을 펼친다. 그대로 주변의 적을 휩쓴다.",
     "Enabled": true
   },
   "590023": {
     "OriginalText": "光の槍を生成。前方に向かって発射する。",
-    "Text": "Creates a spear of light that fires\nin front of you or the Talis.",
+    "Text": "빛의 창을 만든다. 전방을 향해 발사한다.",
     "Enabled": true
   },
   "590024": {
     "OriginalText": "自身またはタリスを中心に周囲の味方のHPを回復する\n光を発生させる。",
-    "Text": "Creates light that restores the HP of\nallies around you or the Talis.",
+    "Text": "자신이나 탈리스를 중심으로 주변 아군의 HP를\n회복하는 빛을 만든다.",
     "Enabled": true
   },
   "590025": {
     "OriginalText": "自身またはタリスを中心に周囲の味方の状態異常を\n解除する光を発生させる。",
-    "Text": "Creates light that clears the abnormal\nstatus of allies around you or the\nTalis.",
+    "Text": "자신이나 탈리스를 중심으로 주변 아군의\n상태이상을 해제하는 빛을 만든다.",
     "Enabled": true
   },
   "590026": {
     "OriginalText": "照準のある地点または敵に向けて追尾する闇属性の\n球体を発射する。",
-    "Text": "Fire a dark orb that tracks the aim\npoint or an enemy.",
+    "Text": "조준한 지점이나 적을 향해 추적하는 암속성의\n구체를 발사한다.",
     "Enabled": true
   },
   "590027": {
     "OriginalText": "照準のある地点の上空に黒い球を発生し、ビームを\n降らせる。",
-    "Text": "Creates a dark orb above the aim point\nthat fires a beam.",
+    "Text": "조준한 지점의 상공에 검은 구체를 만들어\n빔을 쏟아붓는다.",
     "Enabled": true
   },
   "590028": {
     "OriginalText": "自身またはタリスの位置の周囲に炸裂する闇の弾を\n降り注がせる。",
-    "Text": "Showers exploding dark balls around\nyou or the Talis.",
+    "Text": "자신이나 탈리스가 있는 위치의 주변에\n폭발하는 어둠의 탄환을 쏟아붓는다.",
     "Enabled": true
   },
   "590029": {
     "OriginalText": "鉤温グランを広げ自身に有利な領域を生み出す。",
-    "Text": "Spreads Gran and creates an area that is\nadvantageous to you.",
-    "Enabled": true
+    "Text": "응축 그란을 펼쳐 자신에게 유리한 영역을 만든다.",
+    "Enabled": false
   },
   "590030": {
     "OriginalText": "3方向に大きく広がり目標を執拗に追尾する、闇の弾を\n発射する。",
-    "Text": "Fires a dark ball that spreads widely in\n3 directions and relentlessly tracks\nthe target.",
+    "Text": "3방향으로 넓게 퍼져 목표를 집요하게 추적하는\n어둠의 탄환을 발사한다.",
     "Enabled": true
   }
 }

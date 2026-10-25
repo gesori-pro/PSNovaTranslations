@@ -1,2827 +1,2822 @@
 {
-  "440000": {
-    "OriginalText": "---",
-    "Text": "",
-    "Enabled": false
-  },
   "440001": {
     "OriginalText": "ヒューマン男性顔ベースＡ",
-    "Text": "Base Human Male Face A",
+    "Text": "휴먼 남성 얼굴 베이스 A",
     "Enabled": true
   },
   "440002": {
     "OriginalText": "ヒューマン男性顔ベースＤ",
-    "Text": "Base Human Male Face D",
+    "Text": "휴먼 남성 얼굴 베이스 D",
     "Enabled": true
   },
   "440003": {
     "OriginalText": "ヒューマン男性顔ベースＥ",
-    "Text": "Base Human Male Face E",
+    "Text": "휴먼 남성 얼굴 베이스 E",
     "Enabled": true
   },
   "440004": {
     "OriginalText": "ヒューマン男性顔ベースＢ",
-    "Text": "Base Human Male Face B",
+    "Text": "휴먼 남성 얼굴 베이스 B",
     "Enabled": true
   },
   "440005": {
     "OriginalText": "ヒューマン男性顔ベースＣ",
-    "Text": "Base Human Male Face C",
+    "Text": "휴먼 남성 얼굴 베이스 C",
     "Enabled": true
   },
   "440006": {
     "OriginalText": "ニューマン男性顔ベースＡ",
-    "Text": "Base Newman Male Face A",
+    "Text": "뉴먼 남성 얼굴 베이스 A",
     "Enabled": true
   },
   "440007": {
     "OriginalText": "ニューマン男性顔ベースＢ",
-    "Text": "Base Newman Male Face B",
+    "Text": "뉴먼 남성 얼굴 베이스 B",
     "Enabled": true
   },
   "440008": {
     "OriginalText": "ニューマン男性顔ベースＣ",
-    "Text": "Base Newman Male Face C",
+    "Text": "뉴먼 남성 얼굴 베이스 C",
     "Enabled": true
   },
   "440009": {
     "OriginalText": "ニューマン男性顔ベースＤ",
-    "Text": "Base Newman Male Face D",
+    "Text": "뉴먼 남성 얼굴 베이스 D",
     "Enabled": true
   },
   "440010": {
     "OriginalText": "ニューマン男性顔ベースＥ",
-    "Text": "Base Newman Male Face E",
+    "Text": "뉴먼 남성 얼굴 베이스 E",
     "Enabled": true
   },
   "440011": {
     "OriginalText": "ニューマン男性顔ベースＦ",
-    "Text": "Base Newman Male Face F",
+    "Text": "뉴먼 남성 얼굴 베이스 F",
     "Enabled": true
   },
   "440012": {
     "OriginalText": "ニューマン男性顔ベースＧ",
-    "Text": "Base Newman Male Face G",
+    "Text": "뉴먼 남성 얼굴 베이스 G",
     "Enabled": true
   },
   "440013": {
     "OriginalText": "ニューマン男性顔ベースＨ",
-    "Text": "Base Newman Male Face H",
+    "Text": "뉴먼 남성 얼굴 베이스 H",
     "Enabled": true
   },
   "440014": {
     "OriginalText": "ニューマン男性顔ベースＩ",
-    "Text": "Base Newman Male Face I",
+    "Text": "뉴먼 남성 얼굴 베이스 I",
     "Enabled": true
   },
   "440015": {
     "OriginalText": "ニューマン男性顔ベースＪ",
-    "Text": "Base Newman Male Face J",
+    "Text": "뉴먼 남성 얼굴 베이스 J",
     "Enabled": true
   },
   "440016": {
     "OriginalText": "キャスト男性顔ベースＡ",
-    "Text": "Base CAST Male Face A",
+    "Text": "캐스트 남성 얼굴 베이스 A",
     "Enabled": true
   },
   "440017": {
     "OriginalText": "キャスト男性顔ベースＢ",
-    "Text": "Base CAST Male Face B",
+    "Text": "캐스트 남성 얼굴 베이스 B",
     "Enabled": true
   },
   "440018": {
     "OriginalText": "キャスト男性顔ベースＣ",
-    "Text": "Base CAST Male Face C",
+    "Text": "캐스트 남성 얼굴 베이스 C",
     "Enabled": true
   },
   "440019": {
     "OriginalText": "キャスト男性顔ベースＤ",
-    "Text": "Base CAST Male Face D",
+    "Text": "캐스트 남성 얼굴 베이스 D",
     "Enabled": true
   },
   "440020": {
     "OriginalText": "キャスト男性顔ベースＥ",
-    "Text": "Base CAST Male Face E",
+    "Text": "캐스트 남성 얼굴 베이스 E",
     "Enabled": true
   },
   "440021": {
     "OriginalText": "ヒューマン男性顔ベースＦ",
-    "Text": "Base Human Male Face F",
+    "Text": "휴먼 남성 얼굴 베이스 F",
     "Enabled": true
   },
   "440022": {
     "OriginalText": "ニューマン男性顔ベースＫ",
-    "Text": "Base Newman Male Face K",
+    "Text": "뉴먼 남성 얼굴 베이스 K",
     "Enabled": true
   },
   "440023": {
     "OriginalText": "ニューマン男性顔ベースＬ",
-    "Text": "Base Newman Male Face L",
+    "Text": "뉴먼 남성 얼굴 베이스 L",
     "Enabled": true
   },
   "440024": {
     "OriginalText": "キャスト男性顔ベースＦ",
-    "Text": "Base CAST Male Face F",
+    "Text": "캐스트 남성 얼굴 베이스 F",
     "Enabled": true
   },
   "440025": {
     "OriginalText": "ロニア・ヘッド破",
-    "Text": "Ronia Head (Damaged)",
+    "Text": "로니아 헤드 (파손)",
     "Enabled": true
   },
   "440026": {
     "OriginalText": "ディスタ・ヘッド破",
-    "Text": "Dista Head (Damaged)",
+    "Text": "디스타 헤드 (파손)",
     "Enabled": true
   },
   "440027": {
     "OriginalText": "ファウマ・ヘッド破",
-    "Text": "Fauma Head (Damaged)",
+    "Text": "파우마 헤드 (파손)",
     "Enabled": true
   },
   "440028": {
     "OriginalText": "アングリフ・ヘッド破",
-    "Text": "Angriff Head (Damaged)",
+    "Text": "앙그리프 헤드 (파손)",
     "Enabled": true
   },
   "440029": {
     "OriginalText": "コロッサス・ヘッド",
-    "Text": "Colossus Head",
+    "Text": "콜로서스 헤드",
     "Enabled": true
   },
   "440030": {
     "OriginalText": "マギウス・ヘッド破",
-    "Text": "Magius Head (Damaged)",
+    "Text": "마기우스 헤드 (파손)",
     "Enabled": true
   },
   "440031": {
     "OriginalText": "シェリフ・ヘッド破",
-    "Text": "Sheriff Head (Damaged)",
+    "Text": "셰리프 헤드 (파손)",
     "Enabled": true
   },
   "440032": {
     "OriginalText": "バルドル・ヘッド",
-    "Text": "Baldur Head",
+    "Text": "발드르 헤드",
     "Enabled": true
   },
   "440033": {
     "OriginalText": "ジョーカ・ヘッド",
-    "Text": "Joker Head",
+    "Text": "조커 헤드",
     "Enabled": true
   },
   "440034": {
     "OriginalText": "フィルフ・ヘッド破",
-    "Text": "Fliph Head (Damaged)",
+    "Text": "필프 헤드 (파손)",
     "Enabled": true
   },
   "440035": {
     "OriginalText": "ヒュリオン・ヘッド破",
-    "Text": "Hurion Head (Damaged)",
+    "Text": "휴리온 헤드 (파손)",
     "Enabled": true
   },
   "440036": {
     "OriginalText": "メルダー・ヘッド破",
-    "Text": "Melder Head (Damaged)",
+    "Text": "멜더 헤드 (파손)",
     "Enabled": true
   },
   "440037": {
     "OriginalText": "アラオ・ヘッド破",
-    "Text": "Arao Head (Damaged)",
+    "Text": "아라오 헤드 (파손)",
     "Enabled": true
   },
   "440038": {
     "OriginalText": "ゴルドオム・ヘッド",
-    "Text": "Goldoom Head",
+    "Text": "골드옴 헤드",
     "Enabled": true
   },
   "440039": {
     "OriginalText": "アグリ・ヘッド",
-    "Text": "Agri Head",
+    "Text": "아그리 헤드",
     "Enabled": true
   },
   "440040": {
     "OriginalText": "ギオス・ヘッド",
-    "Text": "Gios Head",
+    "Text": "기오스 헤드",
     "Enabled": true
   },
   "440041": {
     "OriginalText": "クリスト・ヘッド",
-    "Text": "Christo Head",
+    "Text": "크리스트 헤드",
     "Enabled": true
   },
   "440042": {
     "OriginalText": "ノヴァオム・ヘッド",
-    "Text": "Novaom Head",
+    "Text": "노바옴 헤드",
     "Enabled": true
   },
   "440043": {
     "OriginalText": "リヴェン・ヘッド",
-    "Text": "Riven Head",
+    "Text": "리벤 헤드",
     "Enabled": true
   },
   "440044": {
     "OriginalText": "ヒューマン女性顔ベースＡ",
-    "Text": "Base Human Female Face A",
+    "Text": "휴먼 여성 얼굴 베이스 A",
     "Enabled": true
   },
   "440045": {
     "OriginalText": "ヒューマン女性顔ベースＢ",
-    "Text": "Base Human Female Face B",
+    "Text": "휴먼 여성 얼굴 베이스 B",
     "Enabled": true
   },
   "440046": {
     "OriginalText": "ヒューマン女性顔ベースＣ",
-    "Text": "Base Human Female Face C",
+    "Text": "휴먼 여성 얼굴 베이스 C",
     "Enabled": true
   },
   "440047": {
     "OriginalText": "ニューマン女性顔ベースＡ",
-    "Text": "Base Newman Female Face A",
+    "Text": "뉴먼 여성 얼굴 베이스 A",
     "Enabled": true
   },
   "440048": {
     "OriginalText": "ニューマン女性顔ベースＢ",
-    "Text": "Base Newman Female Face B",
+    "Text": "뉴먼 여성 얼굴 베이스 B",
     "Enabled": true
   },
   "440049": {
     "OriginalText": "ニューマン女性顔ベースＣ",
-    "Text": "Base Newman Female Face C",
+    "Text": "뉴먼 여성 얼굴 베이스 C",
     "Enabled": true
   },
   "440050": {
     "OriginalText": "ニューマン女性顔ベースＤ",
-    "Text": "Base Newman Female Face D",
+    "Text": "뉴먼 여성 얼굴 베이스 D",
     "Enabled": true
   },
   "440051": {
     "OriginalText": "ニューマン女性顔ベースＥ",
-    "Text": "Base Newman Female Face E",
+    "Text": "뉴먼 여성 얼굴 베이스 E",
     "Enabled": true
   },
   "440052": {
     "OriginalText": "ニューマン女性顔ベースＦ",
-    "Text": "Base Newman Female Face F",
+    "Text": "뉴먼 여성 얼굴 베이스 F",
     "Enabled": true
   },
   "440053": {
     "OriginalText": "キャスト女性顔ベースＡ",
-    "Text": "Base CAST Female Face A",
+    "Text": "캐스트 여성 얼굴 베이스 A",
     "Enabled": true
   },
   "440054": {
     "OriginalText": "キャスト女性顔ベースＢ",
-    "Text": "Base CAST Female Face B",
+    "Text": "캐스트 여성 얼굴 베이스 B",
     "Enabled": true
   },
   "440055": {
     "OriginalText": "キャスト女性顔ベースＣ",
-    "Text": "Base CAST Female Face C",
+    "Text": "캐스트 여성 얼굴 베이스 C",
     "Enabled": true
   },
   "440056": {
     "OriginalText": "キャスト女性顔ベースＤ",
-    "Text": "Base CAST Female Face D",
+    "Text": "캐스트 여성 얼굴 베이스 D",
     "Enabled": true
   },
   "440057": {
     "OriginalText": "ヒューマン女性顔ベースＤ",
-    "Text": "Base Human Female Face D",
+    "Text": "휴먼 여성 얼굴 베이스 D",
     "Enabled": true
   },
   "440058": {
     "OriginalText": "ニューマン女性顔ベースＧ",
-    "Text": "Base Newman Female Face G",
+    "Text": "뉴먼 여성 얼굴 베이스 G",
     "Enabled": true
   },
   "440059": {
     "OriginalText": "ニューマン女性顔ベースＨ",
-    "Text": "Base Newman Female Face H",
+    "Text": "뉴먼 여성 얼굴 베이스 H",
     "Enabled": true
   },
   "440060": {
     "OriginalText": "キャスト女性顔ベースＥ",
-    "Text": "Base CAST Female Face E",
+    "Text": "캐스트 여성 얼굴 베이스 E",
     "Enabled": true
   },
   "440061": {
     "OriginalText": "ヒューマン女性用アニメ系",
-    "Text": "Human Female Animation System",
+    "Text": "휴먼 여성용 애니메이션형",
     "Enabled": true
   },
   "440062": {
     "OriginalText": "ニューマン（耳長）女性用アニメ系",
-    "Text": "",
-    "Enabled": false
+    "Text": "뉴먼 여성용 애니메이션형(긴 귀)",
+    "Enabled": true
   },
   "440063": {
     "OriginalText": "ニューマン（耳短）女性用アニメ系",
-    "Text": "",
-    "Enabled": false
+    "Text": "뉴먼 여성용 애니메이션형(짧은 귀)",
+    "Enabled": true
   },
   "440064": {
     "OriginalText": "キャスト女性用アニメ系",
-    "Text": "CAST Female Animation System",
+    "Text": "캐스트 여성용 애니메이션형",
     "Enabled": true
   },
   "440065": {
     "OriginalText": "ヒューマン女性顔ベースＥ",
-    "Text": "Base Human Female Face E",
+    "Text": "휴먼 여성 얼굴 베이스 E",
     "Enabled": true
   },
   "440066": {
     "OriginalText": "ニューマン女性顔ベースＩ",
-    "Text": "Base Newman Female Face I",
+    "Text": "뉴먼 여성 얼굴 베이스 I",
     "Enabled": true
   },
   "440067": {
     "OriginalText": "ニューマン女性顔ベースＪ",
-    "Text": "Base Newman Female Face J",
+    "Text": "뉴먼 여성 얼굴 베이스 J",
     "Enabled": true
   },
   "440068": {
     "OriginalText": "キャスト女性顔ベースＦ",
-    "Text": "Base CAST Female Face F",
+    "Text": "캐스트 여성 얼굴 베이스 F",
     "Enabled": true
   },
   "440069": {
     "OriginalText": "セイル",
-    "Text": "Sail",
+    "Text": "세일",
     "Enabled": true
   },
   "440070": {
     "OriginalText": "レイヴァン",
-    "Text": "Raven",
+    "Text": "레이반",
     "Enabled": true
   },
   "440071": {
     "OriginalText": "カリスト",
-    "Text": "Callisto",
+    "Text": "칼리스토",
     "Enabled": true
   },
   "440072": {
     "OriginalText": "ヨミ",
-    "Text": "Yomi",
+    "Text": "요미",
     "Enabled": true
   },
   "440073": {
     "OriginalText": "オルクス",
-    "Text": "Orcus",
+    "Text": "오르쿠스",
     "Enabled": true
   },
   "440074": {
     "OriginalText": "ルティナ",
-    "Text": "Lutina",
+    "Text": "루티나",
     "Enabled": true
   },
   "440075": {
     "OriginalText": "イズナ",
-    "Text": "Izuna",
+    "Text": "이즈나",
     "Enabled": true
   },
   "440076": {
     "OriginalText": "ユノ",
-    "Text": "Juno",
+    "Text": "유노",
     "Enabled": true
   },
   "440077": {
     "OriginalText": "ユノ：ホログラム",
-    "Text": "Juno: Hologram",
+    "Text": "유노: 홀로그램",
     "Enabled": true
   },
   "440078": {
     "OriginalText": "ユノ：グランリンク状態",
-    "Text": "Juno: Gran Link State",
+    "Text": "유노: 그란 링크 상태",
     "Enabled": true
   },
   "440079": {
     "OriginalText": "フィルディア",
-    "Text": "Fildia",
+    "Text": "필디아",
     "Enabled": true
   },
   "440080": {
     "OriginalText": "キサラ",
-    "Text": "Kisara",
+    "Text": "키사라",
     "Enabled": true
   },
   "440081": {
     "OriginalText": "リーティア",
-    "Text": "Rietheia",
+    "Text": "리티아",
     "Enabled": true
   },
   "440082": {
     "OriginalText": "ヒュペリオン・ヘッド",
-    "Text": "Hyperion Head",
+    "Text": "히페리온 헤드",
     "Enabled": true
   },
   "440083": {
     "OriginalText": "シャロン用フェイス",
-    "Text": "Sharon Face",
+    "Text": "샤론용 얼굴",
     "Enabled": true
   },
   "440084": {
     "OriginalText": "人型用 タイプＡ 大",
-    "Text": "",
-    "Enabled": false
+    "Text": "인간형용 타입 A 대",
+    "Enabled": true
   },
   "440085": {
     "OriginalText": "人型用 タイプＡ 中",
-    "Text": "",
-    "Enabled": false
+    "Text": "인간형용 타입 A 중",
+    "Enabled": true
   },
   "440086": {
     "OriginalText": "人型用 タイプＡ 小",
-    "Text": "",
-    "Enabled": false
+    "Text": "인간형용 타입 A 소",
+    "Enabled": true
   },
   "440087": {
     "OriginalText": "人型用 タイプＢ 大",
-    "Text": "",
-    "Enabled": false
+    "Text": "인간형용 타입 B 대",
+    "Enabled": true
   },
   "440088": {
     "OriginalText": "人型用 タイプＢ 中",
-    "Text": "",
-    "Enabled": false
+    "Text": "인간형용 타입 B 중",
+    "Enabled": true
   },
   "440089": {
     "OriginalText": "人型用 タイプＢ 小",
-    "Text": "",
-    "Enabled": false
+    "Text": "인간형용 타입 B 소",
+    "Enabled": true
   },
   "440090": {
     "OriginalText": "人型用 タイプＣ 大",
-    "Text": "",
-    "Enabled": false
+    "Text": "인간형용 타입 C 대",
+    "Enabled": true
   },
   "440091": {
     "OriginalText": "人型用 タイプＣ 中",
-    "Text": "",
-    "Enabled": false
+    "Text": "인간형용 타입 C 중",
+    "Enabled": true
   },
   "440092": {
     "OriginalText": "人型用 タイプＣ 小",
-    "Text": "",
-    "Enabled": false
+    "Text": "인간형용 타입 C 소",
+    "Enabled": true
   },
   "440093": {
     "OriginalText": "キャスト用 タイプＡ 大",
-    "Text": "",
-    "Enabled": false
+    "Text": "캐스트용 타입 A 대",
+    "Enabled": true
   },
   "440094": {
     "OriginalText": "キャスト用 タイプＡ 中",
-    "Text": "",
-    "Enabled": false
+    "Text": "캐스트용 타입 A 중",
+    "Enabled": true
   },
   "440095": {
     "OriginalText": "キャスト用 タイプＡ 小",
-    "Text": "",
-    "Enabled": false
+    "Text": "캐스트용 타입 A 소",
+    "Enabled": true
   },
   "440096": {
     "OriginalText": "キャスト用 タイプＢ 大",
-    "Text": "",
-    "Enabled": false
+    "Text": "캐스트용 타입 B 대",
+    "Enabled": true
   },
   "440097": {
     "OriginalText": "キャスト用 タイプＢ 中",
-    "Text": "",
-    "Enabled": false
+    "Text": "캐스트용 타입 B 중",
+    "Enabled": true
   },
   "440098": {
     "OriginalText": "キャスト用 タイプＢ 小",
-    "Text": "",
-    "Enabled": false
+    "Text": "캐스트용 타입 B 소",
+    "Enabled": true
   },
   "440099": {
     "OriginalText": "まゆなし",
-    "Text": "No Eyebrows",
+    "Text": "눈썹 없음",
     "Enabled": true
   },
   "440100": {
     "OriginalText": "タイプＡ",
-    "Text": "Type A",
+    "Text": "타입 A",
     "Enabled": true
   },
   "440101": {
     "OriginalText": "タイプＢ",
-    "Text": "Type B",
+    "Text": "타입 B",
     "Enabled": true
   },
   "440102": {
     "OriginalText": "タイプＣ",
-    "Text": "Type C",
+    "Text": "타입 C",
     "Enabled": true
   },
   "440103": {
     "OriginalText": "タイプＤ",
-    "Text": "Type D",
+    "Text": "타입 D",
     "Enabled": true
   },
   "440104": {
     "OriginalText": "タイプＥ",
-    "Text": "Type E",
+    "Text": "타입 E",
     "Enabled": true
   },
   "440105": {
     "OriginalText": "タイプＦ",
-    "Text": "Type F",
+    "Text": "타입 F",
     "Enabled": true
   },
   "440106": {
     "OriginalText": "タイプＧ",
-    "Text": "Type G",
+    "Text": "타입 G",
     "Enabled": true
   },
   "440107": {
     "OriginalText": "タイプＨ",
-    "Text": "Type H",
+    "Text": "타입 H",
     "Enabled": true
   },
   "440108": {
     "OriginalText": "タイプＩ",
-    "Text": "Type I",
+    "Text": "타입 I",
     "Enabled": true
   },
   "440109": {
     "OriginalText": "タイプＪ",
-    "Text": "Type J",
+    "Text": "타입 J",
     "Enabled": true
   },
   "440110": {
     "OriginalText": "タイプＫ",
-    "Text": "Type K",
+    "Text": "타입 K",
     "Enabled": true
   },
   "440111": {
     "OriginalText": "タイプＬ",
-    "Text": "Type L",
+    "Text": "타입 L",
     "Enabled": true
   },
   "440112": {
     "OriginalText": "タイプＭ",
-    "Text": "Type M",
+    "Text": "타입 M",
     "Enabled": true
   },
   "440113": {
     "OriginalText": "タイプＮ",
-    "Text": "Type N",
+    "Text": "타입 N",
     "Enabled": true
   },
   "440114": {
     "OriginalText": "タイプＯ",
-    "Text": "Type O",
+    "Text": "타입 O",
     "Enabled": true
   },
   "440115": {
     "OriginalText": "タイプＰ",
-    "Text": "Type P",
+    "Text": "타입 P",
     "Enabled": true
   },
   "440116": {
     "OriginalText": "太眉",
-    "Text": "",
-    "Enabled": false
+    "Text": "굵은 눈썹",
+    "Enabled": true
   },
   "440117": {
     "OriginalText": "太眉（△型）",
-    "Text": "",
-    "Enabled": false
+    "Text": "굵은 눈썹(삼각형)",
+    "Enabled": true
   },
   "440118": {
     "OriginalText": "人型用 タイプＡ",
-    "Text": "Type A",
+    "Text": "인간형용 타입 A",
     "Enabled": true
   },
   "440119": {
     "OriginalText": "人型用 タイプＢ",
-    "Text": "Type B",
+    "Text": "인간형용 타입 B",
     "Enabled": true
   },
   "440120": {
     "OriginalText": "人型用 タイプＣ",
-    "Text": "Type C",
+    "Text": "인간형용 타입 C",
     "Enabled": true
   },
   "440121": {
     "OriginalText": "人型用 タイプＤ",
-    "Text": "Type D",
+    "Text": "인간형용 타입 D",
     "Enabled": true
   },
   "440122": {
     "OriginalText": "人型用 タイプＥ",
-    "Text": "Type E",
+    "Text": "인간형용 타입 E",
     "Enabled": true
   },
   "440123": {
     "OriginalText": "人型用 タイプＦ",
-    "Text": "Type F",
+    "Text": "인간형용 타입 F",
     "Enabled": true
   },
   "440124": {
     "OriginalText": "人型用 タイプＧ",
-    "Text": "Type G",
+    "Text": "인간형용 타입 G",
     "Enabled": true
   },
   "440125": {
     "OriginalText": "人型用 タイプＨ",
-    "Text": "Type H",
+    "Text": "인간형용 타입 H",
     "Enabled": true
   },
   "440126": {
     "OriginalText": "人型用 タイプＩ",
-    "Text": "Type I",
+    "Text": "인간형용 타입 I",
     "Enabled": true
   },
   "440127": {
     "OriginalText": "人型用 タイプＪ",
-    "Text": "Type J",
+    "Text": "인간형용 타입 J",
     "Enabled": true
   },
   "440128": {
     "OriginalText": "人型用 タイプＫ",
-    "Text": "Type K",
+    "Text": "인간형용 타입 K",
     "Enabled": true
   },
   "440129": {
     "OriginalText": "人型用 タイプＬ",
-    "Text": "Type L",
+    "Text": "인간형용 타입 L",
     "Enabled": true
   },
   "440130": {
     "OriginalText": "人型用 タイプＭ",
-    "Text": "Type M",
+    "Text": "인간형용 타입 M",
     "Enabled": true
   },
   "440131": {
     "OriginalText": "人型用 タイプＮ",
-    "Text": "Type N",
+    "Text": "인간형용 타입 N",
     "Enabled": true
   },
   "440132": {
     "OriginalText": "キャスト用 タイプＡ",
-    "Text": "Type A",
+    "Text": "캐스트용 타입 A",
     "Enabled": true
   },
   "440133": {
     "OriginalText": "キャスト用 タイプＢ",
-    "Text": "Type B",
+    "Text": "캐스트용 타입 B",
     "Enabled": true
   },
   "440134": {
     "OriginalText": "キャスト用 タイプＣ",
-    "Text": "Type C",
+    "Text": "캐스트용 타입 C",
     "Enabled": true
   },
   "440135": {
     "OriginalText": "キャスト用 タイプＤ",
-    "Text": "Type D",
+    "Text": "캐스트용 타입 D",
     "Enabled": true
   },
   "440136": {
     "OriginalText": "キャスト用 タイプＥ",
-    "Text": "Type E",
+    "Text": "캐스트용 타입 E",
     "Enabled": true
   },
   "440137": {
     "OriginalText": "ローズ・ヘッド破",
-    "Text": "Rose Head (Damaged)",
+    "Text": "로즈 헤드 (파손)",
     "Enabled": true
   },
   "440138": {
     "OriginalText": "ディール・ヘッド破",
-    "Text": "Deal Head (Damaged)",
+    "Text": "디일 헤드 (파손)",
     "Enabled": true
   },
   "440139": {
     "OriginalText": "ファーネン・ヘッド破",
-    "Text": "Fanen Head (Damaged)",
+    "Text": "파넨 헤드 (파손)",
     "Enabled": true
   },
   "440140": {
     "OriginalText": "イオニア・ヘッド破",
-    "Text": "Ionia Head (Damaged)",
+    "Text": "이오니아 헤드 (파손)",
     "Enabled": true
   },
   "440141": {
     "OriginalText": "ランクス・ヘッド",
-    "Text": "Ranks Head",
+    "Text": "랭크스 헤드",
     "Enabled": true
   },
   "440142": {
     "OriginalText": "イルシオン・ヘッド",
-    "Text": "Illusion Head",
+    "Text": "일루시온 헤드",
     "Enabled": true
   },
   "440143": {
     "OriginalText": "ワスプ・ヘッド破ＣＶ",
-    "Text": "Wasp Head CV (Damaged)",
+    "Text": "와스프 헤드 (파손) CV",
     "Enabled": true
   },
   "440144": {
     "OriginalText": "フリーゲン・ヘッド破",
-    "Text": "Fliegen Head (Damaged)",
+    "Text": "플리겐 헤드 (파손)",
     "Enabled": true
   },
   "440145": {
     "OriginalText": "ラミア・ヘッド破",
-    "Text": "Lamia Head (Damaged)",
+    "Text": "라미아 헤드 (파손)",
     "Enabled": true
   },
   "440146": {
     "OriginalText": "グリース・ヘッド破",
-    "Text": "Griss Head (Damaged)",
+    "Text": "그리스 헤드 (파손)",
     "Enabled": true
   },
   "440147": {
     "OriginalText": "ケルビナ・ヘッド破",
-    "Text": "Cherubina Head (Damaged)",
+    "Text": "켈비나 헤드 (파손)",
     "Enabled": true
   },
   "440148": {
     "OriginalText": "メディウム・ヘッド",
-    "Text": "Medium Head",
+    "Text": "메디움 헤드",
     "Enabled": true
   },
   "440149": {
     "OriginalText": "ヘルマ・ヘッド破",
-    "Text": "Helma Head (Damaged)",
+    "Text": "헬마 헤드 (파손)",
     "Enabled": true
   },
   "440150": {
     "OriginalText": "ゴルドファム・ヘッド",
-    "Text": "Gold Fam Head",
+    "Text": "골드팜 헤드",
     "Enabled": true
   },
   "440151": {
     "OriginalText": "ガラテ・ヘッド",
-    "Text": "Garate Head",
+    "Text": "갈라테 헤드",
     "Enabled": true
   },
   "440152": {
     "OriginalText": "アルキ・ヘッド",
-    "Text": "Alki Head",
+    "Text": "알키 헤드",
     "Enabled": true
   },
   "440153": {
     "OriginalText": "ラビーソ・ヘッド",
-    "Text": "Rabiso Head",
+    "Text": "라비소 헤드",
     "Enabled": true
   },
   "440154": {
     "OriginalText": "マーヴ・ヘッド",
-    "Text": "Marv Head",
+    "Text": "마브 헤드",
     "Enabled": true
   },
   "440155": {
     "OriginalText": "ノヴァファム・ヘッド",
-    "Text": "Nova Fam Head",
+    "Text": "노바팜 헤드",
     "Enabled": true
   },
   "440156": {
     "OriginalText": "シャロン・ヘッド",
-    "Text": "Sharon Head",
+    "Text": "샤론 헤드",
     "Enabled": true
   },
   "440157": {
     "OriginalText": "ベリーショート",
-    "Text": "Very Short",
+    "Text": "베리 쇼트",
     "Enabled": true
   },
   "440158": {
     "OriginalText": "ショートマッシュ",
-    "Text": "Short Mash",
+    "Text": "쇼트 매시",
     "Enabled": true
   },
   "440159": {
     "OriginalText": "スパイキーウルフ",
-    "Text": "Spiky Wolf",
+    "Text": "스파이키 울프",
     "Enabled": true
   },
   "440160": {
     "OriginalText": "カジュアル",
-    "Text": "Casual",
+    "Text": "캐쥬얼",
     "Enabled": true
   },
   "440161": {
     "OriginalText": "ショートウルフ",
-    "Text": "Short Wolf",
+    "Text": "쇼트 울프",
     "Enabled": true
   },
   "440162": {
     "OriginalText": "ミディアムレイヤー",
-    "Text": "Medium Layer",
+    "Text": "미디엄 레이어",
     "Enabled": true
   },
   "440163": {
     "OriginalText": "ブレイズ",
-    "Text": "Blaze",
+    "Text": "브레이즈",
     "Enabled": true
   },
   "440164": {
     "OriginalText": "クラシックショート",
-    "Text": "Classic Short",
+    "Text": "클래식 쇼트",
     "Enabled": true
   },
   "440165": {
     "OriginalText": "スパイク",
-    "Text": "Spike",
+    "Text": "스파이크",
     "Enabled": true
   },
   "440166": {
     "OriginalText": "サムライポニー",
-    "Text": "Samurai Pony",
+    "Text": "사무라이 포니",
     "Enabled": true
   },
   "440167": {
     "OriginalText": "シャープストレート",
-    "Text": "Sharp Straight",
+    "Text": "샤프 스트레이트",
     "Enabled": true
   },
   "440168": {
     "OriginalText": "ビグテール",
-    "Text": "Big Tail",
-    "Enabled": true
+    "Text": "피그테일",
+    "Enabled": false
   },
   "440169": {
     "OriginalText": "ウェーブ",
-    "Text": "Wave",
+    "Text": "웨이브",
     "Enabled": true
   },
   "440170": {
     "OriginalText": "リーゼント",
-    "Text": "Resent",
+    "Text": "리젠트",
     "Enabled": true
   },
   "440171": {
     "OriginalText": "ショートストレート",
-    "Text": "Short Straight",
+    "Text": "쇼트 스트레이트",
     "Enabled": true
   },
   "440172": {
     "OriginalText": "カジュアルレイヤー",
-    "Text": "Casual Layer",
+    "Text": "캐쥬얼 레이어",
     "Enabled": true
   },
   "440173": {
     "OriginalText": "ストレートロング",
-    "Text": "Straight Long",
+    "Text": "스트레이트 롱",
     "Enabled": true
   },
   "440174": {
     "OriginalText": "ミディアムマッシュ",
-    "Text": "Medium Mash",
+    "Text": "미디엄 매시",
     "Enabled": true
   },
   "440175": {
     "OriginalText": "ショートボブ",
-    "Text": "Short Bob",
+    "Text": "쇼트 보브",
     "Enabled": true
   },
   "440176": {
     "OriginalText": "レトロガーリー",
-    "Text": "Retro Girly",
+    "Text": "레트로 걸리",
     "Enabled": true
   },
   "440177": {
     "OriginalText": "オールバック",
-    "Text": "All Back",
+    "Text": "올백",
     "Enabled": true
   },
   "440178": {
     "OriginalText": "ふんわりアフロ",
-    "Text": "Fluffy Afro",
+    "Text": "푹신한 아프로",
     "Enabled": true
   },
   "440179": {
     "OriginalText": "モヒカン",
-    "Text": "Mohawk",
+    "Text": "모히칸",
     "Enabled": true
   },
   "440180": {
     "OriginalText": "中分けショートボブ",
-    "Text": "Middle-Parted Short Bob",
+    "Text": "가운데 가르마 쇼트 보브",
     "Enabled": true
   },
   "440181": {
     "OriginalText": "ワイルドポニー",
-    "Text": "Wild Pony",
+    "Text": "와일드 포니",
     "Enabled": true
   },
   "440182": {
     "OriginalText": "ショートリーゼント",
-    "Text": "Short Resent",
+    "Text": "쇼트 리젠트",
     "Enabled": true
   },
   "440183": {
     "OriginalText": "スキンヘッド",
-    "Text": "Skinhead",
+    "Text": "스킨헤드",
     "Enabled": true
   },
   "440184": {
     "OriginalText": "ミディアムクール",
-    "Text": "Medium Cool",
+    "Text": "미디엄 쿨",
     "Enabled": true
   },
   "440185": {
     "OriginalText": "ミディアムエッジ",
-    "Text": "Medium Edge",
+    "Text": "미디엄 에지",
     "Enabled": true
   },
   "440186": {
     "OriginalText": "クラシックオールバック",
-    "Text": "Classic All Back",
+    "Text": "클래식 올백",
     "Enabled": true
   },
   "440187": {
     "OriginalText": "外ハネセミロング",
-    "Text": "Outward Combed Semi-Long",
+    "Text": "바깥 뻗침 세미 롱",
     "Enabled": true
   },
   "440188": {
     "OriginalText": "ヘリパイロットヘルメット",
-    "Text": "Heli Pilot Helmet",
+    "Text": "헬기 조종사 헬멧",
     "Enabled": true
   },
   "440189": {
     "OriginalText": "ヘリＰヘルメットＮＶ",
-    "Text": "Heli Pilot Helmet NV",
+    "Text": "헬기 조종사 헬멧 NV",
     "Enabled": true
   },
   "440190": {
     "OriginalText": "リリーパヘアー",
-    "Text": "Lilipa Hair",
+    "Text": "리리파 헤어",
     "Enabled": true
   },
   "440191": {
     "OriginalText": "ツインテール",
-    "Text": "Twin Tails",
+    "Text": "트윈테일",
     "Enabled": true
   },
   "440192": {
     "OriginalText": "ナチュラルロング",
-    "Text": "Natural Long",
+    "Text": "내추럴 롱",
     "Enabled": true
   },
   "440193": {
     "OriginalText": "アップスタイル",
-    "Text": "Up Style",
+    "Text": "업스타일",
     "Enabled": true
   },
   "440194": {
     "OriginalText": "サイドアップ",
-    "Text": "Side Up",
+    "Text": "사이드 업",
     "Enabled": true
   },
   "440195": {
     "OriginalText": "ミディアムツインテール１",
-    "Text": "Medium Twin Tails 1",
+    "Text": "미디엄 트윈테일 1",
     "Enabled": true
   },
   "440196": {
     "OriginalText": "ミディアムツインテール２",
-    "Text": "Medium Twin Tails 2",
+    "Text": "미디엄 트윈테일 2",
     "Enabled": true
   },
   "440197": {
     "OriginalText": "ポニーテール１",
-    "Text": "Ponytail 1",
+    "Text": "포니테일 1",
     "Enabled": true
   },
   "440198": {
     "OriginalText": "ポニーテール２",
-    "Text": "Ponytail 2",
+    "Text": "포니테일 2",
     "Enabled": true
   },
   "440199": {
     "OriginalText": "ポニーテール３",
-    "Text": "Ponytail 3",
+    "Text": "포니테일 3",
     "Enabled": true
   },
   "440200": {
     "OriginalText": "ミディアムストレート１",
-    "Text": "Medium Straight 1",
+    "Text": "미디엄 스트레이트 1",
     "Enabled": true
   },
   "440201": {
     "OriginalText": "ミディアムストレート２",
-    "Text": "Medium Straight 2",
+    "Text": "미디엄 스트레이트 2",
     "Enabled": true
   },
   "440202": {
     "OriginalText": "ミディアムストレート３",
-    "Text": "Medium Straight 3",
+    "Text": "미디엄 스트레이트 3",
     "Enabled": true
   },
   "440203": {
     "OriginalText": "ゆる三つ編み",
-    "Text": "",
-    "Enabled": false
+    "Text": "느슨한 땋은 머리",
+    "Enabled": true
   },
   "440204": {
     "OriginalText": "ゆる三つ編み 前",
-    "Text": "",
-    "Enabled": false
+    "Text": "느슨한 땋은 머리(앞)",
+    "Enabled": true
   },
   "440205": {
     "OriginalText": "ツインアップ",
-    "Text": "Twin Up",
+    "Text": "트윈 업",
     "Enabled": true
   },
   "440206": {
     "OriginalText": "編みこみアップスタイル",
-    "Text": "",
-    "Enabled": false
+    "Text": "땋은 업스타일",
+    "Enabled": true
   },
   "440207": {
     "OriginalText": "ロングツインテール",
-    "Text": "Long Twin Tails",
+    "Text": "롱 트윈테일",
     "Enabled": true
   },
   "440208": {
     "OriginalText": "たれツインテ",
-    "Text": "Low Twin Tails",
+    "Text": "늘어진 트윈테일",
     "Enabled": true
   },
   "440209": {
     "OriginalText": "イーリスビーハイブ",
-    "Text": "Iris Beehive",
+    "Text": "이리스 비하이브",
     "Enabled": true
   },
   "440210": {
     "OriginalText": "姫カットロング",
-    "Text": "Hime Cut Long",
+    "Text": "히메컷 롱",
     "Enabled": true
   },
   "440211": {
     "OriginalText": "スーパーパイナップル",
-    "Text": "Super Pineapple",
+    "Text": "슈퍼 파인애플",
     "Enabled": true
   },
   "440212": {
     "OriginalText": "セブンスリーヘア",
-    "Text": "Seven Three Hair",
+    "Text": "7:3 가르마 헤어",
     "Enabled": true
   },
   "440213": {
     "OriginalText": "ヤワフアミディアム",
-    "Text": "Yawafua Medium",
+    "Text": "부드러운 미디엄",
     "Enabled": true
   },
   "440214": {
     "OriginalText": "ビジネスマッシュボブ",
-    "Text": "Business Mash Bob",
+    "Text": "비즈니스 매시 보브",
     "Enabled": true
   },
   "440215": {
     "OriginalText": "ニュアンスストレート",
-    "Text": "Nuance Straight",
+    "Text": "뉴앙스 스트레이트",
     "Enabled": true
   },
   "440216": {
     "OriginalText": "ドレスアップヘア",
-    "Text": "Dress Up Hair",
+    "Text": "드레스업 헤어",
     "Enabled": true
   },
   "440217": {
     "OriginalText": "フェミニンロング",
-    "Text": "Feminine Long",
+    "Text": "페미닌 롱",
     "Enabled": true
   },
   "440218": {
     "OriginalText": "フェミニンロングブライド",
-    "Text": "Feminine Long Bright",
+    "Text": "페미닌 롱 브라이드",
     "Enabled": true
   },
   "440219": {
     "OriginalText": "クイーンズロング",
-    "Text": "Queens Long",
+    "Text": "퀸즈 롱",
     "Enabled": true
   },
   "440220": {
     "OriginalText": "トロピカルストレート",
-    "Text": "Tropical Straight",
+    "Text": "트로피컬 스트레이트",
     "Enabled": true
   },
   "440221": {
     "OriginalText": "スパイスタイルオールバック",
-    "Text": "Spy Style All Back",
+    "Text": "스파이 스타일 올백",
     "Enabled": true
   },
   "440222": {
     "OriginalText": "ロングパイルスタイル",
-    "Text": "Long Pile Style",
+    "Text": "롱 파일 스타일",
     "Enabled": true
   },
   "440223": {
     "OriginalText": "ショートモヒカンスタイル",
-    "Text": "Short Mohawk Style",
+    "Text": "쇼트 모히칸 스타일",
     "Enabled": true
   },
   "440224": {
     "OriginalText": "カジュアルパーティスタイル",
-    "Text": "Casual Party Style",
+    "Text": "캐쥬얼 파티 스타일",
     "Enabled": true
   },
   "440225": {
     "OriginalText": "ナイトパーティスタイル",
-    "Text": "Night Party Style",
+    "Text": "나이트 파티 스타일",
     "Enabled": true
   },
   "440241": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "440242": {
     "OriginalText": "フェイスガード 白",
-    "Text": "White Face Guard",
+    "Text": "페이스 가드 (흰색)",
     "Enabled": true
   },
   "440243": {
     "OriginalText": "フェイスガード グレー",
-    "Text": "Grey Face Guard",
+    "Text": "페이스 가드 (회색)",
     "Enabled": true
   },
   "440244": {
     "OriginalText": "フェイスガード ブラック",
-    "Text": "Black Face Guard",
+    "Text": "페이스 가드 (검정)",
     "Enabled": true
   },
   "440245": {
     "OriginalText": "鼻ばんそうこう",
-    "Text": "",
-    "Enabled": false
+    "Text": "코 반창고",
+    "Enabled": true
   },
   "440246": {
     "OriginalText": "タトゥー",
-    "Text": "Tattoo",
+    "Text": "타투",
     "Enabled": true
   },
   "440247": {
     "OriginalText": "ヒゲ１",
-    "Text": "Beard 1",
+    "Text": "수염 1",
     "Enabled": true
   },
   "440248": {
     "OriginalText": "ヒゲ２",
-    "Text": "Beard 2",
+    "Text": "수염 2",
     "Enabled": true
   },
   "440249": {
     "OriginalText": "無精ひげ",
-    "Text": "Stubble",
+    "Text": "덥수룩한 수염",
     "Enabled": true
   },
   "440250": {
     "OriginalText": "隈取",
-    "Text": "",
-    "Enabled": false
+    "Text": "구마도리 분장",
+    "Enabled": true
   },
   "440251": {
     "OriginalText": "カモフラージュペイント",
-    "Text": "Camouflage Paint",
+    "Text": "위장 페인트",
     "Enabled": true
   },
   "440252": {
     "OriginalText": "ドクロペイント",
-    "Text": "Skull Paint",
+    "Text": "해골 페인트",
     "Enabled": true
   },
   "440253": {
     "OriginalText": "プリティフラワー",
-    "Text": "Pretty Flower",
+    "Text": "프리티 플라워",
     "Enabled": true
   },
   "440254": {
     "OriginalText": "傷跡１",
-    "Text": "Scar 1",
+    "Text": "흉터 1",
     "Enabled": true
   },
   "440255": {
     "OriginalText": "傷跡２",
-    "Text": "Scar 2",
+    "Text": "흉터 2",
     "Enabled": true
   },
   "440256": {
     "OriginalText": "傷跡３",
-    "Text": "Scar 3",
+    "Text": "흉터 3",
     "Enabled": true
   },
   "440257": {
     "OriginalText": "傷跡４",
-    "Text": "Scar 4",
+    "Text": "흉터 4",
     "Enabled": true
   },
   "440258": {
     "OriginalText": "傷跡５",
-    "Text": "Scar 5",
+    "Text": "흉터 5",
     "Enabled": true
   },
   "440259": {
     "OriginalText": "傷跡６",
-    "Text": "Scar 6",
+    "Text": "흉터 6",
     "Enabled": true
   },
   "440260": {
     "OriginalText": "ソバカス",
-    "Text": "Freckles",
+    "Text": "주근깨",
     "Enabled": true
   },
   "440261": {
     "OriginalText": "ナチュラルメイク",
-    "Text": "Natural Makeup",
+    "Text": "내추럴 메이크업",
     "Enabled": true
   },
   "440262": {
     "OriginalText": "モデルメイク",
-    "Text": "Model Makeup",
+    "Text": "모델 메이크업",
     "Enabled": true
   },
   "440263": {
     "OriginalText": "濃いメイク",
-    "Text": "Thick Makeup",
+    "Text": "진한 메이크업",
     "Enabled": true
   },
   "440264": {
     "OriginalText": "リップカラー 赤",
-    "Text": "Red Lip Color",
+    "Text": "입술 컬러 (빨강)",
     "Enabled": true
   },
   "440265": {
     "OriginalText": "リップカラー 紅",
-    "Text": "Thick Red Lip Color",
+    "Text": "입술 컬러 (진홍)",
     "Enabled": true
   },
   "440266": {
     "OriginalText": "リップカラー 薄紅",
-    "Text": "Thin Red Lip Color",
+    "Text": "입술 컬러 (연홍)",
     "Enabled": true
   },
   "440267": {
     "OriginalText": "リップカラー 橙",
-    "Text": "Orange Lip Color",
+    "Text": "입술 컬러 (주황)",
     "Enabled": true
   },
   "440268": {
     "OriginalText": "リップカラー 緑",
-    "Text": "Green Lip Color",
+    "Text": "입술 컬러 (초록)",
     "Enabled": true
   },
   "440269": {
     "OriginalText": "リップカラー 青",
-    "Text": "Blue Lip Color",
+    "Text": "입술 컬러 (파랑)",
     "Enabled": true
   },
   "440270": {
     "OriginalText": "リップカラー 紫",
-    "Text": "Purple Lip Color",
+    "Text": "입술 컬러 (보라)",
     "Enabled": true
   },
   "440271": {
     "OriginalText": "リップカラー 黒",
-    "Text": "Black Lip Color",
+    "Text": "입술 컬러 (검정)",
     "Enabled": true
   },
   "440272": {
     "OriginalText": "口ひげ",
-    "Text": "Moustasche",
+    "Text": "콧수염",
     "Enabled": true
   },
   "440273": {
     "OriginalText": "デスメタル",
-    "Text": "Death Metal",
+    "Text": "데스 메탈",
     "Enabled": true
   },
   "440274": {
     "OriginalText": "ひび（クラック）",
-    "Text": "",
-    "Enabled": false
+    "Text": "균열(크랙)",
+    "Enabled": true
   },
   "440275": {
     "OriginalText": "ツギハギ",
-    "Text": "",
-    "Enabled": false
+    "Text": "기운 자국",
+    "Enabled": true
   },
   "440276": {
     "OriginalText": "キャスト用 ラインタイプＡ",
-    "Text": "Line Type A",
+    "Text": "캐스트용 라인 타입 A",
     "Enabled": true
   },
   "440277": {
     "OriginalText": "キャスト用 ラインタイプＢ",
-    "Text": "Line Type B",
+    "Text": "캐스트용 라인 타입 B",
     "Enabled": true
   },
   "440278": {
     "OriginalText": "キャスト用 ラインタイプＣ",
-    "Text": "Line Type C",
+    "Text": "캐스트용 라인 타입 C",
     "Enabled": true
   },
   "440279": {
     "OriginalText": "絆創膏：セイル",
-    "Text": "",
-    "Enabled": false
+    "Text": "반창고: 세일",
+    "Enabled": true
   },
   "440280": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "440281": {
     "OriginalText": "胸毛",
-    "Text": "",
-    "Enabled": false
+    "Text": "가슴털",
+    "Enabled": true
   },
   "440282": {
     "OriginalText": "タトゥー１",
-    "Text": "Tattoo 1",
+    "Text": "타투 1",
     "Enabled": true
   },
   "440283": {
     "OriginalText": "胸のキズ",
-    "Text": "Chest Wound",
+    "Text": "가슴 흉터",
     "Enabled": true
   },
   "440284": {
     "OriginalText": "男性用アンダーアーマー",
-    "Text": "Under Armor M",
+    "Text": "남성용 언더 아머",
     "Enabled": true
   },
   "440285": {
     "OriginalText": "手のバンテージ",
-    "Text": "Hand Bandages",
+    "Text": "손 붕대",
     "Enabled": true
   },
   "440286": {
     "OriginalText": "日焼跡",
-    "Text": "",
-    "Enabled": false
+    "Text": "선탠 자국",
+    "Enabled": true
   },
   "440287": {
     "OriginalText": "ニーソックス",
-    "Text": "Knee Socks",
+    "Text": "니삭스",
     "Enabled": true
   },
   "440288": {
     "OriginalText": "女性用アンダーアーマー",
-    "Text": "Under Armor F",
+    "Text": "여성용 언더 아머",
     "Enabled": true
   },
   "440289": {
     "OriginalText": "タトゥー",
-    "Text": "Tattoo",
+    "Text": "타투",
     "Enabled": true
   },
   "440290": {
     "OriginalText": "ガーターベルト＆ストッキング",
-    "Text": "Garter Belt & Stockings",
+    "Text": "가터벨트와 스타킹",
     "Enabled": true
   },
   "440291": {
     "OriginalText": "ベレー帽",
-    "Text": "Beret Cap",
+    "Text": "베레모",
     "Enabled": true
   },
   "440292": {
     "OriginalText": "ベレー帽 月",
-    "Text": "Beret Cap Moon",
+    "Text": "베레모 (월)",
     "Enabled": true
   },
   "440293": {
     "OriginalText": "ベレー帽 夜",
-    "Text": "Beret Cap Night",
+    "Text": "베레모 (밤)",
     "Enabled": true
   },
   "440294": {
     "OriginalText": "ベレー帽 葉",
-    "Text": "Beret Cap Leaf",
+    "Text": "베레모 (잎)",
     "Enabled": true
   },
   "440295": {
     "OriginalText": "ベレー帽 陽",
-    "Text": "Beret Cap Sun",
+    "Text": "베레모 (햇빛)",
     "Enabled": true
   },
   "440296": {
     "OriginalText": "ヘッドギア",
-    "Text": "Headgear",
+    "Text": "헤드기어",
     "Enabled": true
   },
   "440297": {
     "OriginalText": "ヘッドギア葉",
-    "Text": "Headgear Leaf",
+    "Text": "헤드기어 (잎)",
     "Enabled": true
   },
   "440298": {
     "OriginalText": "ヘッドギア紅",
-    "Text": "Headgear Crimson",
+    "Text": "헤드기어 (진홍)",
     "Enabled": true
   },
   "440299": {
     "OriginalText": "ヘッドギア影",
-    "Text": "Headgear Shadow",
+    "Text": "헤드기어 (그림자)",
     "Enabled": true
   },
   "440300": {
     "OriginalText": "ヘッドギア月",
-    "Text": "Headgear Moon",
+    "Text": "헤드기어 (월)",
     "Enabled": true
   },
   "440301": {
     "OriginalText": "アイハット",
-    "Text": "Eye Hat",
+    "Text": "아이 햇",
     "Enabled": true
   },
   "440302": {
     "OriginalText": "アイハット月",
-    "Text": "Eye Hat Moon",
+    "Text": "아이 햇 (월)",
     "Enabled": true
   },
   "440303": {
     "OriginalText": "アイハット銀",
-    "Text": "Eye Hat Silver",
+    "Text": "아이 햇 (은)",
     "Enabled": true
   },
   "440304": {
     "OriginalText": "アイハット影",
-    "Text": "Eye Hat Shadow",
+    "Text": "아이 햇 (그림자)",
     "Enabled": true
   },
   "440305": {
     "OriginalText": "アイハット鋼",
-    "Text": "",
-    "Enabled": false
+    "Text": "아이 햇 (강철)",
+    "Enabled": true
   },
   "440306": {
     "OriginalText": "ウィオラキャップ",
-    "Text": "Viola Cap",
+    "Text": "위올라 캡",
     "Enabled": true
   },
   "440307": {
     "OriginalText": "ウィオラキャップ夜",
-    "Text": "Viola Cap Night",
+    "Text": "위올라 캡 (밤)",
     "Enabled": true
   },
   "440308": {
     "OriginalText": "ウィオラキャップ影",
-    "Text": "Viola Cap Shadow",
+    "Text": "위올라 캡 (그림자)",
     "Enabled": true
   },
   "440309": {
     "OriginalText": "ウィオラキャップ紅",
-    "Text": "Viola Cap Crimson",
+    "Text": "위올라 캡 (진홍)",
     "Enabled": true
   },
   "440310": {
     "OriginalText": "ウィオラキャップ鋼",
-    "Text": "Viola Cap Steel",
+    "Text": "위올라 캡 (강철)",
     "Enabled": true
   },
   "440311": {
     "OriginalText": "背高帽",
-    "Text": "Tall Hat",
+    "Text": "높은 모자",
     "Enabled": true
   },
   "440312": {
     "OriginalText": "背高帽 桜",
-    "Text": "Tall Hat Cherry",
+    "Text": "높은 모자 (벚꽃)",
     "Enabled": true
   },
   "440313": {
     "OriginalText": "背高帽 海",
-    "Text": "Tall Hat Sea",
+    "Text": "높은 모자 (바다)",
     "Enabled": true
   },
   "440314": {
     "OriginalText": "背高帽 葉",
-    "Text": "Tall Hat Leaf",
+    "Text": "높은 모자 (잎)",
     "Enabled": true
   },
   "440315": {
     "OriginalText": "背高帽 陽",
-    "Text": "Tall Hat Sun",
+    "Text": "높은 모자 (햇빛)",
     "Enabled": true
   },
   "440316": {
     "OriginalText": "クルーンハット",
-    "Text": "Croon Hat",
+    "Text": "크룬 햇",
     "Enabled": true
   },
   "440317": {
     "OriginalText": "クルーンハット影",
-    "Text": "Croon Hat Shadow",
+    "Text": "크룬 햇 (그림자)",
     "Enabled": true
   },
   "440318": {
     "OriginalText": "クルーンハット銀",
-    "Text": "Croon Hat Silver",
+    "Text": "크룬 햇 (은)",
     "Enabled": true
   },
   "440319": {
     "OriginalText": "クルーンハット雅",
-    "Text": "Croon Hat Elegance",
+    "Text": "크룬 햇 (우아)",
     "Enabled": true
   },
   "440320": {
     "OriginalText": "クルーンハット月",
-    "Text": "Croon Hat Moon",
+    "Text": "크룬 햇 (월)",
     "Enabled": true
   },
   "440321": {
     "OriginalText": "ヘッドセット",
-    "Text": "Headset",
+    "Text": "헤드셋",
     "Enabled": true
   },
   "440322": {
     "OriginalText": "ヘッドアクセサリー",
-    "Text": "Head Accessory",
+    "Text": "헤드 액세서리",
     "Enabled": true
   },
   "440323": {
     "OriginalText": "トーク帽",
-    "Text": "Toque Hat",
+    "Text": "토크 햇",
     "Enabled": true
   },
   "440324": {
     "OriginalText": "略帽",
-    "Text": "Ordinary Cap",
+    "Text": "약모",
     "Enabled": true
   },
   "440325": {
     "OriginalText": "メイドカチューシャ",
-    "Text": "Maid Headband",
+    "Text": "메이드 머리띠",
     "Enabled": true
   },
   "440326": {
     "OriginalText": "ナースキャップＡ",
-    "Text": "Nurse Cap A",
+    "Text": "간호사 모자 A",
     "Enabled": true
   },
   "440327": {
     "OriginalText": "シュノーケル",
-    "Text": "Snorkel",
+    "Text": "스노클",
     "Enabled": true
   },
   "440328": {
     "OriginalText": "ヘイズハット",
-    "Text": "Haze Hat",
+    "Text": "헤이즈 햇",
     "Enabled": true
   },
   "440329": {
     "OriginalText": "キャンディーヘッドギア",
-    "Text": "Candy Headgear",
+    "Text": "캔디 헤드기어",
     "Enabled": true
   },
   "440330": {
     "OriginalText": "月桂樹の冠",
-    "Text": "Laurel Wreath",
+    "Text": "월계관",
     "Enabled": true
   },
   "440331": {
     "OriginalText": "ブラックテンガロンハット",
-    "Text": "Black Ten Gallon Hat",
+    "Text": "블랙 텐갤런 햇",
     "Enabled": true
   },
   "440332": {
     "OriginalText": "レッドテンガロンハット",
-    "Text": "Red Ten Gallon Hat",
+    "Text": "레드 텐갤런 햇",
     "Enabled": true
   },
   "440333": {
     "OriginalText": "ホルスタインＴハット",
-    "Text": "Holstein T Hat",
+    "Text": "홀스타인 텐갤런 햇",
     "Enabled": true
   },
   "440334": {
     "OriginalText": "ブラウンテンガロンハット",
-    "Text": "Brown Ten Gallon Hat",
+    "Text": "브라운 텐갤런 햇",
     "Enabled": true
   },
   "440335": {
     "OriginalText": "ホワイトテンガロンハット",
-    "Text": "White Ten Gallon Hat",
+    "Text": "화이트 텐갤런 햇",
     "Enabled": true
   },
   "440336": {
     "OriginalText": "ブラウンキャスケット帽",
-    "Text": "Casquette Hat Brown",
+    "Text": "브라운 캐스켓 모자",
     "Enabled": true
   },
   "440337": {
     "OriginalText": "ホワイトキャスケット帽",
-    "Text": "Casquette Hat White",
+    "Text": "화이트 캐스켓 모자",
     "Enabled": true
   },
   "440338": {
     "OriginalText": "ピンクキャスケット帽",
-    "Text": "Casquette Hat Pink",
+    "Text": "핑크 캐스켓 모자",
     "Enabled": true
   },
   "440339": {
     "OriginalText": "ブラックキャスケット帽",
-    "Text": "Casquette Hat Black",
+    "Text": "블랙 캐스켓 모자",
     "Enabled": true
   },
   "440340": {
     "OriginalText": "イエローキャスケット帽",
-    "Text": "Casquette Hat Yellow",
+    "Text": "옐로 캐스켓 모자",
     "Enabled": true
   },
   "440341": {
     "OriginalText": "プリムヘッドフォン",
-    "Text": "Prim Headphones",
+    "Text": "프림 헤드폰",
     "Enabled": true
   },
   "440342": {
     "OriginalText": "ブリッツガーダー",
-    "Text": "Blitz Guarder",
+    "Text": "블리츠 가더",
     "Enabled": true
   },
   "440343": {
     "OriginalText": "ヘッドゴーグル",
-    "Text": "Head Goggles",
+    "Text": "헤드 고글",
     "Enabled": true
   },
   "440344": {
     "OriginalText": "白ハチマキ",
-    "Text": "White Headband",
+    "Text": "흰 머리띠",
     "Enabled": true
   },
   "440345": {
     "OriginalText": "赤ハチマキ",
-    "Text": "Red Headband",
+    "Text": "빨간 머리띠",
     "Enabled": true
   },
   "440346": {
     "OriginalText": "ファニーリボン",
-    "Text": "Funny Ribbon",
+    "Text": "퍼니 리본",
     "Enabled": true
   },
   "440347": {
     "OriginalText": "シニヨン飾り",
-    "Text": "Chignon Decoration",
+    "Text": "시뇽 장식",
     "Enabled": true
   },
   "440348": {
     "OriginalText": "カンカン帽Ａ",
-    "Text": "Boater A",
+    "Text": "보터 햇 A",
     "Enabled": true
   },
   "440349": {
     "OriginalText": "カンカン帽Ｂ",
-    "Text": "Boater B",
+    "Text": "보터 햇 B",
     "Enabled": true
   },
   "440350": {
     "OriginalText": "ナースキャップＢ",
-    "Text": "Nurse Cap B",
+    "Text": "간호사 모자 B",
     "Enabled": true
   },
   "440351": {
     "OriginalText": "フランケンのネジ",
-    "Text": "Frankenscrew",
+    "Text": "프랑켄 나사",
     "Enabled": true
   },
   "440352": {
     "OriginalText": "魔女の付け鼻",
-    "Text": "Witch Nose",
+    "Text": "마녀 가짜 코",
     "Enabled": true
   },
   "440353": {
     "OriginalText": "マロンキャップ",
-    "Text": "Maron Cap",
+    "Text": "마론 캡",
     "Enabled": true
   },
   "440354": {
     "OriginalText": "ラッピー耳あて",
-    "Text": "Rappy Earmuffs",
+    "Text": "랍피 귀마개",
     "Enabled": true
   },
   "440355": {
     "OriginalText": "アークス土官帽Ａ",
-    "Text": "ARKS Officer Cap A",
-    "Enabled": true
+    "Text": "아크스 사관모 A",
+    "Enabled": false
   },
   "440356": {
     "OriginalText": "アークス土官帽Ｂ",
-    "Text": "ARKS Officer Cap B",
-    "Enabled": true
+    "Text": "아크스 사관모 B",
+    "Enabled": false
   },
   "440357": {
     "OriginalText": "フリューヘッド",
-    "Text": "Furieux Head",
+    "Text": "플뤼 헤드",
     "Enabled": true
   },
   "440358": {
     "OriginalText": "ファームイヤーマフ",
-    "Text": "Firm Earmuffs",
+    "Text": "펌 이어머프",
     "Enabled": true
   },
   "440359": {
     "OriginalText": "チェックミニハット",
-    "Text": "Checkered Mini Hat",
+    "Text": "체크 미니 햇",
     "Enabled": true
   },
   "440360": {
     "OriginalText": "モノクロミニハット",
-    "Text": "Monochrome Mini Hat",
+    "Text": "모노크롬 미니 햇",
     "Enabled": true
   },
   "440361": {
     "OriginalText": "ブレイカーズヘアバンド",
-    "Text": "Breakers Hairband",
+    "Text": "브레이커즈 헤어밴드",
     "Enabled": true
   },
   "440362": {
     "OriginalText": "ブリンクバイザー",
-    "Text": "Blink Visor",
+    "Text": "블링크 바이저",
     "Enabled": true
   },
   "440363": {
     "OriginalText": "アルフマスク",
-    "Text": "Alph Mask",
+    "Text": "알프 마스크",
     "Enabled": true
   },
   "440364": {
     "OriginalText": "ラッピーのたまご",
-    "Text": "Rappy Egg",
+    "Text": "랍피 알",
     "Enabled": true
   },
   "440365": {
     "OriginalText": "ラッピーのヒナ",
-    "Text": "Rappy Chick",
+    "Text": "새끼 랍피",
     "Enabled": true
   },
   "440366": {
     "OriginalText": "大きなリボン",
-    "Text": "Big Ribbon",
+    "Text": "커다란 리본",
     "Enabled": true
   },
   "440367": {
     "OriginalText": "ツインリボン",
-    "Text": "Twin Ribbons",
+    "Text": "트윈 리본",
     "Enabled": true
   },
   "440368": {
     "OriginalText": "レッドオリエンタルリボン",
-    "Text": "Red Oriental Ribbon",
+    "Text": "레드 오리엔탈 리본",
     "Enabled": true
   },
   "440369": {
     "OriginalText": "イヤータイプＡ",
-    "Text": "Ear Type A",
+    "Text": "이어 타입 A",
     "Enabled": true
   },
   "440370": {
     "OriginalText": "イヤータイプＢ",
-    "Text": "Ear Type B",
+    "Text": "이어 타입 B",
     "Enabled": true
   },
   "440371": {
     "OriginalText": "イヤータイプＣ",
-    "Text": "Ear Type C",
+    "Text": "이어 타입 C",
     "Enabled": true
   },
   "440372": {
     "OriginalText": "アホ毛Ａ",
-    "Text": "Ahoge A",
+    "Text": "바보털 A",
     "Enabled": true
   },
   "440373": {
     "OriginalText": "アホ毛Ｂ",
-    "Text": "Ahoge B",
+    "Text": "바보털 B",
     "Enabled": true
   },
   "440374": {
     "OriginalText": "ふわふわ毛 小",
-    "Text": "Fluffy Hair Small",
+    "Text": "푹신한 털 (소)",
     "Enabled": true
   },
   "440375": {
     "OriginalText": "ふわふわ毛 中",
-    "Text": "Fluffy Hair Medium",
+    "Text": "푹신한 털 (중)",
     "Enabled": true
   },
   "440376": {
     "OriginalText": "ふわふわ毛 大",
-    "Text": "Fluffy Hair Large",
+    "Text": "푹신한 털 (대)",
     "Enabled": true
   },
   "440377": {
     "OriginalText": "ネコ耳",
-    "Text": "Cat Ears",
+    "Text": "고양이 귀",
     "Enabled": true
   },
   "440378": {
     "OriginalText": "きつね耳",
-    "Text": "Fox Ears",
+    "Text": "여우 귀",
     "Enabled": true
   },
   "440379": {
     "OriginalText": "たれきつね耳",
-    "Text": "",
-    "Enabled": false
+    "Text": "처진 여우 귀",
+    "Enabled": true
   },
   "440380": {
     "OriginalText": "立ちうさ耳",
-    "Text": "",
-    "Enabled": false
+    "Text": "선 토끼 귀",
+    "Enabled": true
   },
   "440381": {
     "OriginalText": "垂れうさ耳",
-    "Text": "",
-    "Enabled": false
+    "Text": "처진 토끼 귀",
+    "Enabled": true
   },
   "440382": {
     "OriginalText": "クマ耳",
-    "Text": "Bear Ears",
+    "Text": "곰 귀",
     "Enabled": true
   },
   "440383": {
     "OriginalText": "スコティッシュ耳",
-    "Text": "Scottish Ears",
+    "Text": "스코티시 귀",
     "Enabled": true
   },
   "440384": {
     "OriginalText": "きつねのおめんＢ",
-    "Text": "Fox Mask B",
+    "Text": "여우 가면 B",
     "Enabled": true
   },
   "440385": {
     "OriginalText": "きつねのおめんＡ",
-    "Text": "Fox Mask A",
+    "Text": "여우 가면 A",
     "Enabled": true
   },
   "440386": {
     "OriginalText": "ラッピーおめんＢ",
-    "Text": "Rappy Mask B",
+    "Text": "랍피 가면 B",
     "Enabled": true
   },
   "440387": {
     "OriginalText": "ラッピーおめんＡ",
-    "Text": "Rappy Mask A",
+    "Text": "랍피 가면 A",
     "Enabled": true
   },
   "440388": {
     "OriginalText": "ザウーダンおめんＢ",
-    "Text": "Za Oodan Mask B",
+    "Text": "자우단 가면 B",
     "Enabled": true
   },
   "440389": {
     "OriginalText": "ザウーダンおめんＡ",
-    "Text": "Za Oodan Mask A",
+    "Text": "자우단 가면 A",
     "Enabled": true
   },
   "440390": {
     "OriginalText": "ホッケーマスク",
-    "Text": "Hockey Mask",
+    "Text": "하키 마스크",
     "Enabled": true
   },
   "440391": {
     "OriginalText": "ラウンドメガネ",
-    "Text": "Round Glasses",
+    "Text": "라운드 안경",
     "Enabled": true
   },
   "440392": {
     "OriginalText": "ラージラウンドメガネ",
-    "Text": "Large Round Glasses",
+    "Text": "라지 라운드 안경",
     "Enabled": true
   },
   "440393": {
     "OriginalText": "オーバルフチありメガネ",
-    "Text": "Oval Rimmed Glasses",
+    "Text": "테 있는 타원형 안경",
     "Enabled": true
   },
   "440394": {
     "OriginalText": "スクエアメガネ",
-    "Text": "Square Glasses",
+    "Text": "스퀘어 안경",
     "Enabled": true
   },
   "440395": {
     "OriginalText": "ウェリントンメガネ",
-    "Text": "Wellington Glasses",
+    "Text": "웰링턴 안경",
     "Enabled": true
   },
   "440396": {
     "OriginalText": "楕円メガネ",
-    "Text": "Oval Glasses",
+    "Text": "타원형 안경",
     "Enabled": true
   },
   "440397": {
     "OriginalText": "赤緑メガネ",
-    "Text": "Red-rimmed Glasses",
+    "Text": "적록 안경",
     "Enabled": true
   },
   "440398": {
     "OriginalText": "スポーツサングラス",
-    "Text": "Sports Sunglasses",
+    "Text": "스포츠 선글라스",
     "Enabled": true
   },
   "440399": {
     "OriginalText": "サイバーグラス",
-    "Text": "Cyber Glasses",
+    "Text": "사이버 글라스",
     "Enabled": true
   },
   "440400": {
     "OriginalText": "ラウンドサングラス",
-    "Text": "Round Sunglasses",
+    "Text": "라운드 선글라스",
     "Enabled": true
   },
   "440401": {
     "OriginalText": "ラウンドサングラス 頭の上",
-    "Text": "Round Sunglasses on Head",
+    "Text": "라운드 선글라스(머리 위)",
     "Enabled": true
   },
   "440402": {
     "OriginalText": "ゴーグル",
-    "Text": "Goggles",
+    "Text": "고글",
     "Enabled": true
   },
   "440403": {
     "OriginalText": "アイディスプレイ",
-    "Text": "Eye Display",
+    "Text": "아이 디스플레이",
     "Enabled": true
   },
   "440404": {
     "OriginalText": "ハートメガネ",
-    "Text": "Heart Glasses",
+    "Text": "하트 안경",
     "Enabled": true
   },
   "440405": {
     "OriginalText": "スターメガネ",
-    "Text": "Star Glasses",
+    "Text": "스타 안경",
     "Enabled": true
   },
   "440406": {
     "OriginalText": "ぐるぐるメガネ",
-    "Text": "Swirly Swirly Glasses",
+    "Text": "빙글빙글 안경",
     "Enabled": true
   },
   "440407": {
     "OriginalText": "ホワイトフェザーピアス",
-    "Text": "White Feather Earrings",
+    "Text": "화이트 깃털 귀걸이",
     "Enabled": true
   },
   "440408": {
     "OriginalText": "ブルーフェザーピアス",
-    "Text": "Blue Feather Earrings",
+    "Text": "블루 깃털 귀걸이",
     "Enabled": true
   },
   "440409": {
     "OriginalText": "ピンクフェザーピアス",
-    "Text": "Pink Feather Earrings",
+    "Text": "핑크 깃털 귀걸이",
     "Enabled": true
   },
   "440410": {
     "OriginalText": "金メダル",
-    "Text": "Gold Medal",
+    "Text": "금메달",
     "Enabled": true
   },
   "440411": {
     "OriginalText": "銀メダル",
-    "Text": "Silver Medal",
+    "Text": "은메달",
     "Enabled": true
   },
   "440412": {
     "OriginalText": "鋼メダル",
-    "Text": "Bronze Medal",
-    "Enabled": true
+    "Text": "동메달",
+    "Enabled": false
   },
   "440413": {
     "OriginalText": "錠前ネックレス",
-    "Text": "Lock Necklace",
+    "Text": "자물쇠 목걸이",
     "Enabled": true
   },
   "440414": {
     "OriginalText": "ドクロネックレス",
-    "Text": "Skull Necklace",
+    "Text": "해골 목걸이",
     "Enabled": true
   },
   "440415": {
     "OriginalText": "腕章",
-    "Text": "Armband",
+    "Text": "완장",
     "Enabled": true
   },
   "440416": {
     "OriginalText": "腕章ピンク",
-    "Text": "Pink Armband",
+    "Text": "완장 (분홍)",
     "Enabled": true
   },
   "440417": {
     "OriginalText": "腕章ナース",
-    "Text": "Nurse Armband",
+    "Text": "완장 (간호사)",
     "Enabled": true
   },
   "440418": {
     "OriginalText": "腕章ブルー",
-    "Text": "Blue Armband",
+    "Text": "완장 (파랑)",
     "Enabled": true
   },
   "440419": {
     "OriginalText": "ピンクシュシュ",
-    "Text": "Pink Chouchou",
+    "Text": "핑크 슈슈",
     "Enabled": true
   },
   "440420": {
     "OriginalText": "ブルーシュシュ",
-    "Text": "Blue Chouchou",
+    "Text": "블루 슈슈",
     "Enabled": true
   },
   "440421": {
     "OriginalText": "パープルシュシュ",
-    "Text": "Purple Chouchou",
+    "Text": "퍼플 슈슈",
     "Enabled": true
   },
   "440422": {
     "OriginalText": "トゲトゲのリストバンド",
-    "Text": "Spiked Wristband",
+    "Text": "가시 손목밴드",
     "Enabled": true
   },
   "440423": {
     "OriginalText": "ウサギの尻尾",
-    "Text": "",
-    "Enabled": false
+    "Text": "토끼 꼬리",
+    "Enabled": true
   },
   "440424": {
     "OriginalText": "悪魔のしっぽ",
-    "Text": "",
-    "Enabled": false
+    "Text": "악마 꼬리",
+    "Enabled": true
   },
   "440425": {
     "OriginalText": "ホワイトテイル",
-    "Text": "White Tail",
+    "Text": "화이트 테일",
     "Enabled": true
   },
   "440426": {
     "OriginalText": "イエローテイル",
-    "Text": "Yellow Tail",
+    "Text": "옐로 테일",
     "Enabled": true
   },
   "440427": {
     "OriginalText": "茶リスのしっぽ",
-    "Text": "Brown Squirrel Tail",
+    "Text": "갈색 다람쥐 꼬리",
     "Enabled": true
   },
   "440428": {
     "OriginalText": "黄リスのしっぽ",
-    "Text": "Yellow Squirrel Tail",
+    "Text": "노란 다람쥐 꼬리",
     "Enabled": true
   },
   "440429": {
     "OriginalText": "ブラウンフォックステイル",
-    "Text": "Brown Fox Tail",
+    "Text": "브라운 여우 꼬리",
     "Enabled": true
   },
   "440430": {
     "OriginalText": "イエローフォックステイル",
-    "Text": "Yellow Fox Tail",
+    "Text": "옐로 여우 꼬리",
     "Enabled": true
   },
   "440431": {
     "OriginalText": "ホワイトフォックステイル",
-    "Text": "White Fox Tail",
+    "Text": "화이트 여우 꼬리",
     "Enabled": true
   },
   "440432": {
     "OriginalText": "ウォレットチェーン",
-    "Text": "Wallet Chain",
+    "Text": "월릿 체인",
     "Enabled": true
   },
   "440433": {
     "OriginalText": "背中のネジ",
-    "Text": "Back Screw",
+    "Text": "등 나사",
     "Enabled": true
   },
   "440434": {
     "OriginalText": "ラッピーリュック",
-    "Text": "Rappy Backpack",
+    "Text": "랍피 배낭",
     "Enabled": true
   },
   "440435": {
     "OriginalText": "リリーパザック",
-    "Text": "Lilipa Sack",
+    "Text": "리리파 자크",
     "Enabled": true
   },
   "440436": {
     "OriginalText": "リリーパリュック",
-    "Text": "Lilipa Backpack",
+    "Text": "리리파 배낭",
     "Enabled": true
   },
   "440437": {
     "OriginalText": "リリーパボトル",
-    "Text": "Lilipa Bottle",
+    "Text": "리리파 보틀",
     "Enabled": true
   },
   "440438": {
     "OriginalText": "サーキュエンデ",
-    "Text": "Circuende",
+    "Text": "서큐 엔데",
     "Enabled": true
   },
   "440439": {
     "OriginalText": "サーキュエッジ",
-    "Text": "Circuedge",
+    "Text": "서큐 에지",
     "Enabled": true
   },
   "440440": {
     "OriginalText": "サーキュホーン",
-    "Text": "Circuhorn",
+    "Text": "서큐 혼",
     "Enabled": true
   },
   "440441": {
     "OriginalText": "ティルトウィン",
-    "Text": "Tiltwin",
+    "Text": "틸트 윈",
     "Enabled": true
   },
   "440442": {
     "OriginalText": "ティラフラブ",
-    "Text": "Tiraflove",
+    "Text": "티라 플러브",
     "Enabled": true
   },
   "440443": {
     "OriginalText": "ティレイギア",
-    "Text": "Tireigear",
+    "Text": "티레이 기어",
     "Enabled": true
   },
   "440444": {
     "OriginalText": "ブロストル",
-    "Text": "Brostol",
+    "Text": "브로스톨",
     "Enabled": true
   },
   "440445": {
     "OriginalText": "ブロダング",
-    "Text": "Brodang",
+    "Text": "브로당그",
     "Enabled": true
   },
   "440446": {
     "OriginalText": "ブロワイル",
-    "Text": "Browile",
+    "Text": "브로와일",
     "Enabled": true
   },
   "440447": {
     "OriginalText": "ファンブレア",
-    "Text": "Fan Blair",
+    "Text": "팬 블레어",
     "Enabled": true
   },
   "440448": {
     "OriginalText": "フェニバイル",
-    "Text": "Fen Ibiel",
+    "Text": "페니바일",
     "Enabled": true
   },
   "440449": {
     "OriginalText": "ブルブリュート",
-    "Text": "Bulb Lute",
+    "Text": "불브 류트",
     "Enabled": true
   },
   "440450": {
     "OriginalText": "ブルブヘッグス",
-    "Text": "Bulb Heggs",
+    "Text": "불브 헤그스",
     "Enabled": true
   },
   "440451": {
     "OriginalText": "バーウィン",
-    "Text": "Berwyn",
+    "Text": "바 윈",
     "Enabled": true
   },
   "440452": {
     "OriginalText": "バーティウィア",
-    "Text": "Bertiwea",
+    "Text": "바티 위아",
     "Enabled": true
   },
   "440453": {
     "OriginalText": "バーゴストゥ",
-    "Text": "Bergost",
+    "Text": "바고스투",
     "Enabled": true
   },
   "440454": {
     "OriginalText": "サイマリス",
-    "Text": "Psymalice",
+    "Text": "사이마리스",
     "Enabled": true
   },
   "440455": {
     "OriginalText": "サイボルド",
-    "Text": "Psyboard",
+    "Text": "사이볼드",
     "Enabled": true
   },
   "440456": {
     "OriginalText": "サイテグラル",
-    "Text": "Psytegral",
+    "Text": "사이테그랄",
     "Enabled": true
   },
   "440457": {
     "OriginalText": "ショルドット",
-    "Text": "Shouldot",
+    "Text": "숄도트",
     "Enabled": true
   },
   "440458": {
     "OriginalText": "ショルディクター",
-    "Text": "Shouldicter",
+    "Text": "숄딕터",
     "Enabled": true
   },
   "440459": {
     "OriginalText": "ショルバキュドア",
-    "Text": "Shoulbacudol",
+    "Text": "숄바큐도어",
     "Enabled": true
   },
   "440460": {
     "OriginalText": "クロスゲイナー",
-    "Text": "Crossgainer",
+    "Text": "크로스 게이너",
     "Enabled": true
   },
   "440461": {
     "OriginalText": "クロスドメイン",
-    "Text": "Crossdomain",
+    "Text": "크로스 도메인",
     "Enabled": true
   },
   "440462": {
     "OriginalText": "クロサリアン",
-    "Text": "Crossarian",
+    "Text": "크로사리안",
     "Enabled": true
   },
   "440463": {
     "OriginalText": "ライザック",
-    "Text": "Lyzac",
+    "Text": "라이자크",
     "Enabled": true
   },
   "440464": {
     "OriginalText": "ラジルザック",
-    "Text": "Lazilzac",
+    "Text": "라질자크",
     "Enabled": true
   },
   "440465": {
     "OriginalText": "ラズリアザック",
-    "Text": "Lazuliazac",
+    "Text": "라즈리아자크",
     "Enabled": true
   },
   "440466": {
     "OriginalText": "カルバリアウィング",
-    "Text": "Calvaria Wing",
+    "Text": "칼바리아 윙",
     "Enabled": true
   },
   "440467": {
     "OriginalText": "ヘラストゥラ",
-    "Text": "Hera Sutra",
+    "Text": "헤라스투라",
     "Enabled": true
   },
   "440468": {
     "OriginalText": "ブルームフェザー",
-    "Text": "Bloom Feather",
+    "Text": "블룸 페더",
     "Enabled": true
   },
   "440469": {
     "OriginalText": "フェガリカット",
-    "Text": "Fegari Cut",
+    "Text": "페가리 컷",
     "Enabled": true
   },
   "440470": {
     "OriginalText": "ブリッツシンボル",
-    "Text": "Blitz Symbol",
+    "Text": "블리츠 심볼",
     "Enabled": true
   },
   "440471": {
     "OriginalText": "ミンストフォン",
-    "Text": "Minst Phon",
+    "Text": "민스트 폰",
     "Enabled": true
   },
   "440472": {
     "OriginalText": "ミンストブラン",
-    "Text": "Minst Blan",
+    "Text": "민스트 블랑",
     "Enabled": true
   },
   "440473": {
     "OriginalText": "リュクスエール",
-    "Text": "Luxe Ale",
+    "Text": "류크스 에일",
     "Enabled": true
   },
   "440474": {
     "OriginalText": "リュクスソワール",
-    "Text": "Luxe Soir",
+    "Text": "류크스 소와르",
     "Enabled": true
   },
   "440475": {
     "OriginalText": "ヤークトフェル",
-    "Text": "Jagd Fell",
+    "Text": "야크트 펠",
     "Enabled": true
   },
   "440476": {
     "OriginalText": "スロートフェル",
-    "Text": "Schlacht Fell",
+    "Text": "슬로트 펠",
     "Enabled": true
   },
   "440477": {
     "OriginalText": "ヴォルウィング",
-    "Text": "Vol Wing",
+    "Text": "볼 윙",
     "Enabled": true
   },
   "440478": {
     "OriginalText": "ラグネスイル",
-    "Text": "Ragne Suile",
+    "Text": "라그네 스일",
     "Enabled": true
   },
   "440479": {
     "OriginalText": "ヴァーダーパック",
-    "Text": "Vardha Pack",
+    "Text": "바더 팩",
     "Enabled": true
   },
   "440480": {
     "OriginalText": "クォーツウィング",
-    "Text": "Quartz Wing",
+    "Text": "쿼츠 윙",
     "Enabled": true
   },
   "440481": {
     "OriginalText": "フリードアウトローアイパッチ",
-    "Text": "Freed Outlaw Eyepatch",
+    "Text": "프리드 아웃로 아이패치",
     "Enabled": true
   },
   "440482": {
     "OriginalText": "フリードアウトローＲハット",
-    "Text": "Freed Outlaw R Hat",
+    "Text": "프리드 아웃로 R 햇",
     "Enabled": true
   },
   "440483": {
     "OriginalText": "レスペタンクバイオレット",
-    "Text": "Lespetank Violet",
+    "Text": "레스페 탱크 바이올렛",
     "Enabled": true
   },
   "440484": {
     "OriginalText": "削除",
-    "Text": "",
-    "Enabled": false
+    "Text": "삭제",
+    "Enabled": true
   },
   "440485": {
     "OriginalText": "アルキピューレＢバレッタ",
-    "Text": "Alki Pure B Barette",
+    "Text": "알키 퓌르 B 머리핀",
     "Enabled": true
   },
   "440486": {
     "OriginalText": "リンデンドレスＧイヤーフック",
-    "Text": "Rinden Dress G Earmuff",
+    "Text": "린덴 드레스 G 이어후크",
     "Enabled": true
   },
   "440487": {
     "OriginalText": "ラッピーミミクリキャップ",
-    "Text": "Rappy Mimicry Cap",
+    "Text": "랍피 미미크리 캡",
     "Enabled": true
   },
   "440488": {
     "OriginalText": "エイゲトグリーフイヤーフック",
-    "Text": "Eigeto Grief Earhook",
+    "Text": "에이게트 그리프 이어후크",
     "Enabled": true
   },
   "440489": {
     "OriginalText": "アグリフォルスＷフォン",
-    "Text": "Agri Fors W Headphone",
+    "Text": "아그리 포르스 W 헤드폰",
     "Enabled": true
   },
   "440490": {
     "OriginalText": "エウリュードテイル",
-    "Text": "Eurude Tail",
+    "Text": "에우류드 테일",
     "Enabled": true
   },
   "440491": {
     "OriginalText": "ガラティオンテイル",
-    "Text": "Garation Tail",
+    "Text": "갈라티온 테일",
     "Enabled": true
   },
   "440492": {
     "OriginalText": "アルキファナティックスリーテイル",
-    "Text": "Alki Fanatic Threetail",
+    "Text": "알키 파나틱 스리 테일",
     "Enabled": true
   },
   "440493": {
     "OriginalText": "アグリオスバレル",
-    "Text": "Agrios Barrel",
+    "Text": "아그리오스 배럴",
     "Enabled": true
   },
   "440494": {
     "OriginalText": "クリトロキャップ",
-    "Text": "Crittro Cap",
+    "Text": "크리트로 캡",
     "Enabled": true
   },
   "440495": {
     "OriginalText": "エウリュードシェル",
-    "Text": "Eurude Shell",
+    "Text": "에우류드 셸",
     "Enabled": true
   },
   "440496": {
     "OriginalText": "冒険ラッピーバックパック",
-    "Text": "Adventure Rappy Backpack",
+    "Text": "모험 랍피 백팩",
     "Enabled": true
   },
   "440497": {
     "OriginalText": "ガラティオンウイング",
-    "Text": "Garation Wings",
+    "Text": "갈라티온 윙",
     "Enabled": true
   },
   "440498": {
     "OriginalText": "削除",
-    "Text": "",
-    "Enabled": false
+    "Text": "삭제",
+    "Enabled": true
   },
   "440499": {
     "OriginalText": "ゴルドスバックパック",
-    "Text": "Goldos Backpack",
+    "Text": "골도스 백팩",
     "Enabled": true
   },
   "440500": {
     "OriginalText": "癒しのベアー",
-    "Text": "Healing Bear",
+    "Text": "치유의 베어",
     "Enabled": true
   },
   "440501": {
     "OriginalText": "ノヴァトレートルＷウイング",
-    "Text": "Nova Traitor W Wings",
+    "Text": "노바 트레트르 W 윙",
     "Enabled": true
   },
   "440502": {
     "OriginalText": "ノヴァトレートルＷマント",
-    "Text": "Nova Traitor W Cloak",
+    "Text": "노바 트레트르 W 망토",
     "Enabled": true
   },
   "440503": {
     "OriginalText": "ギガンテスフラップ",
-    "Text": "Gigantes Flap",
+    "Text": "기간테스 플랩",
     "Enabled": true
   },
   "440504": {
     "OriginalText": "クロスタイ",
-    "Text": "Cross Tie",
+    "Text": "크로스 타이",
     "Enabled": true
   },
   "440505": {
     "OriginalText": "ギガンテスベント",
-    "Text": "Gigantes Vent",
+    "Text": "기간테스 벤트",
     "Enabled": true
   },
   "440506": {
     "OriginalText": "リンデンドレスツインテール",
-    "Text": "Rinden Dress Twin Tail",
+    "Text": "린덴 드레스 트윈테일",
     "Enabled": true
   },
   "440507": {
     "OriginalText": "アフォルバックパック",
-    "Text": "Afol Backpack",
+    "Text": "아폴 백팩",
     "Enabled": true
   },
   "440508": {
     "OriginalText": "エイゲトリュゼウイング",
-    "Text": "Eigeto Ryuze Wings",
+    "Text": "에이게트 류제 윙",
     "Enabled": true
   },
   "440509": {
     "OriginalText": "ソフトクリームシャンプーハット",
-    "Text": "Soft Cream Shampoo Hat",
+    "Text": "소프트아이스크림 샴푸 캡",
     "Enabled": true
   },
   "440510": {
     "OriginalText": "ファンタシーの翼",
-    "Text": "",
-    "Enabled": false
+    "Text": "판타시의 날개",
+    "Enabled": true
   },
   "440511": {
     "OriginalText": "ファンタシーの筒",
-    "Text": "",
-    "Enabled": false
+    "Text": "판타시의 통",
+    "Enabled": true
   },
   "440512": {
     "OriginalText": "フローティングスフィア",
-    "Text": "Floating Sphere",
+    "Text": "플로팅 스피어",
     "Enabled": true
   },
   "440513": {
     "OriginalText": "ＤＬＣ用",
-    "Text": "",
-    "Enabled": false
+    "Text": "DLC용",
+    "Enabled": true
   },
   "440514": {
     "OriginalText": "ヘッドセット：リーティア",
-    "Text": "Rietheia Headset",
+    "Text": "헤드셋: 리티아",
     "Enabled": true
   },
   "440515": {
     "OriginalText": "メガネ：レイヴァン",
-    "Text": "Raven Glasses",
+    "Text": "안경: 레이반",
     "Enabled": true
   },
   "440516": {
     "OriginalText": "メガネ：キサラ",
-    "Text": "Kisara Glasses",
+    "Text": "안경: 키사라",
     "Enabled": true
   },
   "440517": {
     "OriginalText": "メガネ：シャロン",
-    "Text": "Sharon Glasses",
+    "Text": "안경: 샤론",
     "Enabled": true
   },
   "440518": {
     "OriginalText": "艦長の帽子",
-    "Text": "Captain's Hat",
+    "Text": "함장 모자",
     "Enabled": true
   },
   "440519": {
     "OriginalText": "艦長の腕章",
-    "Text": "Captain's Armband",
+    "Text": "함장 완장",
     "Enabled": true
   },
   "440520": {
     "OriginalText": "電子カルテ",
-    "Text": "Electronic Medical Record",
+    "Text": "전자 차트",
     "Enabled": true
   },
   "440521": {
     "OriginalText": "カリストのスパナ",
-    "Text": "Callisto Spanner",
+    "Text": "칼리스토의 스패너",
     "Enabled": true
   },
   "440522": {
     "OriginalText": "腰スカートアーマー：ルティナ１",
-    "Text": "Waist Skirt Armor: Lutina 1",
+    "Text": "허리 스커트 아머: 루티나 1",
     "Enabled": true
   },
   "440523": {
     "OriginalText": "腰スカートアーマー：ルティナ１リペア",
-    "Text": "Waist Skirt Armor: Lutina 1 Repair",
+    "Text": "허리 스커트 아머: 루티나 1(수리)",
     "Enabled": true
   },
   "440524": {
     "OriginalText": "腰スカートアーマー：ルティナ２\nフィルディアバージョン",
-    "Text": "Waist Skirt Armor: Lutina 2 - Fildia Ver.",
+    "Text": "허리 스커트 아머: 루티나 2\n필디아 버전",
     "Enabled": true
   },
   "440525": {
     "OriginalText": "腰スカートアーマー：フィルディア",
-    "Text": "Waist Skirt Armor: Fildia",
+    "Text": "허리 스커트 아머: 필디아",
     "Enabled": true
   },
   "440526": {
     "OriginalText": "腰スカートアーマー：フィルディアリペア",
-    "Text": "Waist Skirt Armor: Fildia Repair",
+    "Text": "허리 스커트 아머: 필디아(수리)",
     "Enabled": true
   },
   "440527": {
     "OriginalText": "グラン発生装置：ユノ",
-    "Text": "Gran Generator: Juno",
+    "Text": "그란 발생 장치: 유노",
     "Enabled": true
   },
   "440528": {
     "OriginalText": "ジョーカ・ヘッド破",
-    "Text": "Joker Head (Damaged)",
+    "Text": "조커 헤드 (파손)",
     "Enabled": true
   },
   "440529": {
     "OriginalText": "コロッサス・ヘッド破",
-    "Text": "Colossus Head (Damaged)",
+    "Text": "콜로서스 헤드 (파손)",
     "Enabled": true
   },
   "440530": {
     "OriginalText": "バルドル・ヘッド破",
-    "Text": "Baldur Head (Damaged)",
+    "Text": "발드르 헤드 (파손)",
     "Enabled": true
   },
   "440531": {
     "OriginalText": "ランクス・ヘッド破",
-    "Text": "Ranks Head (Damaged)",
+    "Text": "랭크스 헤드 (파손)",
     "Enabled": true
   },
   "440532": {
     "OriginalText": "イルシオン・ヘッド破",
-    "Text": "Illusion Head (Damaged)",
+    "Text": "일루시온 헤드 (파손)",
     "Enabled": true
   },
   "440533": {
     "OriginalText": "メディウム・ヘッド破",
-    "Text": "Medium Head (Damaged)",
+    "Text": "메디움 헤드 (파손)",
     "Enabled": true
   },
   "440534": {
     "OriginalText": "ヴィテスシュタルクＫメット",
-    "Text": "Vites Schtark K Helmet",
+    "Text": "비테스 슈타르크 K 헬멧",
     "Enabled": true
   },
   "440535": {
     "OriginalText": "ヴィテスシュタルクＲメット",
-    "Text": "Vites Schtark R Helmet",
+    "Text": "비테스 슈타르크 R 헬멧",
     "Enabled": true
   },
   "440536": {
     "OriginalText": "ヴィテスシュタルクＹメット",
-    "Text": "Vites Schtark Y Helmet",
+    "Text": "비테스 슈타르크 Y 헬멧",
     "Enabled": true
   },
   "440537": {
     "OriginalText": "ヴィテスシュタルクＢメット",
-    "Text": "Vites Schtark B Helmet",
+    "Text": "비테스 슈타르크 B 헬멧",
     "Enabled": true
   },
   "440538": {
     "OriginalText": "ヴィテスシュタルクＧメット",
-    "Text": "Vites Schtark G Helmet",
+    "Text": "비테스 슈타르크 G 헬멧",
     "Enabled": true
   },
   "440539": {
     "OriginalText": "フリードアウトローＲハット",
-    "Text": "Freed Outlaw R Hat",
+    "Text": "프리드 아웃로 R 햇",
     "Enabled": true
   },
   "440540": {
     "OriginalText": "フリードアウトローＧハット",
-    "Text": "Freed Outlaw G Hat",
+    "Text": "프리드 아웃로 G 햇",
     "Enabled": true
   },
   "440541": {
     "OriginalText": "フリードアウトローＯハット",
-    "Text": "Freed Outlaw O Hat",
+    "Text": "프리드 아웃로 O 햇",
     "Enabled": true
   },
   "440542": {
     "OriginalText": "フリードアウトローＹハット",
-    "Text": "Freed Outlaw Y Hat",
+    "Text": "프리드 아웃로 Y 햇",
     "Enabled": true
   },
   "440543": {
     "OriginalText": "フリードアウトローＢハット",
-    "Text": "Freed Outlaw B Hat",
+    "Text": "프리드 아웃로 B 햇",
     "Enabled": true
   },
   "440544": {
     "OriginalText": "アルキピューレＢバレッタ",
-    "Text": "Alki Pure B Barette",
+    "Text": "알키 퓌르 B 머리핀",
     "Enabled": true
   },
   "440545": {
     "OriginalText": "アルキピューレＶバレッタ",
-    "Text": "Alki Pure V Barette",
+    "Text": "알키 퓌르 V 머리핀",
     "Enabled": true
   },
   "440546": {
     "OriginalText": "アルキピューレＹバレッタ",
-    "Text": "Alki Pure Y Barette",
+    "Text": "알키 퓌르 Y 머리핀",
     "Enabled": true
   },
   "440547": {
     "OriginalText": "アルキピューレＧバレッタ",
-    "Text": "Alki Pure G Barette",
+    "Text": "알키 퓌르 G 머리핀",
     "Enabled": true
   },
   "440548": {
     "OriginalText": "アルキピューレＯバレッタ",
-    "Text": "Alki Pure O Barette",
+    "Text": "알키 퓌르 O 머리핀",
     "Enabled": true
   },
   "440549": {
     "OriginalText": "アグリフォルスＷフォン",
-    "Text": "Agri Fors W Headphone",
+    "Text": "아그리 포르스 W 헤드폰",
     "Enabled": true
   },
   "440550": {
     "OriginalText": "アグリフォルスＲフォン",
-    "Text": "Agri Fors R Headphone",
+    "Text": "아그리 포르스 R 헤드폰",
     "Enabled": true
   },
   "440551": {
     "OriginalText": "アグリフォルスＫフォン",
-    "Text": "Agri Fors K Headphone",
+    "Text": "아그리 포르스 K 헤드폰",
     "Enabled": true
   },
   "440552": {
     "OriginalText": "アグリフォルスＢフォン",
-    "Text": "Agri Fors B Headphone",
+    "Text": "아그리 포르스 B 헤드폰",
     "Enabled": true
   },
   "440553": {
     "OriginalText": "アグリフォルスＧフォン",
-    "Text": "Agri Fors G Headphone",
+    "Text": "아그리 포르스 G 헤드폰",
     "Enabled": true
   },
   "440554": {
     "OriginalText": "リンデンドレスＧイヤーフック",
-    "Text": "Rinden Dress G Earmuff",
+    "Text": "린덴 드레스 G 이어후크",
     "Enabled": true
   },
   "440555": {
     "OriginalText": "リンデンドレスＶイヤーフック",
-    "Text": "Rinden Dress V Earmuff",
+    "Text": "린덴 드레스 V 이어후크",
     "Enabled": true
   },
   "440556": {
     "OriginalText": "リンデンドレスＢイヤーフック",
-    "Text": "Rinden Dress B Earmuff",
+    "Text": "린덴 드레스 B 이어후크",
     "Enabled": true
   },
   "440557": {
     "OriginalText": "リンデンドレスＲイヤーフック",
-    "Text": "Rinden Dress R Earmuff",
+    "Text": "린덴 드레스 R 이어후크",
     "Enabled": true
   },
   "440558": {
     "OriginalText": "リンデンドレスＹイヤーフック",
-    "Text": "Rinden Dress Y Earmuff",
+    "Text": "린덴 드레스 Y 이어후크",
     "Enabled": true
   },
   "440559": {
     "OriginalText": "ノヴァトレートルＷウイング",
-    "Text": "Nova Traitor W Wing",
+    "Text": "노바 트레트르 W 윙",
     "Enabled": true
   },
   "440560": {
     "OriginalText": "ノヴァトレートルＲウイング",
-    "Text": "Nova Traitor R Wing",
+    "Text": "노바 트레트르 R 윙",
     "Enabled": true
   },
   "440561": {
     "OriginalText": "ノヴァトレートルＢウイング",
-    "Text": "Nova Traitor B Wing",
+    "Text": "노바 트레트르 B 윙",
     "Enabled": true
   },
   "440562": {
     "OriginalText": "ノヴァトレートルＫウイング",
-    "Text": "Nova Traitor K Wing",
+    "Text": "노바 트레트르 K 윙",
     "Enabled": true
   },
   "440563": {
     "OriginalText": "ノヴァトレートルＹウイング",
-    "Text": "Nova Traitor Y Wing",
+    "Text": "노바 트레트르 Y 윙",
     "Enabled": true
   },
   "440564": {
     "OriginalText": "ノヴァトレートルＷマント",
-    "Text": "Nova Traitor W Cloak",
+    "Text": "노바 트레트르 W 망토",
     "Enabled": true
   },
   "440565": {
     "OriginalText": "ノヴァトレートルＲマント",
-    "Text": "Nova Traitor R Cloak",
+    "Text": "노바 트레트르 R 망토",
     "Enabled": true
   },
   "440566": {
     "OriginalText": "ノヴァトレートルＢマント",
-    "Text": "Nova Traitor B Cloak",
+    "Text": "노바 트레트르 B 망토",
     "Enabled": true
   },
   "440567": {
     "OriginalText": "ノヴァトレートルＫマント",
-    "Text": "Nova Traitor K Cloak",
+    "Text": "노바 트레트르 K 망토",
     "Enabled": true
   },
   "440568": {
     "OriginalText": "ノヴァトレートルＹマント",
-    "Text": "Nova Traitor Y Cloak",
+    "Text": "노바 트레트르 Y 망토",
     "Enabled": true
   },
   "440569": {
     "OriginalText": "ヴィテスシュタルクＷメット",
-    "Text": "Vites Schtark W Helmet",
+    "Text": "비테스 슈타르크 W 헬멧",
     "Enabled": true
   },
   "440570": {
     "OriginalText": "ダイヤモンドネイヴＫハット",
-    "Text": "Diamond Nave K Hat",
+    "Text": "다이아몬드 네이브 K 햇",
     "Enabled": true
   },
   "440571": {
     "OriginalText": "ダイヤモンドネイヴＷハット",
-    "Text": "Diamond Nave W Hat",
+    "Text": "다이아몬드 네이브 W 햇",
     "Enabled": true
   },
   "440572": {
     "OriginalText": "ダイヤモンドクイーンＫリボン",
-    "Text": "Diamond Queen K Ribbon",
+    "Text": "다이아몬드 퀸 K 리본",
     "Enabled": true
   },
   "440573": {
     "OriginalText": "ダイヤモンドクイーンＷリボン",
-    "Text": "Diamond Queen W Ribbon",
+    "Text": "다이아몬드 퀸 W 리본",
     "Enabled": true
   },
   "440574": {
     "OriginalText": "ダイヤモンドネイヴＲハット",
-    "Text": "Diamond Nave R Hat",
+    "Text": "다이아몬드 네이브 R 햇",
     "Enabled": true
   },
   "440575": {
     "OriginalText": "ダイヤモンドネイヴＹハット",
-    "Text": "Diamond Nave Y Hat",
+    "Text": "다이아몬드 네이브 Y 햇",
     "Enabled": true
   },
   "440576": {
     "OriginalText": "ダイヤモンドネイヴＢハット",
-    "Text": "Diamond Nave B Hat",
+    "Text": "다이아몬드 네이브 B 햇",
     "Enabled": true
   },
   "440577": {
     "OriginalText": "ダイヤモンドクイーンＢリボン",
-    "Text": "Diamond Queen B Ribbon",
+    "Text": "다이아몬드 퀸 B 리본",
     "Enabled": true
   },
   "440578": {
     "OriginalText": "ダイヤモンドクイーンＲリボン",
-    "Text": "Diamond Queen R Ribbon",
+    "Text": "다이아몬드 퀸 R 리본",
     "Enabled": true
   },
   "440579": {
     "OriginalText": "ダイヤモンドクイーンＹリボン",
-    "Text": "Diamond Queen Y Ribbon",
+    "Text": "다이아몬드 퀸 Y 리본",
     "Enabled": true
   }
 }

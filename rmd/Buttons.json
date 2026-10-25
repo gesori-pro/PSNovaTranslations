@@ -1,462 +1,457 @@
 {
-  "430000": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
   "430001": {
     "OriginalText": "決定",
-    "Text": "Accept",
+    "Text": "결정",
     "Enabled": true
   },
   "430002": {
     "OriginalText": "キャンセル",
-    "Text": "Cancel",
+    "Text": "취소",
     "Enabled": true
   },
   "430003": {
     "OriginalText": "ソート",
-    "Text": "Sort",
+    "Text": "정렬",
     "Enabled": true
   },
   "430004": {
     "OriginalText": "情報切替",
-    "Text": "Switch Info",
+    "Text": "정보 전환",
     "Enabled": true
   },
   "430005": {
     "OriginalText": "回転",
-    "Text": "Rotate",
+    "Text": "회전",
     "Enabled": true
   },
   "430006": {
     "OriginalText": "ロック",
-    "Text": "Lock",
+    "Text": "잠금",
     "Enabled": true
   },
   "430007": {
     "OriginalText": "外す",
-    "Text": "Remove",
+    "Text": "해제",
     "Enabled": true
   },
   "430008": {
     "OriginalText": "表示/非表示",
-    "Text": "Show/Hide",
+    "Text": "표시/비표시",
     "Enabled": true
   },
   "430009": {
     "OriginalText": "階層切替",
-    "Text": "Switch Level",
+    "Text": "계층 전환",
     "Enabled": true
   },
   "430010": {
     "OriginalText": "破棄",
-    "Text": "Discard",
+    "Text": "파기",
     "Enabled": true
   },
   "430011": {
     "OriginalText": "ステータス",
-    "Text": "Status",
+    "Text": "스테이터스",
     "Enabled": true
   },
   "430012": {
     "OriginalText": "リーダー",
-    "Text": "Leader",
+    "Text": "리더",
     "Enabled": true
   },
   "430013": {
     "OriginalText": "スキル一覧",
-    "Text": "Skills List",
+    "Text": "스킬 목록",
     "Enabled": true
   },
   "430014": {
     "OriginalText": "ストーリー",
-    "Text": "Story",
+    "Text": "스토리",
     "Enabled": true
   },
   "430015": {
     "OriginalText": "約束",
-    "Text": "Promise",
+    "Text": "약속",
     "Enabled": true
   },
   "430016": {
     "OriginalText": "リスト表示",
-    "Text": "List Display",
+    "Text": "리스트 표시",
     "Enabled": true
   },
   "430017": {
     "OriginalText": "試着",
-    "Text": "Try On",
+    "Text": "입어보기",
     "Enabled": true
   },
   "430018": {
     "OriginalText": "再生",
-    "Text": "Playback",
+    "Text": "재생",
     "Enabled": true
   },
   "430019": {
     "OriginalText": "ボイス再生",
-    "Text": "Voice",
+    "Text": "보이스 재생",
     "Enabled": true
   },
   "430020": {
     "OriginalText": "編集取消",
-    "Text": "Cancel Edits",
+    "Text": "편집 취소",
     "Enabled": true
   },
   "430021": {
     "OriginalText": "瞳選択",
-    "Text": "Eye Selection",
+    "Text": "눈동자 선택",
     "Enabled": true
   },
   "430022": {
     "OriginalText": "瞳カラー設定",
-    "Text": "Set Eye Color",
+    "Text": "눈동자 컬러 설정",
     "Enabled": true
   },
   "430023": {
     "OriginalText": "まゆ選択",
-    "Text": "Eyebrow Selection",
+    "Text": "눈썹 선택",
     "Enabled": true
   },
   "430024": {
     "OriginalText": "まゆカラー設定",
-    "Text": "Set Eyebrow Color",
+    "Text": "눈썹 컬러 설정",
     "Enabled": true
   },
   "430025": {
     "OriginalText": "ヘアスタイル選択",
-    "Text": "Hairstyle Selection",
+    "Text": "헤어 스타일 선택",
     "Enabled": true
   },
   "430026": {
     "OriginalText": "ヘアカラー設定",
-    "Text": "Set Hair Color",
+    "Text": "헤어 컬러 설정",
     "Enabled": true
   },
   "430027": {
     "OriginalText": "ヘッドパーツ選択",
-    "Text": "Head Part Selection",
+    "Text": "헤드 파츠 선택",
     "Enabled": true
   },
   "430028": {
     "OriginalText": "ヘッドパーツカラー設定",
-    "Text": "Set Head Part Color",
+    "Text": "헤드 파츠 컬러 설정",
     "Enabled": true
   },
   "430029": {
     "OriginalText": "コスチューム選択",
-    "Text": "Costume Selection",
+    "Text": "코스튬 선택",
     "Enabled": true
   },
   "430030": {
     "OriginalText": "コスチュームカラー設定",
-    "Text": "Set Costume Color",
+    "Text": "코스튬 컬러 설정",
     "Enabled": true
   },
   "430031": {
     "OriginalText": "配置済みリスト",
-    "Text": "Deployed",
+    "Text": "배치된 리스트",
     "Enabled": true
   },
   "430032": {
     "OriginalText": "所有リスト",
-    "Text": "Facilities",
+    "Text": "보유 리스트",
     "Enabled": true
   },
   "430033": {
     "OriginalText": "戻る",
-    "Text": "Return",
+    "Text": "뒤로",
     "Enabled": true
   },
   "430034": {
     "OriginalText": "選択",
-    "Text": "Select",
+    "Text": "선택",
     "Enabled": true
   },
   "430035": {
     "OriginalText": "位置決定",
-    "Text": "Confirm",
+    "Text": "위치 결정",
     "Enabled": true
   },
   "430036": {
     "OriginalText": "自動選択",
-    "Text": "Auto Select",
+    "Text": "자동 선택",
     "Enabled": true
   },
   "430037": {
     "OriginalText": "詳細表示",
-    "Text": "Detail View",
+    "Text": "상세 표시",
     "Enabled": true
   },
   "430038": {
     "OriginalText": "詳細切替",
-    "Text": "Switch Details",
+    "Text": "상세 전환",
     "Enabled": true
   },
   "430039": {
     "OriginalText": "詳細消去",
-    "Text": "Clear Details",
+    "Text": "상세 숨기기",
     "Enabled": true
   },
   "430040": {
     "OriginalText": "ソート切替",
-    "Text": "Switch Sorting",
+    "Text": "정렬 전환",
     "Enabled": true
   },
   "430041": {
     "OriginalText": "移動",
-    "Text": "Move",
+    "Text": "이동",
     "Enabled": true
   },
   "430042": {
     "OriginalText": "設定を初期化",
-    "Text": "Default Settings",
+    "Text": "설정 초기화",
     "Enabled": true
   },
   "430043": {
     "OriginalText": "設定完了",
-    "Text": "Confirm Settings",
+    "Text": "설정 완료",
     "Enabled": true
   },
   "430044": {
     "OriginalText": "左右切替",
-    "Text": "Left/Right",
+    "Text": "좌우 전환",
     "Enabled": true
   },
   "430045": {
     "OriginalText": "ステルス",
-    "Text": "Hide",
+    "Text": "숨기기",
     "Enabled": true
   },
   "430046": {
     "OriginalText": "設置完了",
-    "Text": "Finish",
+    "Text": "설치 완료",
     "Enabled": true
   },
   "430047": {
     "OriginalText": "中止",
-    "Text": "Stop",
+    "Text": "중단",
     "Enabled": true
   },
   "430048": {
     "OriginalText": "選択",
-    "Text": "Option",
+    "Text": "선택",
     "Enabled": true
   },
   "430049": {
     "OriginalText": "情報表示ON/OFF",
-    "Text": "Info ON/OFF",
+    "Text": "정보 표시 켜기/끄기",
     "Enabled": true
   },
   "430050": {
     "OriginalText": "カラー設定",
-    "Text": "Set Color",
+    "Text": "컬러 설정",
     "Enabled": true
   },
   "430051": {
     "OriginalText": "ビジュアル表示",
-    "Text": "Visual Display",
+    "Text": "외형 표시",
     "Enabled": true
   },
   "430052": {
     "OriginalText": "キャラクター表示",
-    "Text": "Character Display",
+    "Text": "캐릭터 표시",
     "Enabled": true
   },
   "430053": {
     "OriginalText": "すべて自動選択",
-    "Text": "Auto Select All",
+    "Text": "모두 자동 선택",
     "Enabled": true
   },
   "430054": {
     "OriginalText": "情報切替",
-    "Text": "Switch Info",
+    "Text": "정보 전환",
     "Enabled": true
   },
   "430055": {
     "OriginalText": "方向キー左右：",
-    "Text": "D-Pad Left/Right",
+    "Text": "방향키 좌우:",
     "Enabled": true
   },
   "430056": {
     "OriginalText": "スキルボード切替",
-    "Text": "Switch SB",
+    "Text": "스킬 보드 전환",
     "Enabled": true
   },
   "430057": {
     "OriginalText": "呼び出す",
-    "Text": "Call",
+    "Text": "호출",
     "Enabled": true
   },
   "430058": {
     "OriginalText": "お気に入り",
-    "Text": "Favorite",
+    "Text": "즐겨찾기",
     "Enabled": true
   },
   "430059": {
     "OriginalText": "おすすめ選択",
-    "Text": "Recommended Selection",
+    "Text": "추천 선택",
     "Enabled": true
   },
   "430060": {
     "OriginalText": "カメラ初期化",
-    "Text": "Camera Reset",
+    "Text": "카메라 초기화",
     "Enabled": true
   },
   "430061": {
     "OriginalText": "パーツ位置初期化",
-    "Text": "Reset Position",
+    "Text": "파츠 위치 초기화",
     "Enabled": true
   },
   "430062": {
     "OriginalText": "スキル表示",
-    "Text": "Skills",
+    "Text": "스킬 표시",
     "Enabled": true
   },
   "430063": {
     "OriginalText": "退出",
-    "Text": "Leave",
+    "Text": "퇴장",
     "Enabled": true
   },
   "430064": {
     "OriginalText": "コスチュームON/OFF",
-    "Text": "Costume ON/OFF",
+    "Text": "코스튬 표시 켜기/끄기",
     "Enabled": true
   },
   "430065": {
     "OriginalText": "燥作説明23",
-    "Text": "",
+    "Text": "조작 설명 23",
     "Enabled": false
   },
   "430066": {
     "OriginalText": "燥作説明24",
-    "Text": "",
+    "Text": "조작 설명 24",
     "Enabled": false
   },
   "430067": {
     "OriginalText": "燥作説明25",
-    "Text": "",
+    "Text": "조작 설명 25",
     "Enabled": false
   },
   "430068": {
     "OriginalText": "燥作説明26",
-    "Text": "",
+    "Text": "조작 설명 26",
     "Enabled": false
   },
   "430069": {
     "OriginalText": "燥作説明27",
-    "Text": "",
+    "Text": "조작 설명 27",
     "Enabled": false
   },
   "430070": {
     "OriginalText": "燥作説明28",
-    "Text": "",
+    "Text": "조작 설명 28",
     "Enabled": false
   },
   "430071": {
     "OriginalText": "燥作説明29",
-    "Text": "",
+    "Text": "조작 설명 29",
     "Enabled": false
   },
   "430072": {
     "OriginalText": "燥作説明30",
-    "Text": "",
+    "Text": "조작 설명 30",
     "Enabled": false
   },
   "430073": {
     "OriginalText": "燥作説明31",
-    "Text": "",
+    "Text": "조작 설명 31",
     "Enabled": false
   },
   "430074": {
     "OriginalText": "燥作説明32",
-    "Text": "",
+    "Text": "조작 설명 32",
     "Enabled": false
   },
   "430075": {
     "OriginalText": "燥作説明33",
-    "Text": "",
+    "Text": "조작 설명 33",
     "Enabled": false
   },
   "430076": {
     "OriginalText": "燥作説明34",
-    "Text": "",
+    "Text": "조작 설명 34",
     "Enabled": false
   },
   "430077": {
     "OriginalText": "燥作説明35",
-    "Text": "",
+    "Text": "조작 설명 35",
     "Enabled": false
   },
   "430078": {
     "OriginalText": "燥作説明36",
-    "Text": "",
+    "Text": "조작 설명 36",
     "Enabled": false
   },
   "430079": {
     "OriginalText": "燥作説明37",
-    "Text": "",
+    "Text": "조작 설명 37",
     "Enabled": false
   },
   "430080": {
     "OriginalText": "燥作説明38",
-    "Text": "",
+    "Text": "조작 설명 38",
     "Enabled": false
   },
   "430081": {
     "OriginalText": "燥作説明39",
-    "Text": "",
+    "Text": "조작 설명 39",
     "Enabled": false
   },
   "430082": {
     "OriginalText": "燥作説明40",
-    "Text": "",
+    "Text": "조작 설명 40",
     "Enabled": false
   },
   "430083": {
     "OriginalText": "燥作説明41",
-    "Text": "",
+    "Text": "조작 설명 41",
     "Enabled": false
   },
   "430084": {
     "OriginalText": "燥作説明42",
-    "Text": "",
+    "Text": "조작 설명 42",
     "Enabled": false
   },
   "430085": {
     "OriginalText": "燥作説明43",
-    "Text": "",
+    "Text": "조작 설명 43",
     "Enabled": false
   },
   "430086": {
     "OriginalText": "燥作説明44",
-    "Text": "",
+    "Text": "조작 설명 44",
     "Enabled": false
   },
   "430087": {
     "OriginalText": "燥作説明45",
-    "Text": "",
+    "Text": "조작 설명 45",
     "Enabled": false
   },
   "430088": {
     "OriginalText": "燥作説明46",
-    "Text": "",
+    "Text": "조작 설명 46",
     "Enabled": false
   },
   "430089": {
     "OriginalText": "燥作説明47",
-    "Text": "",
+    "Text": "조작 설명 47",
     "Enabled": false
   },
   "430090": {
     "OriginalText": "燥作説明48",
-    "Text": "",
+    "Text": "조작 설명 48",
     "Enabled": false
   },
   "430091": {
     "OriginalText": "燥作説明49",
-    "Text": "",
+    "Text": "조작 설명 49",
     "Enabled": false
   }
 }

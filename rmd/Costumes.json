@@ -1,4992 +1,4992 @@
 {
   "330000": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "330001": {
     "OriginalText": "防具名ダミー1",
-    "Text": "",
-    "Enabled": false
+    "Text": "방어구 이름 더미 1",
+    "Enabled": true
   },
   "330002": {
     "OriginalText": "アンダーウェア",
-    "Text": "Underwear",
+    "Text": "언더웨어",
     "Enabled": true
   },
   "330003": {
     "OriginalText": "ヘヴィスクードＢ",
-    "Text": "Heavy Scudo B",
+    "Text": "헤비 스쿠드 B",
     "Enabled": true
   },
   "330004": {
     "OriginalText": "ヘヴィスクードＯ",
-    "Text": "Heavy Scudo O",
+    "Text": "헤비 스쿠드 O",
     "Enabled": true
   },
   "330005": {
     "OriginalText": "ヘヴィスクードＲ",
-    "Text": "Heavy Scudo R",
+    "Text": "헤비 스쿠드 R",
     "Enabled": true
   },
   "330006": {
     "OriginalText": "ヘヴィスクードＧ",
-    "Text": "Heavy Scudo G",
+    "Text": "헤비 스쿠드 G",
     "Enabled": true
   },
   "330007": {
     "OriginalText": "アドヴェントス破Ｙ",
-    "Text": "Adventos Y (Damaged)",
+    "Text": "어드벤트스 Y (파손)",
     "Enabled": true
   },
   "330008": {
     "OriginalText": "アドヴェントス破Ｏ",
-    "Text": "Adventos O (Damaged)",
+    "Text": "어드벤트스 O (파손)",
     "Enabled": true
   },
   "330009": {
     "OriginalText": "アドヴェントス破Ｂ",
-    "Text": "Adventos B (Damaged)",
+    "Text": "어드벤트스 B (파손)",
     "Enabled": true
   },
   "330010": {
     "OriginalText": "アドヴェントス破Ｗ",
-    "Text": "Adventos W (Damaged)",
+    "Text": "어드벤트스 W (파손)",
     "Enabled": true
   },
   "330011": {
     "OriginalText": "ヘイズソーサラーＫ",
-    "Text": "Haze Sorcerer K",
+    "Text": "헤이즈 소서러 K",
     "Enabled": true
   },
   "330012": {
     "OriginalText": "ヘイズソーサラーＹ",
-    "Text": "Haze Sorcerer Y",
+    "Text": "헤이즈 소서러 Y",
     "Enabled": true
   },
   "330013": {
     "OriginalText": "ヘイズソーサラーＢ",
-    "Text": "Haze Sorcerer B",
+    "Text": "헤이즈 소서러 B",
     "Enabled": true
   },
   "330014": {
     "OriginalText": "ヘイズソーサラーＲ",
-    "Text": "Haze Sorcerer R",
+    "Text": "헤이즈 소서러 R",
     "Enabled": true
   },
   "330015": {
     "OriginalText": "クローズクォーター破Ｏ",
-    "Text": "Close Quarter O (Damaged)",
+    "Text": "클로즈 쿼터 O (파손)",
     "Enabled": true
   },
   "330016": {
     "OriginalText": "クローズクォーター破Ｂ",
-    "Text": "Close Quarter B (Damaged)",
+    "Text": "클로즈 쿼터 B (파손)",
     "Enabled": true
   },
   "330017": {
     "OriginalText": "クローズクォーター破Ｖ",
-    "Text": "Close Quarter V (Damaged)",
+    "Text": "클로즈 쿼터 V (파손)",
     "Enabled": true
   },
   "330018": {
     "OriginalText": "クローズクォーター破Ｇ",
-    "Text": "Close Quarter G (Damaged)",
+    "Text": "클로즈 쿼터 G (파손)",
     "Enabled": true
   },
   "330019": {
     "OriginalText": "シャープオーダー破Ｖ",
-    "Text": "Sharp Order V (Damaged)",
+    "Text": "샤프 오더 V (파손)",
     "Enabled": true
   },
   "330020": {
     "OriginalText": "シャープオーダー破Ｋ",
-    "Text": "Sharp Order K (Damaged)",
+    "Text": "샤프 오더 K (파손)",
     "Enabled": true
   },
   "330021": {
     "OriginalText": "シャープオーダー破Ｇ",
-    "Text": "Sharp Order G (Damaged)",
+    "Text": "샤프 오더 G (파손)",
     "Enabled": true
   },
   "330022": {
     "OriginalText": "シャープオーダー破Ｏ",
-    "Text": "Sharp Order O (Damaged)",
+    "Text": "샤프 오더 O (파손)",
     "Enabled": true
   },
   "330023": {
     "OriginalText": "ブリッツエース破Ｇ",
-    "Text": "Blitz Ace G (Damaged)",
+    "Text": "블리츠 에이스 G (파손)",
     "Enabled": true
   },
   "330024": {
     "OriginalText": "ブリッツエース破Ｖ",
-    "Text": "Blitz Ace V (Damaged)",
+    "Text": "블리츠 에이스 V (파손)",
     "Enabled": true
   },
   "330025": {
     "OriginalText": "ブリッツエース破Ｒ",
-    "Text": "Blitz Ace R (Damaged)",
+    "Text": "블리츠 에이스 R (파손)",
     "Enabled": true
   },
   "330026": {
     "OriginalText": "ブリッツエース破Ｂ",
-    "Text": "Blitz Ace B (Damaged)",
+    "Text": "블리츠 에이스 B (파손)",
     "Enabled": true
   },
   "330027": {
     "OriginalText": "センシアスコート破Ｋ",
-    "Text": "Sensuous Coat K (Damaged)",
+    "Text": "센셔스 코트 K (파손)",
     "Enabled": true
   },
   "330028": {
     "OriginalText": "センシアスコート破Ｏ",
-    "Text": "Sensuous Coat O (Damaged)",
+    "Text": "센셔스 코트 O (파손)",
     "Enabled": true
   },
   "330029": {
     "OriginalText": "センシアスコート破Ｒ",
-    "Text": "Sensuous Coat R (Damaged)",
+    "Text": "센셔스 코트 R (파손)",
     "Enabled": true
   },
   "330030": {
     "OriginalText": "センシアスコート破Ｇ",
-    "Text": "Sensuous Coat G (Damaged)",
+    "Text": "센셔스 코트 G (파손)",
     "Enabled": true
   },
   "330031": {
     "OriginalText": "レーベンシルト破Ｂ",
-    "Text": "Raven Schild B (Damaged)",
+    "Text": "레벤 실트 B (파손)",
     "Enabled": true
   },
   "330032": {
     "OriginalText": "レーベンシルト破Ｋ",
-    "Text": "Raven Schild K (Damaged)",
+    "Text": "레벤 실트 K (파손)",
     "Enabled": true
   },
   "330033": {
     "OriginalText": "レーベンシルト破Ｗ",
-    "Text": "Raven Schild W (Damaged)",
+    "Text": "레벤 실트 W (파손)",
     "Enabled": true
   },
   "330034": {
     "OriginalText": "レーベンシルト破Ｒ",
-    "Text": "Raven Schild R (Damaged)",
+    "Text": "레벤 실트 R (파손)",
     "Enabled": true
   },
   "330035": {
     "OriginalText": "ヴァイゼクルーン破Ｗ",
-    "Text": "Weiss Croon W (Damaged)",
+    "Text": "바이제 크룬 W (파손)",
     "Enabled": true
   },
   "330036": {
     "OriginalText": "ヴァイゼクルーン破Ｋ",
-    "Text": "Weiss Croon K (Damaged)",
+    "Text": "바이제 크룬 K (파손)",
     "Enabled": true
   },
   "330037": {
     "OriginalText": "ヴァイゼクルーン破Ｒ",
-    "Text": "Weiss Croon R (Damaged)",
+    "Text": "바이제 크룬 R (파손)",
     "Enabled": true
   },
   "330038": {
     "OriginalText": "ヴァイゼクルーン破Ｂ",
-    "Text": "Weiss Croon B (Damaged)",
+    "Text": "바이제 크룬 B (파손)",
     "Enabled": true
   },
   "330039": {
     "OriginalText": "ジャン・ドゥＢ",
-    "Text": "Jan Du B",
+    "Text": "장 도 B",
     "Enabled": true
   },
   "330040": {
     "OriginalText": "ジャン・ドゥＫ",
-    "Text": "Jan Du K",
+    "Text": "장 도 K",
     "Enabled": true
   },
   "330041": {
     "OriginalText": "ジャン・ドゥＯ",
-    "Text": "Jan Du O",
+    "Text": "장 도 O",
     "Enabled": true
   },
   "330042": {
     "OriginalText": "ジャン・ドゥＷ",
-    "Text": "Jan Du W",
+    "Text": "장 도 W",
     "Enabled": true
   },
   "330043": {
     "OriginalText": "スライトスーツＲ",
-    "Text": "Slight Suit R",
+    "Text": "슬라이트 슈트 R",
     "Enabled": true
   },
   "330044": {
     "OriginalText": "スライトスーツＯ",
-    "Text": "Slight Suit O",
+    "Text": "슬라이트 슈트 O",
     "Enabled": true
   },
   "330045": {
     "OriginalText": "スライトスーツＷ",
-    "Text": "Slight Suit W",
+    "Text": "슬라이트 슈트 W",
     "Enabled": true
   },
   "330046": {
     "OriginalText": "スライトスーツＫ",
-    "Text": "Slight Suit K",
+    "Text": "슬라이트 슈트 K",
     "Enabled": true
   },
   "330047": {
     "OriginalText": "シークイェーガー破Ｂ",
-    "Text": "Chic Jaeger B (Damaged)",
+    "Text": "시크 예거 B (파손)",
     "Enabled": true
   },
   "330048": {
     "OriginalText": "シークイェーガー破Ｙ",
-    "Text": "Chic Jaeger Y (Damaged)",
+    "Text": "시크 예거 Y (파손)",
     "Enabled": true
   },
   "330049": {
     "OriginalText": "シークイェーガー破Ｖ",
-    "Text": "Chic Jaeger V (Damaged)",
+    "Text": "시크 예거 V (파손)",
     "Enabled": true
   },
   "330050": {
     "OriginalText": "シークイェーガー破Ｋ",
-    "Text": "Chic Jaeger K (Damaged)",
+    "Text": "시크 예거 K (파손)",
     "Enabled": true
   },
   "330051": {
     "OriginalText": "ナビゲータースーツＧ",
-    "Text": "Navigator Suit G",
+    "Text": "내비게이터 슈트 G",
     "Enabled": true
   },
   "330052": {
     "OriginalText": "ナビゲータースーツＯ",
-    "Text": "Navigator Suit O",
+    "Text": "내비게이터 슈트 O",
     "Enabled": true
   },
   "330053": {
     "OriginalText": "ナビゲータースーツＢ",
-    "Text": "Navigator Suit B",
+    "Text": "내비게이터 슈트 B",
     "Enabled": true
   },
   "330054": {
     "OriginalText": "ナビゲータースーツＲ",
-    "Text": "Navigator Suit R",
+    "Text": "내비게이터 슈트 R",
     "Enabled": true
   },
   "330055": {
     "OriginalText": "アークス研修生男制服Ｗ",
-    "Text": "ARKS Trainee Uniform M/W",
+    "Text": "아크스 연수생 남성 제복 W",
     "Enabled": true
   },
   "330056": {
     "OriginalText": "アークス研修生男制服Ｋ",
-    "Text": "ARKS Trainee Uniform M/K",
+    "Text": "아크스 연수생 남성 제복 K",
     "Enabled": true
   },
   "330057": {
     "OriginalText": "アークス研修生男制服Ｏ",
-    "Text": "ARKS Trainee Uniform M/O",
+    "Text": "아크스 연수생 남성 제복 O",
     "Enabled": true
   },
   "330058": {
     "OriginalText": "アークス研修生男制服Ｂ",
-    "Text": "ARKS Trainee Uniform M/B",
+    "Text": "아크스 연수생 남성 제복 B",
     "Enabled": true
   },
   "330059": {
     "OriginalText": "ヘレティックロードＢ",
-    "Text": "Heretic Lord B",
+    "Text": "헤레틱 로드 B",
     "Enabled": true
   },
   "330060": {
     "OriginalText": "ヘレティックロードＫ",
-    "Text": "Heretic Lord K",
+    "Text": "헤레틱 로드 K",
     "Enabled": true
   },
   "330061": {
     "OriginalText": "ヘレティックロードＲ",
-    "Text": "Heretic Lord R",
+    "Text": "헤레틱 로드 R",
     "Enabled": true
   },
   "330062": {
     "OriginalText": "ヘレティックロードＧ",
-    "Text": "Heretic Lord G",
+    "Text": "헤레틱 로드 G",
     "Enabled": true
   },
   "330063": {
     "OriginalText": "アインザーム破Ｂ",
-    "Text": "Einzam B (Damaged)",
+    "Text": "아인잠 B (파손)",
     "Enabled": true
   },
   "330064": {
     "OriginalText": "アインザーム破Ｏ",
-    "Text": "Einzam O (Damaged)",
+    "Text": "아인잠 O (파손)",
     "Enabled": true
   },
   "330065": {
     "OriginalText": "アインザーム破Ｖ",
-    "Text": "Einzam V (Damaged)",
+    "Text": "아인잠 V (파손)",
     "Enabled": true
   },
   "330066": {
     "OriginalText": "アインザーム破Ｒ",
-    "Text": "Einzam R (Damaged)",
+    "Text": "아인잠 R (파손)",
     "Enabled": true
   },
   "330067": {
     "OriginalText": "フリューネージュＢ",
-    "Text": "Furieux Neige B",
+    "Text": "플뤼 네주 B",
     "Enabled": true
   },
   "330068": {
     "OriginalText": "フリューネージュＲ",
-    "Text": "Furieux Neige R",
+    "Text": "플뤼 네주 R",
     "Enabled": true
   },
   "330069": {
     "OriginalText": "フリューネージュＹ",
-    "Text": "Furieux Neige Y",
+    "Text": "플뤼 네주 Y",
     "Enabled": true
   },
   "330070": {
     "OriginalText": "フリューネージュＧ",
-    "Text": "Furieux Neige G",
+    "Text": "플뤼 네주 G",
     "Enabled": true
   },
   "330071": {
     "OriginalText": "フラメガッシュＯ",
-    "Text": "Flamegash O",
+    "Text": "플라메 가슈 O",
     "Enabled": true
   },
   "330072": {
     "OriginalText": "フラメガッシュＢ",
-    "Text": "Flamegash B",
+    "Text": "플라메 가슈 B",
     "Enabled": true
   },
   "330073": {
     "OriginalText": "フラメガッシュＹ",
-    "Text": "Flamegash Y",
+    "Text": "플라메 가슈 Y",
     "Enabled": true
   },
   "330074": {
     "OriginalText": "フラメガッシュＲ",
-    "Text": "Flamegash R",
+    "Text": "플라메 가슈 R",
     "Enabled": true
   },
   "330075": {
     "OriginalText": "ヴォルカノパッカー破Ｒ",
-    "Text": "Volcano Packer R (Damaged)",
+    "Text": "볼카노 패커 R (파손)",
     "Enabled": true
   },
   "330076": {
     "OriginalText": "ヴォルカノパッカー破Ｂ",
-    "Text": "Volcano Packer B (Damaged)",
+    "Text": "볼카노 패커 B (파손)",
     "Enabled": true
   },
   "330077": {
     "OriginalText": "ヴォルカノパッカー破Ｋ",
-    "Text": "Volcano Packer K (Damaged)",
+    "Text": "볼카노 패커 K (파손)",
     "Enabled": true
   },
   "330078": {
     "OriginalText": "ヴォルカノパッカー破Ｏ",
-    "Text": "Volcano Packer O (Damaged)",
+    "Text": "볼카노 패커 O (파손)",
     "Enabled": true
   },
   "330079": {
     "OriginalText": "ウォフマナフＷ",
-    "Text": "Vohu Manah W",
+    "Text": "보후 마나흐 W",
     "Enabled": true
   },
   "330080": {
     "OriginalText": "ウォフマナフＲ",
-    "Text": "Vohu Manah R",
+    "Text": "보후 마나흐 R",
     "Enabled": true
   },
   "330081": {
     "OriginalText": "ウォフマナフＧ",
-    "Text": "Vohu Manah G",
+    "Text": "보후 마나흐 G",
     "Enabled": true
   },
   "330082": {
     "OriginalText": "ウォフマナフＢ",
-    "Text": "Vohu Manah B",
+    "Text": "보후 마나흐 B",
     "Enabled": true
   },
   "330083": {
     "OriginalText": "ガラテピオニエＷ",
-    "Text": "Garatepionie W",
+    "Text": "갈라테 피오니에 W",
     "Enabled": true
   },
   "330084": {
     "OriginalText": "ガラテピオニエＢ",
-    "Text": "Garatepione B",
+    "Text": "갈라테 피오니에 B",
     "Enabled": true
   },
   "330085": {
     "OriginalText": "ガラテピオニエＫ",
-    "Text": "Garatepionie K",
+    "Text": "갈라테 피오니에 K",
     "Enabled": true
   },
   "330086": {
     "OriginalText": "ガラテピオニエＲ",
-    "Text": "Garatepionie R",
+    "Text": "갈라테 피오니에 R",
     "Enabled": true
   },
   "330087": {
     "OriginalText": "ガラテピオニエＧ",
-    "Text": "Garatepionie G",
+    "Text": "갈라테 피오니에 G",
     "Enabled": true
   },
   "330088": {
     "OriginalText": "アグリシェルシェールＷ",
-    "Text": "Agrishell Cher W",
+    "Text": "아그리 셰르셰르 W",
     "Enabled": true
   },
   "330089": {
     "OriginalText": "アグリシェルシェールＲ",
-    "Text": "Agrishell Cher R",
+    "Text": "아그리 셰르셰르 R",
     "Enabled": true
   },
   "330090": {
     "OriginalText": "アグリシェルシェールＫ",
-    "Text": "Agrishell Cher K",
+    "Text": "아그리 셰르셰르 K",
     "Enabled": true
   },
   "330091": {
     "OriginalText": "アグリシェルシェールＢ",
-    "Text": "Agrishell Cher B",
+    "Text": "아그리 셰르셰르 B",
     "Enabled": true
   },
   "330092": {
     "OriginalText": "アグリシェルシェールＧ",
-    "Text": "Agrishell Cher G",
+    "Text": "아그리 셰르셰르 G",
     "Enabled": true
   },
   "330093": {
     "OriginalText": "アルキファナティックＷ",
-    "Text": "Alki Fanatic W",
+    "Text": "알키 파나틱 W",
     "Enabled": true
   },
   "330094": {
     "OriginalText": "アルキファナティックＫ",
-    "Text": "Alki Fanatic K",
+    "Text": "알키 파나틱 K",
     "Enabled": true
   },
   "330095": {
     "OriginalText": "アルキファナティックＲ",
-    "Text": "Alki Fanatic R",
+    "Text": "알키 파나틱 R",
     "Enabled": true
   },
   "330096": {
     "OriginalText": "アルキファナティックＢ",
-    "Text": "Alki Fanatic B",
+    "Text": "알키 파나틱 B",
     "Enabled": true
   },
   "330097": {
     "OriginalText": "アルキファナティックＧ",
-    "Text": "Alki Fanatic G",
+    "Text": "알키 파나틱 G",
     "Enabled": true
   },
   "330098": {
     "OriginalText": "ノヴァソヴァールＷ",
-    "Text": "Nova Sauveur W",
+    "Text": "노바 소바르 W",
     "Enabled": true
   },
   "330099": {
     "OriginalText": "ノヴァソヴァールＲ",
-    "Text": "Nova Sauveur R",
+    "Text": "노바 소바르 R",
     "Enabled": true
   },
   "330100": {
     "OriginalText": "ノヴァソヴァールＢ",
-    "Text": "Nova Sauveur B",
+    "Text": "노바 소바르 B",
     "Enabled": true
   },
   "330101": {
     "OriginalText": "ノヴァソヴァールＧ",
-    "Text": "Nova Sauveur G",
+    "Text": "노바 소바르 G",
     "Enabled": true
   },
   "330102": {
     "OriginalText": "ノヴァソヴァールＹ",
-    "Text": "Nova Sauveur Y",
+    "Text": "노바 소바르 Y",
     "Enabled": true
   },
   "330103": {
     "OriginalText": "エイゲトグリーフＢ",
-    "Text": "Eigeto Grief B",
+    "Text": "에이게트 그리프 B",
     "Enabled": true
   },
   "330104": {
     "OriginalText": "エイゲトグリーフＧ",
-    "Text": "Eigeto Grief G",
+    "Text": "에이게트 그리프 G",
     "Enabled": true
   },
   "330105": {
     "OriginalText": "エイゲトグリーフＰ",
-    "Text": "Eigeto Grief P",
+    "Text": "에이게트 그리프 P",
     "Enabled": true
   },
   "330106": {
     "OriginalText": "エイゲトグリーフＶ",
-    "Text": "Eigeto Grief V",
+    "Text": "에이게트 그리프 V",
     "Enabled": true
   },
   "330107": {
     "OriginalText": "エイゲトグリーフＫ",
-    "Text": "Eigeto Grief K",
+    "Text": "에이게트 그리프 K",
     "Enabled": true
   },
   "330108": {
     "OriginalText": "フリードアウトローＯ",
-    "Text": "Freed Outlaw O",
+    "Text": "프리드 아웃로 O",
     "Enabled": true
   },
   "330109": {
     "OriginalText": "フリードアウトローＫ",
-    "Text": "Freed Outlaw K",
+    "Text": "프리드 아웃로 K",
     "Enabled": true
   },
   "330110": {
     "OriginalText": "フリードアウトローＲ",
-    "Text": "Freed Outlaw R",
+    "Text": "프리드 아웃로 R",
     "Enabled": true
   },
   "330111": {
     "OriginalText": "フリードアウトローＧ",
-    "Text": "Freed Outlaw G",
+    "Text": "프리드 아웃로 G",
     "Enabled": true
   },
   "330112": {
     "OriginalText": "フリードアウトローＢ",
-    "Text": "Freed Outlaw B",
+    "Text": "프리드 아웃로 B",
     "Enabled": true
   },
   "330113": {
     "OriginalText": "リンデンローブＧ",
-    "Text": "Rinden Robe G",
+    "Text": "린덴 로브 G",
     "Enabled": true
   },
   "330114": {
     "OriginalText": "リンデンローブＢ",
-    "Text": "Rinden Robe B",
+    "Text": "린덴 로브 B",
     "Enabled": true
   },
   "330115": {
     "OriginalText": "リンデンローブＲ",
-    "Text": "Rinden Robe R",
+    "Text": "린덴 로브 R",
     "Enabled": true
   },
   "330116": {
     "OriginalText": "リンデンローブＯ",
-    "Text": "Rinden Robe O",
+    "Text": "린덴 로브 O",
     "Enabled": true
   },
   "330117": {
     "OriginalText": "リンデンローブＷ",
-    "Text": "Rinden Robe W",
+    "Text": "린덴 로브 W",
     "Enabled": true
   },
   "330118": {
     "OriginalText": "ジュラキュイラスＧ",
-    "Text": "Jurakiu Ilas G",
+    "Text": "쥐라 퀴라스 G",
     "Enabled": true
   },
   "330119": {
     "OriginalText": "ジュラキュイラスＶ",
-    "Text": "Jurakiu Ilas V",
+    "Text": "쥐라 퀴라스 V",
     "Enabled": true
   },
   "330120": {
     "OriginalText": "ジュラキュイラスＯ",
-    "Text": "Jurakiu Ilas O",
+    "Text": "쥐라 퀴라스 O",
     "Enabled": true
   },
   "330121": {
     "OriginalText": "ジュラキュイラスＲ",
-    "Text": "Jurakiu Ilas R",
+    "Text": "쥐라 퀴라스 R",
     "Enabled": true
   },
   "330122": {
     "OriginalText": "ジュラキュイラスＷ",
-    "Text": "Jurakiu Ilas W",
+    "Text": "쥐라 퀴라스 W",
     "Enabled": true
   },
   "330123": {
     "OriginalText": "ワイルドスタイルＫ",
-    "Text": "Wild Style K",
+    "Text": "와일드 스타일 K",
     "Enabled": true
   },
   "330124": {
     "OriginalText": "ワイルドスタイルＲ",
-    "Text": "Wild Style R",
+    "Text": "와일드 스타일 R",
     "Enabled": true
   },
   "330125": {
     "OriginalText": "ワイルドスタイルＯ",
-    "Text": "Wild Style O",
+    "Text": "와일드 스타일 O",
     "Enabled": true
   },
   "330126": {
     "OriginalText": "ワイルドスタイルＢ",
-    "Text": "Wild Style B",
+    "Text": "와일드 스타일 B",
     "Enabled": true
   },
   "330127": {
     "OriginalText": "ワイルドスタイルＧ",
-    "Text": "Wild Style G",
+    "Text": "와일드 스타일 G",
     "Enabled": true
   },
   "330128": {
     "OriginalText": "ラッピーミミクリＹ",
-    "Text": "Rappy Mimicry Y",
+    "Text": "랍피 미미크리 Y",
     "Enabled": true
   },
   "330129": {
     "OriginalText": "ラッピーミミクリＢ",
-    "Text": "Rappy Mimicry B",
+    "Text": "랍피 미미크리 B",
     "Enabled": true
   },
   "330130": {
     "OriginalText": "ラッピーミミクリＲ",
-    "Text": "Rappy Mimicry R",
+    "Text": "랍피 미미크리 R",
     "Enabled": true
   },
   "330131": {
     "OriginalText": "ラッピーミミクリＷ",
-    "Text": "Rappy Mimicry W",
+    "Text": "랍피 미미크리 W",
     "Enabled": true
   },
   "330132": {
     "OriginalText": "ラッピーミミクリＫ",
-    "Text": "Rappy Mimicry K",
+    "Text": "랍피 미미크리 K",
     "Enabled": true
   },
   "330133": {
     "OriginalText": "ヴィテスシュタルクＫ",
-    "Text": "Vitesse Stark K",
+    "Text": "비테스 슈타르크 K",
     "Enabled": true
   },
   "330134": {
     "OriginalText": "ヴィテスシュタルクＲ",
-    "Text": "Vitesse Stark R",
+    "Text": "비테스 슈타르크 R",
     "Enabled": true
   },
   "330135": {
     "OriginalText": "ヴィテスシュタルクＹ",
-    "Text": "Vitesse Stark Y",
+    "Text": "비테스 슈타르크 Y",
     "Enabled": true
   },
   "330136": {
     "OriginalText": "ヴィテスシュタルクＢ",
-    "Text": "Vitesse Stark B",
+    "Text": "비테스 슈타르크 B",
     "Enabled": true
   },
   "330137": {
     "OriginalText": "ヴィテスシュタルクＧ",
-    "Text": "Vitesse Stark G",
+    "Text": "비테스 슈타르크 G",
     "Enabled": true
   },
   "330138": {
     "OriginalText": "ヴィグールズイッヒャーＷ",
-    "Text": "Vigours Icher W",
+    "Text": "비구르 지허 W",
     "Enabled": true
   },
   "330139": {
     "OriginalText": "ヴィグールズイッヒャーＫ",
-    "Text": "Vigours Icher K",
+    "Text": "비구르 지허 K",
     "Enabled": true
   },
   "330140": {
     "OriginalText": "ヴィグールズイッヒャーＧ",
-    "Text": "Vigours Icher G",
+    "Text": "비구르 지허 G",
     "Enabled": true
   },
   "330141": {
     "OriginalText": "ヴィグールズイッヒャーＢ",
-    "Text": "Vigours Icher B",
+    "Text": "비구르 지허 B",
     "Enabled": true
   },
   "330142": {
     "OriginalText": "ヴィグールズイッヒャーＲ",
-    "Text": "Vigours Icher R",
+    "Text": "비구르 지허 R",
     "Enabled": true
   },
   "330143": {
     "OriginalText": "シャンプースタイル",
-    "Text": "Shampoo Style",
+    "Text": "샴푸 스타일",
     "Enabled": true
   },
   "330144": {
     "OriginalText": "ヴァシュロンコート",
-    "Text": "Vashyron Coat",
+    "Text": "바슈론 코트",
     "Enabled": true
   },
   "330145": {
     "OriginalText": "ゼファージャケット",
-    "Text": "Zefa Jacket",
+    "Text": "제퍼 재킷",
     "Enabled": true
   },
   "330146": {
     "OriginalText": "ヘヴィスクード破Ｂ",
-    "Text": "Heavy Scudo B (Damaged)",
+    "Text": "헤비 스쿠드 B (파손)",
     "Enabled": true
   },
   "330147": {
     "OriginalText": "ヘヴィスクード破Ｏ",
-    "Text": "Heavy Scudo O (Damaged)",
+    "Text": "헤비 스쿠드 O (파손)",
     "Enabled": true
   },
   "330148": {
     "OriginalText": "ヘヴィスクード破Ｒ",
-    "Text": "Heavy Scudo R (Damaged)",
+    "Text": "헤비 스쿠드 R (파손)",
     "Enabled": true
   },
   "330149": {
     "OriginalText": "ヘヴィスクード破Ｇ",
-    "Text": "Heavy Scudo G (Damaged)",
+    "Text": "헤비 스쿠드 G (파손)",
     "Enabled": true
   },
   "330150": {
     "OriginalText": "ジャン・ドゥ破Ｂ",
-    "Text": "Jan Du B (Damaged)",
+    "Text": "장 도 B (파손)",
     "Enabled": true
   },
   "330151": {
     "OriginalText": "ジャン・ドゥ破Ｋ",
-    "Text": "Jan Du K (Damaged)",
+    "Text": "장 도 K (파손)",
     "Enabled": true
   },
   "330152": {
     "OriginalText": "ジャン・ドゥ破Ｏ",
-    "Text": "Jan Du O (Damaged)",
+    "Text": "장 도 O (파손)",
     "Enabled": true
   },
   "330153": {
     "OriginalText": "ジャン・ドゥ破Ｗ",
-    "Text": "Jan Du W (Damaged)",
+    "Text": "장 도 W (파손)",
     "Enabled": true
   },
   "330154": {
     "OriginalText": "フラメガッシュ破Ｏ",
-    "Text": "Flamegash O (Damaged)",
+    "Text": "플라메 가슈 O (파손)",
     "Enabled": true
   },
   "330155": {
     "OriginalText": "フラメガッシュ破Ｂ",
-    "Text": "Flamegash B (Damaged)",
+    "Text": "플라메 가슈 B (파손)",
     "Enabled": true
   },
   "330156": {
     "OriginalText": "フラメガッシュ破Ｙ",
-    "Text": "Flamegash Y (Damaged)",
+    "Text": "플라메 가슈 Y (파손)",
     "Enabled": true
   },
   "330157": {
     "OriginalText": "フラメガッシュ破Ｒ",
-    "Text": "Flamegash R (Damaged)",
+    "Text": "플라메 가슈 R (파손)",
     "Enabled": true
   },
   "330158": {
     "OriginalText": "アンダーウェア",
-    "Text": "Underwear",
+    "Text": "언더웨어",
     "Enabled": true
   },
   "330159": {
     "OriginalText": "ハニージャケット破Ｙ",
-    "Text": "Honey Jacket Y (Damaged)",
+    "Text": "허니 재킷 Y (파손)",
     "Enabled": true
   },
   "330160": {
     "OriginalText": "ハニージャケット破Ｒ",
-    "Text": "Honey Jacket R (Damaged)",
+    "Text": "허니 재킷 R (파손)",
     "Enabled": true
   },
   "330161": {
     "OriginalText": "ハニージャケット破Ｗ",
-    "Text": "Honey Jacket W (Damaged)",
+    "Text": "허니 재킷 W (파손)",
     "Enabled": true
   },
   "330162": {
     "OriginalText": "ハニージャケット破Ｂ",
-    "Text": "Honey Jacket B (Damaged)",
+    "Text": "허니 재킷 B (파손)",
     "Enabled": true
   },
   "330163": {
     "OriginalText": "バリスティックコートＢ",
-    "Text": "Ballistic Coat B",
+    "Text": "발리스틱 코트 B",
     "Enabled": true
   },
   "330164": {
     "OriginalText": "バリスティックコートＹ",
-    "Text": "Ballistic Coat Y",
+    "Text": "발리스틱 코트 Y",
     "Enabled": true
   },
   "330165": {
     "OriginalText": "バリスティックコートＲ",
-    "Text": "Ballistic Coat R",
+    "Text": "발리스틱 코트 R",
     "Enabled": true
   },
   "330166": {
     "OriginalText": "バリスティックコートＫ",
-    "Text": "Ballistic Coat K",
+    "Text": "발리스틱 코트 K",
     "Enabled": true
   },
   "330167": {
     "OriginalText": "タイガーピアスＷ",
-    "Text": "Tiger Pierce W",
+    "Text": "타이거 피어스 W",
     "Enabled": true
   },
   "330168": {
     "OriginalText": "タイガーピアスＲ",
-    "Text": "Tiger Pierce R",
+    "Text": "타이거 피어스 R",
     "Enabled": true
   },
   "330169": {
     "OriginalText": "タイガーピアスＹ",
-    "Text": "Tiger Pierce Y",
+    "Text": "타이거 피어스 Y",
     "Enabled": true
   },
   "330170": {
     "OriginalText": "タイガーピアスＢ",
-    "Text": "Tiger Pierce B",
+    "Text": "타이거 피어스 B",
     "Enabled": true
   },
   "330171": {
     "OriginalText": "リトルプリムＧ",
-    "Text": "Little Prim G",
+    "Text": "리틀 프림 G",
     "Enabled": true
   },
   "330172": {
     "OriginalText": "リトルプリムＢ",
-    "Text": "Little Prim B",
+    "Text": "리틀 프림 B",
     "Enabled": true
   },
   "330173": {
     "OriginalText": "リトルプリムＰ",
-    "Text": "Little Prim P",
+    "Text": "리틀 프림 P",
     "Enabled": true
   },
   "330174": {
     "OriginalText": "リトルプリムＫ",
-    "Text": "Little Prim K",
+    "Text": "리틀 프림 K",
     "Enabled": true
   },
   "330175": {
     "OriginalText": "キャンディークラウンＢ",
-    "Text": "Candy Crown B",
+    "Text": "캔디 크라운 B",
     "Enabled": true
   },
   "330176": {
     "OriginalText": "キャンディークラウンＫ",
-    "Text": "Candy Crown K",
+    "Text": "캔디 크라운 K",
     "Enabled": true
   },
   "330177": {
     "OriginalText": "キャンディークラウンＧ",
-    "Text": "Candy Crown G",
+    "Text": "캔디 크라운 G",
     "Enabled": true
   },
   "330178": {
     "OriginalText": "キャンディークラウンＰ",
-    "Text": "Candy Crown P",
+    "Text": "캔디 크라운 P",
     "Enabled": true
   },
   "330179": {
     "OriginalText": "エクエスティオー破Ｙ",
-    "Text": "Equestio Y (Damaged)",
+    "Text": "에퀘스티오 Y (파손)",
     "Enabled": true
   },
   "330180": {
     "OriginalText": "エクエスティオー破Ｒ",
-    "Text": "Equestio R (Damaged)",
+    "Text": "에퀘스티오 R (파손)",
     "Enabled": true
   },
   "330181": {
     "OriginalText": "エクエスティオー破Ｂ",
-    "Text": "Equestio B (Damaged)",
+    "Text": "에퀘스티오 B (파손)",
     "Enabled": true
   },
   "330182": {
     "OriginalText": "エクエスティオー破Ｇ",
-    "Text": "Equestio G (Damaged)",
+    "Text": "에퀘스티오 G (파손)",
     "Enabled": true
   },
   "330183": {
     "OriginalText": "フィーリングローブ破Ｇ",
-    "Text": "Feeling Robe G (Damaged)",
+    "Text": "필링 로브 G (파손)",
     "Enabled": true
   },
   "330184": {
     "OriginalText": "フィーリングローブ破Ｂ",
-    "Text": "Feeling Robe B (Damaged)",
+    "Text": "필링 로브 B (파손)",
     "Enabled": true
   },
   "330185": {
     "OriginalText": "フィーリングローブ破Ｏ",
-    "Text": "Feeling Robe O (Damaged)",
+    "Text": "필링 로브 O (파손)",
     "Enabled": true
   },
   "330186": {
     "OriginalText": "フィーリングローブ破Ｒ",
-    "Text": "Feeling Robe R (Damaged)",
+    "Text": "필링 로브 R (파손)",
     "Enabled": true
   },
   "330187": {
     "OriginalText": "ネイバークォーツ破Ｇ",
-    "Text": "Neighbor Quartz G (Damaged)",
+    "Text": "네이버 쿼츠 G (파손)",
     "Enabled": true
   },
   "330188": {
     "OriginalText": "ネイバークォーツ破Ｒ",
-    "Text": "Neighbor Quartz R (Damaged)",
+    "Text": "네이버 쿼츠 R (파손)",
     "Enabled": true
   },
   "330189": {
     "OriginalText": "ネイバークォーツ破Ｐ",
-    "Text": "Neighbor Quartz P (Damaged)",
+    "Text": "네이버 쿼츠 P (파손)",
     "Enabled": true
   },
   "330190": {
     "OriginalText": "ネイバークォーツ破Ｂ",
-    "Text": "Neighbor Quartz B (Damaged)",
+    "Text": "네이버 쿼츠 B (파손)",
     "Enabled": true
   },
   "330191": {
     "OriginalText": "ガードウイング破Ｖ",
-    "Text": "Guard Wing V (Damaged)",
+    "Text": "가드 윙 V (파손)",
     "Enabled": true
   },
   "330192": {
     "OriginalText": "ガードウイング破Ｏ",
-    "Text": "Guard Wing O (Damaged)",
+    "Text": "가드 윙 O (파손)",
     "Enabled": true
   },
   "330193": {
     "OriginalText": "ガードウイング破Ｋ",
-    "Text": "Guard Wing K (Damaged)",
+    "Text": "가드 윙 K (파손)",
     "Enabled": true
   },
   "330194": {
     "OriginalText": "ガードウイング破Ｒ",
-    "Text": "Guard Wing R (Damaged)",
+    "Text": "가드 윙 R (파손)",
     "Enabled": true
   },
   "330195": {
     "OriginalText": "スライトクロスＧ",
-    "Text": "Slight Cross G",
+    "Text": "슬라이트 크로스 G",
     "Enabled": true
   },
   "330196": {
     "OriginalText": "スライトクロスＲ",
-    "Text": "Slight Cross R",
+    "Text": "슬라이트 크로스 R",
     "Enabled": true
   },
   "330197": {
     "OriginalText": "スライトクロスＢ",
-    "Text": "Slight Cross B",
+    "Text": "슬라이트 크로스 B",
     "Enabled": true
   },
   "330198": {
     "OriginalText": "スライトクロスＯ",
-    "Text": "Slight Cross O",
+    "Text": "슬라이트 크로스 O",
     "Enabled": true
   },
   "330199": {
     "OriginalText": "サウザンドリム破Ｒ",
-    "Text": "Thousand Rim R (Damaged)",
+    "Text": "사우전드 림 R (파손)",
     "Enabled": true
   },
   "330200": {
     "OriginalText": "サウザンドリム破Ｂ",
-    "Text": "Thousand Rim B (Damaged)",
+    "Text": "사우전드 림 B (파손)",
     "Enabled": true
   },
   "330201": {
     "OriginalText": "サウザンドリム破Ｗ",
-    "Text": "Thousand Rim W (Damaged)",
+    "Text": "사우전드 림 W (파손)",
     "Enabled": true
   },
   "330202": {
     "OriginalText": "サウザンドリム破Ｇ",
-    "Text": "Thousand Rim G (Damaged)",
+    "Text": "사우전드 림 G (파손)",
     "Enabled": true
   },
   "330203": {
     "OriginalText": "ナビゲータードレスＶ",
-    "Text": "Navigator Dress V",
+    "Text": "내비게이터 드레스 V",
     "Enabled": true
   },
   "330204": {
     "OriginalText": "ナビゲータードレスＷ",
-    "Text": "Navigator Dress W",
+    "Text": "내비게이터 드레스 W",
     "Enabled": true
   },
   "330205": {
     "OriginalText": "ナビゲータードレスＢ",
-    "Text": "Navigator Dress B",
+    "Text": "내비게이터 드레스 B",
     "Enabled": true
   },
   "330206": {
     "OriginalText": "ナビゲータードレスＲ",
-    "Text": "Navigator Dress R",
+    "Text": "내비게이터 드레스 R",
     "Enabled": true
   },
   "330207": {
     "OriginalText": "ナースドレスＹ",
-    "Text": "Nurse Dress Y",
+    "Text": "간호사 드레스 Y",
     "Enabled": true
   },
   "330208": {
     "OriginalText": "ナースドレスＢ",
-    "Text": "Nurse Dress B",
+    "Text": "간호사 드레스 B",
     "Enabled": true
   },
   "330209": {
     "OriginalText": "ナースドレスＧ",
-    "Text": "Nurse Dress G",
+    "Text": "간호사 드레스 G",
     "Enabled": true
   },
   "330210": {
     "OriginalText": "ナースドレスＰ",
-    "Text": "Nurse Dress P",
+    "Text": "간호사 드레스 P",
     "Enabled": true
   },
   "330211": {
     "OriginalText": "アークス研修生女制服Ｋ",
-    "Text": "ARKS Trainee Uniform F/K",
+    "Text": "아크스 연수생 여성 제복 K",
     "Enabled": true
   },
   "330212": {
     "OriginalText": "アークス研修生女制服Ｂ",
-    "Text": "ARKS Trainee Uniform F/B",
+    "Text": "아크스 연수생 여성 제복 B",
     "Enabled": true
   },
   "330213": {
     "OriginalText": "アークス研修生女制服Ｒ",
-    "Text": "ARKS Trainee Uniform F/R",
+    "Text": "아크스 연수생 여성 제복 R",
     "Enabled": true
   },
   "330214": {
     "OriginalText": "アークス研修生女制服Ｇ",
-    "Text": "ARKS Trainee Uniform F/G",
+    "Text": "아크스 연수생 여성 제복 G",
     "Enabled": true
   },
   "330215": {
     "OriginalText": "エレティックレーヌ破Ｗ",
-    "Text": "Eretique Reine W (Damaged)",
+    "Text": "에레틱 렌느 W (파손)",
     "Enabled": true
   },
   "330216": {
     "OriginalText": "エレティックレーヌ破Ｏ",
-    "Text": "Eretique Reine O (Damaged)",
+    "Text": "에레틱 렌느 O (파손)",
     "Enabled": true
   },
   "330217": {
     "OriginalText": "エレティックレーヌ破Ｐ",
-    "Text": "Eretique Reine P (Damaged)",
+    "Text": "에레틱 렌느 P (파손)",
     "Enabled": true
   },
   "330218": {
     "OriginalText": "エレティックレーヌ破Ｇ",
-    "Text": "Eretique Reine G (Damaged)",
+    "Text": "에레틱 렌느 G (파손)",
     "Enabled": true
   },
   "330219": {
     "OriginalText": "イーリスカッツェＯ",
-    "Text": "Iris Katze O",
+    "Text": "이리스 카체 O",
     "Enabled": true
   },
   "330220": {
     "OriginalText": "イーリスカッツェＧ",
-    "Text": "Iris Katze G",
+    "Text": "이리스 카체 G",
     "Enabled": true
   },
   "330221": {
     "OriginalText": "イーリスカッツェＢ",
-    "Text": "Iris Katze B",
+    "Text": "이리스 카체 B",
     "Enabled": true
   },
   "330222": {
     "OriginalText": "イーリスカッツェＲ",
-    "Text": "Iris Katze R",
+    "Text": "이리스 카체 R",
     "Enabled": true
   },
   "330223": {
     "OriginalText": "ファニートレイターＢ",
-    "Text": "Funny Traitor B",
+    "Text": "퍼니 트레이터 B",
     "Enabled": true
   },
   "330224": {
     "OriginalText": "ファニートレイターＯ",
-    "Text": "Funny Traitor O",
+    "Text": "퍼니 트레이터 O",
     "Enabled": true
   },
   "330225": {
     "OriginalText": "ファニートレイターＲ",
-    "Text": "Funny Traitor R",
+    "Text": "퍼니 트레이터 R",
     "Enabled": true
   },
   "330226": {
     "OriginalText": "ファニートレイターＧ",
-    "Text": "Funny Traitor G",
+    "Text": "퍼니 트레이터 G",
     "Enabled": true
   },
   "330227": {
     "OriginalText": "ハートブレイカーＲ",
-    "Text": "Heart Breaker R",
+    "Text": "하트브레이커 R",
     "Enabled": true
   },
   "330228": {
     "OriginalText": "ハートブレイカーＧ",
-    "Text": "Heart Breaker G",
+    "Text": "하트브레이커 G",
     "Enabled": true
   },
   "330229": {
     "OriginalText": "ハートブレイカーＷ",
-    "Text": "Heart Breaker W",
+    "Text": "하트브레이커 W",
     "Enabled": true
   },
   "330230": {
     "OriginalText": "ハートブレイカーＢ",
-    "Text": "Heart Breaker B",
+    "Text": "하트브레이커 B",
     "Enabled": true
   },
   "330231": {
     "OriginalText": "クラテルファドルＫ",
-    "Text": "Crater Faddle K",
+    "Text": "크라텔 파돌 K",
     "Enabled": true
   },
   "330232": {
     "OriginalText": "クラテルファドルＹ",
-    "Text": "Crater Faddle Y",
+    "Text": "크라텔 파돌 Y",
     "Enabled": true
   },
   "330233": {
     "OriginalText": "クラテルファドルＲ",
-    "Text": "Crater Faddle R",
+    "Text": "크라텔 파돌 R",
     "Enabled": true
   },
   "330234": {
     "OriginalText": "クラテルファドルＢ",
-    "Text": "Crater Faddle B",
+    "Text": "크라텔 파돌 B",
     "Enabled": true
   },
   "330235": {
     "OriginalText": "アルフライラＰ",
-    "Text": "Alph Lyla P",
+    "Text": "알프라일라 P",
     "Enabled": true
   },
   "330236": {
     "OriginalText": "アルフライラＹ",
-    "Text": "Alph Lyla Y",
+    "Text": "알프라일라 Y",
     "Enabled": true
   },
   "330237": {
     "OriginalText": "アルフライラＲ",
-    "Text": "Alph Lyla R",
+    "Text": "알프라일라 R",
     "Enabled": true
   },
   "330238": {
     "OriginalText": "アルフライラＢ",
-    "Text": "Alph Lyla B",
+    "Text": "알프라일라 B",
     "Enabled": true
   },
   "330239": {
     "OriginalText": "ガラテサジェスＫ",
-    "Text": "Garate Sages K",
+    "Text": "갈라테 사제스 K",
     "Enabled": true
   },
   "330240": {
     "OriginalText": "ガラテサジェスＢ",
-    "Text": "Garate Sages B",
+    "Text": "갈라테 사제스 B",
     "Enabled": true
   },
   "330241": {
     "OriginalText": "ガラテサジェスＷ",
-    "Text": "Garate Sages W",
+    "Text": "갈라테 사제스 W",
     "Enabled": true
   },
   "330242": {
     "OriginalText": "ガラテサジェスＲ",
-    "Text": "Garate Sages R",
+    "Text": "갈라테 사제스 R",
     "Enabled": true
   },
   "330243": {
     "OriginalText": "ガラテサジェスＧ",
-    "Text": "Garate Sages G",
+    "Text": "갈라테 사제스 G",
     "Enabled": true
   },
   "330244": {
     "OriginalText": "アグリフォルスＷ",
-    "Text": "Agri Fors W",
+    "Text": "아그리 포르스 W",
     "Enabled": true
   },
   "330245": {
     "OriginalText": "アグリフォルスＲ",
-    "Text": "Agri Fors R",
+    "Text": "아그리 포르스 R",
     "Enabled": true
   },
   "330246": {
     "OriginalText": "アグリフォルスＫ",
-    "Text": "Agri Fors K",
+    "Text": "아그리 포르스 K",
     "Enabled": true
   },
   "330247": {
     "OriginalText": "アグリフォルスＢ",
-    "Text": "Agri Fors B",
+    "Text": "아그리 포르스 B",
     "Enabled": true
   },
   "330248": {
     "OriginalText": "アグリフォルスＧ",
-    "Text": "Agri Fors G",
+    "Text": "아그리 포르스 G",
     "Enabled": true
   },
   "330249": {
     "OriginalText": "アルキピュールＢ",
-    "Text": "Alki Pule B",
+    "Text": "알키 퓌르 B",
     "Enabled": true
   },
   "330250": {
     "OriginalText": "アルキピュールＶ",
-    "Text": "Alki Pule V",
+    "Text": "알키 퓌르 V",
     "Enabled": true
   },
   "330251": {
     "OriginalText": "アルキピュールＹ",
-    "Text": "Alki Pule Y",
+    "Text": "알키 퓌르 Y",
     "Enabled": true
   },
   "330252": {
     "OriginalText": "アルキピュールＧ",
-    "Text": "Alki Pule G",
+    "Text": "알키 퓌르 G",
     "Enabled": true
   },
   "330253": {
     "OriginalText": "アルキピュールＯ",
-    "Text": "Alki Pule O",
+    "Text": "알키 퓌르 O",
     "Enabled": true
   },
   "330254": {
     "OriginalText": "ノヴァトレートルＷ",
-    "Text": "Nova Traitor W",
+    "Text": "노바 트레트르 W",
     "Enabled": true
   },
   "330255": {
     "OriginalText": "ノヴァトレートルＲ",
-    "Text": "Nova Traitor R",
+    "Text": "노바 트레트르 R",
     "Enabled": true
   },
   "330256": {
     "OriginalText": "ノヴァトレートルＢ",
-    "Text": "Nova Traitor B",
+    "Text": "노바 트레트르 B",
     "Enabled": true
   },
   "330257": {
     "OriginalText": "ノヴァトレートルＫ",
-    "Text": "Nova Traitor K",
+    "Text": "노바 트레트르 K",
     "Enabled": true
   },
   "330258": {
     "OriginalText": "ノヴァトレートルＹ",
-    "Text": "Nova Traitor Y",
+    "Text": "노바 트레트르 Y",
     "Enabled": true
   },
   "330259": {
     "OriginalText": "エイゲトリュゼＢ",
-    "Text": "Eigeto Ryuze B",
+    "Text": "에이게트 류제 B",
     "Enabled": true
   },
   "330260": {
     "OriginalText": "エイゲトリュゼＧ",
-    "Text": "Eigeto Ryuze G",
+    "Text": "에이게트 류제 G",
     "Enabled": true
   },
   "330261": {
     "OriginalText": "エイゲトリュゼＰ",
-    "Text": "Eigeto Ryuze P",
+    "Text": "에이게트 류제 P",
     "Enabled": true
   },
   "330262": {
     "OriginalText": "エイゲトリュゼＫ",
-    "Text": "Eigeto Ryuze K",
+    "Text": "에이게트 류제 K",
     "Enabled": true
   },
   "330263": {
     "OriginalText": "エイゲトリュゼＷ",
-    "Text": "Eigeto Ryuze W",
+    "Text": "에이게트 류제 W",
     "Enabled": true
   },
   "330264": {
     "OriginalText": "レクレスアウトローＲ",
-    "Text": "Reckless Outlaw R",
+    "Text": "레클리스 아웃로 R",
     "Enabled": true
   },
   "330265": {
     "OriginalText": "レクレスアウトローＧ",
-    "Text": "Reckless Outlaw G",
+    "Text": "레클리스 아웃로 G",
     "Enabled": true
   },
   "330266": {
     "OriginalText": "レクレスアウトローＯ",
-    "Text": "Reckless Outlaw O",
+    "Text": "레클리스 아웃로 O",
     "Enabled": true
   },
   "330267": {
     "OriginalText": "レクレスアウトローＢ",
-    "Text": "Reckless Outlaw B",
+    "Text": "레클리스 아웃로 B",
     "Enabled": true
   },
   "330268": {
     "OriginalText": "レクレスアウトローＫ",
-    "Text": "Reckless Outlaw K",
+    "Text": "레클리스 아웃로 K",
     "Enabled": true
   },
   "330269": {
     "OriginalText": "リンデンドレスＧ",
-    "Text": "Rinden Dress G",
+    "Text": "린덴 드레스 G",
     "Enabled": true
   },
   "330270": {
     "OriginalText": "リンデンドレスＶ",
-    "Text": "Rinden Dress V",
+    "Text": "린덴 드레스 V",
     "Enabled": true
   },
   "330271": {
     "OriginalText": "リンデンドレスＢ",
-    "Text": "Rinden Dress B",
+    "Text": "린덴 드레스 B",
     "Enabled": true
   },
   "330272": {
     "OriginalText": "リンデンドレスＲ",
-    "Text": "Rinden Dress R",
+    "Text": "린덴 드레스 R",
     "Enabled": true
   },
   "330273": {
     "OriginalText": "リンデンドレスＹ",
-    "Text": "Rinden Dress Y",
+    "Text": "린덴 드레스 Y",
     "Enabled": true
   },
   "330274": {
     "OriginalText": "ジュラハーネスＲ",
-    "Text": "Jura Hanes R",
+    "Text": "쥐라 하네스 R",
     "Enabled": true
   },
   "330275": {
     "OriginalText": "ジュラハーネスＹ",
-    "Text": "Jura Hanes Y",
+    "Text": "쥐라 하네스 Y",
     "Enabled": true
   },
   "330276": {
     "OriginalText": "ジュラハーネスＯ",
-    "Text": "Jura Hanes O",
+    "Text": "쥐라 하네스 O",
     "Enabled": true
   },
   "330277": {
     "OriginalText": "ジュラハーネスＫ",
-    "Text": "Jura Hanes K",
+    "Text": "쥐라 하네스 K",
     "Enabled": true
   },
   "330278": {
     "OriginalText": "ジュラハーネスＷ",
-    "Text": "Jura Hanes W",
+    "Text": "쥐라 하네스 W",
     "Enabled": true
   },
   "330279": {
     "OriginalText": "セクシースタイルＫ",
-    "Text": "Sexy Style K",
+    "Text": "섹시 스타일 K",
     "Enabled": true
   },
   "330280": {
     "OriginalText": "セクシースタイルＷ",
-    "Text": "Sexy Style W",
+    "Text": "섹시 스타일 W",
     "Enabled": true
   },
   "330281": {
     "OriginalText": "セクシースタイルＲ",
-    "Text": "Sexy Style R",
+    "Text": "섹시 스타일 R",
     "Enabled": true
   },
   "330282": {
     "OriginalText": "セクシースタイルＢ",
-    "Text": "Sexy Style B",
+    "Text": "섹시 스타일 B",
     "Enabled": true
   },
   "330283": {
     "OriginalText": "セクシースタイルＶ",
-    "Text": "Sexy Style V",
+    "Text": "섹시 스타일 V",
     "Enabled": true
   },
   "330284": {
     "OriginalText": "ラッピーミミクリＹ",
-    "Text": "Rappy Mimicry Y",
+    "Text": "랍피 미미크리 Y",
     "Enabled": true
   },
   "330285": {
     "OriginalText": "ラッピーミミクリＢ",
-    "Text": "Rappy Mimicry B",
+    "Text": "랍피 미미크리 B",
     "Enabled": true
   },
   "330286": {
     "OriginalText": "ラッピーミミクリＰ",
-    "Text": "Rappy Mimicry P",
+    "Text": "랍피 미미크리 P",
     "Enabled": true
   },
   "330287": {
     "OriginalText": "ラッピーミミクリＷ",
-    "Text": "Rappy Mimicry W",
+    "Text": "랍피 미미크리 W",
     "Enabled": true
   },
   "330288": {
     "OriginalText": "ラッピーミミクリＫ",
-    "Text": "Rappy Mimicry K",
+    "Text": "랍피 미미크리 K",
     "Enabled": true
   },
   "330289": {
     "OriginalText": "レスペダンクＶ",
-    "Text": "Lespedank V",
+    "Text": "레스페 당크 V",
     "Enabled": true
   },
   "330290": {
     "OriginalText": "レスペダンクＧ",
-    "Text": "Lespedank G",
+    "Text": "레스페 당크 G",
     "Enabled": true
   },
   "330291": {
     "OriginalText": "レスペダンクＲ",
-    "Text": "Lespedank R",
+    "Text": "레스페 당크 R",
     "Enabled": true
   },
   "330292": {
     "OriginalText": "レスペダンクＢ",
-    "Text": "Lespedank B",
+    "Text": "레스페 당크 B",
     "Enabled": true
   },
   "330293": {
     "OriginalText": "レスペダンクＰ",
-    "Text": "Lespedank P",
+    "Text": "레스페 당크 P",
     "Enabled": true
   },
   "330294": {
     "OriginalText": "グラスフォーアネームＰ",
-    "Text": "Glas Vornehm P",
+    "Text": "그라스 포어네임 P",
     "Enabled": true
   },
   "330295": {
     "OriginalText": "グラスフォーアネームＹ",
-    "Text": "Glas Vornehm Y",
+    "Text": "그라스 포어네임 Y",
     "Enabled": true
   },
   "330296": {
     "OriginalText": "グラスフォーアネームＢ",
-    "Text": "Glas Vornehm B",
+    "Text": "그라스 포어네임 B",
     "Enabled": true
   },
   "330297": {
     "OriginalText": "グラスフォーアネームＫ",
-    "Text": "Glas Vornehm K",
+    "Text": "그라스 포어네임 K",
     "Enabled": true
   },
   "330298": {
     "OriginalText": "グラスフォーアネームＶ",
-    "Text": "Glas Vornehm V",
+    "Text": "그라스 포어네임 V",
     "Enabled": true
   },
   "330299": {
     "OriginalText": "シャンプースタイル",
-    "Text": "Shamp Style",
+    "Text": "샴푸 스타일",
     "Enabled": true
   },
   "330300": {
     "OriginalText": "ネームレススタイル",
-    "Text": "Nameless Style",
+    "Text": "네임리스 스타일",
     "Enabled": true
   },
   "330301": {
     "OriginalText": "リエラ服",
-    "Text": "Riela Clothes",
+    "Text": "리에라 의상",
     "Enabled": true
   },
   "330302": {
     "OriginalText": "イムカ服",
-    "Text": "Imuka Clothes",
+    "Text": "이무카 의상",
     "Enabled": true
   },
   "330303": {
     "OriginalText": "セイル",
-    "Text": "Sail",
+    "Text": "세일",
     "Enabled": true
   },
   "330304": {
     "OriginalText": "セイル：リペア",
-    "Text": "Sail: Repair",
+    "Text": "세일 (수리)",
     "Enabled": true
   },
   "330305": {
     "OriginalText": "レイヴァン",
-    "Text": "Raven",
+    "Text": "레이반",
     "Enabled": true
   },
   "330306": {
     "OriginalText": "レイヴァン：リペア",
-    "Text": "Raven: Repair",
+    "Text": "레이반 (수리)",
     "Enabled": true
   },
   "330307": {
     "OriginalText": "カリスト",
-    "Text": "Calisto",
+    "Text": "칼리스토",
     "Enabled": true
   },
   "330308": {
     "OriginalText": "ヨミ",
-    "Text": "Yomi",
+    "Text": "요미",
     "Enabled": true
   },
   "330309": {
     "OriginalText": "オルクス",
-    "Text": "Orcus",
+    "Text": "오르쿠스",
     "Enabled": true
   },
   "330310": {
     "OriginalText": "マグナス",
-    "Text": "Magnus",
+    "Text": "마그너스",
     "Enabled": true
   },
   "330311": {
     "OriginalText": "ルティナ",
-    "Text": "Lutina",
+    "Text": "루티나",
     "Enabled": true
   },
   "330312": {
     "OriginalText": "ルティナ：リペア",
-    "Text": "Lutina: Repair",
+    "Text": "루티나 (수리)",
     "Enabled": true
   },
   "330313": {
     "OriginalText": "イズナ",
-    "Text": "Izuna",
+    "Text": "이즈나",
     "Enabled": true
   },
   "330314": {
     "OriginalText": "イズナ：リペア",
-    "Text": "Izuna: Repair",
+    "Text": "이즈나 (수리)",
     "Enabled": true
   },
   "330315": {
     "OriginalText": "ユノ",
-    "Text": "Juno",
+    "Text": "유노",
     "Enabled": true
   },
   "330316": {
     "OriginalText": "ユノ：ホログラム",
-    "Text": "Juno: Hologram",
+    "Text": "유노: 홀로그램",
     "Enabled": true
   },
   "330317": {
     "OriginalText": "ユノ：グランリンク状態",
-    "Text": "Juno: Gran Link State",
+    "Text": "유노: 그란 링크 상태",
     "Enabled": true
   },
   "330318": {
     "OriginalText": "フィルディア",
-    "Text": "Fildia",
+    "Text": "필디아",
     "Enabled": true
   },
   "330319": {
     "OriginalText": "フィルディア：リペア",
-    "Text": "Fildia: Repair",
+    "Text": "필디아 (수리)",
     "Enabled": true
   },
   "330320": {
     "OriginalText": "キサラ",
-    "Text": "Kisara",
+    "Text": "키사라",
     "Enabled": true
   },
   "330321": {
     "OriginalText": "キサラ：リペア",
-    "Text": "Kisara: Repair",
+    "Text": "키사라 (수리)",
     "Enabled": true
   },
   "330322": {
     "OriginalText": "リーティア",
-    "Text": "Rietheia",
+    "Text": "리티아",
     "Enabled": true
   },
   "330323": {
     "OriginalText": "リーティア：リペア",
-    "Text": "Rietheia: Repair",
+    "Text": "리티아 (수리)",
     "Enabled": true
   },
   "330324": {
     "OriginalText": "タイガーピアス破Ｗ",
-    "Text": "Tiger Pierce W (Damaged)",
+    "Text": "타이거 피어스 W (파손)",
     "Enabled": true
   },
   "330325": {
     "OriginalText": "タイガーピアス破Ｒ",
-    "Text": "Tiger Pierce R (Damaged)",
+    "Text": "타이거 피어스 R (파손)",
     "Enabled": true
   },
   "330326": {
     "OriginalText": "タイガーピアス破Ｙ",
-    "Text": "Tiger Pierce Y (Damaged)",
+    "Text": "타이거 피어스 Y (파손)",
     "Enabled": true
   },
   "330327": {
     "OriginalText": "タイガーピアス破Ｂ",
-    "Text": "Tiger Pierce B (Damaged)",
+    "Text": "타이거 피어스 B (파손)",
     "Enabled": true
   },
   "330328": {
     "OriginalText": "キャンディークラウン破Ｂ",
-    "Text": "Candy Crown B (Damaged)",
+    "Text": "캔디 크라운 B (파손)",
     "Enabled": true
   },
   "330329": {
     "OriginalText": "キャンディークラウン破Ｋ",
-    "Text": "Candy Crown K (Damaged)",
+    "Text": "캔디 크라운 K (파손)",
     "Enabled": true
   },
   "330330": {
     "OriginalText": "キャンディークラウン破Ｇ",
-    "Text": "Candy Crown G (Damaged)",
+    "Text": "캔디 크라운 G (파손)",
     "Enabled": true
   },
   "330331": {
     "OriginalText": "キャンディークラウン破Ｐ",
-    "Text": "Candy Crown P (Damaged)",
+    "Text": "캔디 크라운 P (파손)",
     "Enabled": true
   },
   "330332": {
     "OriginalText": "ハートブレイカー破Ｒ",
-    "Text": "Heart Breaker R (Damaged)",
+    "Text": "하트브레이커 R (파손)",
     "Enabled": true
   },
   "330333": {
     "OriginalText": "ハートブレイカー破Ｇ",
-    "Text": "Heart Breaker G (Damaged)",
+    "Text": "하트브레이커 G (파손)",
     "Enabled": true
   },
   "330334": {
     "OriginalText": "ハートブレイカー破Ｗ",
-    "Text": "Heart Breaker W (Damaged)",
+    "Text": "하트브레이커 W (파손)",
     "Enabled": true
   },
   "330335": {
     "OriginalText": "ハートブレイカー破Ｂ",
-    "Text": "Heart Breaker B (Damaged)",
+    "Text": "하트브레이커 B (파손)",
     "Enabled": true
   },
   "330336": {
     "OriginalText": "ロニア・アーム破",
-    "Text": "Ronia Arms (Damaged)",
+    "Text": "로니아 암 (파손)",
     "Enabled": true
   },
   "330337": {
     "OriginalText": "ディスタ・アーム破",
-    "Text": "Dista Arms (Damaged)",
+    "Text": "디스타 암 (파손)",
     "Enabled": true
   },
   "330338": {
     "OriginalText": "ファウマ・アーム破",
-    "Text": "Fauma Arms (Damaged)",
+    "Text": "파우마 암 (파손)",
     "Enabled": true
   },
   "330339": {
     "OriginalText": "アングリフ・アーム破",
-    "Text": "Angriff Arms (Damaged)",
+    "Text": "앙그리프 암 (파손)",
     "Enabled": true
   },
   "330340": {
     "OriginalText": "コロッサス・アーム",
-    "Text": "Colossus Arms",
+    "Text": "콜로서스 암",
     "Enabled": true
   },
   "330341": {
     "OriginalText": "マギウス・アーム破",
-    "Text": "Magius Arms (Damaged)",
+    "Text": "마기우스 암 (파손)",
     "Enabled": true
   },
   "330342": {
     "OriginalText": "シェリフ・アーム破",
-    "Text": "Sheriff Arms (Damaged)",
+    "Text": "셰리프 암 (파손)",
     "Enabled": true
   },
   "330343": {
     "OriginalText": "バルドル・アーム",
-    "Text": "Baldur Arms",
+    "Text": "발드르 암",
     "Enabled": true
   },
   "330344": {
     "OriginalText": "ジョーカ・アーム",
-    "Text": "Joker Arms",
+    "Text": "조커 암",
     "Enabled": true
   },
   "330345": {
     "OriginalText": "フィルフ・アーム破",
-    "Text": "Filph Arms (Damaged)",
+    "Text": "필프 암 (파손)",
     "Enabled": true
   },
   "330346": {
     "OriginalText": "ヒュリオン・アーム破",
-    "Text": "Hyperion Arms (Damaged)",
+    "Text": "휴리온 암 (파손)",
     "Enabled": true
   },
   "330347": {
     "OriginalText": "メルダー・アーム破ＣＶ",
-    "Text": "Melder Arms CV (Damaged)",
+    "Text": "멜더 암 (파손) CV",
     "Enabled": true
   },
   "330348": {
     "OriginalText": "アラオ・アーム破",
-    "Text": "Arao Arms (Damaged)",
+    "Text": "아라오 암 (파손)",
     "Enabled": true
   },
   "330349": {
     "OriginalText": "ゴルドオム・アーム",
-    "Text": "Gold Om Arms",
+    "Text": "골드옴 암",
     "Enabled": true
   },
   "330350": {
     "OriginalText": "アグリ・アーム",
-    "Text": "Agri Arms",
+    "Text": "아그리 암",
     "Enabled": true
   },
   "330351": {
     "OriginalText": "ギオス・アーム",
-    "Text": "Gios Arms",
+    "Text": "기오스 암",
     "Enabled": true
   },
   "330352": {
     "OriginalText": "クリスト・アーム",
-    "Text": "Crysto Arms",
+    "Text": "크리스트 암",
     "Enabled": true
   },
   "330353": {
     "OriginalText": "ノヴァオム・アーム",
-    "Text": "Nova Om Arms",
+    "Text": "노바옴 암",
     "Enabled": true
   },
   "330354": {
     "OriginalText": "リヴェン・アーム",
-    "Text": "Riven Arms",
+    "Text": "리벤 암",
     "Enabled": true
   },
   "330355": {
     "OriginalText": "ジョーカ・アーム破",
-    "Text": "Joker Arms (Damaged)",
+    "Text": "조커 암 (파손)",
     "Enabled": true
   },
   "330356": {
     "OriginalText": "コロッサス・アーム破",
-    "Text": "Colossus Arms (Damaged)",
+    "Text": "콜로서스 암 (파손)",
     "Enabled": true
   },
   "330357": {
     "OriginalText": "バルドル・アーム破",
-    "Text": "Baldur Arms (Damaged)",
+    "Text": "발드르 암 (파손)",
     "Enabled": true
   },
   "330358": {
     "OriginalText": "ローズ・アーム破",
-    "Text": "Rose Arms (Damaged)",
+    "Text": "로즈 암 (파손)",
     "Enabled": true
   },
   "330359": {
     "OriginalText": "ディール・アーム破",
-    "Text": "Deal Arms (Damaged)",
+    "Text": "디일 암 (파손)",
     "Enabled": true
   },
   "330360": {
     "OriginalText": "ファーネン・アーム破",
-    "Text": "Fanen Arms (Damaged)",
+    "Text": "파넨 암 (파손)",
     "Enabled": true
   },
   "330361": {
     "OriginalText": "イオニア・アーム破",
-    "Text": "Ionia Arms (Damaged)",
+    "Text": "이오니아 암 (파손)",
     "Enabled": true
   },
   "330362": {
     "OriginalText": "ランクス・アーム",
-    "Text": "Ranks Arms",
+    "Text": "랭크스 암",
     "Enabled": true
   },
   "330363": {
     "OriginalText": "イルシオン・アーム",
-    "Text": "Illusion Arms",
+    "Text": "일루시온 암",
     "Enabled": true
   },
   "330364": {
     "OriginalText": "ワスプ・アーム破",
-    "Text": "Wasp Arms (Damaged)",
+    "Text": "와스프 암 (파손)",
     "Enabled": true
   },
   "330365": {
     "OriginalText": "フリーゲン・アーム破",
-    "Text": "Fliegen Arms (Damaged)",
+    "Text": "플리겐 암 (파손)",
     "Enabled": true
   },
   "330366": {
     "OriginalText": "ラミア・アーム破",
-    "Text": "Ramia Arms (Damaged)",
+    "Text": "라미아 암 (파손)",
     "Enabled": true
   },
   "330367": {
     "OriginalText": "グリース・アーム破",
-    "Text": "Griss Arms (Damaged)",
+    "Text": "그리스 암 (파손)",
     "Enabled": true
   },
   "330368": {
     "OriginalText": "ケルビナ・アーム破",
-    "Text": "Cherubina Arms (Damaged)",
+    "Text": "켈비나 암 (파손)",
     "Enabled": true
   },
   "330369": {
     "OriginalText": "メディウム・アーム",
-    "Text": "Medium Arms",
+    "Text": "메디움 암",
     "Enabled": true
   },
   "330370": {
     "OriginalText": "ヘルマ・アーム破",
-    "Text": "Helma Arms (Damaged)",
+    "Text": "헬마 암 (파손)",
     "Enabled": true
   },
   "330371": {
     "OriginalText": "ゴルドファム・アーム",
-    "Text": "Gold Fam Arms",
+    "Text": "골드팜 암",
     "Enabled": true
   },
   "330372": {
     "OriginalText": "ガラテ・アーム",
-    "Text": "Garate Arms",
+    "Text": "갈라테 암",
     "Enabled": true
   },
   "330373": {
     "OriginalText": "アルキ・アーム",
-    "Text": "Alki Arms",
+    "Text": "알키 암",
     "Enabled": true
   },
   "330374": {
     "OriginalText": "ラビーソ・アーム",
-    "Text": "Rabiso Arms",
+    "Text": "라비소 암",
     "Enabled": true
   },
   "330375": {
     "OriginalText": "マーヴ・アーム",
-    "Text": "Marv Arms",
+    "Text": "마브 암",
     "Enabled": true
   },
   "330376": {
     "OriginalText": "ノヴァファム・アーム",
-    "Text": "Nova Fam Arms",
+    "Text": "노바팜 암",
     "Enabled": true
   },
   "330377": {
     "OriginalText": "ヒュペリオン・アーム",
-    "Text": "Hyperion Arms",
+    "Text": "히페리온 암",
     "Enabled": true
   },
   "330378": {
     "OriginalText": "シャロン・アーム",
-    "Text": "Sharon Arms",
+    "Text": "샤론 암",
     "Enabled": true
   },
   "330379": {
     "OriginalText": "シャロン：リペア・アーム",
-    "Text": "Sharon: Repair Arms",
+    "Text": "샤론 암 (수리)",
     "Enabled": true
   },
   "330380": {
     "OriginalText": "ランクス・アーム破",
-    "Text": "Ranks Arms (Damaged)",
+    "Text": "랭크스 암 (파손)",
     "Enabled": true
   },
   "330381": {
     "OriginalText": "メディウム・アーム破",
-    "Text": "Medium Arms (Damaged)",
+    "Text": "메디움 암 (파손)",
     "Enabled": true
   },
   "330382": {
     "OriginalText": "イルシオン・アーム破",
-    "Text": "Illusion Arms (Damaged)",
+    "Text": "일루시온 암 (파손)",
     "Enabled": true
   },
   "330383": {
     "OriginalText": "ロニア・ボディ破",
-    "Text": "Ronia Body (Damaged)",
+    "Text": "로니아 바디 (파손)",
     "Enabled": true
   },
   "330384": {
     "OriginalText": "ディスタ・ボディ破",
-    "Text": "Dista Body (Damaged)",
+    "Text": "디스타 바디 (파손)",
     "Enabled": true
   },
   "330385": {
     "OriginalText": "ファウマ・ボディ破",
-    "Text": "Fauma Body (Damaged)",
+    "Text": "파우마 바디 (파손)",
     "Enabled": true
   },
   "330386": {
     "OriginalText": "アングリフ・ボディ破",
-    "Text": "Angriff Body (Damaged)",
+    "Text": "앙그리프 바디 (파손)",
     "Enabled": true
   },
   "330387": {
     "OriginalText": "コロッサス・ボディ",
-    "Text": "Colossus Body",
+    "Text": "콜로서스 바디",
     "Enabled": true
   },
   "330388": {
     "OriginalText": "マギウス・ボディ破",
-    "Text": "Magius Body (Damaged)",
+    "Text": "마기우스 바디 (파손)",
     "Enabled": true
   },
   "330389": {
     "OriginalText": "シェリフ・ボディ破",
-    "Text": "Sheriff Body (Damaged)",
+    "Text": "셰리프 바디 (파손)",
     "Enabled": true
   },
   "330390": {
     "OriginalText": "バルドル・ボディ",
-    "Text": "Baldur Body",
+    "Text": "발드르 바디",
     "Enabled": true
   },
   "330391": {
     "OriginalText": "ジョーカ・ボディ",
-    "Text": "Joker Body",
+    "Text": "조커 바디",
     "Enabled": true
   },
   "330392": {
     "OriginalText": "フィルフ・ボディ破",
-    "Text": "Filph Body (Damaged)",
+    "Text": "필프 바디 (파손)",
     "Enabled": true
   },
   "330393": {
     "OriginalText": "ヒュリオン・ボディ破",
-    "Text": "Hyperion Body (Damaged)",
+    "Text": "휴리온 바디 (파손)",
     "Enabled": true
   },
   "330394": {
     "OriginalText": "メルダー・ボディ破ＣＶ",
-    "Text": "Melder Body CV (Damaged)",
+    "Text": "멜더 바디 (파손) CV",
     "Enabled": true
   },
   "330395": {
     "OriginalText": "アラオ・ボディ破",
-    "Text": "Arao Body (Damaged)",
+    "Text": "아라오 바디 (파손)",
     "Enabled": true
   },
   "330396": {
     "OriginalText": "ゴルドオム・ボディ",
-    "Text": "Gold Om Body",
+    "Text": "골드옴 바디",
     "Enabled": true
   },
   "330397": {
     "OriginalText": "アグリ・ボディ",
-    "Text": "Agri Body",
+    "Text": "아그리 바디",
     "Enabled": true
   },
   "330398": {
     "OriginalText": "ギオス・ボディ",
-    "Text": "Gios Body",
+    "Text": "기오스 바디",
     "Enabled": true
   },
   "330399": {
     "OriginalText": "クリスト・ボディ",
-    "Text": "Crysto Body",
+    "Text": "크리스트 바디",
     "Enabled": true
   },
   "330400": {
     "OriginalText": "ノヴァオム・ボディ",
-    "Text": "Nova Om Body",
+    "Text": "노바옴 바디",
     "Enabled": true
   },
   "330401": {
     "OriginalText": "リヴェン・ボディ",
-    "Text": "Riven Body",
+    "Text": "리벤 바디",
     "Enabled": true
   },
   "330402": {
     "OriginalText": "ジョーカ・ボディ破",
-    "Text": "Joker Body (Damaged)",
+    "Text": "조커 바디 (파손)",
     "Enabled": true
   },
   "330403": {
     "OriginalText": "コロッサス・ボディ破",
-    "Text": "Colossus Body (Damaged)",
+    "Text": "콜로서스 바디 (파손)",
     "Enabled": true
   },
   "330404": {
     "OriginalText": "バルドル・ボディ破",
-    "Text": "Baldur Body (Damaged)",
+    "Text": "발드르 바디 (파손)",
     "Enabled": true
   },
   "330405": {
     "OriginalText": "ローズ・ボディ破",
-    "Text": "Rose Body (Damaged)",
+    "Text": "로즈 바디 (파손)",
     "Enabled": true
   },
   "330406": {
     "OriginalText": "ディール・ボディ破",
-    "Text": "Deal Body (Damaged)",
+    "Text": "디일 바디 (파손)",
     "Enabled": true
   },
   "330407": {
     "OriginalText": "ファーネン・ボディ破",
-    "Text": "Fanen Body (Damaged)",
+    "Text": "파넨 바디 (파손)",
     "Enabled": true
   },
   "330408": {
     "OriginalText": "イオニア・ボディ破",
-    "Text": "Ionia Body (Damaged)",
+    "Text": "이오니아 바디 (파손)",
     "Enabled": true
   },
   "330409": {
     "OriginalText": "ランクス・ボディ",
-    "Text": "Ranks Body",
+    "Text": "랭크스 바디",
     "Enabled": true
   },
   "330410": {
     "OriginalText": "イルシオン・ボディ",
-    "Text": "Illusion Body",
+    "Text": "일루시온 바디",
     "Enabled": true
   },
   "330411": {
     "OriginalText": "ワスプ・ボディ破",
-    "Text": "Wasp Body (Damaged)",
+    "Text": "와스프 바디 (파손)",
     "Enabled": true
   },
   "330412": {
     "OriginalText": "フリーゲン・ボディ破",
-    "Text": "Fliegen Body (Damaged)",
+    "Text": "플리겐 바디 (파손)",
     "Enabled": true
   },
   "330413": {
     "OriginalText": "ラミア・ボディ破",
-    "Text": "Ramia Body (Damaged)",
+    "Text": "라미아 바디 (파손)",
     "Enabled": true
   },
   "330414": {
     "OriginalText": "グリース・ボディ破",
-    "Text": "Griss Body (Damaged)",
+    "Text": "그리스 바디 (파손)",
     "Enabled": true
   },
   "330415": {
     "OriginalText": "ケルビナ・ボディ破",
-    "Text": "Cherubina Body (Damaged)",
+    "Text": "켈비나 바디 (파손)",
     "Enabled": true
   },
   "330416": {
     "OriginalText": "メディウム・ボディ",
-    "Text": "Medium Body",
+    "Text": "메디움 바디",
     "Enabled": true
   },
   "330417": {
     "OriginalText": "ヘルマ・ボディ破",
-    "Text": "Helma Body (Damaged)",
+    "Text": "헬마 바디 (파손)",
     "Enabled": true
   },
   "330418": {
     "OriginalText": "ゴルドファム・ボディ",
-    "Text": "Gold Fam Body",
+    "Text": "골드팜 바디",
     "Enabled": true
   },
   "330419": {
     "OriginalText": "ガラテ・ボディ",
-    "Text": "Garate Body",
+    "Text": "갈라테 바디",
     "Enabled": true
   },
   "330420": {
     "OriginalText": "アルキ・ボディ",
-    "Text": "Alki Body",
+    "Text": "알키 바디",
     "Enabled": true
   },
   "330421": {
     "OriginalText": "ラビーソ・ボディ",
-    "Text": "Rabiso Body",
+    "Text": "라비소 바디",
     "Enabled": true
   },
   "330422": {
     "OriginalText": "マーヴ・ボディ",
-    "Text": "Marv Body",
+    "Text": "마브 바디",
     "Enabled": true
   },
   "330423": {
     "OriginalText": "ノヴァファム・ボディ",
-    "Text": "Nova Fam Body",
+    "Text": "노바팜 바디",
     "Enabled": true
   },
   "330424": {
     "OriginalText": "ヒュペリオン・ボディ",
-    "Text": "Hyperion Body",
+    "Text": "히페리온 바디",
     "Enabled": true
   },
   "330425": {
     "OriginalText": "シャロン・ボディ",
-    "Text": "Sharon Body",
+    "Text": "샤론 바디",
     "Enabled": true
   },
   "330426": {
     "OriginalText": "シャロン：リペア・ボディ",
-    "Text": "Sharon: Repair Body",
+    "Text": "샤론 바디 (수리)",
     "Enabled": true
   },
   "330427": {
     "OriginalText": "ランクス・ボディ破",
-    "Text": "Ranks Body (Damaged)",
+    "Text": "랭크스 바디 (파손)",
     "Enabled": true
   },
   "330428": {
     "OriginalText": "メディウム・ボディ破",
-    "Text": "Medium Body (Damaged)",
+    "Text": "메디움 바디 (파손)",
     "Enabled": true
   },
   "330429": {
     "OriginalText": "イルシオン・ボディ破",
-    "Text": "Illusion Body (Damaged)",
+    "Text": "일루시온 바디 (파손)",
     "Enabled": true
   },
   "330430": {
     "OriginalText": "ロニア・レッグ破",
-    "Text": "Ronia Legs (Damaged)",
+    "Text": "로니아 레그 (파손)",
     "Enabled": true
   },
   "330431": {
     "OriginalText": "ディスタ・レッグ破",
-    "Text": "Dista Legs (Damaged)",
+    "Text": "디스타 레그 (파손)",
     "Enabled": true
   },
   "330432": {
     "OriginalText": "ファウマ・レッグ破",
-    "Text": "Fauma Legs (Damaged)",
+    "Text": "파우마 레그 (파손)",
     "Enabled": true
   },
   "330433": {
     "OriginalText": "アングリフ・レッグ破",
-    "Text": "Angriff Legs (Damaged)",
+    "Text": "앙그리프 레그 (파손)",
     "Enabled": true
   },
   "330434": {
     "OriginalText": "コロッサス・レッグ",
-    "Text": "Colossus Legs",
+    "Text": "콜로서스 레그",
     "Enabled": true
   },
   "330435": {
     "OriginalText": "マギウス・レッグ破",
-    "Text": "Magius Legs (Damaged)",
+    "Text": "마기우스 레그 (파손)",
     "Enabled": true
   },
   "330436": {
     "OriginalText": "シェリフ・レッグ破",
-    "Text": "Sheriff Legs (Damaged)",
+    "Text": "셰리프 레그 (파손)",
     "Enabled": true
   },
   "330437": {
     "OriginalText": "バルドル・レッグ",
-    "Text": "Baldur Legs",
+    "Text": "발드르 레그",
     "Enabled": true
   },
   "330438": {
     "OriginalText": "ジョーカ・レッグ",
-    "Text": "Joker Legs",
+    "Text": "조커 레그",
     "Enabled": true
   },
   "330439": {
     "OriginalText": "フィルフ・レッグ破",
-    "Text": "Filph Legs (Damaged)",
+    "Text": "필프 레그 (파손)",
     "Enabled": true
   },
   "330440": {
     "OriginalText": "ヒュリオン・レッグ破",
-    "Text": "Hyperion Legs (Damaged)",
+    "Text": "휴리온 레그 (파손)",
     "Enabled": true
   },
   "330441": {
     "OriginalText": "メルダー・レッグ破ＣＶ",
-    "Text": "Melder Legs CV (Damaged)",
+    "Text": "멜더 레그 (파손) CV",
     "Enabled": true
   },
   "330442": {
     "OriginalText": "アラオ・レッグ破",
-    "Text": "Arao Legs (Damaged)",
+    "Text": "아라오 레그 (파손)",
     "Enabled": true
   },
   "330443": {
     "OriginalText": "ゴルドオム・レッグ",
-    "Text": "Gold Om Leegs",
+    "Text": "골드옴 레그",
     "Enabled": true
   },
   "330444": {
     "OriginalText": "アグリ・レッグ",
-    "Text": "Aguri Legs",
+    "Text": "아그리 레그",
     "Enabled": true
   },
   "330445": {
     "OriginalText": "ギオス・レッグ",
-    "Text": "Gios Legs",
+    "Text": "기오스 레그",
     "Enabled": true
   },
   "330446": {
     "OriginalText": "クリスト・レッグ",
-    "Text": "Crysto Legs",
+    "Text": "크리스트 레그",
     "Enabled": true
   },
   "330447": {
     "OriginalText": "ノヴァオム・レッグ",
-    "Text": "Nova Om Legs",
+    "Text": "노바옴 레그",
     "Enabled": true
   },
   "330448": {
     "OriginalText": "リヴェン・レッグ",
-    "Text": "Riven Legs",
+    "Text": "리벤 레그",
     "Enabled": true
   },
   "330449": {
     "OriginalText": "ジョーカ・レッグ破",
-    "Text": "Joker Legs (Damaged)",
+    "Text": "조커 레그 (파손)",
     "Enabled": true
   },
   "330450": {
     "OriginalText": "コロッサス・レッグ破",
-    "Text": "Colossus Legs (Damaged)",
+    "Text": "콜로서스 레그 (파손)",
     "Enabled": true
   },
   "330451": {
     "OriginalText": "バルドル・レッグ破",
-    "Text": "Baldur Legs (Damaged)",
+    "Text": "발드르 레그 (파손)",
     "Enabled": true
   },
   "330452": {
     "OriginalText": "ローズ・レッグ破",
-    "Text": "Rose Legs (Damaged)",
+    "Text": "로즈 레그 (파손)",
     "Enabled": true
   },
   "330453": {
     "OriginalText": "ディール・レッグ破",
-    "Text": "Deal Legs (Damaged)",
+    "Text": "디일 레그 (파손)",
     "Enabled": true
   },
   "330454": {
     "OriginalText": "ファーネン・レッグ破",
-    "Text": "Fanen Legs (Damaged)",
+    "Text": "파넨 레그 (파손)",
     "Enabled": true
   },
   "330455": {
     "OriginalText": "イオニア・レッグ破",
-    "Text": "Ionia Legs (Damaged)",
+    "Text": "이오니아 레그 (파손)",
     "Enabled": true
   },
   "330456": {
     "OriginalText": "ランクス・レッグ",
-    "Text": "Ranks Legs",
+    "Text": "랭크스 레그",
     "Enabled": true
   },
   "330457": {
     "OriginalText": "イルシオン・レッグ",
-    "Text": "Illusion Legs",
+    "Text": "일루시온 레그",
     "Enabled": true
   },
   "330458": {
     "OriginalText": "ワスプ・レッグ破",
-    "Text": "Wasp Legs (Damaged)",
+    "Text": "와스프 레그 (파손)",
     "Enabled": true
   },
   "330459": {
     "OriginalText": "フリーゲン・レッグ破",
-    "Text": "Fliegen Legs (Damaged)",
+    "Text": "플리겐 레그 (파손)",
     "Enabled": true
   },
   "330460": {
     "OriginalText": "ラミア・レッグ破",
-    "Text": "Ramia Legs (Damaged)",
+    "Text": "라미아 레그 (파손)",
     "Enabled": true
   },
   "330461": {
     "OriginalText": "グリース・レッグ破",
-    "Text": "Griss Legs (Damaged)",
+    "Text": "그리스 레그 (파손)",
     "Enabled": true
   },
   "330462": {
     "OriginalText": "ケルビナ・レッグ破",
-    "Text": "Cherubina Legs (Damaged)",
+    "Text": "켈비나 레그 (파손)",
     "Enabled": true
   },
   "330463": {
     "OriginalText": "メディウム・レッグ",
-    "Text": "Medium Legs",
+    "Text": "메디움 레그",
     "Enabled": true
   },
   "330464": {
     "OriginalText": "ヘルマ・レッグ破",
-    "Text": "Helma Legs (Damaged)",
+    "Text": "헬마 레그 (파손)",
     "Enabled": true
   },
   "330465": {
     "OriginalText": "ゴルドファム・レッグ",
-    "Text": "Gold Fam Legs",
+    "Text": "골드팜 레그",
     "Enabled": true
   },
   "330466": {
     "OriginalText": "ガラテ・レッグ",
-    "Text": "Garate Legs",
+    "Text": "갈라테 레그",
     "Enabled": true
   },
   "330467": {
     "OriginalText": "アルキ・レッグ",
-    "Text": "Alki Legs",
+    "Text": "알키 레그",
     "Enabled": true
   },
   "330468": {
     "OriginalText": "ラビーソ・レッグ",
-    "Text": "Rabeeso Legs",
+    "Text": "라비소 레그",
     "Enabled": true
   },
   "330469": {
     "OriginalText": "マーヴ・レッグ",
-    "Text": "Marv Legs",
+    "Text": "마브 레그",
     "Enabled": true
   },
   "330470": {
     "OriginalText": "ノヴァファム・レッグ",
-    "Text": "Nova Fam Legs",
+    "Text": "노바팜 레그",
     "Enabled": true
   },
   "330471": {
     "OriginalText": "ヒュペリオン・レッグ",
-    "Text": "Hyperion Legs",
+    "Text": "히페리온 레그",
     "Enabled": true
   },
   "330472": {
     "OriginalText": "シャロン・レッグ",
-    "Text": "Sharon Legs",
+    "Text": "샤론 레그",
     "Enabled": true
   },
   "330473": {
     "OriginalText": "シャロン：リペア・レッグ",
-    "Text": "Sharon: Repair Legs",
+    "Text": "샤론 레그 (수리)",
     "Enabled": true
   },
   "330474": {
     "OriginalText": "ランクス・レッグ破",
-    "Text": "Ranks Legs (Damaged)",
+    "Text": "랭크스 레그 (파손)",
     "Enabled": true
   },
   "330475": {
     "OriginalText": "メディウム・レッグ破",
-    "Text": "Medium Legs (Damaged)",
+    "Text": "메디움 레그 (파손)",
     "Enabled": true
   },
   "330476": {
     "OriginalText": "イルシオン・レッグ破",
-    "Text": "Illusion Legs (Damaged)",
+    "Text": "일루시온 레그 (파손)",
     "Enabled": true
   },
   "330477": {
     "OriginalText": "ヴィテスシュタルクW",
-    "Text": "Vitesse Stark W",
+    "Text": "비테스 슈타르크 W",
     "Enabled": true
   },
   "330478": {
     "OriginalText": "グラスフォーアネームG",
-    "Text": "Glas Vornehm G",
+    "Text": "그라스 포어네임 G",
     "Enabled": true
   },
   "330479": {
     "OriginalText": "ダイヤモンドネイヴＫ",
-    "Text": "Diamond Knave K",
+    "Text": "다이아몬드 네이브 K",
     "Enabled": true
   },
   "330480": {
     "OriginalText": "ダイヤモンドネイヴＷ",
-    "Text": "Diamond Knave W",
+    "Text": "다이아몬드 네이브 W",
     "Enabled": true
   },
   "330481": {
     "OriginalText": "ダイヤモンドネイヴＲ",
-    "Text": "Diamond Knave R",
+    "Text": "다이아몬드 네이브 R",
     "Enabled": true
   },
   "330482": {
     "OriginalText": "ダイヤモンドネイヴＹ",
-    "Text": "Diamond Knave Y",
+    "Text": "다이아몬드 네이브 Y",
     "Enabled": true
   },
   "330483": {
     "OriginalText": "ダイヤモンドネイヴＢ",
-    "Text": "Diamond Knave B",
+    "Text": "다이아몬드 네이브 B",
     "Enabled": true
   },
   "330484": {
     "OriginalText": "ダイヤモンドクイーンＫ",
-    "Text": "Diamond Queen K",
+    "Text": "다이아몬드 퀸 K",
     "Enabled": true
   },
   "330485": {
     "OriginalText": "ダイヤモンドクイーンＢ",
-    "Text": "Diamond Queen B",
+    "Text": "다이아몬드 퀸 B",
     "Enabled": true
   },
   "330486": {
     "OriginalText": "ダイヤモンドクイーンＲ",
-    "Text": "Diamond Queen R",
+    "Text": "다이아몬드 퀸 R",
     "Enabled": true
   },
   "330487": {
     "OriginalText": "ダイヤモンドクイーンＹ",
-    "Text": "Diamond Queen Y",
+    "Text": "다이아몬드 퀸 Y",
     "Enabled": true
   },
   "330488": {
     "OriginalText": "ダイヤモンドクイーンＷ",
-    "Text": "Diamond Queen W",
+    "Text": "다이아몬드 퀸 W",
     "Enabled": true
   },
   "330489": {
     "OriginalText": "ヴィテスシュタルクＷ２",
-    "Text": "Vitesse Stark W2",
+    "Text": "비테스 슈타르크 W2",
     "Enabled": true
   },
   "330490": {
     "OriginalText": "グラスフォーアネームＧ２",
-    "Text": "Glas Vornehm G2",
+    "Text": "그라스 포어네임 G2",
     "Enabled": true
   },
   "330500": {
     "OriginalText": "ヴィテスシュタルクＷ",
-    "Text": "Vitesse Stark W",
+    "Text": "비테스 슈타르크 W",
     "Enabled": true
   },
   "330501": {
     "OriginalText": "グラスフォーアネームＧ",
-    "Text": "Glas Vornehm G",
+    "Text": "그라스 포어네임 G",
     "Enabled": true
   },
   "330502": {
     "OriginalText": "ＳＲＦアーマー",
-    "Text": "SRF Armor",
+    "Text": "SRF 아머",
     "Enabled": true
   },
   "330503": {
     "OriginalText": "ＳＲＦプロテクター",
-    "Text": "SRF Protector",
+    "Text": "SRF 프로텍터",
     "Enabled": true
   },
   "330504": {
     "OriginalText": "ヴァルキリーガーブ",
-    "Text": "Valkyrie Garb",
+    "Text": "발키리 가브",
     "Enabled": true
   },
   "330505": {
     "OriginalText": "ヴァシュロンジャケット",
-    "Text": "Vashyron Jacket",
+    "Text": "바슈론 재킷",
     "Enabled": true
   },
   "330506": {
     "OriginalText": "ゼファージャケット",
-    "Text": "Zephyr Jacket",
+    "Text": "제퍼 재킷",
     "Enabled": true
   },
   "330507": {
     "OriginalText": "リーンベルコート",
-    "Text": "Reanbell Coat",
+    "Text": "린벨 코트",
     "Enabled": true
   },
   "330508": {
     "OriginalText": "ヴァルキュリア・ドレス",
-    "Text": "Valkyria Dress",
+    "Text": "발큐리아 드레스",
     "Enabled": true
   },
   "330509": {
     "OriginalText": "ダイヤモンドネイヴＫ",
-    "Text": "Diamond Knave K",
+    "Text": "다이아몬드 네이브 K",
     "Enabled": true
   },
   "330510": {
     "OriginalText": "ダイヤモンドネイヴＷ",
-    "Text": "Diamond Knave W",
+    "Text": "다이아몬드 네이브 W",
     "Enabled": true
   },
   "330511": {
     "OriginalText": "ダイヤモンドクイーンＫ",
-    "Text": "Diamond Queen K",
+    "Text": "다이아몬드 퀸 K",
     "Enabled": true
   },
   "330512": {
     "OriginalText": "ダイヤモンドクイーンＷ",
-    "Text": "Diamond Queen W",
+    "Text": "다이아몬드 퀸 W",
     "Enabled": true
   },
   "330513": {
     "OriginalText": "ダイヤモンドネイヴＲ",
-    "Text": "Diamond Knave R",
+    "Text": "다이아몬드 네이브 R",
     "Enabled": true
   },
   "330514": {
     "OriginalText": "ダイヤモンドネイヴＢ",
-    "Text": "Diamond Knave B",
+    "Text": "다이아몬드 네이브 B",
     "Enabled": true
   },
   "330515": {
     "OriginalText": "ダイヤモンドクイーンＢ",
-    "Text": "Diamond Queen B",
+    "Text": "다이아몬드 퀸 B",
     "Enabled": true
   },
   "330516": {
     "OriginalText": "ダイヤモンドクイーンＲ",
-    "Text": "Diamond Queen R",
+    "Text": "다이아몬드 퀸 R",
     "Enabled": true
   },
   "340000": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "340001": {
     "OriginalText": "防具名ダミー1",
-    "Text": "",
-    "Enabled": false
+    "Text": "방어구 이름 더미 1",
+    "Enabled": true
   },
   "340002": {
-    "OriginalText": "アークスで伝着を推均される標準下着。\nむれにくい速渋性の合成素村を使用し、\n伸温性・耐久性に優れ保極効果も高い。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "アークスで装着を推奨される標準下着。\nむれにくい速乾性の合成素材を使用し、\n伸縮性・耐久性に優れ保温効果も高い。",
+    "Text": "아크스에서 착용을 권장하는 표준 속옷.\n땀이 잘 차지 않는 속건성 합성 소재를 사용해\n신축성과 내구성이 뛰어나고 보온 효과도 높다.",
+    "Enabled": true
   },
   "340003": {
     "OriginalText": "戦闘用に作られたアークスの服伝。\n衝撃吸収用のアブソーバーが各所に\n取り付けられており、安定性が高い。",
-    "Text": "",
+    "Text": "전투용으로 만든 아크스 복장.\n충격을 흡수하는 장치가 곳곳에\n부착되어 있어 안정성이 높다.",
     "Enabled": false
   },
   "340004": {
     "OriginalText": "戦闘用に作られたアークスの服伝。\n衝撃吸収用のアブソーバーが各所に\n取り付けられており、安定性が高い。",
-    "Text": "",
+    "Text": "전투용으로 만든 아크스 복장.\n충격을 흡수하는 장치가 곳곳에\n부착되어 있어 안정성이 높다.",
     "Enabled": false
   },
   "340005": {
     "OriginalText": "戦闘用に作られたアークスの服伝。\n衝撃吸収用のアブソーバーが各所に\n取り付けられており、安定性が高い。",
-    "Text": "",
+    "Text": "전투용으로 만든 아크스 복장.\n충격을 흡수하는 장치가 곳곳에\n부착되어 있어 안정성이 높다.",
     "Enabled": false
   },
   "340006": {
     "OriginalText": "戦闘用に作られたアークスの服伝。\n衝撃吸収用のアブソーバーが各所に\n取り付けられており、安定性が高い。",
-    "Text": "",
+    "Text": "전투용으로 만든 아크스 복장.\n충격을 흡수하는 장치가 곳곳에\n부착되어 있어 안정성이 높다.",
     "Enabled": false
   },
   "340007": {
     "OriginalText": "試験的に作られたアークス用の戦闘服。\n露出をできるだけ抑え、かつ外気との\n接触を遮断するよう考えられている。",
-    "Text": "Experimental ARKS battle clothing.\nDesigned to maximise coverage while and\nblock contact with the outside air.",
+    "Text": "시험적으로 만든 아크스용 전투복.\n노출을 최대한 줄이면서 외부 공기와의\n접촉을 차단하도록 설계했다.",
     "Enabled": true
   },
   "340008": {
     "OriginalText": "試験的に作られたアークス用の戦闘服。\n露出をできるだけ抑え、かつ外気との\n接触を遮断するよう考えられている。",
-    "Text": "Experimental ARKS battle clothing.\nDesigned to maximise coverage while and\nblock contact with the outside air.",
+    "Text": "시험적으로 만든 아크스용 전투복.\n노출을 최대한 줄이면서 외부 공기와의\n접촉을 차단하도록 설계했다.",
     "Enabled": true
   },
   "340009": {
     "OriginalText": "試験的に作られたアークス用の戦闘服。\n露出をできるだけ抑え、かつ外気との\n接触を遮断するよう考えられている。",
-    "Text": "Experimental ARKS battle clothing.\nDesigned to maximise coverage while and\nblock contact with the outside air.",
+    "Text": "시험적으로 만든 아크스용 전투복.\n노출을 최대한 줄이면서 외부 공기와의\n접촉을 차단하도록 설계했다.",
     "Enabled": true
   },
   "340010": {
     "OriginalText": "試験的に作られたアークス用の戦闘服。\n露出をできるだけ抑え、かつ外気との\n接触を遮断するよう考えられている。",
-    "Text": "Experimental ARKS battle clothing.\nDesigned to maximise coverage while and\nblock contact with the outside air.",
+    "Text": "시험적으로 만든 아크스용 전투복.\n노출을 최대한 줄이면서 외부 공기와의\n접촉을 차단하도록 설계했다.",
     "Enabled": true
   },
   "340011": {
     "OriginalText": "薄手の生地を用い、舞わせることで\n外気と最適に順応し、あらゆる環境下で\n能力を後押しすることを目的とした服。",
-    "Text": "",
-    "Enabled": false
+    "Text": "얇은 원단이 나부끼며 외부 공기에\n최적으로 적응해 온갖 환경에서\n능력을 뒷받침하도록 만든 옷.",
+    "Enabled": true
   },
   "340012": {
     "OriginalText": "薄手の生地を用い、舞わせることで\n外気と最適に順応し、あらゆる環境下で\n能力を後押しすることを目的とした服。",
-    "Text": "",
-    "Enabled": false
+    "Text": "얇은 원단이 나부끼며 외부 공기에\n최적으로 적응해 온갖 환경에서\n능력을 뒷받침하도록 만든 옷.",
+    "Enabled": true
   },
   "340013": {
     "OriginalText": "薄手の生地を用い、舞わせることで\n外気と最適に順応し、あらゆる環境下で\n能力を後押しすることを目的とした服。",
-    "Text": "",
-    "Enabled": false
+    "Text": "얇은 원단이 나부끼며 외부 공기에\n최적으로 적응해 온갖 환경에서\n능력을 뒷받침하도록 만든 옷.",
+    "Enabled": true
   },
   "340014": {
     "OriginalText": "薄手の生地を用い、舞わせることで\n外気と最適に順応し、あらゆる環境下で\n能力を後押しすることを目的とした服。",
-    "Text": "",
-    "Enabled": false
+    "Text": "얇은 원단이 나부끼며 외부 공기에\n최적으로 적응해 온갖 환경에서\n능력을 뒷받침하도록 만든 옷.",
+    "Enabled": true
   },
   "340015": {
     "OriginalText": "アークス用戦闘服。ハンタークラスの\n初期支給品で、動きやすさを重視した\n軽伝の服となっている。",
-    "Text": "An ARKS combat suit. Light clothing\nthat emphasises mobility, supplied to\nnew Hunter-class ARKS.",
-    "Enabled": true
+    "Text": "아크스용 전투복. 헌터 클래스의\n초기 지급품으로, 움직이기 편한\n가벼운 차림을 중시했다.",
+    "Enabled": false
   },
   "340016": {
     "OriginalText": "アークス用戦闘服。ハンタークラスの\n初期支給品で、動きやすさを重視した\n軽伝の服となっている。",
-    "Text": "An ARKS combat suit. Light clothing\nthat emphasises mobility, supplied to\nnew Hunter-class ARKS.",
-    "Enabled": true
+    "Text": "아크스용 전투복. 헌터 클래스의\n초기 지급품으로, 움직이기 편한\n가벼운 차림을 중시했다.",
+    "Enabled": false
   },
   "340017": {
     "OriginalText": "アークス用戦闘服。ハンタークラスの\n初期支給品で、動きやすさを重視した\n軽伝の服となっている。",
-    "Text": "An ARKS combat suit. Light clothing\nthat emphasises mobility, supplied to\nnew Hunter-class ARKS.",
-    "Enabled": true
+    "Text": "아크스용 전투복. 헌터 클래스의\n초기 지급품으로, 움직이기 편한\n가벼운 차림을 중시했다.",
+    "Enabled": false
   },
   "340018": {
     "OriginalText": "アークス用戦闘服。ハンタークラスの\n初期支給品で、動きやすさを重視した\n軽伝の服となっている。",
-    "Text": "An ARKS combat suit. Light clothing\nthat emphasises mobility, supplied to\nnew Hunter-class ARKS.",
-    "Enabled": true
+    "Text": "아크스용 전투복. 헌터 클래스의\n초기 지급품으로, 움직이기 편한\n가벼운 차림을 중시했다.",
+    "Enabled": false
   },
   "340019": {
     "OriginalText": "アークス用戦闘服。レンジャークラスの\n初期支給品で、射撃補助に重点を置いた\n合理的な設計がされている。",
-    "Text": "An ARKS combat suit. Designed with\na focus on aim-assistance, and\nsupplied to new Ranger-class ARKS.",
+    "Text": "아크스용 전투복. 레인저 클래스의\n초기 지급품으로, 사격 보조에 중점을 둔\n합리적인 설계가 특징이다.",
     "Enabled": true
   },
   "340020": {
     "OriginalText": "アークス用戦闘服。レンジャークラスの\n初期支給品で、射撃補助に重点を置いた\n合理的な設計がされている。",
-    "Text": "An ARKS combat suit. Designed with\na focus on aim-assistance, and\nsupplied to new Ranger-class ARKS.",
+    "Text": "아크스용 전투복. 레인저 클래스의\n초기 지급품으로, 사격 보조에 중점을 둔\n합리적인 설계가 특징이다.",
     "Enabled": true
   },
   "340021": {
     "OriginalText": "アークス用戦闘服。レンジャークラスの\n初期支給品で、射撃補助に重点を置いた\n合理的な設計がされている。",
-    "Text": "An ARKS combat suit. Designed with\na focus on aim-assistance, and\nsupplied to new Ranger-class ARKS.",
+    "Text": "아크스용 전투복. 레인저 클래스의\n초기 지급품으로, 사격 보조에 중점을 둔\n합리적인 설계가 특징이다.",
     "Enabled": true
   },
   "340022": {
     "OriginalText": "アークス用戦闘服。レンジャークラスの\n初期支給品で、射撃補助に重点を置いた\n合理的な設計がされている。",
-    "Text": "An ARKS combat suit. Designed with\na focus on aim-assistance, and\nsupplied to new Ranger-class ARKS.",
+    "Text": "아크스용 전투복. 레인저 클래스의\n초기 지급품으로, 사격 보조에 중점을 둔\n합리적인 설계가 특징이다.",
     "Enabled": true
   },
   "340023": {
     "OriginalText": "軽量化をテーマに作られた服伝。\n開放感のある作りをしており\n若年層を中心に人気を集めている。",
-    "Text": "",
+    "Text": "경량화를 주제로 만든 복장.\n개방감 있는 디자인으로\n젊은 층을 중심으로 인기를 끌고 있다.",
     "Enabled": false
   },
   "340024": {
     "OriginalText": "軽量化をテーマに作られた服伝。\n開放感のある作りをしており\n若年層を中心に人気を集めている。",
-    "Text": "",
+    "Text": "경량화를 주제로 만든 복장.\n개방감 있는 디자인으로\n젊은 층을 중심으로 인기를 끌고 있다.",
     "Enabled": false
   },
   "340025": {
     "OriginalText": "軽量化をテーマに作られた服伝。\n開放感のある作りをしており\n若年層を中心に人気を集めている。",
-    "Text": "",
+    "Text": "경량화를 주제로 만든 복장.\n개방감 있는 디자인으로\n젊은 층을 중심으로 인기를 끌고 있다.",
     "Enabled": false
   },
   "340026": {
     "OriginalText": "軽量化をテーマに作られた服伝。\n開放感のある作りをしており\n若年層を中心に人気を集めている。",
-    "Text": "",
+    "Text": "경량화를 주제로 만든 복장.\n개방감 있는 디자인으로\n젊은 층을 중심으로 인기를 끌고 있다.",
     "Enabled": false
   },
   "340027": {
     "OriginalText": "アークス用戦闘服。フォースクラスの\n初期支給品で、テクニックの行使に\n最適なデザイン性が追求されている。",
-    "Text": "An ARKS combat suit. Made to be\nconducive to Photon excitation, and\nsupplied to new Force-class ARKS.",
+    "Text": "아크스용 전투복. 포스 클래스의\n초기 지급품으로, 테크닉 사용에\n최적화된 디자인을 추구했다.",
     "Enabled": true
   },
   "340028": {
     "OriginalText": "アークス用戦闘服。フォースクラスの\n初期支給品で、テクニックの行使に\n最適なデザイン性が追求されている。",
-    "Text": "An ARKS combat suit. Made to be\nconducive to Photon excitation, and\nsupplied to new Force-class ARKS.",
+    "Text": "아크스용 전투복. 포스 클래스의\n초기 지급품으로, 테크닉 사용에\n최적화된 디자인을 추구했다.",
     "Enabled": true
   },
   "340029": {
     "OriginalText": "アークス用戦闘服。フォースクラスの\n初期支給品で、テクニックの行使に\n最適なデザイン性が追求されている。",
-    "Text": "An ARKS combat suit. Made to be\nconducive to Photon excitation, and\nsupplied to new Force-class ARKS.",
+    "Text": "아크스용 전투복. 포스 클래스의\n초기 지급품으로, 테크닉 사용에\n최적화된 디자인을 추구했다.",
     "Enabled": true
   },
   "340030": {
     "OriginalText": "アークス用戦闘服。フォースクラスの\n初期支給品で、テクニックの行使に\n最適なデザイン性が追求されている。",
-    "Text": "An ARKS combat suit. Made to be\nconducive to Photon excitation, and\nsupplied to new Force-class ARKS.",
+    "Text": "아크스용 전투복. 포스 클래스의\n초기 지급품으로, 테크닉 사용에\n최적화된 디자인을 추구했다.",
     "Enabled": true
   },
   "340031": {
     "OriginalText": "アークス用戦闘服。周辺状況把握のため\n外気を体感できるよう、可能な限り\n肌を露出させつつ、要所を固めた良品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "아크스용 전투복. 주변 상황 파악을 위해\n외부 공기를 느끼도록 피부를 최대한 드러내되\n중요한 부위는 단단히 보호한 우수한 옷.",
+    "Enabled": true
   },
   "340032": {
     "OriginalText": "アークス用戦闘服。周辺状況把握のため\n外気を体感できるよう、可能な限り\n肌を露出させつつ、要所を固めた良品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "아크스용 전투복. 주변 상황 파악을 위해\n외부 공기를 느끼도록 피부를 최대한 드러내되\n중요한 부위는 단단히 보호한 우수한 옷.",
+    "Enabled": true
   },
   "340033": {
     "OriginalText": "アークス用戦闘服。周辺状況把握のため\n外気を体感できるよう、可能な限り\n肌を露出させつつ、要所を固めた良品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "아크스용 전투복. 주변 상황 파악을 위해\n외부 공기를 느끼도록 피부를 최대한 드러내되\n중요한 부위는 단단히 보호한 우수한 옷.",
+    "Enabled": true
   },
   "340034": {
     "OriginalText": "アークス用戦闘服。周辺状況把握のため\n外気を体感できるよう、可能な限り\n肌を露出させつつ、要所を固めた良品。",
-    "Text": "",
-    "Enabled": false
+    "Text": "아크스용 전투복. 주변 상황 파악을 위해\n외부 공기를 느끼도록 피부를 최대한 드러내되\n중요한 부위는 단단히 보호한 우수한 옷.",
+    "Enabled": true
   },
   "340035": {
     "OriginalText": "アークス用戦闘服。オシャレさと実用性\nそして遊びもふんだんに取り入れられた\nトリッキーな服伝で愛用者も多い。",
-    "Text": "",
+    "Text": "아크스용 전투복. 멋과 실용성에\n재미있는 요소까지 듬뿍 담은\n독특한 복장으로 애용자도 많다.",
     "Enabled": false
   },
   "340036": {
     "OriginalText": "アークス用戦闘服。オシャレさと実用性\nそして遊びもふんだんに取り入れられた\nトリッキーな服伝で愛用者も多い。",
-    "Text": "",
+    "Text": "아크스용 전투복. 멋과 실용성에\n재미있는 요소까지 듬뿍 담은\n독특한 복장으로 애용자도 많다.",
     "Enabled": false
   },
   "340037": {
     "OriginalText": "アークス用戦闘服。オシャレさと実用性\nそして遊びもふんだんに取り入れられた\nトリッキーな服伝で愛用者も多い。",
-    "Text": "",
+    "Text": "아크스용 전투복. 멋과 실용성에\n재미있는 요소까지 듬뿍 담은\n독특한 복장으로 애용자도 많다.",
     "Enabled": false
   },
   "340038": {
     "OriginalText": "アークス用戦闘服。オシャレさと実用性\nそして遊びもふんだんに取り入れられた\nトリッキーな服伝で愛用者も多い。",
-    "Text": "",
+    "Text": "아크스용 전투복. 멋과 실용성에\n재미있는 요소까지 듬뿍 담은\n독특한 복장으로 애용자도 많다.",
     "Enabled": false
   },
   "340039": {
     "OriginalText": "伝着時の一体感に重きをおいた服伝。\n全体的にゆったりとした見た目ながら\n邪魔にならず非常に動きやすいと好評。",
-    "Text": "",
+    "Text": "착용 시 몸과의 일체감을 중시한 복장.\n전체적으로 헐렁해 보이지만 거슬리지 않고\n매우 움직이기 편하다는 평가를 받는다.",
     "Enabled": false
   },
   "340040": {
     "OriginalText": "伝着時の一体感に重きをおいた服伝。\n全体的にゆったりとした見た目ながら\n邪魔にならず非常に動きやすいと好評。",
-    "Text": "",
+    "Text": "착용 시 몸과의 일체감을 중시한 복장.\n전체적으로 헐렁해 보이지만 거슬리지 않고\n매우 움직이기 편하다는 평가를 받는다.",
     "Enabled": false
   },
   "340041": {
     "OriginalText": "伝着時の一体感に重きをおいた服伝。\n全体的にゆったりとした見た目ながら\n邪魔にならず非常に動きやすいと好評。",
-    "Text": "",
+    "Text": "착용 시 몸과의 일체감을 중시한 복장.\n전체적으로 헐렁해 보이지만 거슬리지 않고\n매우 움직이기 편하다는 평가를 받는다.",
     "Enabled": false
   },
   "340042": {
     "OriginalText": "伝着時の一体感に重きをおいた服伝。\n全体的にゆったりとした見た目ながら\n邪魔にならず非常に動きやすいと好評。",
-    "Text": "",
+    "Text": "착용 시 몸과의 일체감을 중시한 복장.\n전체적으로 헐렁해 보이지만 거슬리지 않고\n매우 움직이기 편하다는 평가를 받는다.",
     "Enabled": false
   },
   "340043": {
     "OriginalText": "アークスシップ内に居住する\n一般市民向けの服伝。男性用。\nきわだった特微がないのが特微。",
-    "Text": "",
+    "Text": "아크스 쉽에 사는\n일반 시민을 위한 남성용 복장.\n뚜렷한 특징이 없는 것이 특징이다.",
     "Enabled": false
   },
   "340044": {
     "OriginalText": "アークスシップ内に居住する\n一般市民向けの服伝。男性用。\nきわだった特微がないのが特微。",
-    "Text": "",
+    "Text": "아크스 쉽에 사는\n일반 시민을 위한 남성용 복장.\n뚜렷한 특징이 없는 것이 특징이다.",
     "Enabled": false
   },
   "340045": {
     "OriginalText": "アークスシップ内に居住する\n一般市民向けの服伝。男性用。\nきわだった特微がないのが特微。",
-    "Text": "",
+    "Text": "아크스 쉽에 사는\n일반 시민을 위한 남성용 복장.\n뚜렷한 특징이 없는 것이 특징이다.",
     "Enabled": false
   },
   "340046": {
     "OriginalText": "アークスシップ内に居住する\n一般市民向けの服伝。男性用。\nきわだった特微がないのが特微。",
-    "Text": "",
+    "Text": "아크스 쉽에 사는\n일반 시민을 위한 남성용 복장.\n뚜렷한 특징이 없는 것이 특징이다.",
     "Enabled": false
   },
   "340047": {
     "OriginalText": "アークス用戦闘服。レンジャー用に\nデザインされ、視線や視界の阻害を\n抑えつつ、隠密性を高めてある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "아크스용 전투복. 레인저용으로\n설계해 시선과 시야의 방해를\n줄이면서 은밀성을 높였다.",
+    "Enabled": true
   },
   "340048": {
     "OriginalText": "アークス用戦闘服。レンジャー用に\nデザインされ、視線や視界の阻害を\n抑えつつ、隠密性を高めてある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "아크스용 전투복. 레인저용으로\n설계해 시선과 시야의 방해를\n줄이면서 은밀성을 높였다.",
+    "Enabled": true
   },
   "340049": {
     "OriginalText": "アークス用戦闘服。レンジャー用に\nデザインされ、視線や視界の阻害を\n抑えつつ、隠密性を高めてある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "아크스용 전투복. 레인저용으로\n설계해 시선과 시야의 방해를\n줄이면서 은밀성을 높였다.",
+    "Enabled": true
   },
   "340050": {
     "OriginalText": "アークス用戦闘服。レンジャー用に\nデザインされ、視線や視界の阻害を\n抑えつつ、隠密性を高めてある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "아크스용 전투복. 레인저용으로\n설계해 시선과 시야의 방해를\n줄이면서 은밀성을 높였다.",
+    "Enabled": true
   },
   "340051": {
     "OriginalText": "アークスのナビゲーターを務める\nクルーが着用を義務づけられている服伝。\n熟練の技術を要するエリート。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "아크스의 내비게이터를 맡은\n크루에게 착용이 의무화된 복장.\n숙련된 기술을 필요로 하는 엘리트.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340052": {
     "OriginalText": "アークスのナビゲーターを務める\nクルーが着用を義務づけられている服伝。\n熟練の技術を要するエリート。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "아크스의 내비게이터를 맡은\n크루에게 착용이 의무화된 복장.\n숙련된 기술을 필요로 하는 엘리트.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340053": {
     "OriginalText": "アークスのナビゲーターを務める\nクルーが着用を義務づけられている服伝。\n熟練の技術を要するエリート。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "아크스의 내비게이터를 맡은\n크루에게 착용이 의무화된 복장.\n숙련된 기술을 필요로 하는 엘리트.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340054": {
     "OriginalText": "アークスのナビゲーターを務める\nクルーが着用を義務づけられている服伝。\n熟練の技術を要するエリート。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "아크스의 내비게이터를 맡은\n크루에게 착용이 의무화된 복장.\n숙련된 기술을 필요로 하는 엘리트.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340055": {
     "OriginalText": "アークス研修生のために制定された服。\n公的な奨事などを行う際に着用される\n礼儀と礼節を重んじる服伝。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "아크스 연수생을 위해 정한 옷.\n공식 행사 등을 할 때 착용하는\n예의와 예절을 중시한 복장.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340056": {
     "OriginalText": "アークス研修生のために制定された服。\n公的な奨事などを行う際に着用される\n礼儀と礼節を重んじる服伝。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "아크스 연수생을 위해 정한 옷.\n공식 행사 등을 할 때 착용하는\n예의와 예절을 중시한 복장.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340057": {
     "OriginalText": "アークス研修生のために制定された服。\n公的な奨事などを行う際に着用される\n礼儀と礼節を重んじる服伝。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "아크스 연수생을 위해 정한 옷.\n공식 행사 등을 할 때 착용하는\n예의와 예절을 중시한 복장.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340058": {
     "OriginalText": "アークス研修生のために制定された服。\n公的な奨事などを行う際に着用される\n礼儀と礼節を重んじる服伝。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "아크스 연수생을 위해 정한 옷.\n공식 행사 등을 할 때 착용하는\n예의와 예절을 중시한 복장.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340059": {
     "OriginalText": "異質なほどに尖った雰囲気を持つ服伝。\n服の一部などが硬質化しており\n相手にえもいわれぬ威圧感を与える。",
-    "Text": "",
+    "Text": "이질적일 만큼 날카로운 분위기의 복장.\n옷의 일부가 단단하게 굳어 있어\n상대에게 형언하기 힘든 위압감을 준다.",
     "Enabled": false
   },
   "340060": {
     "OriginalText": "異質なほどに尖った雰囲気を持つ服伝。\n服の一部などが硬質化しており\n相手にえもいわれぬ威圧感を与える。",
-    "Text": "",
+    "Text": "이질적일 만큼 날카로운 분위기의 복장.\n옷의 일부가 단단하게 굳어 있어\n상대에게 형언하기 힘든 위압감을 준다.",
     "Enabled": false
   },
   "340061": {
     "OriginalText": "異質なほどに尖った雰囲気を持つ服伝。\n服の一部などが硬質化しており\n相手にえもいわれぬ威圧感を与える。",
-    "Text": "",
+    "Text": "이질적일 만큼 날카로운 분위기의 복장.\n옷의 일부가 단단하게 굳어 있어\n상대에게 형언하기 힘든 위압감을 준다.",
     "Enabled": false
   },
   "340062": {
     "OriginalText": "異質なほどに尖った雰囲気を持つ服伝。\n服の一部などが硬質化しており\n相手にえもいわれぬ威圧感を与える。",
-    "Text": "",
+    "Text": "이질적일 만큼 날카로운 분위기의 복장.\n옷의 일부가 단단하게 굳어 있어\n상대에게 형언하기 힘든 위압감을 준다.",
     "Enabled": false
   },
   "340063": {
     "OriginalText": "消音性と隠密性に重きをおいた戦闘服。\nあらゆる環境下で気配を消し、\n周囲に溶け込むことを目的としている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "소음을 줄이고 은밀성을 높인 전투복.\n온갖 환경에서 기척을 숨겨\n주변에 녹아드는 것을 목적으로 한다.",
+    "Enabled": true
   },
   "340064": {
     "OriginalText": "消音性と隠密性に重きをおいた戦闘服。\nあらゆる環境下で気配を消し、\n周囲に溶け込むことを目的としている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "소음을 줄이고 은밀성을 높인 전투복.\n온갖 환경에서 기척을 숨겨\n주변에 녹아드는 것을 목적으로 한다.",
+    "Enabled": true
   },
   "340065": {
     "OriginalText": "消音性と隠密性に重きをおいた戦闘服。\nあらゆる環境下で気配を消し、\n周囲に溶け込むことを目的としている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "소음을 줄이고 은밀성을 높인 전투복.\n온갖 환경에서 기척을 숨겨\n주변에 녹아드는 것을 목적으로 한다.",
+    "Enabled": true
   },
   "340066": {
     "OriginalText": "消音性と隠密性に重きをおいた戦闘服。\nあらゆる環境下で気配を消し、\n周囲に溶け込むことを目的としている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "소음을 줄이고 은밀성을 높인 전투복.\n온갖 환경에서 기척을 숨겨\n주변에 녹아드는 것을 목적으로 한다.",
+    "Enabled": true
   },
   "340067": {
     "OriginalText": "寒氷地戦用に作られたアークス用の\n戦闘服。防寒と耐久性に優れながら\n動きやすくまとめられた服。",
-    "Text": "",
+    "Text": "추운 지역의 전투를 위해 만든 아크스용\n전투복. 방한성과 내구성이 뛰어나면서\n움직이기도 편하게 만들었다.",
     "Enabled": false
   },
   "340068": {
     "OriginalText": "寒氷地戦用に作られたアークス用の\n戦闘服。防寒と耐久性に優れながら\n動きやすくまとめられた服。",
-    "Text": "",
+    "Text": "추운 지역의 전투를 위해 만든 아크스용\n전투복. 방한성과 내구성이 뛰어나면서\n움직이기도 편하게 만들었다.",
     "Enabled": false
   },
   "340069": {
     "OriginalText": "寒氷地戦用に作られたアークス用の\n戦闘服。防寒と耐久性に優れながら\n動きやすくまとめられた服。",
-    "Text": "",
+    "Text": "추운 지역의 전투를 위해 만든 아크스용\n전투복. 방한성과 내구성이 뛰어나면서\n움직이기도 편하게 만들었다.",
     "Enabled": false
   },
   "340070": {
     "OriginalText": "寒氷地戦用に作られたアークス用の\n戦闘服。防寒と耐久性に優れながら\n動きやすくまとめられた服。",
-    "Text": "",
+    "Text": "추운 지역의 전투를 위해 만든 아크스용\n전투복. 방한성과 내구성이 뛰어나면서\n움직이기도 편하게 만들었다.",
     "Enabled": false
   },
   "340071": {
-    "OriginalText": "軽量化に特化したアークス用戦闘服。\n用いられてる素村の一つ一つが軽く\n動きやすさが最大の特微。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "軽量化に特化したアークス用戦闘服。\n用いられてる素材の一つ一つが軽く\n動きやすさが最大の特徴。",
+    "Text": "경량화에 특화된 아크스용 전투복.\n사용한 소재 하나하나가 가벼워\n움직이기 편한 것이 가장 큰 특징이다.",
+    "Enabled": true
   },
   "340072": {
-    "OriginalText": "軽量化に特化したアークス用戦闘服。\n用いられてる素村の一つ一つが軽く\n動きやすさが最大の特微。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "軽量化に特化したアークス用戦闘服。\n用いられてる素材の一つ一つが軽く\n動きやすさが最大の特徴。",
+    "Text": "경량화에 특화된 아크스용 전투복.\n사용한 소재 하나하나가 가벼워\n움직이기 편한 것이 가장 큰 특징이다.",
+    "Enabled": true
   },
   "340073": {
-    "OriginalText": "軽量化に特化したアークス用戦闘服。\n用いられてる素村の一つ一つが軽く\n動きやすさが最大の特微。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "軽量化に特化したアークス用戦闘服。\n用いられてる素材の一つ一つが軽く\n動きやすさが最大の特徴。",
+    "Text": "경량화에 특화된 아크스용 전투복.\n사용한 소재 하나하나가 가벼워\n움직이기 편한 것이 가장 큰 특징이다.",
+    "Enabled": true
   },
   "340074": {
-    "OriginalText": "軽量化に特化したアークス用戦闘服。\n用いられてる素村の一つ一つが軽く\n動きやすさが最大の特微。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "軽量化に特化したアークス用戦闘服。\n用いられてる素材の一つ一つが軽く\n動きやすさが最大の特徴。",
+    "Text": "경량화에 특화된 아크스용 전투복.\n사용한 소재 하나하나가 가벼워\n움직이기 편한 것이 가장 큰 특징이다.",
+    "Enabled": true
   },
   "340075": {
     "OriginalText": "過酷な局地戦用に作られた一種の\n防護服のようなアークスの服伝。\n外界の刺撃から完全に防護する。",
-    "Text": "",
+    "Text": "혹독한 국지전을 위해 만든\n보호복 같은 아크스 복장.\n외부의 자극으로부터 완전히 보호한다.",
     "Enabled": false
   },
   "340076": {
     "OriginalText": "過酷な局地戦用に作られた一種の\n防護服のようなアークスの服伝。\n外界の刺撃から完全に防護する。",
-    "Text": "",
+    "Text": "혹독한 국지전을 위해 만든\n보호복 같은 아크스 복장.\n외부의 자극으로부터 완전히 보호한다.",
     "Enabled": false
   },
   "340077": {
     "OriginalText": "過酷な局地戦用に作られた一種の\n防護服のようなアークスの服伝。\n外界の刺撃から完全に防護する。",
-    "Text": "",
+    "Text": "혹독한 국지전을 위해 만든\n보호복 같은 아크스 복장.\n외부의 자극으로부터 완전히 보호한다.",
     "Enabled": false
   },
   "340078": {
     "OriginalText": "過酷な局地戦用に作られた一種の\n防護服のようなアークスの服伝。\n外界の刺撃から完全に防護する。",
-    "Text": "",
+    "Text": "혹독한 국지전을 위해 만든\n보호복 같은 아크스 복장.\n외부의 자극으로부터 완전히 보호한다.",
     "Enabled": false
   },
   "340079": {
-    "OriginalText": "一種の儀礼的な様相を見せる服。\n通気性に優れるその構成素村は\n薄手ながらも丈夫なつくり。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "一種の儀礼的な様相を見せる服。\n通気性に優れるその構成素材は\n薄手ながらも丈夫なつくり。",
+    "Text": "의례적인 분위기를 드러내는 옷.\n통기성이 뛰어난 소재로 만들어\n얇으면서도 튼튼하다.",
+    "Enabled": true
   },
   "340080": {
-    "OriginalText": "一種の儀礼的な様相を見せる服。\n通気性に優れるその構成素村は\n薄手ながらも丈夫なつくり。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "一種の儀礼的な様相を見せる服。\n通気性に優れるその構成素材は\n薄手ながらも丈夫なつくり。",
+    "Text": "의례적인 분위기를 드러내는 옷.\n통기성이 뛰어난 소재로 만들어\n얇으면서도 튼튼하다.",
+    "Enabled": true
   },
   "340081": {
-    "OriginalText": "一種の儀礼的な様相を見せる服。\n通気性に優れるその構成素村は\n薄手ながらも丈夫なつくり。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "一種の儀礼的な様相を見せる服。\n通気性に優れるその構成素材は\n薄手ながらも丈夫なつくり。",
+    "Text": "의례적인 분위기를 드러내는 옷.\n통기성이 뛰어난 소재로 만들어\n얇으면서도 튼튼하다.",
+    "Enabled": true
   },
   "340082": {
-    "OriginalText": "一種の儀礼的な様相を見せる服。\n通気性に優れるその構成素村は\n薄手ながらも丈夫なつくり。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "一種の儀礼的な様相を見せる服。\n通気性に優れるその構成素材は\n薄手ながらも丈夫なつくり。",
+    "Text": "의례적인 분위기를 드러내는 옷.\n통기성이 뛰어난 소재로 만들어\n얇으면서도 튼튼하다.",
+    "Enabled": true
   },
   "340083": {
     "OriginalText": "ギガンテスの伝甲を流用した服。\nチェーンソーの翼もそのままに再現し\n敵を威催する重厚な仕上がり。",
-    "Text": "",
+    "Text": "기간테스의 장갑을 활용한 옷.\n체인소의 날개도 그대로 재현해\n적을 위협하는 중후한 모습으로 완성했다.",
     "Enabled": false
   },
   "340084": {
     "OriginalText": "ギガンテスの伝甲を流用した服。\nチェーンソーの翼もそのままに再現し\n敵を威催する重厚な仕上がり。",
-    "Text": "",
+    "Text": "기간테스의 장갑을 활용한 옷.\n체인소의 날개도 그대로 재현해\n적을 위협하는 중후한 모습으로 완성했다.",
     "Enabled": false
   },
   "340085": {
     "OriginalText": "ギガンテスの伝甲を流用した服。\nチェーンソーの翼もそのままに再現し\n敵を威催する重厚な仕上がり。",
-    "Text": "",
+    "Text": "기간테스의 장갑을 활용한 옷.\n체인소의 날개도 그대로 재현해\n적을 위협하는 중후한 모습으로 완성했다.",
     "Enabled": false
   },
   "340086": {
     "OriginalText": "ギガンテスの伝甲を流用した服。\nチェーンソーの翼もそのままに再現し\n敵を威催する重厚な仕上がり。",
-    "Text": "",
+    "Text": "기간테스의 장갑을 활용한 옷.\n체인소의 날개도 그대로 재현해\n적을 위협하는 중후한 모습으로 완성했다.",
     "Enabled": false
   },
   "340087": {
     "OriginalText": "ギガンテスの伝甲を流用した服。\nチェーンソーの翼もそのままに再現し\n敵を威催する重厚な仕上がり。",
-    "Text": "",
+    "Text": "기간테스의 장갑을 활용한 옷.\n체인소의 날개도 그대로 재현해\n적을 위협하는 중후한 모습으로 완성했다.",
     "Enabled": false
   },
   "340088": {
-    "OriginalText": "ギガンテス素村を流用した突撃仕様服。\n接近戦における防御にも万全を期して\n特に硬い角パーツを採用した。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "ギガンテス素材を流用した突撃仕様服。\n接近戦における防御にも万全を期して\n特に硬い角パーツを採用した。",
+    "Text": "기간테스 소재를 활용한 돌격용 의상.\n근접전의 방어에도 만전을 기하기 위해\n특히 단단한 뿔 파츠를 사용했다.",
+    "Enabled": true
   },
   "340089": {
-    "OriginalText": "ギガンテス素村を流用した突撃仕様服。\n接近戦における防御にも万全を期して\n特に硬い角パーツを採用した。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "ギガンテス素材を流用した突撃仕様服。\n接近戦における防御にも万全を期して\n特に硬い角パーツを採用した。",
+    "Text": "기간테스 소재를 활용한 돌격용 의상.\n근접전의 방어에도 만전을 기하기 위해\n특히 단단한 뿔 파츠를 사용했다.",
+    "Enabled": true
   },
   "340090": {
-    "OriginalText": "ギガンテス素村を流用した突撃仕様服。\n接近戦における防御にも万全を期して\n特に硬い角パーツを採用した。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "ギガンテス素材を流用した突撃仕様服。\n接近戦における防御にも万全を期して\n特に硬い角パーツを採用した。",
+    "Text": "기간테스 소재를 활용한 돌격용 의상.\n근접전의 방어에도 만전을 기하기 위해\n특히 단단한 뿔 파츠를 사용했다.",
+    "Enabled": true
   },
   "340091": {
-    "OriginalText": "ギガンテス素村を流用した突撃仕様服。\n接近戦における防御にも万全を期して\n特に硬い角パーツを採用した。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "ギガンテス素材を流用した突撃仕様服。\n接近戦における防御にも万全を期して\n特に硬い角パーツを採用した。",
+    "Text": "기간테스 소재를 활용한 돌격용 의상.\n근접전의 방어에도 만전을 기하기 위해\n특히 단단한 뿔 파츠를 사용했다.",
+    "Enabled": true
   },
   "340092": {
-    "OriginalText": "ギガンテス素村を流用した突撃仕様服。\n接近戦における防御にも万全を期して\n特に硬い角パーツを採用した。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "ギガンテス素材を流用した突撃仕様服。\n接近戦における防御にも万全を期して\n特に硬い角パーツを採用した。",
+    "Text": "기간테스 소재를 활용한 돌격용 의상.\n근접전의 방어에도 만전을 기하기 위해\n특히 단단한 뿔 파츠를 사용했다.",
+    "Enabled": true
   },
   "340093": {
     "OriginalText": "ギガンテス伝甲を流用した柔軟設計の服。\n派手な色彩で敵の注意を引きつけるため\n使用者には俊敏な動きが求められる。",
-    "Text": "",
+    "Text": "기간테스 장갑을 활용해 유연하게 만든 옷.\n화려한 색으로 적의 주의를 끌기 때문에\n사용자는 민첩하게 움직여야 한다.",
     "Enabled": false
   },
   "340094": {
     "OriginalText": "ギガンテス伝甲を流用した柔軟設計の服。\n派手な色彩で敵の注意を引きつけるため\n使用者には俊敏な動きが求められる。",
-    "Text": "",
+    "Text": "기간테스 장갑을 활용해 유연하게 만든 옷.\n화려한 색으로 적의 주의를 끌기 때문에\n사용자는 민첩하게 움직여야 한다.",
     "Enabled": false
   },
   "340095": {
     "OriginalText": "ギガンテス伝甲を流用した柔軟設計の服。\n派手な色彩で敵の注意を引きつけるため\n使用者には俊敏な動きが求められる。",
-    "Text": "",
+    "Text": "기간테스 장갑을 활용해 유연하게 만든 옷.\n화려한 색으로 적의 주의를 끌기 때문에\n사용자는 민첩하게 움직여야 한다.",
     "Enabled": false
   },
   "340096": {
     "OriginalText": "ギガンテス伝甲を流用した柔軟設計の服。\n派手な色彩で敵の注意を引きつけるため\n使用者には俊敏な動きが求められる。",
-    "Text": "",
+    "Text": "기간테스 장갑을 활용해 유연하게 만든 옷.\n화려한 색으로 적의 주의를 끌기 때문에\n사용자는 민첩하게 움직여야 한다.",
     "Enabled": false
   },
   "340097": {
     "OriginalText": "ギガンテス伝甲を流用した柔軟設計の服。\n派手な色彩で敵の注意を引きつけるため\n使用者には俊敏な動きが求められる。",
-    "Text": "",
+    "Text": "기간테스 장갑을 활용해 유연하게 만든 옷.\n화려한 색으로 적의 주의를 끌기 때문에\n사용자는 민첩하게 움직여야 한다.",
     "Enabled": false
   },
   "340098": {
-    "OriginalText": "[ruby ほし]惑星[/ruby]ギガンテスの素村を流用した服。\n大型ながらも祟所に工夫が施され\n驚くべき軽量化を果たしている。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "[ruby ほし]惑星[/ruby]ギガンテスの素材を流用した服。\n大型ながらも随所に工夫が施され\n驚くべき軽量化を果たしている。",
+    "Text": "행성 기간테스의 소재를 활용한 옷.\n커다랗지만 곳곳에 특별한 설계를 적용해\n놀라울 정도로 가볍게 만들었다.",
+    "Enabled": true
   },
   "340099": {
-    "OriginalText": "[ruby ほし]惑星[/ruby]ギガンテスの素村を流用した服。\n大型ながらも祟所に工夫が施され\n驚くべき軽量化を果たしている。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "[ruby ほし]惑星[/ruby]ギガンテスの素材を流用した服。\n大型ながらも随所に工夫が施され\n驚くべき軽量化を果たしている。",
+    "Text": "행성 기간테스의 소재를 활용한 옷.\n커다랗지만 곳곳에 특별한 설계를 적용해\n놀라울 정도로 가볍게 만들었다.",
+    "Enabled": true
   },
   "340100": {
-    "OriginalText": "[ruby ほし]惑星[/ruby]ギガンテスの素村を流用した服。\n大型ながらも祟所に工夫が施され\n驚くべき軽量化を果たしている。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "[ruby ほし]惑星[/ruby]ギガンテスの素材を流用した服。\n大型ながらも随所に工夫が施され\n驚くべき軽量化を果たしている。",
+    "Text": "행성 기간테스의 소재를 활용한 옷.\n커다랗지만 곳곳에 특별한 설계를 적용해\n놀라울 정도로 가볍게 만들었다.",
+    "Enabled": true
   },
   "340101": {
-    "OriginalText": "[ruby ほし]惑星[/ruby]ギガンテスの素村を流用した服。\n大型ながらも祟所に工夫が施され\n驚くべき軽量化を果たしている。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "[ruby ほし]惑星[/ruby]ギガンテスの素材を流用した服。\n大型ながらも随所に工夫が施され\n驚くべき軽量化を果たしている。",
+    "Text": "행성 기간테스의 소재를 활용한 옷.\n커다랗지만 곳곳에 특별한 설계를 적용해\n놀라울 정도로 가볍게 만들었다.",
+    "Enabled": true
   },
   "340102": {
-    "OriginalText": "[ruby ほし]惑星[/ruby]ギガンテスの素村を流用した服。\n大型ながらも祟所に工夫が施され\n驚くべき軽量化を果たしている。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "[ruby ほし]惑星[/ruby]ギガンテスの素材を流用した服。\n大型ながらも随所に工夫が施され\n驚くべき軽量化を果たしている。",
+    "Text": "행성 기간테스의 소재를 활용한 옷.\n커다랗지만 곳곳에 특별한 설계를 적용해\n놀라울 정도로 가볍게 만들었다.",
+    "Enabled": true
   },
   "340103": {
     "OriginalText": "岩石をイメージした強化伝甲服。\n本洋は重すぎてとても伝着できないため\n雰囲気だけ物嚇しているが強度は抜群。",
-    "Text": "",
+    "Text": "암석을 본뜬 강화 장갑복.\n진짜 암석은 너무 무거워 입을 수 없어\n분위기만 흉내 냈지만 강도는 뛰어나다.",
     "Enabled": false
   },
   "340104": {
     "OriginalText": "岩石をイメージした強化伝甲服。\n本洋は重すぎてとても伝着できないため\n雰囲気だけ物嚇しているが強度は抜群。",
-    "Text": "",
+    "Text": "암석을 본뜬 강화 장갑복.\n진짜 암석은 너무 무거워 입을 수 없어\n분위기만 흉내 냈지만 강도는 뛰어나다.",
     "Enabled": false
   },
   "340105": {
     "OriginalText": "岩石をイメージした強化伝甲服。\n本洋は重すぎてとても伝着できないため\n雰囲気だけ物嚇しているが強度は抜群。",
-    "Text": "",
+    "Text": "암석을 본뜬 강화 장갑복.\n진짜 암석은 너무 무거워 입을 수 없어\n분위기만 흉내 냈지만 강도는 뛰어나다.",
     "Enabled": false
   },
   "340106": {
     "OriginalText": "岩石をイメージした強化伝甲服。\n本洋は重すぎてとても伝着できないため\n雰囲気だけ物嚇しているが強度は抜群。",
-    "Text": "",
+    "Text": "암석을 본뜬 강화 장갑복.\n진짜 암석은 너무 무거워 입을 수 없어\n분위기만 흉내 냈지만 강도는 뛰어나다.",
     "Enabled": false
   },
   "340107": {
     "OriginalText": "岩石をイメージした強化伝甲服。\n本洋は重すぎてとても伝着できないため\n雰囲気だけ物嚇しているが強度は抜群。",
-    "Text": "",
+    "Text": "암석을 본뜬 강화 장갑복.\n진짜 암석은 너무 무거워 입을 수 없어\n분위기만 흉내 냈지만 강도는 뛰어나다.",
     "Enabled": false
   },
   "340108": {
     "OriginalText": "とある惑星の開柘者を真似た戦闘服。\n品のいいアークスでも、つい無頼倣を\n気取りたくなってしまうワイルド仕様。",
-    "Text": "",
+    "Text": "어느 행성의 개척자를 본뜬 전투복.\n품위 있는 아크스도 불한당을 자처하고\n싶어질 만큼 와일드한 매력을 담았다.",
     "Enabled": false
   },
   "340109": {
     "OriginalText": "とある惑星の開柘者を真似た戦闘服。\n品のいいアークスでも、つい無頼倣を\n気取りたくなってしまうワイルド仕様。",
-    "Text": "",
+    "Text": "어느 행성의 개척자를 본뜬 전투복.\n품위 있는 아크스도 불한당을 자처하고\n싶어질 만큼 와일드한 매력을 담았다.",
     "Enabled": false
   },
   "340110": {
     "OriginalText": "とある惑星の開柘者を真似た戦闘服。\n品のいいアークスでも、つい無頼倣を\n気取りたくなってしまうワイルド仕様。",
-    "Text": "",
+    "Text": "어느 행성의 개척자를 본뜬 전투복.\n품위 있는 아크스도 불한당을 자처하고\n싶어질 만큼 와일드한 매력을 담았다.",
     "Enabled": false
   },
   "340111": {
     "OriginalText": "とある惑星の開柘者を真似た戦闘服。\n品のいいアークスでも、つい無頼倣を\n気取りたくなってしまうワイルド仕様。",
-    "Text": "",
+    "Text": "어느 행성의 개척자를 본뜬 전투복.\n품위 있는 아크스도 불한당을 자처하고\n싶어질 만큼 와일드한 매력을 담았다.",
     "Enabled": false
   },
   "340112": {
     "OriginalText": "とある惑星の開柘者を真似た戦闘服。\n品のいいアークスでも、つい無頼倣を\n気取りたくなってしまうワイルド仕様。",
-    "Text": "",
+    "Text": "어느 행성의 개척자를 본뜬 전투복.\n품위 있는 아크스도 불한당을 자처하고\n싶어질 만큼 와일드한 매력을 담았다.",
     "Enabled": false
   },
   "340113": {
     "OriginalText": "自然を愛するアークスのための戦闘服。\nところによっては保護色となるが\nその逆もあり得るので注意が必要。",
-    "Text": "",
-    "Enabled": false
+    "Text": "자연을 사랑하는 아크스를 위한 전투복.\n장소에 따라 보호색이 되지만\n그 반대도 가능하니 주의해야 한다.",
+    "Enabled": true
   },
   "340114": {
     "OriginalText": "自然を愛するアークスのための戦闘服。\nところによっては保護色となるが\nその逆もあり得るので注意が必要。",
-    "Text": "",
-    "Enabled": false
+    "Text": "자연을 사랑하는 아크스를 위한 전투복.\n장소에 따라 보호색이 되지만\n그 반대도 가능하니 주의해야 한다.",
+    "Enabled": true
   },
   "340115": {
     "OriginalText": "自然を愛するアークスのための戦闘服。\nところによっては保護色となるが\nその逆もあり得るので注意が必要。",
-    "Text": "",
-    "Enabled": false
+    "Text": "자연을 사랑하는 아크스를 위한 전투복.\n장소에 따라 보호색이 되지만\n그 반대도 가능하니 주의해야 한다.",
+    "Enabled": true
   },
   "340116": {
     "OriginalText": "自然を愛するアークスのための戦闘服。\nところによっては保護色となるが\nその逆もあり得るので注意が必要。",
-    "Text": "",
-    "Enabled": false
+    "Text": "자연을 사랑하는 아크스를 위한 전투복.\n장소에 따라 보호색이 되지만\n그 반대도 가능하니 주의해야 한다.",
+    "Enabled": true
   },
   "340117": {
     "OriginalText": "自然を愛するアークスのための戦闘服。\nところによっては保護色となるが\nその逆もあり得るので注意が必要。",
-    "Text": "",
-    "Enabled": false
+    "Text": "자연을 사랑하는 아크스를 위한 전투복.\n장소에 따라 보호색이 되지만\n그 반대도 가능하니 주의해야 한다.",
+    "Enabled": true
   },
   "340118": {
-    "OriginalText": "原生種鳥類の素村を織り込んだ戦闘服。\n鮮やかな配色が一部で人気だが、\n悪役にしか見えないと年配者には不評。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "原生種鳥類の素材を織り込んだ戦闘服。\n鮮やかな配色が一部で人気だが、\n悪役にしか見えないと年配者には不評。",
+    "Text": "원생종 조류의 소재를 짜 넣은 전투복.\n선명한 색이 일부에선 인기를 끌지만\n악당으로만 보여 나이 든 이들에겐 평이 나쁘다.",
+    "Enabled": true
   },
   "340119": {
-    "OriginalText": "原生種鳥類の素村を織り込んだ戦闘服。\n鮮やかな配色が一部で人気だが、\n悪役にしか見えないと年配者には不評。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "原生種鳥類の素材を織り込んだ戦闘服。\n鮮やかな配色が一部で人気だが、\n悪役にしか見えないと年配者には不評。",
+    "Text": "원생종 조류의 소재를 짜 넣은 전투복.\n선명한 색이 일부에선 인기를 끌지만\n악당으로만 보여 나이 든 이들에겐 평이 나쁘다.",
+    "Enabled": true
   },
   "340120": {
-    "OriginalText": "原生種鳥類の素村を織り込んだ戦闘服。\n鮮やかな配色が一部で人気だが、\n悪役にしか見えないと年配者には不評。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "原生種鳥類の素材を織り込んだ戦闘服。\n鮮やかな配色が一部で人気だが、\n悪役にしか見えないと年配者には不評。",
+    "Text": "원생종 조류의 소재를 짜 넣은 전투복.\n선명한 색이 일부에선 인기를 끌지만\n악당으로만 보여 나이 든 이들에겐 평이 나쁘다.",
+    "Enabled": true
   },
   "340121": {
-    "OriginalText": "原生種鳥類の素村を織り込んだ戦闘服。\n鮮やかな配色が一部で人気だが、\n悪役にしか見えないと年配者には不評。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "原生種鳥類の素材を織り込んだ戦闘服。\n鮮やかな配色が一部で人気だが、\n悪役にしか見えないと年配者には不評。",
+    "Text": "원생종 조류의 소재를 짜 넣은 전투복.\n선명한 색이 일부에선 인기를 끌지만\n악당으로만 보여 나이 든 이들에겐 평이 나쁘다.",
+    "Enabled": true
   },
   "340122": {
-    "OriginalText": "原生種鳥類の素村を織り込んだ戦闘服。\n鮮やかな配色が一部で人気だが、\n悪役にしか見えないと年配者には不評。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "原生種鳥類の素材を織り込んだ戦闘服。\n鮮やかな配色が一部で人気だが、\n悪役にしか見えないと年配者には不評。",
+    "Text": "원생종 조류의 소재를 짜 넣은 전투복.\n선명한 색이 일부에선 인기를 끌지만\n악당으로만 보여 나이 든 이들에겐 평이 나쁘다.",
+    "Enabled": true
   },
   "340123": {
     "OriginalText": "脱いでもすごいアークスのための服。\n引き締まった体とムダ煽処理が必須。\n時と場所をわきまえて楽しみたい。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "벗어도 멋진 아크스를 위한 옷.\n탄탄한 몸과 제모는 필수다.\n때와 장소를 가려 즐기자.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340124": {
     "OriginalText": "脱いでもすごいアークスのための服。\n引き締まった体とムダ煽処理が必須。\n時と場所をわきまえて楽しみたい。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "벗어도 멋진 아크스를 위한 옷.\n탄탄한 몸과 제모는 필수다.\n때와 장소를 가려 즐기자.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340125": {
     "OriginalText": "脱いでもすごいアークスのための服。\n引き締まった体とムダ煽処理が必須。\n時と場所をわきまえて楽しみたい。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "벗어도 멋진 아크스를 위한 옷.\n탄탄한 몸과 제모는 필수다.\n때와 장소를 가려 즐기자.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340126": {
     "OriginalText": "脱いでもすごいアークスのための服。\n引き締まった体とムダ煽処理が必須。\n時と場所をわきまえて楽しみたい。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "벗어도 멋진 아크스를 위한 옷.\n탄탄한 몸과 제모는 필수다.\n때와 장소를 가려 즐기자.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340127": {
     "OriginalText": "脱いでもすごいアークスのための服。\n引き締まった体とムダ煽処理が必須。\n時と場所をわきまえて楽しみたい。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "벗어도 멋진 아크스를 위한 옷.\n탄탄한 몸과 제모는 필수다.\n때와 장소를 가려 즐기자.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340128": {
     "OriginalText": "なりきり水着シリーズのラッピー版。\nなりきれていないという無粋な\nツッコミをスルーするスキルは必須。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "변신 수영복 시리즈의 랍피 버전.\n제대로 변신하지 못했다는 눈치 없는\n태클을 무시하는 기술은 필수다.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
+    "Enabled": true
   },
   "340129": {
     "OriginalText": "なりきり水着シリーズのラッピー版。\nなりきれていないという無粋な\nツッコミをスルーするスキルは必須。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "변신 수영복 시리즈의 랍피 버전.\n제대로 변신하지 못했다는 눈치 없는\n태클을 무시하는 기술은 필수다.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
+    "Enabled": true
   },
   "340130": {
     "OriginalText": "なりきり水着シリーズのラッピー版。\nなりきれていないという無粋な\nツッコミをスルーするスキルは必須。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "변신 수영복 시리즈의 랍피 버전.\n제대로 변신하지 못했다는 눈치 없는\n태클을 무시하는 기술은 필수다.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
+    "Enabled": true
   },
   "340131": {
     "OriginalText": "なりきり水着シリーズのラッピー版。\nなりきれていないという無粋な\nツッコミをスルーするスキルは必須。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "변신 수영복 시리즈의 랍피 버전.\n제대로 변신하지 못했다는 눈치 없는\n태클을 무시하는 기술은 필수다.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
+    "Enabled": true
   },
   "340132": {
     "OriginalText": "なりきり水着シリーズのラッピー版。\nなりきれていないという無粋な\nツッコミをスルーするスキルは必須。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "변신 수영복 시리즈의 랍피 버전.\n제대로 변신하지 못했다는 눈치 없는\n태클을 무시하는 기술은 필수다.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
+    "Enabled": true
   },
   "340133": {
     "OriginalText": "正義の味方を気取るアークススーツ。\nそこにいるだけで子どもたちに信頼され\n熱い眼差しで見つめられること確実。",
-    "Text": "",
-    "Enabled": false
+    "Text": "정의의 사도를 자처하는 아크스 슈트.\n그 자리에 있기만 해도 아이들의 신뢰와\n뜨거운 시선을 받을 것이 확실하다.",
+    "Enabled": true
   },
   "340134": {
     "OriginalText": "正義の味方を気取るアークススーツ。\nそこにいるだけで子どもたちに信頼され\n熱い眼差しで見つめられること確実。",
-    "Text": "",
-    "Enabled": false
+    "Text": "정의의 사도를 자처하는 아크스 슈트.\n그 자리에 있기만 해도 아이들의 신뢰와\n뜨거운 시선을 받을 것이 확실하다.",
+    "Enabled": true
   },
   "340135": {
     "OriginalText": "正義の味方を気取るアークススーツ。\nそこにいるだけで子どもたちに信頼され\n熱い眼差しで見つめられること確実。",
-    "Text": "",
-    "Enabled": false
+    "Text": "정의의 사도를 자처하는 아크스 슈트.\n그 자리에 있기만 해도 아이들의 신뢰와\n뜨거운 시선을 받을 것이 확실하다.",
+    "Enabled": true
   },
   "340136": {
     "OriginalText": "正義の味方を気取るアークススーツ。\nそこにいるだけで子どもたちに信頼され\n熱い眼差しで見つめられること確実。",
-    "Text": "",
-    "Enabled": false
+    "Text": "정의의 사도를 자처하는 아크스 슈트.\n그 자리에 있기만 해도 아이들의 신뢰와\n뜨거운 시선을 받을 것이 확실하다.",
+    "Enabled": true
   },
   "340137": {
     "OriginalText": "正義の味方を気取るアークススーツ。\nそこにいるだけで子どもたちに信頼され\n熱い眼差しで見つめられること確実。",
-    "Text": "",
-    "Enabled": false
+    "Text": "정의의 사도를 자처하는 아크스 슈트.\n그 자리에 있기만 해도 아이들의 신뢰와\n뜨거운 시선을 받을 것이 확실하다.",
+    "Enabled": true
   },
   "340138": {
     "OriginalText": "働く男を意識するアークスの作業着。\n下半身を完全防御する安全仕様で\n重火器を取り扱うのに最適。",
-    "Text": "",
-    "Enabled": false
+    "Text": "일하는 남자를 의식한 아크스 작업복.\n하반신을 완전히 보호하는 안전 설계로\n중화기를 다루기에 최적이다.",
+    "Enabled": true
   },
   "340139": {
     "OriginalText": "働く男を意識するアークスの作業着。\n下半身を完全防御する安全仕様で\n重火器を取り扱うのに最適。",
-    "Text": "",
-    "Enabled": false
+    "Text": "일하는 남자를 의식한 아크스 작업복.\n하반신을 완전히 보호하는 안전 설계로\n중화기를 다루기에 최적이다.",
+    "Enabled": true
   },
   "340140": {
     "OriginalText": "働く男を意識するアークスの作業着。\n下半身を完全防御する安全仕様で\n重火器を取り扱うのに最適。",
-    "Text": "",
-    "Enabled": false
+    "Text": "일하는 남자를 의식한 아크스 작업복.\n하반신을 완전히 보호하는 안전 설계로\n중화기를 다루기에 최적이다.",
+    "Enabled": true
   },
   "340141": {
     "OriginalText": "働く男を意識するアークスの作業着。\n下半身を完全防御する安全仕様で\n重火器を取り扱うのに最適。",
-    "Text": "",
-    "Enabled": false
+    "Text": "일하는 남자를 의식한 아크스 작업복.\n하반신을 완전히 보호하는 안전 설계로\n중화기를 다루기에 최적이다.",
+    "Enabled": true
   },
   "340142": {
     "OriginalText": "働く男を意識するアークスの作業着。\n下半身を完全防御する安全仕様で\n重火器を取り扱うのに最適。",
-    "Text": "",
-    "Enabled": false
+    "Text": "일하는 남자를 의식한 아크스 작업복.\n하반신을 완전히 보호하는 안전 설계로\n중화기를 다루기에 최적이다.",
+    "Enabled": true
   },
   "340143": {
     "OriginalText": "忙しさを体現したコンセプト服。\n入浴中でも任務とあらば着の身着のまま\n駆けつけるのがアークスの漢！\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "바쁜 일상을 표현한 콘셉트 의상.\n목욕 중이라도 임무라면 그 차림 그대로\n달려가는 것이 아크스의 사나이다!\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
+    "Enabled": true
   },
   "340144": {
     "OriginalText": "運命を受け入れた男の戦闘服。\nセクシー＆ワイルドも一歩間違えれば\nエッチでおっちょこちょいになるかも。",
-    "Text": "",
-    "Enabled": false
+    "Text": "운명을 받아들인 남자의 전투복.\n섹시하고 와일드한 매력도 잘못하면\n야하고 덜렁대는 모습이 될지도 모른다.",
+    "Enabled": true
   },
   "340145": {
     "OriginalText": "運命に抗う少年の戦闘服。\nクールでちょっと寂しげに\n背中を見せるのが上級者の着こなし。",
-    "Text": "",
-    "Enabled": false
+    "Text": "운명에 맞서는 소년의 전투복.\n차갑고 조금은 쓸쓸하게\n등을 보이는 것이 고수의 착용법이다.",
+    "Enabled": true
   },
   "340146": {
     "OriginalText": "戦闘用に作られたアークスの服伝。\n過度の衝撃を受け一部破損しているが\n機能に問題はない。",
-    "Text": "",
+    "Text": "전투용으로 만든 아크스 복장.\n과도한 충격으로 일부가 파손됐지만\n기능에는 문제가 없다.",
     "Enabled": false
   },
   "340147": {
     "OriginalText": "戦闘用に作られたアークスの服伝。\n過度の衝撃を受け一部破損しているが\n機能に問題はない。",
-    "Text": "",
+    "Text": "전투용으로 만든 아크스 복장.\n과도한 충격으로 일부가 파손됐지만\n기능에는 문제가 없다.",
     "Enabled": false
   },
   "340148": {
     "OriginalText": "戦闘用に作られたアークスの服伝。\n過度の衝撃を受け一部破損しているが\n機能に問題はない。",
-    "Text": "",
+    "Text": "전투용으로 만든 아크스 복장.\n과도한 충격으로 일부가 파손됐지만\n기능에는 문제가 없다.",
     "Enabled": false
   },
   "340149": {
     "OriginalText": "戦闘用に作られたアークスの服伝。\n過度の衝撃を受け一部破損しているが\n機能に問題はない。",
-    "Text": "",
+    "Text": "전투용으로 만든 아크스 복장.\n과도한 충격으로 일부가 파손됐지만\n기능에는 문제가 없다.",
     "Enabled": false
   },
   "340150": {
     "OriginalText": "伝着時の一体感に重きをおいた服伝。\n全体的にゆったりとした見た目だが\n所々に事故による破損がある。",
-    "Text": "",
+    "Text": "착용 시 몸과의 일체감을 중시한 복장.\n전체적으로 헐렁해 보이지만\n곳곳에 사고로 생긴 파손이 있다.",
     "Enabled": false
   },
   "340151": {
     "OriginalText": "伝着時の一体感に重きをおいた服伝。\n全体的にゆったりとした見た目だが\n所々に事故による破損がある。",
-    "Text": "",
+    "Text": "착용 시 몸과의 일체감을 중시한 복장.\n전체적으로 헐렁해 보이지만\n곳곳에 사고로 생긴 파손이 있다.",
     "Enabled": false
   },
   "340152": {
     "OriginalText": "伝着時の一体感に重きをおいた服伝。\n全体的にゆったりとした見た目だが\n所々に事故による破損がある。",
-    "Text": "",
+    "Text": "착용 시 몸과의 일체감을 중시한 복장.\n전체적으로 헐렁해 보이지만\n곳곳에 사고로 생긴 파손이 있다.",
     "Enabled": false
   },
   "340153": {
     "OriginalText": "伝着時の一体感に重きをおいた服伝。\n全体的にゆったりとした見た目だが\n所々に事故による破損がある。",
-    "Text": "",
+    "Text": "착용 시 몸과의 일체감을 중시한 복장.\n전체적으로 헐렁해 보이지만\n곳곳에 사고로 생긴 파손이 있다.",
     "Enabled": false
   },
   "340154": {
     "OriginalText": "軽量化に特化したアークス用戦闘服。\n動きやすく衝撃を吸収しやすいが\n一部に事故による破損が見られる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "경량화에 특화된 아크스용 전투복.\n움직이기 편하고 충격도 잘 흡수하지만\n일부에 사고로 생긴 파손이 보인다.",
+    "Enabled": true
   },
   "340155": {
     "OriginalText": "軽量化に特化したアークス用戦闘服。\n動きやすく衝撃を吸収しやすいが\n一部に事故による破損が見られる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "경량화에 특화된 아크스용 전투복.\n움직이기 편하고 충격도 잘 흡수하지만\n일부에 사고로 생긴 파손이 보인다.",
+    "Enabled": true
   },
   "340156": {
     "OriginalText": "軽量化に特化したアークス用戦闘服。\n動きやすく衝撃を吸収しやすいが\n一部に事故による破損が見られる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "경량화에 특화된 아크스용 전투복.\n움직이기 편하고 충격도 잘 흡수하지만\n일부에 사고로 생긴 파손이 보인다.",
+    "Enabled": true
   },
   "340157": {
     "OriginalText": "軽量化に特化したアークス用戦闘服。\n動きやすく衝撃を吸収しやすいが\n一部に事故による破損が見られる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "경량화에 특화된 아크스용 전투복.\n움직이기 편하고 충격도 잘 흡수하지만\n일부에 사고로 생긴 파손이 보인다.",
+    "Enabled": true
   },
   "340158": {
-    "OriginalText": "アークスで伝着を推均される標準下着。\nむれにくい速渋性の合成素村を使用し、\n伸温性・耐久性に優れ保極効果も高い。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "アークスで装着を推奨される標準下着。\nむれにくい速乾性の合成素材を使用し、\n伸縮性・耐久性に優れ保温効果も高い。",
+    "Text": "아크스에서 착용을 권장하는 표준 속옷.\n땀이 잘 차지 않는 속건성 합성 소재를 사용해\n신축성과 내구성이 뛰어나고 보온 효과도 높다.",
+    "Enabled": true
   },
   "340159": {
     "OriginalText": "アークス用の戦闘服ながら、祟所に\n可愛らしさを残した人気の服伝。\n性能を落とすことなくニーズに応えた。",
-    "Text": "",
+    "Text": "아크스용 전투복이면서도 곳곳에\n귀여움을 남긴 인기 복장.\n성능을 낮추지 않고 요구에 부응했다.",
     "Enabled": false
   },
   "340160": {
     "OriginalText": "アークス用の戦闘服ながら、祟所に\n可愛らしさを残した人気の服伝。\n性能を落とすことなくニーズに応えた。",
-    "Text": "",
+    "Text": "아크스용 전투복이면서도 곳곳에\n귀여움을 남긴 인기 복장.\n성능을 낮추지 않고 요구에 부응했다.",
     "Enabled": false
   },
   "340161": {
     "OriginalText": "アークス用の戦闘服ながら、祟所に\n可愛らしさを残した人気の服伝。\n性能を落とすことなくニーズに応えた。",
-    "Text": "",
+    "Text": "아크스용 전투복이면서도 곳곳에\n귀여움을 남긴 인기 복장.\n성능을 낮추지 않고 요구에 부응했다.",
     "Enabled": false
   },
   "340162": {
     "OriginalText": "アークス用の戦闘服ながら、祟所に\n可愛らしさを残した人気の服伝。\n性能を落とすことなくニーズに応えた。",
-    "Text": "",
+    "Text": "아크스용 전투복이면서도 곳곳에\n귀여움을 남긴 인기 복장.\n성능을 낮추지 않고 요구에 부응했다.",
     "Enabled": false
   },
   "340163": {
     "OriginalText": "戦闘用の服伝ながら、エレガントな\nたたずまいを残した画期的な服伝。\n戦場に舞うその姿はまさに優雅。",
-    "Text": "",
+    "Text": "전투용이면서 우아한\n자태를 유지한 획기적인 복장.\n전장에서 춤추는 모습은 그야말로 우아하다.",
     "Enabled": false
   },
   "340164": {
     "OriginalText": "戦闘用の服伝ながら、エレガントな\nたたずまいを残した画期的な服伝。\n戦場に舞うその姿はまさに優雅。",
-    "Text": "",
+    "Text": "전투용이면서 우아한\n자태를 유지한 획기적인 복장.\n전장에서 춤추는 모습은 그야말로 우아하다.",
     "Enabled": false
   },
   "340165": {
     "OriginalText": "戦闘用の服伝ながら、エレガントな\nたたずまいを残した画期的な服伝。\n戦場に舞うその姿はまさに優雅。",
-    "Text": "",
+    "Text": "전투용이면서 우아한\n자태를 유지한 획기적인 복장.\n전장에서 춤추는 모습은 그야말로 우아하다.",
     "Enabled": false
   },
   "340166": {
     "OriginalText": "戦闘用の服伝ながら、エレガントな\nたたずまいを残した画期的な服伝。\n戦場に舞うその姿はまさに優雅。",
-    "Text": "",
+    "Text": "전투용이면서 우아한\n자태를 유지한 획기적인 복장.\n전장에서 춤추는 모습은 그야말로 우아하다.",
     "Enabled": false
   },
   "340167": {
     "OriginalText": "軽量化を追求した戦闘用の服伝。\n外気への感応性を意図的に高めたため\n露出が多くなっている。",
-    "Text": "",
+    "Text": "경량화를 추구한 전투용 복장.\n외부 공기에 대한 감응성을 일부러 높여\n노출이 많아졌다.",
     "Enabled": false
   },
   "340168": {
     "OriginalText": "軽量化を追求した戦闘用の服伝。\n外気への感応性を意図的に高めたため\n露出が多くなっている。",
-    "Text": "",
+    "Text": "경량화를 추구한 전투용 복장.\n외부 공기에 대한 감응성을 일부러 높여\n노출이 많아졌다.",
     "Enabled": false
   },
   "340169": {
     "OriginalText": "軽量化を追求した戦闘用の服伝。\n外気への感応性を意図的に高めたため\n露出が多くなっている。",
-    "Text": "",
+    "Text": "경량화를 추구한 전투용 복장.\n외부 공기에 대한 감응성을 일부러 높여\n노출이 많아졌다.",
     "Enabled": false
   },
   "340170": {
     "OriginalText": "軽量化を追求した戦闘用の服伝。\n外気への感応性を意図的に高めたため\n露出が多くなっている。",
-    "Text": "",
+    "Text": "경량화를 추구한 전투용 복장.\n외부 공기에 대한 감응성을 일부러 높여\n노출이 많아졌다.",
     "Enabled": false
   },
   "340171": {
     "OriginalText": "活発な動きを想定して作られた\nアークス用の戦闘服。飛んでも\n賜ねても問題ない、丈夫なつくり。",
-    "Text": "",
+    "Text": "활발한 움직임을 가정해 만든\n아크스용 전투복. 날거나 뛰어도\n문제없을 만큼 튼튼하게 만들었다.",
     "Enabled": false
   },
   "340172": {
     "OriginalText": "活発な動きを想定して作られた\nアークス用の戦闘服。飛んでも\n賜ねても問題ない、丈夫なつくり。",
-    "Text": "",
+    "Text": "활발한 움직임을 가정해 만든\n아크스용 전투복. 날거나 뛰어도\n문제없을 만큼 튼튼하게 만들었다.",
     "Enabled": false
   },
   "340173": {
     "OriginalText": "活発な動きを想定して作られた\nアークス用の戦闘服。飛んでも\n賜ねても問題ない、丈夫なつくり。",
-    "Text": "",
+    "Text": "활발한 움직임을 가정해 만든\n아크스용 전투복. 날거나 뛰어도\n문제없을 만큼 튼튼하게 만들었다.",
     "Enabled": false
   },
   "340174": {
     "OriginalText": "活発な動きを想定して作られた\nアークス用の戦闘服。飛んでも\n賜ねても問題ない、丈夫なつくり。",
-    "Text": "",
+    "Text": "활발한 움직임을 가정해 만든\n아크스용 전투복. 날거나 뛰어도\n문제없을 만큼 튼튼하게 만들었다.",
     "Enabled": false
   },
   "340175": {
     "OriginalText": "テクニック行使者の要望に応じ \n外気への感応を重点に置いた \nアークス用の戦闘服。",
-    "Text": "",
-    "Enabled": false
+    "Text": "테크닉 사용자의 요구에 맞춰\n외부 공기에 대한 감응을 중점으로 삼은\n아크스용 전투복.",
+    "Enabled": true
   },
   "340176": {
     "OriginalText": "テクニック行使者の要望に応じ \n外気への感応に重点を置いた \nアークス用の戦闘服。",
-    "Text": "",
-    "Enabled": false
+    "Text": "테크닉 사용자의 요구에 맞춰\n외부 공기에 대한 감응에 중점을 둔\n아크스용 전투복.",
+    "Enabled": true
   },
   "340177": {
     "OriginalText": "テクニック行使者の要望に応じ \n外気への感応に重点を置いた \nアークス用の戦闘服。",
-    "Text": "",
-    "Enabled": false
+    "Text": "테크닉 사용자의 요구에 맞춰\n외부 공기에 대한 감응에 중점을 둔\n아크스용 전투복.",
+    "Enabled": true
   },
   "340178": {
     "OriginalText": "テクニック行使者の要望に応じ \n外気への感応に重点を置いた \nアークス用の戦闘服。",
-    "Text": "",
-    "Enabled": false
+    "Text": "테크닉 사용자의 요구에 맞춰\n외부 공기에 대한 감응에 중점을 둔\n아크스용 전투복.",
+    "Enabled": true
   },
   "340179": {
     "OriginalText": "アークス用戦闘服。女性らしさを残し\nそれでいて動きを阻害せず\n戦いやすい服伝となっている。",
-    "Text": "",
+    "Text": "아크스용 전투복. 여성스러움을 남기면서\n움직임을 방해하지 않아\n싸우기 편하게 만든 복장이다.",
     "Enabled": false
   },
   "340180": {
     "OriginalText": "アークス用戦闘服。女性らしさを残し\nそれでいて動きを阻害せず\n戦いやすい服伝となっている。",
-    "Text": "",
+    "Text": "아크스용 전투복. 여성스러움을 남기면서\n움직임을 방해하지 않아\n싸우기 편하게 만든 복장이다.",
     "Enabled": false
   },
   "340181": {
     "OriginalText": "アークス用戦闘服。女性らしさを残し\nそれでいて動きを阻害せず\n戦いやすい服伝となっている。",
-    "Text": "",
+    "Text": "아크스용 전투복. 여성스러움을 남기면서\n움직임을 방해하지 않아\n싸우기 편하게 만든 복장이다.",
     "Enabled": false
   },
   "340182": {
     "OriginalText": "アークス用戦闘服。女性らしさを残し\nそれでいて動きを阻害せず\n戦いやすい服伝となっている。",
-    "Text": "",
+    "Text": "아크스용 전투복. 여성스러움을 남기면서\n움직임을 방해하지 않아\n싸우기 편하게 만든 복장이다.",
     "Enabled": false
   },
   "340183": {
     "OriginalText": "アークス用戦闘服。フォース向けの服で\nテクニック行使や法撃力増強を掟進し\n女性らしさを残した美しいデザイン。",
-    "Text": "",
+    "Text": "아크스용 전투복. 포스용으로 만들어\n테크닉 사용과 법격력 증강을 촉진하며\n여성스러움을 남긴 아름다운 디자인이다.",
     "Enabled": false
   },
   "340184": {
     "OriginalText": "アークス用戦闘服。フォース向けの服で\nテクニック行使や法撃力増強を掟進し\n女性らしさを残した美しいデザイン。",
-    "Text": "",
+    "Text": "아크스용 전투복. 포스용으로 만들어\n테크닉 사용과 법격력 증강을 촉진하며\n여성스러움을 남긴 아름다운 디자인이다.",
     "Enabled": false
   },
   "340185": {
     "OriginalText": "アークス用戦闘服。フォース向けの服で\nテクニック行使や法撃力増強を掟進し\n女性らしさを残した美しいデザイン。",
-    "Text": "",
+    "Text": "아크스용 전투복. 포스용으로 만들어\n테크닉 사용과 법격력 증강을 촉진하며\n여성스러움을 남긴 아름다운 디자인이다.",
     "Enabled": false
   },
   "340186": {
     "OriginalText": "アークス用戦闘服。フォース向けの服で\nテクニック行使や法撃力増強を掟進し\n女性らしさを残した美しいデザイン。",
-    "Text": "",
+    "Text": "아크스용 전투복. 포스용으로 만들어\n테크닉 사용과 법격력 증강을 촉진하며\n여성스러움을 남긴 아름다운 디자인이다.",
     "Enabled": false
   },
   "340187": {
     "OriginalText": "アークス用戦闘服。ハンター向けの服で\n外気を肌で感じながら活動できるよう\n露出が多くなっており、刺撃的な服伝。",
-    "Text": "",
+    "Text": "아크스용 전투복. 헌터용으로 만들어\n외부 공기를 피부로 느끼며 활동하도록\n노출이 많아 자극적인 복장이다.",
     "Enabled": false
   },
   "340188": {
     "OriginalText": "アークス用戦闘服。ハンター向けの服で\n外気を肌で感じながら活動できるよう\n露出が多くなっており、刺撃的な服伝。",
-    "Text": "",
+    "Text": "아크스용 전투복. 헌터용으로 만들어\n외부 공기를 피부로 느끼며 활동하도록\n노출이 많아 자극적인 복장이다.",
     "Enabled": false
   },
   "340189": {
     "OriginalText": "アークス用戦闘服。ハンター向けの服で\n外気を肌で感じながら活動できるよう\n露出が多くなっており、刺撃的な服伝。",
-    "Text": "",
+    "Text": "아크스용 전투복. 헌터용으로 만들어\n외부 공기를 피부로 느끼며 활동하도록\n노출이 많아 자극적인 복장이다.",
     "Enabled": false
   },
   "340190": {
     "OriginalText": "アークス用戦闘服。ハンター向けの服で\n外気を肌で感じながら活動できるよう\n露出が多くなっており、刺撃的な服伝。",
-    "Text": "",
+    "Text": "아크스용 전투복. 헌터용으로 만들어\n외부 공기를 피부로 느끼며 활동하도록\n노출이 많아 자극적인 복장이다.",
     "Enabled": false
   },
   "340191": {
     "OriginalText": "アークス用戦闘服。レンジャークラスへ\n向けられたシックなデザインと安定性に\n富む、バランスの良い服。",
-    "Text": "",
-    "Enabled": false
+    "Text": "아크스용 전투복. 레인저 클래스용의\n차분한 디자인과 뛰어난 안정성으로\n균형을 잘 갖춘 옷이다.",
+    "Enabled": true
   },
   "340192": {
     "OriginalText": "アークス用戦闘服。レンジャークラスへ\n向けられたシックなデザインと安定性に\n富む、バランスの良い服。",
-    "Text": "",
-    "Enabled": false
+    "Text": "아크스용 전투복. 레인저 클래스용의\n차분한 디자인과 뛰어난 안정성으로\n균형을 잘 갖춘 옷이다.",
+    "Enabled": true
   },
   "340193": {
     "OriginalText": "アークス用戦闘服。レンジャークラスへ\n向けられたシックなデザインと安定性に\n富む、バランスの良い服。",
-    "Text": "",
-    "Enabled": false
+    "Text": "아크스용 전투복. 레인저 클래스용의\n차분한 디자인과 뛰어난 안정성으로\n균형을 잘 갖춘 옷이다.",
+    "Enabled": true
   },
   "340194": {
     "OriginalText": "アークス用戦闘服。レンジャークラスへ\n向けられたシックなデザインと安定性に\n富む、バランスの良い服。",
-    "Text": "",
-    "Enabled": false
+    "Text": "아크스용 전투복. 레인저 클래스용의\n차분한 디자인과 뛰어난 안정성으로\n균형을 잘 갖춘 옷이다.",
+    "Enabled": true
   },
   "340195": {
     "OriginalText": "アークスシップ内に居住する\n一般市民向けの服伝。女性用。\nきわだった特微がないのが特微。",
-    "Text": "",
+    "Text": "아크스 쉽에 사는\n일반 시민을 위한 여성용 복장.\n뚜렷한 특징이 없는 것이 특징이다.",
     "Enabled": false
   },
   "340196": {
     "OriginalText": "アークスシップ内に居住する\n一般市民向けの服伝。女性用。\nきわだった特微がないのが特微。",
-    "Text": "",
+    "Text": "아크스 쉽에 사는\n일반 시민을 위한 여성용 복장.\n뚜렷한 특징이 없는 것이 특징이다.",
     "Enabled": false
   },
   "340197": {
     "OriginalText": "アークスシップ内に居住する\n一般市民向けの服伝。女性用。\nきわだった特微がないのが特微。",
-    "Text": "",
+    "Text": "아크스 쉽에 사는\n일반 시민을 위한 여성용 복장.\n뚜렷한 특징이 없는 것이 특징이다.",
     "Enabled": false
   },
   "340198": {
     "OriginalText": "アークスシップ内に居住する\n一般市民向けの服伝。女性用。\nきわだった特微がないのが特微。",
-    "Text": "",
+    "Text": "아크스 쉽에 사는\n일반 시민을 위한 여성용 복장.\n뚜렷한 특징이 없는 것이 특징이다.",
     "Enabled": false
   },
   "340199": {
     "OriginalText": "アークス用戦闘服。周囲の環境情報を\n集約できるように調整された\nレンジャー向けデザインの服伝。",
-    "Text": "",
+    "Text": "아크스용 전투복. 주변 환경의 정보를\n모을 수 있도록 조정한\n레인저용 디자인의 복장.",
     "Enabled": false
   },
   "340200": {
     "OriginalText": "アークス用戦闘服。周囲の環境情報を\n集約できるように調整された\nレンジャー向けデザインの服伝。",
-    "Text": "",
+    "Text": "아크스용 전투복. 주변 환경의 정보를\n모을 수 있도록 조정한\n레인저용 디자인의 복장.",
     "Enabled": false
   },
   "340201": {
     "OriginalText": "アークス用戦闘服。周囲の環境情報を\n集約できるように調整された\nレンジャー向けデザインの服伝。",
-    "Text": "",
+    "Text": "아크스용 전투복. 주변 환경의 정보를\n모을 수 있도록 조정한\n레인저용 디자인의 복장.",
     "Enabled": false
   },
   "340202": {
     "OriginalText": "アークス用戦闘服。周囲の環境情報を\n集約できるように調整された\nレンジャー向けデザインの服伝。",
-    "Text": "",
+    "Text": "아크스용 전투복. 주변 환경의 정보를\n모을 수 있도록 조정한\n레인저용 디자인의 복장.",
     "Enabled": false
   },
   "340203": {
     "OriginalText": "アークスのナビゲーターを務める\nクルーが着用を義務づけられている服伝。\n熟練の技術を要するエリート。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "아크스의 내비게이터를 맡은\n크루에게 착용이 의무화된 복장.\n숙련된 기술을 필요로 하는 엘리트.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340204": {
     "OriginalText": "アークスのナビゲーターを務める\nクルーが着用を義務づけられている服伝。\n熟練の技術を要するエリート。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "아크스의 내비게이터를 맡은\n크루에게 착용이 의무화된 복장.\n숙련된 기술을 필요로 하는 엘리트.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340205": {
     "OriginalText": "アークスのナビゲーターを務める\nクルーが着用を義務づけられている服伝。\n熟練の技術を要するエリート。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "아크스의 내비게이터를 맡은\n크루에게 착용이 의무화된 복장.\n숙련된 기술을 필요로 하는 엘리트.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340206": {
     "OriginalText": "アークスのナビゲーターを務める\nクルーが着用を義務づけられている服伝。\n熟練の技術を要するエリート。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "아크스의 내비게이터를 맡은\n크루에게 착용이 의무화된 복장.\n숙련된 기술을 필요로 하는 엘리트.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340207": {
     "OriginalText": "アークスシップ、メディカルセンターの\n店員が着用している服伝。\n一目でそれとわかる特微的な服。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "아크스 쉽 메디컬 센터의\n직원이 착용하는 복장.\n한눈에 알아볼 수 있는 특징적인 옷.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340208": {
     "OriginalText": "アークスシップ、メディカルセンターの\n店員が着用している服伝。\n一目でそれとわかる特微的な服。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "아크스 쉽 메디컬 센터의\n직원이 착용하는 복장.\n한눈에 알아볼 수 있는 특징적인 옷.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340209": {
     "OriginalText": "アークスシップ、メディカルセンターの\n店員が着用している服伝。\n一目でそれとわかる特微的な服。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "아크스 쉽 메디컬 센터의\n직원이 착용하는 복장.\n한눈에 알아볼 수 있는 특징적인 옷.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340210": {
     "OriginalText": "アークスシップ、メディカルセンターの\n店員が着用している服伝。\n一目でそれとわかる特微的な服。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "아크스 쉽 메디컬 센터의\n직원이 착용하는 복장.\n한눈에 알아볼 수 있는 특징적인 옷.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340211": {
     "OriginalText": "アークス研修生のために制定された服。 \n公的な奨事などを行う際に着用される \n華美ながらも促厳な伝い。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "아크스 연수생을 위해 정한 옷.\n공식 행사 등을 할 때 착용하는\n화려하면서도 장엄한 의상.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340212": {
     "OriginalText": "アークス研修生のために制定された服。 \n公的な奨事などを行う際に着用される \n華美ながらも促厳な伝い。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "아크스 연수생을 위해 정한 옷.\n공식 행사 등을 할 때 착용하는\n화려하면서도 장엄한 의상.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340213": {
     "OriginalText": "アークス研修生のために制定された服。 \n公的な奨事などを行う際に着用される \n華美ながらも促厳な伝い。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "아크스 연수생을 위해 정한 옷.\n공식 행사 등을 할 때 착용하는\n화려하면서도 장엄한 의상.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340214": {
     "OriginalText": "アークス研修生のために制定された服。 \n公的な奨事などを行う際に着用される \n華美ながらも促厳な伝い。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "아크스 연수생을 위해 정한 옷.\n공식 행사 등을 할 때 착용하는\n화려하면서도 장엄한 의상.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340215": {
     "OriginalText": "妖艶な雰囲気を湿し出す戦闘用の服伝。\n扇情的かつ挑発的な服伝だが\n同時に威圧感すら感じる不思議な服。",
-    "Text": "",
+    "Text": "요염한 분위기를 자아내는 전투용 복장.\n선정적이고 도발적이면서도\n위압감까지 느껴지는 신비한 옷.",
     "Enabled": false
   },
   "340216": {
     "OriginalText": "妖艶な雰囲気を湿し出す戦闘用の服伝。\n扇情的かつ挑発的な服伝だが\n同時に威圧感すら感じる不思議な服。",
-    "Text": "",
+    "Text": "요염한 분위기를 자아내는 전투용 복장.\n선정적이고 도발적이면서도\n위압감까지 느껴지는 신비한 옷.",
     "Enabled": false
   },
   "340217": {
     "OriginalText": "妖艶な雰囲気を湿し出す戦闘用の服伝。\n扇情的かつ挑発的な服伝だが\n同時に威圧感すら感じる不思議な服。",
-    "Text": "",
+    "Text": "요염한 분위기를 자아내는 전투용 복장.\n선정적이고 도발적이면서도\n위압감까지 느껴지는 신비한 옷.",
     "Enabled": false
   },
   "340218": {
     "OriginalText": "妖艶な雰囲気を湿し出す戦闘用の服伝。\n扇情的かつ挑発的な服伝だが\n同時に威圧感すら感じる不思議な服。",
-    "Text": "",
+    "Text": "요염한 분위기를 자아내는 전투용 복장.\n선정적이고 도발적이면서도\n위압감까지 느껴지는 신비한 옷.",
     "Enabled": false
   },
   "340219": {
-    "OriginalText": "自然との一体感を重視した戦闘服。\n外気との親和性が高い素村の採用により\n元々そこにあったかのように映る。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "自然との一体感を重視した戦闘服。\n外気との親和性が高い素材の採用により\n元々そこにあったかのように映る。",
+    "Text": "자연과의 일체감을 중시한 전투복.\n외부 공기와 친화성이 높은 소재를 사용해\n원래 그 자리에 있었던 것처럼 보인다.",
+    "Enabled": true
   },
   "340220": {
-    "OriginalText": "自然との一体感を重視した戦闘服。\n外気との親和性が高い素村の採用により\n元々そこにあったかのように映る。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "自然との一体感を重視した戦闘服。\n外気との親和性が高い素材の採用により\n元々そこにあったかのように映る。",
+    "Text": "자연과의 일체감을 중시한 전투복.\n외부 공기와 친화성이 높은 소재를 사용해\n원래 그 자리에 있었던 것처럼 보인다.",
+    "Enabled": true
   },
   "340221": {
-    "OriginalText": "自然との一体感を重視した戦闘服。\n外気との親和性が高い素村の採用により\n元々そこにあったかのように映る。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "自然との一体感を重視した戦闘服。\n外気との親和性が高い素材の採用により\n元々そこにあったかのように映る。",
+    "Text": "자연과의 일체감을 중시한 전투복.\n외부 공기와 친화성이 높은 소재를 사용해\n원래 그 자리에 있었던 것처럼 보인다.",
+    "Enabled": true
   },
   "340222": {
-    "OriginalText": "自然との一体感を重視した戦闘服。\n外気との親和性が高い素村の採用により\n元々そこにあったかのように映る。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "自然との一体感を重視した戦闘服。\n外気との親和性が高い素材の採用により\n元々そこにあったかのように映る。",
+    "Text": "자연과의 일체감을 중시한 전투복.\n외부 공기와 친화성이 높은 소재를 사용해\n원래 그 자리에 있었던 것처럼 보인다.",
+    "Enabled": true
   },
   "340223": {
     "OriginalText": "寒氷地局地戦を想定して作られた\nアークス用の戦闘服。柔らかくて\n暖かそうな見た目が人気を集めている。",
-    "Text": "",
+    "Text": "추운 지역의 국지전을 가정해 만든\n아크스용 전투복. 부드럽고\n따뜻해 보이는 외관으로 인기를 끌고 있다.",
     "Enabled": false
   },
   "340224": {
     "OriginalText": "寒氷地局地戦を想定して作られた\nアークス用の戦闘服。柔らかくて\n暖かそうな見た目が人気を集めている。",
-    "Text": "",
+    "Text": "추운 지역의 국지전을 가정해 만든\n아크스용 전투복. 부드럽고\n따뜻해 보이는 외관으로 인기를 끌고 있다.",
     "Enabled": false
   },
   "340225": {
     "OriginalText": "寒氷地局地戦を想定して作られた\nアークス用の戦闘服。柔らかくて\n暖かそうな見た目が人気を集めている。",
-    "Text": "",
+    "Text": "추운 지역의 국지전을 가정해 만든\n아크스용 전투복. 부드럽고\n따뜻해 보이는 외관으로 인기를 끌고 있다.",
     "Enabled": false
   },
   "340226": {
     "OriginalText": "寒氷地局地戦を想定して作られた\nアークス用の戦闘服。柔らかくて\n暖かそうな見た目が人気を集めている。",
-    "Text": "",
+    "Text": "추운 지역의 국지전을 가정해 만든\n아크스용 전투복. 부드럽고\n따뜻해 보이는 외관으로 인기를 끌고 있다.",
     "Enabled": false
   },
   "340227": {
     "OriginalText": "格好良さと美しさを兼ね備えた\n上品な服伝。もちろん戦闘用の服であり\n動きやすさを考えて作られている。",
-    "Text": "",
+    "Text": "멋과 아름다움을 모두 갖춘\n품위 있는 복장. 물론 전투용 옷이므로\n움직이기 편하도록 만들었다.",
     "Enabled": false
   },
   "340228": {
     "OriginalText": "格好良さと美しさを兼ね備えた\n上品な服伝。もちろん戦闘用の服であり\n動きやすさを考えて作られている。",
-    "Text": "",
+    "Text": "멋과 아름다움을 모두 갖춘\n품위 있는 복장. 물론 전투용 옷이므로\n움직이기 편하도록 만들었다.",
     "Enabled": false
   },
   "340229": {
     "OriginalText": "格好良さと美しさを兼ね備えた\n上品な服伝。もちろん戦闘用の服であり\n動きやすさを考えて作られている。",
-    "Text": "",
+    "Text": "멋과 아름다움을 모두 갖춘\n품위 있는 복장. 물론 전투용 옷이므로\n움직이기 편하도록 만들었다.",
     "Enabled": false
   },
   "340230": {
     "OriginalText": "格好良さと美しさを兼ね備えた\n上品な服伝。もちろん戦闘用の服であり\n動きやすさを考えて作られている。",
-    "Text": "",
+    "Text": "멋과 아름다움을 모두 갖춘\n품위 있는 복장. 물론 전투용 옷이므로\n움직이기 편하도록 만들었다.",
     "Enabled": false
   },
   "340231": {
     "OriginalText": "局地戦闘を見越して、気密性を重視し\n作られたアークス用の戦闘服。\n全身を覆う防護服のような作り。",
-    "Text": "",
-    "Enabled": false
+    "Text": "국지전을 예상해 기밀성을 중시하여\n만든 아크스용 전투복.\n전신을 덮는 보호복 같은 구조다.",
+    "Enabled": true
   },
   "340232": {
     "OriginalText": "局地戦闘を見越して、気密性を重視し\n作られたアークス用の戦闘服。\n全身を覆う防護服のような作り。",
-    "Text": "",
-    "Enabled": false
+    "Text": "국지전을 예상해 기밀성을 중시하여\n만든 아크스용 전투복.\n전신을 덮는 보호복 같은 구조다.",
+    "Enabled": true
   },
   "340233": {
     "OriginalText": "局地戦闘を見越して、気密性を重視し\n作られたアークス用の戦闘服。\n全身を覆う防護服のような作り。",
-    "Text": "",
-    "Enabled": false
+    "Text": "국지전을 예상해 기밀성을 중시하여\n만든 아크스용 전투복.\n전신을 덮는 보호복 같은 구조다.",
+    "Enabled": true
   },
   "340234": {
     "OriginalText": "局地戦闘を見越して、気密性を重視し\n作られたアークス用の戦闘服。\n全身を覆う防護服のような作り。",
-    "Text": "",
-    "Enabled": false
+    "Text": "국지전을 예상해 기밀성을 중시하여\n만든 아크스용 전투복.\n전신을 덮는 보호복 같은 구조다.",
+    "Enabled": true
   },
   "340235": {
     "OriginalText": "通気性と機動性を何よりも重視した服。\n露出箇所が多いがその分、外気への\n感応力が高まっている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "통기성과 기동성을 무엇보다 중시한 옷.\n노출된 부분이 많지만 그만큼 외부 공기에\n대한 감응력이 높아졌다.",
+    "Enabled": true
   },
   "340236": {
     "OriginalText": "通気性と機動性を何よりも重視した服。\n露出箇所が多いがその分、外気への\n感応力が高まっている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "통기성과 기동성을 무엇보다 중시한 옷.\n노출된 부분이 많지만 그만큼 외부 공기에\n대한 감응력이 높아졌다.",
+    "Enabled": true
   },
   "340237": {
     "OriginalText": "通気性と機動性を何よりも重視した服。\n露出箇所が多いがその分、外気への\n感応力が高まっている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "통기성과 기동성을 무엇보다 중시한 옷.\n노출된 부분이 많지만 그만큼 외부 공기에\n대한 감응력이 높아졌다.",
+    "Enabled": true
   },
   "340238": {
     "OriginalText": "通気性と機動性を何よりも重視した服。\n露出箇所が多いがその分、外気への\n感応力が高まっている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "통기성과 기동성을 무엇보다 중시한 옷.\n노출된 부분이 많지만 그만큼 외부 공기에\n대한 감응력이 높아졌다.",
+    "Enabled": true
   },
   "340239": {
-    "OriginalText": "ギガンテスの素村を流用した服。\n敵を威催するチェーンソーの翼は\nそのままに、曲線美をアピール。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "ギガンテスの素材を流用した服。\n敵を威嚇するチェーンソーの翼は\nそのままに、曲線美をアピール。",
+    "Text": "기간테스 소재를 활용한 옷.\n적을 위협하는 체인소의 날개는\n그대로 두고 곡선미를 강조했다.",
+    "Enabled": true
   },
   "340240": {
-    "OriginalText": "ギガンテスの素村を流用した服。\n敵を威催するチェーンソーの翼は\nそのままに、曲線美をアピール。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "ギガンテスの素材を流用した服。\n敵を威嚇するチェーンソーの翼は\nそのままに、曲線美をアピール。",
+    "Text": "기간테스 소재를 활용한 옷.\n적을 위협하는 체인소의 날개는\n그대로 두고 곡선미를 강조했다.",
+    "Enabled": true
   },
   "340241": {
-    "OriginalText": "ギガンテスの素村を流用した服。\n敵を威催するチェーンソーの翼は\nそのままに、曲線美をアピール。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "ギガンテスの素材を流用した服。\n敵を威嚇するチェーンソーの翼は\nそのままに、曲線美をアピール。",
+    "Text": "기간테스 소재를 활용한 옷.\n적을 위협하는 체인소의 날개는\n그대로 두고 곡선미를 강조했다.",
+    "Enabled": true
   },
   "340242": {
-    "OriginalText": "ギガンテスの素村を流用した服。\n敵を威催するチェーンソーの翼は\nそのままに、曲線美をアピール。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "ギガンテスの素材を流用した服。\n敵を威嚇するチェーンソーの翼は\nそのままに、曲線美をアピール。",
+    "Text": "기간테스 소재를 활용한 옷.\n적을 위협하는 체인소의 날개는\n그대로 두고 곡선미를 강조했다.",
+    "Enabled": true
   },
   "340243": {
-    "OriginalText": "ギガンテスの素村を流用した服。\n敵を威催するチェーンソーの翼は\nそのままに、曲線美をアピール。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "ギガンテスの素材を流用した服。\n敵を威嚇するチェーンソーの翼は\nそのままに、曲線美をアピール。",
+    "Text": "기간테스 소재를 활용한 옷.\n적을 위협하는 체인소의 날개는\n그대로 두고 곡선미를 강조했다.",
+    "Enabled": true
   },
   "340244": {
-    "OriginalText": "ギガンテス素村を流用した突撃仕様服。\nバストトップを保護する狙いから\n硬い角パーツをサイドに配置した。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "ギガンテス素材を流用した突撃仕様服。\nバストトップを保護する狙いから\n硬い角パーツをサイドに配置した。",
+    "Text": "기간테스 소재를 활용한 돌격용 의상.\n가슴 끝부분을 보호하려는 목적으로\n단단한 뿔 파츠를 양옆에 배치했다.",
+    "Enabled": true
   },
   "340245": {
-    "OriginalText": "ギガンテス素村を流用した突撃仕様服。\nバストトップを保護する狙いから\n硬い角パーツをサイドに配置した。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "ギガンテス素材を流用した突撃仕様服。\nバストトップを保護する狙いから\n硬い角パーツをサイドに配置した。",
+    "Text": "기간테스 소재를 활용한 돌격용 의상.\n가슴 끝부분을 보호하려는 목적으로\n단단한 뿔 파츠를 양옆에 배치했다.",
+    "Enabled": true
   },
   "340246": {
-    "OriginalText": "ギガンテス素村を流用した突撃仕様服。\nバストトップを保護する狙いから\n硬い角パーツをサイドに配置した。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "ギガンテス素材を流用した突撃仕様服。\nバストトップを保護する狙いから\n硬い角パーツをサイドに配置した。",
+    "Text": "기간테스 소재를 활용한 돌격용 의상.\n가슴 끝부분을 보호하려는 목적으로\n단단한 뿔 파츠를 양옆에 배치했다.",
+    "Enabled": true
   },
   "340247": {
-    "OriginalText": "ギガンテス素村を流用した突撃仕様服。\nバストトップを保護する狙いから\n硬い角パーツをサイドに配置した。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "ギガンテス素材を流用した突撃仕様服。\nバストトップを保護する狙いから\n硬い角パーツをサイドに配置した。",
+    "Text": "기간테스 소재를 활용한 돌격용 의상.\n가슴 끝부분을 보호하려는 목적으로\n단단한 뿔 파츠를 양옆에 배치했다.",
+    "Enabled": true
   },
   "340248": {
-    "OriginalText": "ギガンテス素村を流用した突撃仕様服。\nバストトップを保護する狙いから\n硬い角パーツをサイドに配置した。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "ギガンテス素材を流用した突撃仕様服。\nバストトップを保護する狙いから\n硬い角パーツをサイドに配置した。",
+    "Text": "기간테스 소재를 활용한 돌격용 의상.\n가슴 끝부분을 보호하려는 목적으로\n단단한 뿔 파츠를 양옆에 배치했다.",
+    "Enabled": true
   },
   "340249": {
     "OriginalText": "ギガンテス伝甲を流用した柔軟設計の服。\nあえて素肌を半分さらすことで全体を\n軽量化し、開放的な動きを可能にした。",
-    "Text": "",
+    "Text": "기간테스 장갑을 활용해 유연하게 만든 옷.\n일부러 맨살을 절반 드러내 전체를\n가볍게 하고 자유로운 움직임을 가능케 했다.",
     "Enabled": false
   },
   "340250": {
     "OriginalText": "ギガンテス伝甲を流用した柔軟設計の服。\nあえて素肌を半分さらすことで全体を\n軽量化し、開放的な動きを可能にした。",
-    "Text": "",
+    "Text": "기간테스 장갑을 활용해 유연하게 만든 옷.\n일부러 맨살을 절반 드러내 전체를\n가볍게 하고 자유로운 움직임을 가능케 했다.",
     "Enabled": false
   },
   "340251": {
     "OriginalText": "ギガンテス伝甲を流用した柔軟設計の服。\nあえて素肌を半分さらすことで全体を\n軽量化し、開放的な動きを可能にした。",
-    "Text": "",
+    "Text": "기간테스 장갑을 활용해 유연하게 만든 옷.\n일부러 맨살을 절반 드러내 전체를\n가볍게 하고 자유로운 움직임을 가능케 했다.",
     "Enabled": false
   },
   "340252": {
     "OriginalText": "ギガンテス伝甲を流用した柔軟設計の服。\nあえて素肌を半分さらすことで全体を\n軽量化し、開放的な動きを可能にした。",
-    "Text": "",
+    "Text": "기간테스 장갑을 활용해 유연하게 만든 옷.\n일부러 맨살을 절반 드러내 전체를\n가볍게 하고 자유로운 움직임을 가능케 했다.",
     "Enabled": false
   },
   "340253": {
     "OriginalText": "ギガンテス伝甲を流用した柔軟設計の服。\nあえて素肌を半分さらすことで全体を\n軽量化し、開放的な動きを可能にした。",
-    "Text": "",
+    "Text": "기간테스 장갑을 활용해 유연하게 만든 옷.\n일부러 맨살을 절반 드러내 전체를\n가볍게 하고 자유로운 움직임을 가능케 했다.",
     "Enabled": false
   },
   "340254": {
     "OriginalText": "オルターの総力を結集した新技術により\n[ruby ほし]惑星[/ruby]ギガンテスの伝甲を組み込んだ服。\n異次元の強度と新感覚の快適性を実現。",
-    "Text": "",
+    "Text": "얼터의 총력을 모은 신기술로\n행성 기간테스의 장갑을 넣은 옷.\n차원이 다른 강도와 새로운 편안함을 실현했다.",
     "Enabled": false
   },
   "340255": {
     "OriginalText": "オルターの総力を結集した新技術により\n[ruby ほし]惑星[/ruby]ギガンテスの伝甲を組み込んだ服。\n異次元の強度と新感覚の快適性を実現。",
-    "Text": "",
+    "Text": "얼터의 총력을 모은 신기술로\n행성 기간테스의 장갑을 넣은 옷.\n차원이 다른 강도와 새로운 편안함을 실현했다.",
     "Enabled": false
   },
   "340256": {
     "OriginalText": "オルターの総力を結集した新技術により\n[ruby ほし]惑星[/ruby]ギガンテスの伝甲を組み込んだ服。\n異次元の強度と新感覚の快適性を実現。",
-    "Text": "",
+    "Text": "얼터의 총력을 모은 신기술로\n행성 기간테스의 장갑을 넣은 옷.\n차원이 다른 강도와 새로운 편안함을 실현했다.",
     "Enabled": false
   },
   "340257": {
     "OriginalText": "オルターの総力を結集した新技術により\n[ruby ほし]惑星[/ruby]ギガンテスの伝甲を組み込んだ服。\n異次元の強度と新感覚の快適性を実現。",
-    "Text": "",
+    "Text": "얼터의 총력을 모은 신기술로\n행성 기간테스의 장갑을 넣은 옷.\n차원이 다른 강도와 새로운 편안함을 실현했다.",
     "Enabled": false
   },
   "340258": {
     "OriginalText": "オルターの総力を結集した新技術により\n[ruby ほし]惑星[/ruby]ギガンテスの伝甲を組み込んだ服。\n異次元の強度と新感覚の快適性を実現。",
-    "Text": "",
+    "Text": "얼터의 총력을 모은 신기술로\n행성 기간테스의 장갑을 넣은 옷.\n차원이 다른 강도와 새로운 편안함을 실현했다.",
     "Enabled": false
   },
   "340259": {
     "OriginalText": "岩石をイメージした強化伝甲服。\n抜群の強度を誇るパーツの性能を生かし\n数を絞って総重量の軽滅を果たした。",
-    "Text": "",
+    "Text": "암석을 본뜬 강화 장갑복.\n뛰어난 강도의 파츠 성능을 활용해\n개수를 줄이고 전체 무게를 가볍게 했다.",
     "Enabled": false
   },
   "340260": {
     "OriginalText": "岩石をイメージした強化伝甲服。\n抜群の強度を誇るパーツの性能を生かし\n数を絞って総重量の軽滅を果たした。",
-    "Text": "",
+    "Text": "암석을 본뜬 강화 장갑복.\n뛰어난 강도의 파츠 성능을 활용해\n개수를 줄이고 전체 무게를 가볍게 했다.",
     "Enabled": false
   },
   "340261": {
     "OriginalText": "岩石をイメージした強化伝甲服。\n抜群の強度を誇るパーツの性能を生かし\n数を絞って総重量の軽滅を果たした。",
-    "Text": "",
+    "Text": "암석을 본뜬 강화 장갑복.\n뛰어난 강도의 파츠 성능을 활용해\n개수를 줄이고 전체 무게를 가볍게 했다.",
     "Enabled": false
   },
   "340262": {
     "OriginalText": "岩石をイメージした強化伝甲服。\n抜群の強度を誇るパーツの性能を生かし\n数を絞って総重量の軽滅を果たした。",
-    "Text": "",
+    "Text": "암석을 본뜬 강화 장갑복.\n뛰어난 강도의 파츠 성능을 활용해\n개수를 줄이고 전체 무게를 가볍게 했다.",
     "Enabled": false
   },
   "340263": {
     "OriginalText": "岩石をイメージした強化伝甲服。\n抜群の強度を誇るパーツの性能を生かし\n数を絞って総重量の軽滅を果たした。",
-    "Text": "",
+    "Text": "암석을 본뜬 강화 장갑복.\n뛰어난 강도의 파츠 성능을 활용해\n개수를 줄이고 전체 무게를 가볍게 했다.",
     "Enabled": false
   },
   "340264": {
     "OriginalText": "とある惑星の開柘者を真似た戦闘服。\n品のいいアークスでも、つい無頼倣を\n気取りたくなってしまうワイルド仕様。",
-    "Text": "",
+    "Text": "어느 행성의 개척자를 본뜬 전투복.\n품위 있는 아크스도 불한당을 자처하고\n싶어질 만큼 와일드한 매력을 담았다.",
     "Enabled": false
   },
   "340265": {
     "OriginalText": "とある惑星の開柘者を真似た戦闘服。\n品のいいアークスでも、つい無頼倣を\n気取りたくなってしまうワイルド仕様。",
-    "Text": "",
+    "Text": "어느 행성의 개척자를 본뜬 전투복.\n품위 있는 아크스도 불한당을 자처하고\n싶어질 만큼 와일드한 매력을 담았다.",
     "Enabled": false
   },
   "340266": {
     "OriginalText": "とある惑星の開柘者を真似た戦闘服。\n品のいいアークスでも、つい無頼倣を\n気取りたくなってしまうワイルド仕様。",
-    "Text": "",
+    "Text": "어느 행성의 개척자를 본뜬 전투복.\n품위 있는 아크스도 불한당을 자처하고\n싶어질 만큼 와일드한 매력을 담았다.",
     "Enabled": false
   },
   "340267": {
     "OriginalText": "とある惑星の開柘者を真似た戦闘服。\n品のいいアークスでも、つい無頼倣を\n気取りたくなってしまうワイルド仕様。",
-    "Text": "",
+    "Text": "어느 행성의 개척자를 본뜬 전투복.\n품위 있는 아크스도 불한당을 자처하고\n싶어질 만큼 와일드한 매력을 담았다.",
     "Enabled": false
   },
   "340268": {
     "OriginalText": "とある惑星の開柘者を真似た戦闘服。\n品のいいアークスでも、つい無頼倣を\n気取りたくなってしまうワイルド仕様。",
-    "Text": "",
+    "Text": "어느 행성의 개척자를 본뜬 전투복.\n품위 있는 아크스도 불한당을 자처하고\n싶어질 만큼 와일드한 매력을 담았다.",
     "Enabled": false
   },
   "340269": {
     "OriginalText": "自然を愛するアークスのための戦闘服。\n全身で花開こうとする荘のような伝いで\nい戦場において華魅に紛き誇る。",
-    "Text": "",
+    "Text": "자연을 사랑하는 아크스를 위한 전투복.\n온몸으로 피어나려는 꽃봉오리 같은 의상으로\n전장에 나서면 화려하게 만개한다.",
     "Enabled": false
   },
   "340270": {
     "OriginalText": "自然を愛するアークスのための戦闘服。\n全身で花開こうとする荘のような伝いで\nい戦場において華魅に紛き誇る。",
-    "Text": "",
+    "Text": "자연을 사랑하는 아크스를 위한 전투복.\n온몸으로 피어나려는 꽃봉오리 같은 의상으로\n전장에 나서면 화려하게 만개한다.",
     "Enabled": false
   },
   "340271": {
     "OriginalText": "自然を愛するアークスのための戦闘服。\n全身で花開こうとする荘のような伝いで\nい戦場において華魅に紛き誇る。",
-    "Text": "",
+    "Text": "자연을 사랑하는 아크스를 위한 전투복.\n온몸으로 피어나려는 꽃봉오리 같은 의상으로\n전장에 나서면 화려하게 만개한다.",
     "Enabled": false
   },
   "340272": {
     "OriginalText": "自然を愛するアークスのための戦闘服。\n全身で花開こうとする荘のような伝いで\nい戦場において華魅に紛き誇る。",
-    "Text": "",
+    "Text": "자연을 사랑하는 아크스를 위한 전투복.\n온몸으로 피어나려는 꽃봉오리 같은 의상으로\n전장에 나서면 화려하게 만개한다.",
     "Enabled": false
   },
   "340273": {
     "OriginalText": "自然を愛するアークスのための戦闘服。\n全身で花開こうとする荘のような伝いで\nい戦場において華魅に紛き誇る。",
-    "Text": "",
+    "Text": "자연을 사랑하는 아크스를 위한 전투복.\n온몸으로 피어나려는 꽃봉오리 같은 의상으로\n전장에 나서면 화려하게 만개한다.",
     "Enabled": false
   },
   "340274": {
-    "OriginalText": "原生種鳥類の素村を織り込んだ戦闘服。\n配色があまりに美しく鮮やかすぎて\n原生種と見間違われる使用者が続出。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "原生種鳥類の素材を織り込んだ戦闘服。\n配色があまりに美しく鮮やかすぎて\n原生種と見間違われる使用者が続出。",
+    "Text": "원생종 조류의 소재를 짜 넣은 전투복.\n색이 너무 아름답고 선명해\n원생종으로 오해받는 사용자가 속출한다.",
+    "Enabled": true
   },
   "340275": {
-    "OriginalText": "原生種鳥類の素村を織り込んだ戦闘服。\n配色があまりに美しく鮮やかすぎて\n原生種と見間違われる使用者が続出。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "原生種鳥類の素材を織り込んだ戦闘服。\n配色があまりに美しく鮮やかすぎて\n原生種と見間違われる使用者が続出。",
+    "Text": "원생종 조류의 소재를 짜 넣은 전투복.\n색이 너무 아름답고 선명해\n원생종으로 오해받는 사용자가 속출한다.",
+    "Enabled": true
   },
   "340276": {
-    "OriginalText": "原生種鳥類の素村を織り込んだ戦闘服。\n配色があまりに美しく鮮やかすぎて\n原生種と見間違われる使用者が続出。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "原生種鳥類の素材を織り込んだ戦闘服。\n配色があまりに美しく鮮やかすぎて\n原生種と見間違われる使用者が続出。",
+    "Text": "원생종 조류의 소재를 짜 넣은 전투복.\n색이 너무 아름답고 선명해\n원생종으로 오해받는 사용자가 속출한다.",
+    "Enabled": true
   },
   "340277": {
-    "OriginalText": "原生種鳥類の素村を織り込んだ戦闘服。\n配色があまりに美しく鮮やかすぎて\n原生種と見間違われる使用者が続出。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "原生種鳥類の素材を織り込んだ戦闘服。\n配色があまりに美しく鮮やかすぎて\n原生種と見間違われる使用者が続出。",
+    "Text": "원생종 조류의 소재를 짜 넣은 전투복.\n색이 너무 아름답고 선명해\n원생종으로 오해받는 사용자가 속출한다.",
+    "Enabled": true
   },
   "340278": {
-    "OriginalText": "原生種鳥類の素村を織り込んだ戦闘服。\n配色があまりに美しく鮮やかすぎて\n原生種と見間違われる使用者が続出。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "原生種鳥類の素材を織り込んだ戦闘服。\n配色があまりに美しく鮮やかすぎて\n原生種と見間違われる使用者が続出。",
+    "Text": "원생종 조류의 소재를 짜 넣은 전투복.\n색이 너무 아름답고 선명해\n원생종으로 오해받는 사용자가 속출한다.",
+    "Enabled": true
   },
   "340279": {
     "OriginalText": "脱いでもすごいアークスのための服。\n自分自身をプレゼントしたり、見る者を\n奮い立たせるお楽しみ着としても人気。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "벗어도 멋진 아크스를 위한 옷.\n자신을 선물하거나 보는 이의 기운을 북돋는\n즐거운 차림으로도 인기다.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
+    "Enabled": true
   },
   "340280": {
     "OriginalText": "脱いでもすごいアークスのための服。\n自分自身をプレゼントしたり、見る者を\n奮い立たせるお楽しみ着としても人気。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "벗어도 멋진 아크스를 위한 옷.\n자신을 선물하거나 보는 이의 기운을 북돋는\n즐거운 차림으로도 인기다.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
+    "Enabled": true
   },
   "340281": {
     "OriginalText": "脱いでもすごいアークスのための服。\n自分自身をプレゼントしたり、見る者を\n奮い立たせるお楽しみ着としても人気。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "벗어도 멋진 아크스를 위한 옷.\n자신을 선물하거나 보는 이의 기운을 북돋는\n즐거운 차림으로도 인기다.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
+    "Enabled": true
   },
   "340282": {
     "OriginalText": "脱いでもすごいアークスのための服。\n自分自身をプレゼントしたり、見る者を\n奮い立たせるお楽しみ着としても人気。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "벗어도 멋진 아크스를 위한 옷.\n자신을 선물하거나 보는 이의 기운을 북돋는\n즐거운 차림으로도 인기다.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
+    "Enabled": true
   },
   "340283": {
     "OriginalText": "脱いでもすごいアークスのための服。\n自分自身をプレゼントしたり、見る者を\n奮い立たせるお楽しみ着としても人気。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "벗어도 멋진 아크스를 위한 옷.\n자신을 선물하거나 보는 이의 기운을 북돋는\n즐거운 차림으로도 인기다.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
+    "Enabled": true
   },
   "340284": {
     "OriginalText": "なりきり水着シリーズのラッピー版。\nただし一般的な男性の目は、頭部よりも\n別の部分に注がれがちなのが検討課題。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "변신 수영복 시리즈의 랍피 버전.\n다만 보통 남자의 시선은 머리보다\n다른 곳에 쏠리기 쉬워 고민이다.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
+    "Enabled": true
   },
   "340285": {
     "OriginalText": "なりきり水着シリーズのラッピー版。\nただし一般的な男性の目は、頭部よりも\n別の部分に注がれがちなのが検討課題。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "변신 수영복 시리즈의 랍피 버전.\n다만 보통 남자의 시선은 머리보다\n다른 곳에 쏠리기 쉬워 고민이다.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
+    "Enabled": true
   },
   "340286": {
     "OriginalText": "なりきり水着シリーズのラッピー版。\nただし一般的な男性の目は、頭部よりも\n別の部分に注がれがちなのが検討課題。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "변신 수영복 시리즈의 랍피 버전.\n다만 보통 남자의 시선은 머리보다\n다른 곳에 쏠리기 쉬워 고민이다.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
+    "Enabled": true
   },
   "340287": {
     "OriginalText": "なりきり水着シリーズのラッピー版。\nただし一般的な男性の目は、頭部よりも\n別の部分に注がれがちなのが検討課題。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "변신 수영복 시리즈의 랍피 버전.\n다만 보통 남자의 시선은 머리보다\n다른 곳에 쏠리기 쉬워 고민이다.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
+    "Enabled": true
   },
   "340288": {
     "OriginalText": "なりきり水着シリーズのラッピー版。\nただし一般的な男性の目は、頭部よりも\n別の部分に注がれがちなのが検討課題。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "변신 수영복 시리즈의 랍피 버전.\n다만 보통 남자의 시선은 머리보다\n다른 곳에 쏠리기 쉬워 고민이다.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
+    "Enabled": true
   },
   "340289": {
     "OriginalText": "正義の味方を気取るアークススーツ。\n祟所に施されたリボンとプリーツの短い\nスカートは、夢見る少女たちの憧れ。",
-    "Text": "",
+    "Text": "정의의 사도를 자처하는 아크스 슈트.\n곳곳의 리본과 짧은 플리츠 스커트는\n꿈꾸는 소녀들의 동경 대상이다.",
     "Enabled": false
   },
   "340290": {
     "OriginalText": "正義の味方を気取るアークススーツ。\n祟所に施されたリボンとプリーツの短い\nスカートは、夢見る少女たちの憧れ。",
-    "Text": "",
+    "Text": "정의의 사도를 자처하는 아크스 슈트.\n곳곳의 리본과 짧은 플리츠 스커트는\n꿈꾸는 소녀들의 동경 대상이다.",
     "Enabled": false
   },
   "340291": {
     "OriginalText": "正義の味方を気取るアークススーツ。\n祟所に施されたリボンとプリーツの短い\nスカートは、夢見る少女たちの憧れ。",
-    "Text": "",
+    "Text": "정의의 사도를 자처하는 아크스 슈트.\n곳곳의 리본과 짧은 플리츠 스커트는\n꿈꾸는 소녀들의 동경 대상이다.",
     "Enabled": false
   },
   "340292": {
     "OriginalText": "正義の味方を気取るアークススーツ。\n祟所に施されたリボンとプリーツの短い\nスカートは、夢見る少女たちの憧れ。",
-    "Text": "",
+    "Text": "정의의 사도를 자처하는 아크스 슈트.\n곳곳의 리본과 짧은 플리츠 스커트는\n꿈꾸는 소녀들의 동경 대상이다.",
     "Enabled": false
   },
   "340293": {
     "OriginalText": "正義の味方を気取るアークススーツ。\n祟所に施されたリボンとプリーツの短い\nスカートは、夢見る少女たちの憧れ。",
-    "Text": "",
+    "Text": "정의의 사도를 자처하는 아크스 슈트.\n곳곳의 리본과 짧은 플리츠 스커트는\n꿈꾸는 소녀들의 동경 대상이다.",
     "Enabled": false
   },
   "340294": {
     "OriginalText": "女の子らしさを冷めたアークススーツ。\n戦場に舞う可憐な蝶を思わせるその姿に\n見る者は思わず守ってあげたくなる。",
-    "Text": "",
+    "Text": "소녀다움을 극대화한 아크스 슈트.\n전장에 춤추는 가련한 나비 같은 모습에\n보는 이는 절로 지켜주고 싶어진다.",
     "Enabled": false
   },
   "340295": {
     "OriginalText": "女の子らしさを冷めたアークススーツ。\n戦場に舞う可憐な蝶を思わせるその姿に\n見る者は思わず守ってあげたくなる。",
-    "Text": "",
+    "Text": "소녀다움을 극대화한 아크스 슈트.\n전장에 춤추는 가련한 나비 같은 모습에\n보는 이는 절로 지켜주고 싶어진다.",
     "Enabled": false
   },
   "340296": {
     "OriginalText": "女の子らしさを冷めたアークススーツ。\n戦場に舞う可憐な蝶を思わせるその姿に\n見る者は思わず守ってあげたくなる。",
-    "Text": "",
+    "Text": "소녀다움을 극대화한 아크스 슈트.\n전장에 춤추는 가련한 나비 같은 모습에\n보는 이는 절로 지켜주고 싶어진다.",
     "Enabled": false
   },
   "340297": {
     "OriginalText": "女の子らしさを冷めたアークススーツ。\n戦場に舞う可憐な蝶を思わせるその姿に\n見る者は思わず守ってあげたくなる。",
-    "Text": "",
+    "Text": "소녀다움을 극대화한 아크스 슈트.\n전장에 춤추는 가련한 나비 같은 모습에\n보는 이는 절로 지켜주고 싶어진다.",
     "Enabled": false
   },
   "340298": {
     "OriginalText": "女の子らしさを冷めたアークススーツ。\n戦場に舞う可憐な蝶を思わせるその姿に\n見る者は思わず守ってあげたくなる。",
-    "Text": "",
+    "Text": "소녀다움을 극대화한 아크스 슈트.\n전장에 춤추는 가련한 나비 같은 모습에\n보는 이는 절로 지켜주고 싶어진다.",
     "Enabled": false
   },
   "340299": {
     "OriginalText": "忙しさを体現したコンセプト服。\n入浴中でも任務とあらば着の身着のまま\n駆けつけるのがアークスの漢！\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "바쁜 일상을 표현한 콘셉트 의상.\n목욕 중이라도 임무라면 그 차림 그대로\n달려가는 것이 아크스의 사나이다!\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
+    "Enabled": true
   },
   "340300": {
     "OriginalText": "とある世界の超人的な人種が着用する\n戦闘服。まばゆく神々しいその姿は\n龍説であり、見る者に言葉を失わせる。",
-    "Text": "",
+    "Text": "어느 세계의 초인적인 종족이 입는\n전투복. 눈부시고 성스러운 모습은\n전설로 전해지며 보는 이를 말문 막히게 한다.",
     "Enabled": false
   },
   "340301": {
     "OriginalText": "リエラ服の解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "리에라 의상의 설명문",
+    "Enabled": true
   },
   "340302": {
     "OriginalText": "イムカ服の解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "이무카 의상의 설명문",
+    "Enabled": true
   },
   "340303": {
     "OriginalText": "セイルの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "세일의 설명문",
+    "Enabled": true
   },
   "340304": {
     "OriginalText": "セイル：リペアの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "세일 (수리)의 설명문",
+    "Enabled": true
   },
   "340305": {
     "OriginalText": "レイヴァンの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "레이반의 설명문",
+    "Enabled": true
   },
   "340306": {
     "OriginalText": "レイヴァン：リペアの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "레이반 (수리)의 설명문",
+    "Enabled": true
   },
   "340307": {
     "OriginalText": "カリストの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼리스토의 설명문",
+    "Enabled": true
   },
   "340308": {
     "OriginalText": "ヨミの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "요미의 설명문",
+    "Enabled": true
   },
   "340309": {
     "OriginalText": "オルクスの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "오르쿠스의 설명문",
+    "Enabled": true
   },
   "340310": {
     "OriginalText": "マグナスの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "마그너스의 설명문",
+    "Enabled": true
   },
   "340311": {
     "OriginalText": "ルティナの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "루티나의 설명문",
+    "Enabled": true
   },
   "340312": {
     "OriginalText": "ルティナ：リペアの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "루티나 (수리)의 설명문",
+    "Enabled": true
   },
   "340313": {
     "OriginalText": "イズナの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "이즈나의 설명문",
+    "Enabled": true
   },
   "340314": {
     "OriginalText": "イズナ：リペアの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "이즈나 (수리)의 설명문",
+    "Enabled": true
   },
   "340315": {
     "OriginalText": "ユノの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "유노의 설명문",
+    "Enabled": true
   },
   "340316": {
     "OriginalText": "ユノ：ホログラムの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "유노: 홀로그램의 설명문",
+    "Enabled": true
   },
   "340317": {
     "OriginalText": "ユノ：グランリンク状態の解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "유노: 그란 링크 상태의 설명문",
+    "Enabled": true
   },
   "340318": {
     "OriginalText": "フィルディアの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "필디아의 설명문",
+    "Enabled": true
   },
   "340319": {
     "OriginalText": "フィルディア：リペアの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "필디아 (수리)의 설명문",
+    "Enabled": true
   },
   "340320": {
     "OriginalText": "キサラの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "키사라의 설명문",
+    "Enabled": true
   },
   "340321": {
     "OriginalText": "キサラ：リペアの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "키사라 (수리)의 설명문",
+    "Enabled": true
   },
   "340322": {
     "OriginalText": "リーティアの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "리티아의 설명문",
+    "Enabled": true
   },
   "340323": {
     "OriginalText": "リーティア：リペアの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "리티아 (수리)의 설명문",
+    "Enabled": true
   },
   "340324": {
     "OriginalText": "軽量化を追求した戦闘用の服伝。\n露出が多く所々破れているように\n見えるが、実際に破れている。",
-    "Text": "",
+    "Text": "경량화를 추구한 전투용 복장.\n노출이 많고 곳곳이 찢어진 것처럼\n보이는데 실제로 찢어져 있다.",
     "Enabled": false
   },
   "340325": {
     "OriginalText": "軽量化を追求した戦闘用の服伝。\n露出が多く所々破れているように\n見えるが、実際に破れている。",
-    "Text": "",
+    "Text": "경량화를 추구한 전투용 복장.\n노출이 많고 곳곳이 찢어진 것처럼\n보이는데 실제로 찢어져 있다.",
     "Enabled": false
   },
   "340326": {
     "OriginalText": "軽量化を追求した戦闘用の服伝。\n露出が多く所々破れているように\n見えるが、実際に破れている。",
-    "Text": "",
+    "Text": "경량화를 추구한 전투용 복장.\n노출이 많고 곳곳이 찢어진 것처럼\n보이는데 실제로 찢어져 있다.",
     "Enabled": false
   },
   "340327": {
     "OriginalText": "軽量化を追求した戦闘用の服伝。\n露出が多く所々破れているように\n見えるが、実際に破れている。",
-    "Text": "",
+    "Text": "경량화를 추구한 전투용 복장.\n노출이 많고 곳곳이 찢어진 것처럼\n보이는데 실제로 찢어져 있다.",
     "Enabled": false
   },
   "340328": {
     "OriginalText": "外気への感応に重点を置いた戦闘服。\nテクニック行使者の要望を既たした\n仕様で、破損していても人気が高い。",
-    "Text": "",
+    "Text": "외부 공기에 대한 감응을 중시한 전투복.\n테크닉 사용자의 요구를 충족한\n설계로 파손된 상태여도 인기가 높다.",
     "Enabled": false
   },
   "340329": {
     "OriginalText": "外気への感応に重点を置いた戦闘服。\nテクニック行使者の要望を既たした\n仕様で、破損していても人気が高い。",
-    "Text": "",
+    "Text": "외부 공기에 대한 감응을 중시한 전투복.\n테크닉 사용자의 요구를 충족한\n설계로 파손된 상태여도 인기가 높다.",
     "Enabled": false
   },
   "340330": {
     "OriginalText": "外気への感応に重点を置いた戦闘服。\nテクニック行使者の要望を既たした\n仕様で、破損していても人気が高い。",
-    "Text": "",
+    "Text": "외부 공기에 대한 감응을 중시한 전투복.\n테크닉 사용자의 요구를 충족한\n설계로 파손된 상태여도 인기가 높다.",
     "Enabled": false
   },
   "340331": {
     "OriginalText": "外気への感応に重点を置いた戦闘服。\nテクニック行使者の要望を既たした\n仕様で、破損していても人気が高い。",
-    "Text": "",
+    "Text": "외부 공기에 대한 감응을 중시한 전투복.\n테크닉 사용자의 요구를 충족한\n설계로 파손된 상태여도 인기가 높다.",
     "Enabled": false
   },
   "340332": {
     "OriginalText": "格好良さと美しさを兼ね備え、\n動きやすさを考えて作られた戦闘服。\n上品な伝いながら破損が目立つ。",
-    "Text": "",
+    "Text": "멋과 아름다움을 모두 갖추고\n움직이기 편하게 만든 전투복.\n품위 있는 의상이지만 파손이 눈에 띈다.",
     "Enabled": false
   },
   "340333": {
     "OriginalText": "格好良さと美しさを兼ね備え、\n動きやすさを考えて作られた戦闘服。\n上品な伝いながら破損が目立つ。",
-    "Text": "",
+    "Text": "멋과 아름다움을 모두 갖추고\n움직이기 편하게 만든 전투복.\n품위 있는 의상이지만 파손이 눈에 띈다.",
     "Enabled": false
   },
   "340334": {
     "OriginalText": "格好良さと美しさを兼ね備え、\n動きやすさを考えて作られた戦闘服。\n上品な伝いながら破損が目立つ。",
-    "Text": "",
+    "Text": "멋과 아름다움을 모두 갖추고\n움직이기 편하게 만든 전투복.\n품위 있는 의상이지만 파손이 눈에 띈다.",
     "Enabled": false
   },
   "340335": {
     "OriginalText": "格好良さと美しさを兼ね備え、\n動きやすさを考えて作られた戦闘服。\n上品な伝いながら破損が目立つ。",
-    "Text": "",
+    "Text": "멋과 아름다움을 모두 갖추고\n움직이기 편하게 만든 전투복.\n품위 있는 의상이지만 파손이 눈에 띈다.",
     "Enabled": false
   },
   "340336": {
     "OriginalText": "男性キャスト向けの腕部パーツ。\nその機動性と、シャープなフォルムが\nハンタークラスに人気の理由。",
-    "Text": "Arm parts for male Casts. Popular\nwith Hunters for their ease of\nmobility and their sharp appearance.",
+    "Text": "남성 캐스트용 팔 파츠.\n기동성과 날렵한 형태가\n헌터 클래스에게 인기 있는 이유다.",
     "Enabled": true
   },
   "340337": {
     "OriginalText": "男性キャスト向けの腕部パーツ。\n安定性の高い箱形のフォルムがベースで\n主にレンジャークラスが愛用している。",
-    "Text": "Arm parts for male Casts.\nA stable, boxy design mainly favored\nby Rangers.",
+    "Text": "남성 캐스트용 팔 파츠.\n안정성이 높은 상자형 형태를 기반으로\n주로 레인저 클래스가 애용하고 있다.",
     "Enabled": true
   },
   "340338": {
     "OriginalText": "男性キャスト向けの腕部パーツ。\nゆったりとした霜のようなフォルムは\n外気への順応性を高めるという。",
-    "Text": "",
+    "Text": "남성 캐스트용 팔 파츠.\n헐렁한 천 같은 형태는\n외부 공기에 대한 적응성을 높인다고 한다.",
     "Enabled": false
   },
   "340339": {
     "OriginalText": "男性キャスト向けの腕部パーツ。\n空気抵抗を抑えた、突撃毛向の形が\n前線で戦うアークス達に好評。",
-    "Text": "",
+    "Text": "남성 캐스트용 팔 파츠.\n공기 저항을 줄인 돌격 지향의 형태가\n전선에서 싸우는 아크스에게 호평받는다.",
     "Enabled": false
   },
   "340340": {
     "OriginalText": "男性キャスト向けの腕部パーツ。\n重厚かつ巨大なそのフォルムは\n居るだけで相手に威圧感を与える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 팔 파츠.\n중후하고 거대한 형태는\n그 자리에 있기만 해도 상대를 압도한다.",
+    "Enabled": true
   },
   "340341": {
     "OriginalText": "男性キャスト向けの腕部パーツ。\n平面的な部分を意識的に多くする事で\n大気中の組成分子へ干渉しやすくした。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 팔 파츠.\n평평한 부분을 의도적으로 많이 만들어\n대기를 이루는 분자에 간섭하기 쉽게 했다.",
+    "Enabled": true
   },
   "340342": {
     "OriginalText": "男性キャスト向けの腕部パーツ。\n示威目的のシルエットを考慮しつつ\n射撃時等の動きを阻害しないよう設計。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 팔 파츠.\n위압적인 실루엣을 고려하면서도\n사격 등의 움직임을 방해하지 않게 설계했다.",
+    "Enabled": true
   },
   "340343": {
     "OriginalText": "男性キャスト向けの腕部パーツ。\n存在を主張する流線形のデザインは\n戦闘だけでなく平時であっても華美。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 팔 파츠.\n존재감을 드러내는 유선형 디자인은\n전투 때뿐 아니라 평소에도 화려하다.",
+    "Enabled": true
   },
   "340344": {
     "OriginalText": "男性キャスト向けの腕部パーツ。\n流線的な部分と鋭角的な部分が共存し\n独特の威圧感を湿し出している。",
-    "Text": "",
+    "Text": "남성 캐스트용 팔 파츠.\n유선형 부분과 날카로운 모서리가 어우러져\n독특한 위압감을 자아낸다.",
     "Enabled": false
   },
   "340345": {
-    "OriginalText": "男性キャスト向けの腕部パーツ。\n軽く、消音性に優れた素村を使用し\n局地戦などで重宝される隠密性を得た。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "男性キャスト向けの腕部パーツ。\n軽く、消音性に優れた素材を使用し\n局地戦などで重宝される隠密性を得た。",
+    "Text": "남성 캐스트용 팔 파츠.\n가볍고 소음을 줄이는 소재를 사용해\n국지전 등에서 유용한 은밀성을 얻었다.",
+    "Enabled": true
   },
   "340346": {
     "OriginalText": "男性キャスト向けの腕部パーツ。\n鋭く研ぎ澄まされたフォルムは\n氷たさと共に促厳さを感じさせる。",
-    "Text": "",
+    "Text": "남성 캐스트용 팔 파츠.\n날카롭게 다듬은 형태는\n차가우면서도 장엄한 느낌을 준다.",
     "Enabled": false
   },
   "340347": {
     "OriginalText": "男性キャスト向けの腕部パーツ。\nすらっとしたシャープなフォルムだが\n不思議と静かな威圧感をも併せ持つ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 팔 파츠.\n길고 날렵한 형태지만\n묘하게 조용한 위압감도 갖추고 있다.",
+    "Enabled": true
   },
   "340348": {
     "OriginalText": "男性キャスト向けの腕部パーツ。\n儀式的な伝飾を施されており\nあらゆる環境下において感受性が高い。",
-    "Text": "",
+    "Text": "남성 캐스트용 팔 파츠.\n의식용 장식을 더해\n온갖 환경에서 높은 감수성을 발휘한다.",
     "Enabled": false
   },
   "340349": {
-    "OriginalText": "男性キャスト向けの腕部パーツ。\n折れにくいギガンテスの素村を流用し\n見る者を圧倒するシルエットを実現。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "男性キャスト向けの腕部パーツ。\n折れにくいギガンテスの素材を流用し\n見る者を圧倒するシルエットを実現。",
+    "Text": "남성 캐스트용 팔 파츠.\n쉽게 부러지지 않는 기간테스 소재를 활용해\n보는 이를 압도하는 실루엣을 실현했다.",
+    "Enabled": true
   },
   "340350": {
-    "OriginalText": "男性キャスト向けの腕部パーツ。\n当たりが強いギガンテスの素村を流用し\n機動力を要する戦闘シーンで役立つ。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "男性キャスト向けの腕部パーツ。\n当たりが強いギガンテスの素材を流用し\n機動力を要する戦闘シーンで役立つ。",
+    "Text": "남성 캐스트용 팔 파츠.\n충격이 강한 기간테스 소재를 활용해\n기동력이 필요한 전투에서 유용하다.",
+    "Enabled": true
   },
   "340351": {
     "OriginalText": "男性キャスト向けの腕部パーツ。\nマキア原生種の超重量伝甲を流用し、\n銅壁を思わせる頑強さ実現。",
-    "Text": "",
+    "Text": "남성 캐스트용 팔 파츠.\n마키아 원생종의 초중량 장갑을 활용해\n철벽을 연상시키는 견고함을 실현했다.",
     "Enabled": false
   },
   "340352": {
     "OriginalText": "男性キャスト向けの腕部パーツ。\n天然鉱をあしらった派手なデザインを\n採用しつつ、硬度と熱放射に優れる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 팔 파츠.\n천연 광석을 더한 화려한 디자인으로\n경도와 열 방출 성능도 뛰어나다.",
+    "Enabled": true
   },
   "340353": {
     "OriginalText": "男性キャスト向けの腕部パーツ。\n[ruby ほし]惑星[/ruby]ギガンテスの重厚長大な伝甲を流用し\n惑星の主を思わせるシルエットを再現。",
-    "Text": "",
+    "Text": "남성 캐스트용 팔 파츠.\n행성 기간테스의 육중한 대형 장갑을 활용해\n행성의 주인을 연상시키는 실루엣을 재현했다.",
     "Enabled": false
   },
   "340354": {
     "OriginalText": "男性キャスト向けの腕部パーツ。\n一部に破損があるが致命的欠陥はなく\n充分に動作が可能となっている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 팔 파츠.\n일부가 파손됐지만 치명적인 결함은 없어\n충분히 움직일 수 있다.",
+    "Enabled": true
   },
   "340355": {
     "OriginalText": "男性キャスト向けの腕部パーツ。\n流線的な部分と鋭角的な部分が共存し\n独特の威圧感ながら破損箇所がある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 팔 파츠.\n유선형 부분과 날카로운 모서리가 어우러져\n독특한 위압감을 주지만 파손된 곳도 있다.",
+    "Enabled": true
   },
   "340356": {
     "OriginalText": "男性キャスト向けの腕部パーツ。\n重厚かつ巨大で威圧感を与えるフォルム\nだが、一部が破損している。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 팔 파츠.\n중후하고 거대해 위압감을 주는 형태지만\n일부가 파손되어 있다.",
+    "Enabled": true
   },
   "340357": {
     "OriginalText": "男性キャスト向けの腕部パーツ。\n存在を主張する流線形のデザインが\n華美ではあるが、一部破損している。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 팔 파츠.\n존재감을 드러내는 유선형 디자인이\n화려하지만 일부가 파손되어 있다.",
+    "Enabled": true
   },
   "340358": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\n機動力と軽量化に突出したモデルであり\nハンタークラスの愛用者が多い。",
-    "Text": "Arm parts for female Casts. A very\nlightweight, mobile model, which has\nmany followers among Hunters.",
+    "Text": "여성 캐스트용 팔 파츠.\n기동력과 경량화가 뛰어난 모델로\n헌터 클래스의 애용자가 많다.",
     "Enabled": true
   },
   "340359": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\n安定性が重視され、主にレンジャーが\n愛用するモデルで見た目の人気も高い。",
-    "Text": "Arm parts for female Casts. With a\nfocus on stability, they are popular\namong Rangers for their appearance.",
+    "Text": "여성 캐스트용 팔 파츠.\n안정성을 중시해 주로 레인저가 애용하며\n외관도 인기가 높은 모델이다.",
     "Enabled": true
   },
   "340360": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\nあらゆる環境下で感応性を高める\nデザインで、フォースに人気が高い。",
-    "Text": "Arm parts for female Casts. A\npopular design among Forces for its\nsensitivity to atmospheric Photons.",
+    "Text": "여성 캐스트용 팔 파츠.\n온갖 환경에서 감응성을 높이는\n디자인으로 포스에게 인기가 높다.",
     "Enabled": true
   },
   "340361": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\nバランスの良いデザインをしており\n愛用者も多く、安定した人気を誇る。",
-    "Text": "Arm parts for female Casts. These\npopular parts have a well-balanced\ndesign, with a ever growing fanbase.",
+    "Text": "여성 캐스트용 팔 파츠.\n균형 잡힌 디자인으로\n애용자가 많고 꾸준한 인기를 자랑한다.",
     "Enabled": true
   },
   "340362": {
-    "OriginalText": "女性キャスト向けの腕部パーツ。\n大火力に押し負けぬよう、伝甲を厚く\n重量を重くした火力戦用伝備。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "女性キャスト向けの腕部パーツ。\n大火力に押し負けぬよう、装甲を厚く\n重量を重くした火力戦用装備。",
+    "Text": "여성 캐스트용 팔 파츠.\n강한 화력에 밀리지 않도록 장갑을 두껍게\n하고 무게를 늘린 화력전용 장비다.",
+    "Enabled": true
   },
   "340363": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\n外気との接触部分が大きく確保され\n状況を敏感に察知することが可能。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여성 캐스트용 팔 파츠.\n외부 공기와 닿는 부분을 넓게 확보해\n상황을 민감하게 감지할 수 있다.",
+    "Enabled": true
   },
   "340364": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\n球状の機構は、必要に応じて周囲の\n環境記録を取得することもできる。",
-    "Text": "Arm parts for female Casts. The\nround plates are able to acquire\nenvironmental data as needed.",
+    "Text": "여성 캐스트용 팔 파츠.\n구형 기구는 필요에 따라 주변의\n환경 기록을 수집할 수도 있다.",
     "Enabled": true
   },
   "340365": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\n軽量化を重視し、空気抵抗の低滅化など\n蕾人好みのカスタマイズが入っている。",
-    "Text": "",
+    "Text": "여성 캐스트용 팔 파츠.\n경량화를 중시하고 공기 저항을 줄이는 등\n전문가 취향의 커스터마이즈를 적용했다.",
     "Enabled": false
   },
   "340366": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\n威圧を目的とした玄々しい伝飾と\nそれに見合うだけの性能を持つ。",
-    "Text": "",
+    "Text": "여성 캐스트용 팔 파츠.\n위압감을 주기 위한 과장된 장식과\n그에 걸맞은 성능을 갖췄다.",
     "Enabled": false
   },
   "340367": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\n可愛らしい動洋を物したかのような\nフォルムで、人気が高い。",
-    "Text": "",
+    "Text": "여성 캐스트용 팔 파츠.\n귀여운 동물을 본뜬 듯한\n형태로 인기가 높다.",
     "Enabled": false
   },
   "340368": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\n流魅な形が特微で、触れたもの全てを\n切り裂くような氷たさをも併せ持つ。",
-    "Text": "",
+    "Text": "여성 캐스트용 팔 파츠.\n유려한 형태가 특징으로, 닿는 것은 모두\n갈라버릴 듯한 차가움도 갖추고 있다.",
     "Enabled": false
   },
   "340369": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\n儀礼的な部分を重要視し、環境要因との\n相互作用を意識して作られた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여성 캐스트용 팔 파츠.\n의례적인 부분을 중시해 환경 요인과의\n상호 작용을 고려하여 만들었다.",
+    "Enabled": true
   },
   "340370": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\n仰典用ともとれる伝飾が特微で\n生体部分の露出が多く、跡惑的。",
-    "Text": "",
+    "Text": "여성 캐스트용 팔 파츠.\n축제용으로도 보이는 장식이 특징이며\n생체 부분의 노출이 많아 매혹적이다.",
     "Enabled": false
   },
   "340371": {
-    "OriginalText": "女性キャスト向けの腕部パーツ。\n折れにくいギガンテスの素村を流用し\n近づきがたい雰囲気を湿し出す。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "女性キャスト向けの腕部パーツ。\n折れにくいギガンテスの素材を流用し\n近づきがたい雰囲気を醸し出す。",
+    "Text": "여성 캐스트용 팔 파츠.\n쉽게 부러지지 않는 기간테스 소재를 활용해\n다가가기 어려운 분위기를 자아낸다.",
+    "Enabled": true
   },
   "340372": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\nギガンテスのチェーンソーの翼を流用し\n触れる者を傷つける危険なシルエット。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여성 캐스트용 팔 파츠.\n기간테스의 체인소 날개를 활용해\n만지는 이를 다치게 하는 위험한 실루엣.",
+    "Enabled": true
   },
   "340373": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\n多重構造のギガンテス伝甲を流用し\n厚みのある防御態勢を実現。",
-    "Text": "",
+    "Text": "여성 캐스트용 팔 파츠.\n다중 구조의 기간테스 장갑을 활용해\n두터운 방어 태세를 실현했다.",
     "Enabled": false
   },
   "340374": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\n愛くるしいシルエットにラビーソの\nチェーンソーを隠し持つ危険なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여성 캐스트용 팔 파츠.\n사랑스러운 실루엣에 라비소의\n체인소를 숨겨둔 위험한 모델.",
+    "Enabled": true
   },
   "340375": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\n天然鉱をあしらった鮮やかなデザインに\n機動性と重厚さを兼ね備えたモデル。",
-    "Text": "Arm parts for female Casts. A\nbeautiful design adorned with natural\nore, combining weight and mobility.",
+    "Text": "여성 캐스트용 팔 파츠.\n천연 광석을 더한 선명한 디자인에\n기동성과 중후함을 겸비한 모델.",
     "Enabled": true
   },
   "340376": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\n[ruby ほし]惑星[/ruby]ギガンテスの重厚長大な伝甲を最大限\nデフォルメし、愛らしさを引き出した。",
-    "Text": "",
+    "Text": "여성 캐스트용 팔 파츠.\n행성 기간테스의 육중한 대형 장갑을 최대한\n변형하여 사랑스러움을 이끌어냈다.",
     "Enabled": false
   },
   "340377": {
     "OriginalText": "ヒュペリオン・アームの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "히페리온 암의 설명문",
+    "Enabled": true
   },
   "340378": {
     "OriginalText": "シャロン・アームの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "샤론 암의 설명문",
+    "Enabled": true
   },
   "340379": {
     "OriginalText": "シャロン：リペア・アームの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "샤론 암 (수리)의 설명문",
+    "Enabled": true
   },
   "340380": {
-    "OriginalText": "女性キャスト向けの腕部パーツ。\n伝甲を厚く重量を増した火力戦用伝備で\n破損によりかえって貴禄が出ている。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "女性キャスト向けの腕部パーツ。\n装甲を厚く重量を増した火力戦用装備で\n破損によりかえって貫禄が出ている。",
+    "Text": "여성 캐스트용 팔 파츠.\n장갑을 두껍게 하고 무게를 늘린 화력전 장비.\n파손으로 오히려 관록이 생겼다.",
+    "Enabled": true
   },
   "340381": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\n重要な儀礼的伝飾は、構造が繊細で\n一部がすでに破損している。",
-    "Text": "",
+    "Text": "여성 캐스트용 팔 파츠.\n중요한 의례용 장식은 구조가 섬세해\n일부가 이미 파손되어 있다.",
     "Enabled": false
   },
   "340382": {
     "OriginalText": "女性キャスト向けの腕部パーツ。\n外気との接触部分が大きく確保された\n構造だが、一部が破損している。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여성 캐스트용 팔 파츠.\n외부 공기와 닿는 부분을 넓게 확보한\n구조지만 일부가 파손되어 있다.",
+    "Enabled": true
   },
   "340383": {
     "OriginalText": "男性キャスト向けの基礎的なパーツ。\nその機動性と、シャープなフォルムが\nハンタークラスに人気の理由。",
-    "Text": "Core parts for male Casts. Popular\nwith Hunters for their ease of\nmobility and their sharp appearance.",
+    "Text": "남성 캐스트용 기본 파츠.\n기동성과 날렵한 형태가\n헌터 클래스에게 인기 있는 이유다.",
     "Enabled": true
   },
   "340384": {
     "OriginalText": "男性キャスト向けの基礎的なパーツ。\n安定性の高い箱形のフォルムがベースで\n主にレンジャークラスが愛用している。",
-    "Text": "Core parts for male Casts.\nA stable, boxy design mainly favored\nby Rangers.",
+    "Text": "남성 캐스트용 기본 파츠.\n안정성이 높은 상자형 형태를 기반으로\n주로 레인저 클래스가 애용하고 있다.",
     "Enabled": true
   },
   "340385": {
     "OriginalText": "男性キャスト向けの基礎的なパーツ。\nゆったりとした霜のようなフォルムは\n外気への順応性を高めるという。",
-    "Text": "",
+    "Text": "남성 캐스트용 기본 파츠.\n헐렁한 천 같은 형태는\n외부 공기에 대한 적응성을 높인다고 한다.",
     "Enabled": false
   },
   "340386": {
     "OriginalText": "男性キャスト向けの基礎的なパーツ。\n空気抵抗を抑えた、突撃毛向の形が\n前線で戦うアークス達に好評。",
-    "Text": "",
+    "Text": "남성 캐스트용 기본 파츠.\n공기 저항을 줄인 돌격 지향의 형태가\n전선에서 싸우는 아크스에게 호평받는다.",
     "Enabled": false
   },
   "340387": {
     "OriginalText": "男性キャスト向けの基礎的なパーツ。\n重厚かつ巨大なそのフォルムは\n居るだけで相手に威圧感を与える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 기본 파츠.\n중후하고 거대한 형태는\n그 자리에 있기만 해도 상대를 압도한다.",
+    "Enabled": true
   },
   "340388": {
     "OriginalText": "男性キャスト向けの基礎的なパーツ。\n平面的な部分を意識的に多くする事で\n大気中の組成分子へ干渉しやすくした。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 기본 파츠.\n평평한 부분을 의도적으로 많이 만들어\n대기를 이루는 분자에 간섭하기 쉽게 했다.",
+    "Enabled": true
   },
   "340389": {
     "OriginalText": "男性キャスト向けの基礎的なパーツ。\n示威目的のシルエットを考慮しつつ\n射撃時等の動きを阻害しないよう設計。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 기본 파츠.\n위압적인 실루엣을 고려하면서도\n사격 등의 움직임을 방해하지 않게 설계했다.",
+    "Enabled": true
   },
   "340390": {
     "OriginalText": "男性キャスト向けの基礎的なパーツ。\n存在を主張する流線形のデザインは\n戦闘だけでなく平時であっても華美。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 기본 파츠.\n존재감을 드러내는 유선형 디자인은\n전투 때뿐 아니라 평소에도 화려하다.",
+    "Enabled": true
   },
   "340391": {
     "OriginalText": "男性キャスト向けの基礎的なパーツ。\n流線的な部分と鋭角的な部分が共存し\n独特の威圧感を湿し出している。",
-    "Text": "",
+    "Text": "남성 캐스트용 기본 파츠.\n유선형 부분과 날카로운 모서리가 어우러져\n독특한 위압감을 자아낸다.",
     "Enabled": false
   },
   "340392": {
-    "OriginalText": "男性キャスト向けの基礎的なパーツ。\n軽く、消音性に優れた素村を使用し\n局地戦などで重宝される隠密性を得た。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "男性キャスト向けの基礎的なパーツ。\n軽く、消音性に優れた素材を使用し\n局地戦などで重宝される隠密性を得た。",
+    "Text": "남성 캐스트용 기본 파츠.\n가볍고 소음을 줄이는 소재를 사용해\n국지전 등에서 유용한 은밀성을 얻었다.",
+    "Enabled": true
   },
   "340393": {
     "OriginalText": "男性キャスト向けの基礎的なパーツ。\n鋭く研ぎ澄まされたフォルムは\n氷たさと共に促厳さを感じさせる。",
-    "Text": "",
+    "Text": "남성 캐스트용 기본 파츠.\n날카롭게 다듬은 형태는\n차가우면서도 장엄한 느낌을 준다.",
     "Enabled": false
   },
   "340394": {
     "OriginalText": "男性キャスト向けの基礎的なパーツ。\nすらっとしたシャープなフォルムだが\n不思議と静かな威圧感をも併せ持つ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 기본 파츠.\n길고 날렵한 형태지만\n묘하게 조용한 위압감도 갖추고 있다.",
+    "Enabled": true
   },
   "340395": {
     "OriginalText": "男性キャスト向けの基礎的なパーツ。\n儀式的な伝飾を施されており\nあらゆる環境下において感受性が高い。",
-    "Text": "",
+    "Text": "남성 캐스트용 기본 파츠.\n의식용 장식을 더해\n온갖 환경에서 높은 감수성을 발휘한다.",
     "Enabled": false
   },
   "340396": {
-    "OriginalText": "男性キャスト向けの基礎的なパーツ。\n折れにくいギガンテスの素村を流用し\n見る者を圧倒するシルエットを実現。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "男性キャスト向けの基礎的なパーツ。\n折れにくいギガンテスの素材を流用し\n見る者を圧倒するシルエットを実現。",
+    "Text": "남성 캐스트용 기본 파츠.\n쉽게 부러지지 않는 기간테스 소재를 활용해\n보는 이를 압도하는 실루엣을 실현했다.",
+    "Enabled": true
   },
   "340397": {
-    "OriginalText": "男性キャスト向けの基礎的なパーツ。\n当たりが強いギガンテスの素村を流用し\n機動力を要する戦闘シーンで役立つ。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "男性キャスト向けの基礎的なパーツ。\n当たりが強いギガンテスの素材を流用し\n機動力を要する戦闘シーンで役立つ。",
+    "Text": "남성 캐스트용 기본 파츠.\n충격이 강한 기간테스 소재를 활용해\n기동력이 필요한 전투에서 유용하다.",
+    "Enabled": true
   },
   "340398": {
     "OriginalText": "男性キャスト向けの基礎的なパーツ。\nマキア原生種の超重量伝甲を流用し、\n銅壁を思わせる頑強さ実現。",
-    "Text": "",
+    "Text": "남성 캐스트용 기본 파츠.\n마키아 원생종의 초중량 장갑을 활용해\n철벽을 연상시키는 견고함을 실현했다.",
     "Enabled": false
   },
   "340399": {
     "OriginalText": "男性キャスト向けの基礎的なパーツ。\n天然鉱をあしらった派手なデザインを\n採用しつつ、硬度と熱放射に優れる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 기본 파츠.\n천연 광석을 더한 화려한 디자인으로\n경도와 열 방출 성능도 뛰어나다.",
+    "Enabled": true
   },
   "340400": {
     "OriginalText": "男性キャスト向けの基礎的なパーツ。\n[ruby ほし]惑星[/ruby]ギガンテスの重厚長大な伝甲を流用し\n惑星の主を思わせるシルエットを再現。",
-    "Text": "",
+    "Text": "남성 캐스트용 기본 파츠.\n행성 기간테스의 육중한 대형 장갑을 활용해\n행성의 주인을 연상시키는 실루엣을 재현했다.",
     "Enabled": false
   },
   "340401": {
     "OriginalText": "男性キャスト向けの基礎的なパーツ。\n一部に破損があるが致命的欠陥はなく\n充分に動作が可能となっている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 기본 파츠.\n일부가 파손됐지만 치명적인 결함은 없어\n충분히 움직일 수 있다.",
+    "Enabled": true
   },
   "340402": {
     "OriginalText": "男性キャスト向けの基礎的なパーツ。\n流線的な部分と鋭角的な部分が共存し\n独特の威圧感ながら破損箇所がある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 기본 파츠.\n유선형 부분과 날카로운 모서리가 어우러져\n독특한 위압감을 주지만 파손된 곳도 있다.",
+    "Enabled": true
   },
   "340403": {
     "OriginalText": "男性キャスト向けの基礎的なパーツ。\n重厚かつ巨大で威圧感を与えるフォルム\nだが、一部が破損している。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 기본 파츠.\n중후하고 거대해 위압감을 주는 형태지만\n일부가 파손되어 있다.",
+    "Enabled": true
   },
   "340404": {
     "OriginalText": "男性キャスト向けの基礎的なパーツ。\n存在を主張する流線形のデザインが\n華美ではあるが、一部破損している。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 기본 파츠.\n존재감을 드러내는 유선형 디자인이\n화려하지만 일부가 파손되어 있다.",
+    "Enabled": true
   },
   "340405": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\n機動力と軽量化に突出したモデルであり\nハンタークラスの愛用者が多い。",
-    "Text": "Core parts for female Casts. A very\nlightweight, mobile model, which has\nmany followers among Hunters.",
+    "Text": "여성 캐스트용 기본 파츠.\n기동력과 경량화가 뛰어난 모델로\n헌터 클래스의 애용자가 많다.",
     "Enabled": true
   },
   "340406": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\n安定性が重視され、主にレンジャーが\n愛用するモデルで見た目の人気も高い。",
-    "Text": "Core parts for female Casts. With a\nfocus on stability, they are popular\namong Rangers for their appearance.",
+    "Text": "여성 캐스트용 기본 파츠.\n안정성을 중시해 주로 레인저가 애용하며\n외관도 인기가 높은 모델이다.",
     "Enabled": true
   },
   "340407": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\nあらゆる環境下で感応性を高める\nデザインで、フォースに人気が高い。",
-    "Text": "Core parts for female Casts. A\npopular design among Forces for its\nsensitivity to atmospheric Photons.",
+    "Text": "여성 캐스트용 기본 파츠.\n온갖 환경에서 감응성을 높이는\n디자인으로 포스에게 인기가 높다.",
     "Enabled": true
   },
   "340408": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\nバランスの良いデザインをしており\n愛用者も多く、安定した人気を誇る。",
-    "Text": "Core parts for female Casts. These\npopular parts have a well-balanced\ndesign, with a ever growing fanbase.",
+    "Text": "여성 캐스트용 기본 파츠.\n균형 잡힌 디자인으로\n애용자가 많고 꾸준한 인기를 자랑한다.",
     "Enabled": true
   },
   "340409": {
-    "OriginalText": "女性キャスト向けの基礎的なパーツ。\n大火力に押し負けぬよう、伝甲を厚く\n重量を重くした火力戦用伝備。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "女性キャスト向けの基礎的なパーツ。\n大火力に押し負けぬよう、装甲を厚く\n重量を重くした火力戦用装備。",
+    "Text": "여성 캐스트용 기본 파츠.\n강한 화력에 밀리지 않도록 장갑을 두껍게\n하고 무게를 늘린 화력전용 장비다.",
+    "Enabled": true
   },
   "340410": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\n外気との接触部分が大きく確保され\n状況を敏感に察知することが可能。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여성 캐스트용 기본 파츠.\n외부 공기와 닿는 부분을 넓게 확보해\n상황을 민감하게 감지할 수 있다.",
+    "Enabled": true
   },
   "340411": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\n球状の機構は、必要に応じて周囲の\n環境記録を取得することもできる。",
-    "Text": "Core parts for female Casts. The\nround plates are able to acquire\nenvironmental data as needed.",
+    "Text": "여성 캐스트용 기본 파츠.\n구형 기구는 필요에 따라 주변의\n환경 기록을 수집할 수도 있다.",
     "Enabled": true
   },
   "340412": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\n軽量化を重視し、空気抵抗の低滅化など\n蕾人好みのカスタマイズが入っている。",
-    "Text": "",
+    "Text": "여성 캐스트용 기본 파츠.\n경량화를 중시하고 공기 저항을 줄이는 등\n전문가 취향의 커스터마이즈를 적용했다.",
     "Enabled": false
   },
   "340413": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\n威圧を目的とした玄々しい伝飾と\nそれに見合うだけの性能を持つ。",
-    "Text": "",
+    "Text": "여성 캐스트용 기본 파츠.\n위압감을 주기 위한 과장된 장식과\n그에 걸맞은 성능을 갖췄다.",
     "Enabled": false
   },
   "340414": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\n可愛らしい動洋を物したかのような\nフォルムで、人気が高い。",
-    "Text": "",
+    "Text": "여성 캐스트용 기본 파츠.\n귀여운 동물을 본뜬 듯한\n형태로 인기가 높다.",
     "Enabled": false
   },
   "340415": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\n流魅な形が特微で、触れたもの全てを\n切り裂くような氷たさをも併せ持つ。",
-    "Text": "",
+    "Text": "여성 캐스트용 기본 파츠.\n유려한 형태가 특징으로, 닿는 것은 모두\n갈라버릴 듯한 차가움도 갖추고 있다.",
     "Enabled": false
   },
   "340416": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\n儀礼的な部分を重要視し、環境要因との\n相互作用を意識して作られた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여성 캐스트용 기본 파츠.\n의례적인 부분을 중시해 환경 요인과의\n상호 작용을 고려하여 만들었다.",
+    "Enabled": true
   },
   "340417": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\n仰典用ともとれる伝飾が特微で\n生体部分の露出が多く、跡惑的。",
-    "Text": "",
+    "Text": "여성 캐스트용 기본 파츠.\n축제용으로도 보이는 장식이 특징이며\n생체 부분의 노출이 많아 매혹적이다.",
     "Enabled": false
   },
   "340418": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\n折れにくいギガンテスの伝甲を流用し\n近づきがたい雰囲気を湿し出す。",
-    "Text": "",
+    "Text": "여성 캐스트용 기본 파츠.\n쉽게 부러지지 않는 기간테스 장갑을 활용해\n다가가기 어려운 분위기를 자아낸다.",
     "Enabled": false
   },
   "340419": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\nギガンテスのチェーンソーの翼を流用し\n触れる者を傷つける危険なシルエット。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여성 캐스트용 기본 파츠.\n기간테스의 체인소 날개를 활용해\n만지는 이를 다치게 하는 위험한 실루엣.",
+    "Enabled": true
   },
   "340420": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\n多重構造のギガンテス伝甲を流用し\n厚みのある防御態勢を実現。",
-    "Text": "",
+    "Text": "여성 캐스트용 기본 파츠.\n다중 구조의 기간테스 장갑을 활용해\n두터운 방어 태세를 실현했다.",
     "Enabled": false
   },
   "340421": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\n愛くるしいシルエットにラビーソの\nチェーンソーを隠し持つ危険なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여성 캐스트용 기본 파츠.\n사랑스러운 실루엣에 라비소의\n체인소를 숨겨둔 위험한 모델.",
+    "Enabled": true
   },
   "340422": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\n天然鉱をあしらった鮮やかなデザインに\n機動性と重厚さを兼ね備えたモデル。",
-    "Text": "Core parts for female Casts. A\nbeautiful design adorned with natural\nore, combining weight and mobility.",
+    "Text": "여성 캐스트용 기본 파츠.\n천연 광석을 더한 선명한 디자인에\n기동성과 중후함을 겸비한 모델.",
     "Enabled": true
   },
   "340423": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\n[ruby ほし]惑星[/ruby]ギガンテスの重厚長大な伝甲を最大限\nデフォルメし、愛らしさを引き出した。",
-    "Text": "",
+    "Text": "여성 캐스트용 기본 파츠.\n행성 기간테스의 육중한 대형 장갑을 최대한\n변형하여 사랑스러움을 이끌어냈다.",
     "Enabled": false
   },
   "340424": {
     "OriginalText": "ヒュペリオン・ボディの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "히페리온 바디의 설명문",
+    "Enabled": true
   },
   "340425": {
     "OriginalText": "シャロン・ボディの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "샤론 바디의 설명문",
+    "Enabled": true
   },
   "340426": {
     "OriginalText": "シャロン：リペア・ボディの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "샤론 바디 (수리)의 설명문",
+    "Enabled": true
   },
   "340427": {
-    "OriginalText": "女性キャスト向けの基礎的なパーツ。\n伝甲を厚く重量を増した火力戦用伝備で\n破損によりかえって貴禄が出ている。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "女性キャスト向けの基礎的なパーツ。\n装甲を厚く重量を増した火力戦用装備で\n破損によりかえって貫禄が出ている。",
+    "Text": "여성 캐스트용 기본 파츠.\n장갑을 두껍게 하고 무게를 늘린 화력전 장비.\n파손으로 오히려 관록이 생겼다.",
+    "Enabled": true
   },
   "340428": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\n重要な儀礼的伝飾は、構造が繊細で\n一部がすでに破損している。",
-    "Text": "",
+    "Text": "여성 캐스트용 기본 파츠.\n중요한 의례용 장식은 구조가 섬세해\n일부가 이미 파손되어 있다.",
     "Enabled": false
   },
   "340429": {
     "OriginalText": "女性キャスト向けの基礎的なパーツ。\n外気との接触部分が大きく確保された\n構造だが、一部が破損している。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여성 캐스트용 기본 파츠.\n외부 공기와 닿는 부분을 넓게 확보한\n구조지만 일부가 파손되어 있다.",
+    "Enabled": true
   },
   "340430": {
     "OriginalText": "男性キャスト向けの脚部パーツ。\nその機動性と、シャープなフォルムが\nハンタークラスに人気の理由。",
-    "Text": "Leg parts for male Casts. Popular\nwith Hunters for their ease of\nmobility and their sharp appearance.",
+    "Text": "남성 캐스트용 다리 파츠.\n기동성과 날렵한 형태가\n헌터 클래스에게 인기 있는 이유다.",
     "Enabled": true
   },
   "340431": {
     "OriginalText": "男性キャスト向けの脚部パーツ。\n安定性の高い箱形のフォルムがベースで\n主にレンジャークラスが愛用している。",
-    "Text": "Leg parts for male Casts.\nA stable, boxy design mainly favored\nby Rangers.",
+    "Text": "남성 캐스트용 다리 파츠.\n안정성이 높은 상자형 형태를 기반으로\n주로 레인저 클래스가 애용하고 있다.",
     "Enabled": true
   },
   "340432": {
     "OriginalText": "男性キャスト向けの脚部パーツ。\nゆったりとした霜のようなフォルムは\n外気への順応性を高めるという。",
-    "Text": "",
+    "Text": "남성 캐스트용 다리 파츠.\n헐렁한 천 같은 형태는\n외부 공기에 대한 적응성을 높인다고 한다.",
     "Enabled": false
   },
   "340433": {
     "OriginalText": "男性キャスト向けの脚部パーツ。\n空気抵抗を抑えた、突撃毛向の形が\n前線で戦うアークス達に好評。",
-    "Text": "",
+    "Text": "남성 캐스트용 다리 파츠.\n공기 저항을 줄인 돌격 지향의 형태가\n전선에서 싸우는 아크스에게 호평받는다.",
     "Enabled": false
   },
   "340434": {
     "OriginalText": "男性キャスト向けの脚部パーツ。\n重厚かつ巨大なそのフォルムは\n居るだけで相手に威圧感を与える。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 다리 파츠.\n중후하고 거대한 형태는\n그 자리에 있기만 해도 상대를 압도한다.",
+    "Enabled": true
   },
   "340435": {
     "OriginalText": "男性キャスト向けの脚部パーツ。\n平面的な部分を意識的に多くする事で\n大気中の組成分子へ干渉しやすくした。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 다리 파츠.\n평평한 부분을 의도적으로 많이 만들어\n대기를 이루는 분자에 간섭하기 쉽게 했다.",
+    "Enabled": true
   },
   "340436": {
     "OriginalText": "男性キャスト向けの脚部パーツ。\n示威目的のシルエットを考慮しつつ\n射撃時等の動きを阻害しないよう設計。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 다리 파츠.\n위압적인 실루엣을 고려하면서도\n사격 등의 움직임을 방해하지 않게 설계했다.",
+    "Enabled": true
   },
   "340437": {
     "OriginalText": "男性キャスト向けの脚部パーツ。\n存在を主張する流線形のデザインは\n戦闘だけでなく平時であっても華美。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 다리 파츠.\n존재감을 드러내는 유선형 디자인은\n전투 때뿐 아니라 평소에도 화려하다.",
+    "Enabled": true
   },
   "340438": {
     "OriginalText": "男性キャスト向けの脚部パーツ。\n流線的な部分と鋭角的な部分が共存し\n独特の威圧感を湿し出している。",
-    "Text": "",
+    "Text": "남성 캐스트용 다리 파츠.\n유선형 부분과 날카로운 모서리가 어우러져\n독특한 위압감을 자아낸다.",
     "Enabled": false
   },
   "340439": {
-    "OriginalText": "男性キャスト向けの脚部パーツ。\n軽く、消音性に優れた素村を使用し\n局地戦などで重宝される隠密性を得た。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "男性キャスト向けの脚部パーツ。\n軽く、消音性に優れた素材を使用し\n局地戦などで重宝される隠密性を得た。",
+    "Text": "남성 캐스트용 다리 파츠.\n가볍고 소음을 줄이는 소재를 사용해\n국지전 등에서 유용한 은밀성을 얻었다.",
+    "Enabled": true
   },
   "340440": {
     "OriginalText": "男性キャスト向けの脚部パーツ。\n鋭く研ぎ澄まされたフォルムは\n氷たさと共に促厳さを感じさせる。",
-    "Text": "",
+    "Text": "남성 캐스트용 다리 파츠.\n날카롭게 다듬은 형태는\n차가우면서도 장엄한 느낌을 준다.",
     "Enabled": false
   },
   "340441": {
     "OriginalText": "男性キャスト向けの脚部パーツ。\nすらっとしたシャープなフォルムだが\n不思議と静かな威圧感をも併せ持つ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 다리 파츠.\n길고 날렵한 형태지만\n묘하게 조용한 위압감도 갖추고 있다.",
+    "Enabled": true
   },
   "340442": {
     "OriginalText": "男性キャスト向けの脚部パーツ。\n儀式的な伝飾を施されており\nあらゆる環境下において感受性が高い。",
-    "Text": "",
+    "Text": "남성 캐스트용 다리 파츠.\n의식용 장식을 더해\n온갖 환경에서 높은 감수성을 발휘한다.",
     "Enabled": false
   },
   "340443": {
-    "OriginalText": "男性キャスト向けの脚部パーツ。\n折れにくいギガンテスの素村を流用し\n見る者を圧倒するシルエットを実現。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "男性キャスト向けの脚部パーツ。\n折れにくいギガンテスの素材を流用し\n見る者を圧倒するシルエットを実現。",
+    "Text": "남성 캐스트용 다리 파츠.\n쉽게 부러지지 않는 기간테스 소재를 활용해\n보는 이를 압도하는 실루엣을 실현했다.",
+    "Enabled": true
   },
   "340444": {
-    "OriginalText": "男性キャスト向けの脚部パーツ。\n当たりが強いギガンテスの素村を流用し\n機動力を要する戦闘シーンで役立つ。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "男性キャスト向けの脚部パーツ。\n当たりが強いギガンテスの素材を流用し\n機動力を要する戦闘シーンで役立つ。",
+    "Text": "남성 캐스트용 다리 파츠.\n충격이 강한 기간테스 소재를 활용해\n기동력이 필요한 전투에서 유용하다.",
+    "Enabled": true
   },
   "340445": {
     "OriginalText": "男性キャスト向けの脚部パーツ。\nマキア原生種の超重量伝甲を流用し、\n銅壁を思わせる頑強さ実現。",
-    "Text": "",
+    "Text": "남성 캐스트용 다리 파츠.\n마키아 원생종의 초중량 장갑을 활용해\n철벽을 연상시키는 견고함을 실현했다.",
     "Enabled": false
   },
   "340446": {
     "OriginalText": "男性キャスト向けの脚部パーツ。\n天然鉱をあしらった派手なデザインを\n採用しつつ、硬度と熱放射に優れる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 다리 파츠.\n천연 광석을 더한 화려한 디자인으로\n경도와 열 방출 성능도 뛰어나다.",
+    "Enabled": true
   },
   "340447": {
     "OriginalText": "男性キャスト向けの脚部パーツ。\n[ruby ほし]惑星[/ruby]ギガンテスの重厚長大な伝甲を流用し\n惑星の主を思わせるシルエットを再現。",
-    "Text": "",
+    "Text": "남성 캐스트용 다리 파츠.\n행성 기간테스의 육중한 대형 장갑을 활용해\n행성의 주인을 연상시키는 실루엣을 재현했다.",
     "Enabled": false
   },
   "340448": {
     "OriginalText": "男性キャスト向けの脚部パーツ。\n一部に破損があるが致命的欠陥はなく\n充分に動作が可能となっている。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 다리 파츠.\n일부가 파손됐지만 치명적인 결함은 없어\n충분히 움직일 수 있다.",
+    "Enabled": true
   },
   "340449": {
     "OriginalText": "男性キャスト向けの脚部パーツ。\n流線的な部分と鋭角的な部分が共存し\n独特の威圧感ながら破損箇所がある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 다리 파츠.\n유선형 부분과 날카로운 모서리가 어우러져\n독특한 위압감을 주지만 파손된 곳도 있다.",
+    "Enabled": true
   },
   "340450": {
     "OriginalText": "男性キャスト向けの脚部パーツ。\n重厚かつ巨大で威圧感を与えるフォルム\nだが、一部が破損している。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 다리 파츠.\n중후하고 거대해 위압감을 주는 형태지만\n일부가 파손되어 있다.",
+    "Enabled": true
   },
   "340451": {
     "OriginalText": "男性キャスト向けの脚部パーツ。\n存在を主張する流線形のデザインが\n華美ではあるが、一部破損している。",
-    "Text": "",
-    "Enabled": false
+    "Text": "남성 캐스트용 다리 파츠.\n존재감을 드러내는 유선형 디자인이\n화려하지만 일부가 파손되어 있다.",
+    "Enabled": true
   },
   "340452": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\n機動力と軽量化に突出したモデルであり\nハンタークラスの愛用者が多い。",
-    "Text": "Leg parts for female Casts. A very\nlightweight, mobile model, which has\nmany followers among Hunters.",
+    "Text": "여성 캐스트용 다리 파츠.\n기동력과 경량화가 뛰어난 모델로\n헌터 클래스의 애용자가 많다.",
     "Enabled": true
   },
   "340453": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\n安定性が重視され、主にレンジャーが\n愛用するモデルで見た目の人気も高い。",
-    "Text": "Leg parts for female Casts. With a\nfocus on stability, they are popular\namong Rangers for their appearance.",
+    "Text": "여성 캐스트용 다리 파츠.\n안정성을 중시해 주로 레인저가 애용하며\n외관도 인기가 높은 모델이다.",
     "Enabled": true
   },
   "340454": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\nあらゆる環境下で感応性を高める\nデザインで、フォースに人気が高い。",
-    "Text": "Leg parts for female Casts. A\npopular design among Forces for its\nsensitivity to atmospheric Photons.",
+    "Text": "여성 캐스트용 다리 파츠.\n온갖 환경에서 감응성을 높이는\n디자인으로 포스에게 인기가 높다.",
     "Enabled": true
   },
   "340455": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\nバランスの良いデザインをしており\n愛用者も多く、安定した人気を誇る。",
-    "Text": "Leg parts for female Casts. These\npopular parts have a well-balanced\ndesign, with a ever growing fanbase.",
+    "Text": "여성 캐스트용 다리 파츠.\n균형 잡힌 디자인으로\n애용자가 많고 꾸준한 인기를 자랑한다.",
     "Enabled": true
   },
   "340456": {
-    "OriginalText": "女性キャスト向けの脚部パーツ。\n大火力に押し負けぬよう、伝甲を厚く\n重量を重くした火力戦用伝備。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "女性キャスト向けの脚部パーツ。\n大火力に押し負けぬよう、装甲を厚く\n重量を重くした火力戦用装備。",
+    "Text": "여성 캐스트용 다리 파츠.\n강한 화력에 밀리지 않도록 장갑을 두껍게\n하고 무게를 늘린 화력전용 장비다.",
+    "Enabled": true
   },
   "340457": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\n外気との接触部分が大きく確保され\n状況を敏感に察知することが可能。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여성 캐스트용 다리 파츠.\n외부 공기와 닿는 부분을 넓게 확보해\n상황을 민감하게 감지할 수 있다.",
+    "Enabled": true
   },
   "340458": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\n球状の機構は、必要に応じて周囲の\n環境記録を取得することもできる。",
-    "Text": "Leg parts for female Casts. The\nround plates are able to acquire\nenvironmental data if necessary.",
+    "Text": "여성 캐스트용 다리 파츠.\n구형 기구는 필요에 따라 주변의\n환경 기록을 수집할 수도 있다.",
     "Enabled": true
   },
   "340459": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\n軽量化を重視し、空気抵抗の低滅化など\n蕾人好みのカスタマイズが入っている。",
-    "Text": "",
+    "Text": "여성 캐스트용 다리 파츠.\n경량화를 중시하고 공기 저항을 줄이는 등\n전문가 취향의 커스터마이즈를 적용했다.",
     "Enabled": false
   },
   "340460": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\n威圧を目的とした玄々しい伝飾と\nそれに見合うだけの性能を持つ。",
-    "Text": "",
+    "Text": "여성 캐스트용 다리 파츠.\n위압감을 주기 위한 과장된 장식과\n그에 걸맞은 성능을 갖췄다.",
     "Enabled": false
   },
   "340461": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\n可愛らしい動洋を物したかのような\nフォルムで、人気が高い。",
-    "Text": "",
+    "Text": "여성 캐스트용 다리 파츠.\n귀여운 동물을 본뜬 듯한\n형태로 인기가 높다.",
     "Enabled": false
   },
   "340462": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\n流魅な形が特微で、触れたもの全てを\n切り裂くような氷たさをも併せ持つ。",
-    "Text": "",
+    "Text": "여성 캐스트용 다리 파츠.\n유려한 형태가 특징으로, 닿는 것은 모두\n갈라버릴 듯한 차가움도 갖추고 있다.",
     "Enabled": false
   },
   "340463": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\n儀礼的な部分を重要視し、環境要因との\n相互作用を意識して作られた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여성 캐스트용 다리 파츠.\n의례적인 부분을 중시해 환경 요인과의\n상호 작용을 고려하여 만들었다.",
+    "Enabled": true
   },
   "340464": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\n仰典用ともとれる伝飾が特微で\n生体部分の露出が多く、跡惑的。",
-    "Text": "",
+    "Text": "여성 캐스트용 다리 파츠.\n축제용으로도 보이는 장식이 특징이며\n생체 부분의 노출이 많아 매혹적이다.",
     "Enabled": false
   },
   "340465": {
-    "OriginalText": "女性キャスト向けの脚部パーツ。\n折れにくいギガンテスの素村を流用し\n近づきがたい雰囲気を湿し出す。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "女性キャスト向けの脚部パーツ。\n折れにくいギガンテスの素材を流用し\n近づきがたい雰囲気を醸し出す。",
+    "Text": "여성 캐스트용 다리 파츠.\n쉽게 부러지지 않는 기간테스 소재를 활용해\n다가가기 어려운 분위기를 자아낸다.",
+    "Enabled": true
   },
   "340466": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\nギガンテスのチェーンソーの翼を流用し\n触れる者を傷つける危険なシルエット。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여성 캐스트용 다리 파츠.\n기간테스의 체인소 날개를 활용해\n만지는 이를 다치게 하는 위험한 실루엣.",
+    "Enabled": true
   },
   "340467": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\n多重構造のギガンテス伝甲を流用し\n厚みのある防御態勢を実現。",
-    "Text": "",
+    "Text": "여성 캐스트용 다리 파츠.\n다중 구조의 기간테스 장갑을 활용해\n두터운 방어 태세를 실현했다.",
     "Enabled": false
   },
   "340468": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\n愛くるしいシルエットにラビーソの\nチェーンソーを隠し持つ危険なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여성 캐스트용 다리 파츠.\n사랑스러운 실루엣에 라비소의\n체인소를 숨겨둔 위험한 모델.",
+    "Enabled": true
   },
   "340469": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\n天然鉱をあしらった鮮やかなデザインに\n機動性と重厚さを兼ね備えたモデル。",
-    "Text": "Leg parts for female Casts. A\nbeautiful design adorned with natural\nore, combining weight and mobility.",
+    "Text": "여성 캐스트용 다리 파츠.\n천연 광석을 더한 선명한 디자인에\n기동성과 중후함을 겸비한 모델.",
     "Enabled": true
   },
   "340470": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\n[ruby ほし]惑星[/ruby]ギガンテスの重厚長大な伝甲を最大限\nデフォルメし、愛らしさを引き出した。",
-    "Text": "",
+    "Text": "여성 캐스트용 다리 파츠.\n행성 기간테스의 육중한 대형 장갑을 최대한\n변형하여 사랑스러움을 이끌어냈다.",
     "Enabled": false
   },
   "340471": {
     "OriginalText": "ヒュペリオン・レッグの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "히페리온 레그의 설명문",
+    "Enabled": true
   },
   "340472": {
     "OriginalText": "シャロン・レッグの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "샤론 레그의 설명문",
+    "Enabled": true
   },
   "340473": {
     "OriginalText": "シャロン：リペア・レッグの解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "샤론 레그 (수리)의 설명문",
+    "Enabled": true
   },
   "340474": {
-    "OriginalText": "女性キャスト向けの脚部パーツ。\n伝甲を厚く重量を増した火力戦用伝備で\n破損によりかえって貴禄が出ている。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "女性キャスト向けの脚部パーツ。\n装甲を厚く重量を増した火力戦用装備で\n破損によりかえって貫禄が出ている。",
+    "Text": "여성 캐스트용 다리 파츠.\n장갑을 두껍게 하고 무게를 늘린 화력전 장비.\n파손으로 오히려 관록이 생겼다.",
+    "Enabled": true
   },
   "340475": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\n重要な儀礼的伝飾は、構造が繊細で\n一部がすでに破損している。",
-    "Text": "",
+    "Text": "여성 캐스트용 다리 파츠.\n중요한 의례용 장식은 구조가 섬세해\n일부가 이미 파손되어 있다.",
     "Enabled": false
   },
   "340476": {
     "OriginalText": "女性キャスト向けの脚部パーツ。\n外気との接触部分が大きく確保された\n構造だが、一部が破損している。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여성 캐스트용 다리 파츠.\n외부 공기와 닿는 부분을 넓게 확보한\n구조지만 일부가 파손되어 있다.",
+    "Enabled": true
   },
   "340477": {
     "OriginalText": "４つのアルカナのうち、ダイヤを司るスーツ。\nその名が示すおり、ゴージャスな伝いと\n完壁な防御性能を兼ね備えている。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "4개의 아르카나 중 다이아를 관장하는 슈트.\n이름처럼 화려한 의상과\n완벽한 방어 성능을 모두 갖췄다.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340478": {
     "OriginalText": "４つのアルカナのうち、ダイヤを司るドレス。\nその名が示すおり、ゴージャスな伝いと\n完壁な防御性能を兼ね備えている。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "4개의 아르카나 중 다이아를 관장하는 드레스.\n이름처럼 화려한 의상과\n완벽한 방어 성능을 모두 갖췄다.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340480": {
     "OriginalText": "仮",
-    "Text": "",
-    "Enabled": false
+    "Text": "임시",
+    "Enabled": true
   },
   "340481": {
     "OriginalText": "正義の味方を気取るアークススーツ。\nそこにいるだけで子どもたちに信頼され\n熱い眼差しで見つめられること確実。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "정의의 사도를 자처하는 아크스 슈트.\n그 자리에 있기만 해도 아이들의 신뢰와\n뜨거운 시선을 받을 것이 확실하다.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
+    "Enabled": true
   },
   "340482": {
     "OriginalText": "女の子らしさを冷めたアークススーツ。\n戦場に舞う可憐な蝶を思わせるその姿に\n見る者は思わず守ってあげたくなる。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "소녀다움을 극대화한 아크스 슈트.\n전장에 춤추는 가련한 나비 같은 모습에\n보는 이는 절로 지켜주고 싶어진다.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340486": {
     "OriginalText": "仮",
-    "Text": "",
-    "Enabled": false
+    "Text": "임시",
+    "Enabled": true
   },
   "340502": {
     "OriginalText": "宇宙開柘隊で使われる一般的な戦闘服。\n外宇宙での戦闘にも耐えうる程の\n強度と柔軟性を持ち合わせる一品。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "우주 개척대가 사용하는 일반적인 전투복.\n외우주 전투에도 견딜 만큼의\n강도와 유연성을 모두 갖춘 일품.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340503": {
-    "OriginalText": "宇宙開柘隊で使われる一般的な戦闘服。\n軽量な伝備ながら、十分な防御性を誇る\n星の産での旅をサポートする心強い伝備。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "宇宙開拓隊で使われる一般的な戦闘服。\n軽量な装備ながら、十分な防御性を誇る\n星の海での旅をサポートする心強い装備。\n[a 03]※この服はカラーを変更できません[b]",
+    "Text": "우주 개척대가 사용하는 일반적인 전투복.\n가벼우면서도 충분한 방어력을 자랑해\n별의 바다를 여행할 때 든든한 장비다.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
+    "Enabled": true
   },
   "340504": {
-    "OriginalText": "とある惑星の戦乙女・ヴァルキリーの力を\n秘めた美しい衣服。伝備者の無事を祈る\n人々の想いが込められている。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "とある惑星の戦乙女・ヴァルキリーの力を\n秘めた美しい衣服。装備者の無事を祈る\n人々の想いが込められている。\n[a 03]※この服はカラーを変更できません[b]",
+    "Text": "어느 행성의 전투 처녀 발키리의 힘을\n품은 아름다운 옷. 착용자의 무사함을 비는\n사람들의 마음이 담겨 있다.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
+    "Enabled": true
   },
   "340505": {
     "OriginalText": "使い込まれた味のあるレザージャケット。\nカジュアルかつどこかワイルドな印象を\n持つヴァシュロンお気に入りの品。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "오래 입어 멋이 깃든 가죽 재킷.\n캐주얼하면서도 어딘가 와일드한 매력이 있는\n바슈론이 아끼는 물건.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
+    "Enabled": true
   },
   "340506": {
     "OriginalText": "動きやすさとデザイン性を重視した\nカジュアルな若者向けのジャケット。\n伸温性があり、撃しい動きも安心。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
+    "Text": "활동성과 디자인을 중시한\n젊은 층을 위한 캐주얼 재킷.\n신축성이 있어 격렬한 움직임도 안심이다.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
     "Enabled": false
   },
   "340507": {
     "OriginalText": "女性らしさを感じさせる軽やかなコート。\n動く様はまるで舞うかの如くたなびく。\n胸のリボンがポイントである。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "여성스러움이 느껴지는 가벼운 코트.\n움직일 때면 춤추듯 나부낀다.\n가슴의 리본이 포인트다.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
+    "Enabled": true
   },
   "340508": {
-    "OriginalText": "かつてヴァルキュリアがまとったとされる衣伝。\nラグナイト製によるその伝備は、\n継承者が着ることで多大な効果を発揮する。\n[a 03]※この服はカラーを変更できません[b]",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "かつてヴァルキュリアがまとったとされる衣装。\nラグナイト製によるその装備は、\n継承者が着ることで多大な効果を発揮する。\n[a 03]※この服はカラーを変更できません[b]",
+    "Text": "발큐리아가 예전에 입었다고 전해지는 의상.\n라그나이트로 만든 이 장비는\n계승자가 입으면 큰 효과를 발휘한다.\n[a 03]주의: 이 옷은 컬러를 변경할 수 없습니다.[b]",
+    "Enabled": true
   }
 }

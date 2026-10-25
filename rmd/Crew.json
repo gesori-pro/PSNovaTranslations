@@ -1,272 +1,272 @@
 {
   "540000": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "540001": {
     "OriginalText": "ジェネラリストクルー",
-    "Text": "Generalist Crew",
+    "Text": "제너럴리스트 크루",
     "Enabled": true
   },
   "540002": {
     "OriginalText": "ソルジャークルー",
-    "Text": "Soldier Crew",
+    "Text": "솔저 크루",
     "Enabled": true
   },
   "540003": {
     "OriginalText": "サポートクルー",
-    "Text": "Support Crew",
+    "Text": "서포트 크루",
     "Enabled": true
   },
   "540004": {
     "OriginalText": "ヒューマンクルー",
-    "Text": "Human Crew",
+    "Text": "휴먼 크루",
     "Enabled": true
   },
   "540005": {
     "OriginalText": "ニューマンクルー",
-    "Text": "Newman Crew",
+    "Text": "뉴먼 크루",
     "Enabled": true
   },
   "540006": {
     "OriginalText": "キャストクルー",
-    "Text": "Cast Crew",
+    "Text": "캐스트 크루",
     "Enabled": true
   },
   "540007": {
     "OriginalText": "ハンタークルー",
-    "Text": "Hunter Crew",
+    "Text": "헌터 크루",
     "Enabled": true
   },
   "540008": {
     "OriginalText": "レンジャークルー",
-    "Text": "Ranger Crew",
+    "Text": "레인저 크루",
     "Enabled": true
   },
   "540009": {
     "OriginalText": "フォースクルー",
-    "Text": "Force Crew",
+    "Text": "포스 크루",
     "Enabled": true
   },
   "540010": {
     "OriginalText": "アイドルクルー",
-    "Text": "Idol Crew",
+    "Text": "아이돌 크루",
     "Enabled": true
   },
   "540011": {
     "OriginalText": "匠クルー",
-    "Text": "Workman Crew",
+    "Text": "장인 크루",
     "Enabled": true
   },
   "540012": {
     "OriginalText": "レジェンドクルー",
-    "Text": "Legendary Crew",
+    "Text": "레전드 크루",
     "Enabled": true
   },
   "540013": {
     "OriginalText": "PSO2クルー",
-    "Text": "PSO2 Crew",
+    "Text": "PSO2 크루",
     "Enabled": true
   },
   "540014": {
     "OriginalText": "セクションリーダークルー",
-    "Text": "Section Leader Crew",
+    "Text": "섹션 리더 크루",
     "Enabled": true
   },
   "540015": {
     "OriginalText": "[ruby]約束[/ruby]を繋ぐ者たち",
-    "Text": "Promise Keepers",
+    "Text": "약속을 잇는 자들",
     "Enabled": true
   },
   "540016": {
     "OriginalText": "DLCシリーズ",
-    "Text": "DLC Series",
+    "Text": "DLC 시리즈",
     "Enabled": true
   },
   "540017": {
     "OriginalText": "スペシャルシリーズ",
-    "Text": "Special Series",
+    "Text": "스페셜 시리즈",
     "Enabled": true
   },
   "540018": {
     "OriginalText": "DLCシリーズ03",
-    "Text": "DLC Series 03",
+    "Text": "DLC 시리즈03",
     "Enabled": true
   },
   "540019": {
     "OriginalText": "DLCシリーズ04",
-    "Text": "DLC Series 04",
+    "Text": "DLC 시리즈04",
     "Enabled": true
   },
   "540020": {
     "OriginalText": "DLCシリーズ05",
-    "Text": "DLC Series 05",
+    "Text": "DLC 시리즈05",
     "Enabled": true
   },
   "540021": {
     "OriginalText": "DLCシリーズ06",
-    "Text": "DLC Series 06",
+    "Text": "DLC 시리즈06",
     "Enabled": true
   },
   "540022": {
     "OriginalText": "DLCシリーズ07",
-    "Text": "DLC Series 07",
+    "Text": "DLC 시리즈07",
     "Enabled": true
   },
   "540023": {
     "OriginalText": "DLCシリーズ08",
-    "Text": "DLC Series 08",
+    "Text": "DLC 시리즈08",
     "Enabled": true
   },
   "540024": {
     "OriginalText": "DLCシリーズ09",
-    "Text": "DLC Series 09",
+    "Text": "DLC 시리즈09",
     "Enabled": true
   },
   "540025": {
     "OriginalText": "ファントムクルー",
-    "Text": "Phantom Crew",
+    "Text": "팬텀 크루",
     "Enabled": true
   },
   "540026": {
     "OriginalText": "ファイナルクルー",
-    "Text": "Final Crew",
+    "Text": "파이널 크루",
     "Enabled": true
   },
   "650000": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "650001": {
     "OriginalText": "広範囲にわたる知識を持つクルー。\n拠点要員としても、戦闘要員としても\n対応可能。",
-    "Text": "Crew with broad knowledge.\nA base personnel that can also\njoin in combat.",
+    "Text": "폭넓은 지식을 가진 크루.\n거점 요원과 전투 요원\n모두 맡을 수 있다.",
     "Enabled": true
   },
   "650002": {
     "OriginalText": "戦闘技術の高いクルー。\n共に戦場に立つ頼れる仲間となる。",
-    "Text": "Crew with high combat techs.\nCan be trusted in the battlefield.",
+    "Text": "전투 기술이 뛰어난 크루.\n함께 전장에 나설 든든한 동료가 된다.",
     "Enabled": true
   },
   "650003": {
     "OriginalText": "後方支援を得意とするクルー。\n拠点施設などで活躍すること間違いなし。",
-    "Text": "Crew that is good for support.\nActive in the base facilities.",
+    "Text": "후방 지원이 특기인 크루.\n거점 시설 등에서 확실히 활약할 것이다.",
     "Enabled": true
   },
   "650004": {
     "OriginalText": "主に後方支援を担当する\nヒューマンクルー。\n広い知識で拠点運営を支援する。",
-    "Text": "Human crew mainly for support.\nCan help in base management.",
+    "Text": "주로 후방 지원을 담당하는\n휴먼 크루.\n폭넓은 지식으로 거점 운영을 지원한다.",
     "Enabled": true
   },
   "650005": {
     "OriginalText": "主に後方支援を担当する\nニューマンクルー。\n拠点施設内で活躍が期待される。",
-    "Text": "Newman crew good for support.\nActive in base facilities.",
+    "Text": "주로 후방 지원을 담당하는\n뉴먼 크루.\n거점 시설 안에서 활약이 기대된다.",
     "Enabled": true
   },
   "650006": {
     "OriginalText": "主に後方支援を担当する\nキャストクルー。\n高い情報分祈力で施設で活躍する。",
-    "Text": "Cast crew mainly for support.\nVery active in facilities.",
-    "Enabled": true
+    "Text": "주로 후방 지원을 담당하는\n캐스트 크루.\n뛰어난 정보 분석력으로 시설에서 활약한다.",
+    "Enabled": false
   },
   "650007": {
     "OriginalText": "ハンタークラスのクルー。\n高いHPと防御力を持ち、近接戦闘での\n活躍が期待できる。",
-    "Text": "Hunter class crew.\nHas high HP and defense, good\nfor close-range combat.",
+    "Text": "헌터 클래스의 크루.\n높은 HP와 방어력을 지녀, 근접 전투에서\n활약이 기대된다.",
     "Enabled": true
   },
   "650008": {
     "OriginalText": "レンジャークラスのクルー。\n射撃と得意とし、中距離からの\n戦闘のサポートを行う。",
-    "Text": "Ranger class crew.\nExcels in shooting, good\nfor mid-range combat.",
-    "Enabled": true
+    "Text": "레인저 클래스의 크루.\n사격에 능하며, 중거리에서\n전투를 지원한다.",
+    "Enabled": false
   },
   "650009": {
     "OriginalText": "フォースクラスのクルー。\nテクニックを扱い、遠距離戦闘を\n得意とする戦闘要員。",
-    "Text": "Force class crew.\nDeals with Techniques, good\nfor long-range combat.",
+    "Text": "포스 클래스의 크루.\n테크닉을 다루며 원거리 전투가\n특기인 전투 요원.",
     "Enabled": true
   },
   "650010": {
-    "OriginalText": "最先端ファッションを身に纏うクルー。\n拠点や戦闘の華として活躍する。\n不時着時の衝撃により、伝備の損傷が\n撃しかったため、新調しているクルーもいる。",
-    "Text": "Crew with a cutting-edge\nfashion. Active in base and\nbattle. Renewed crew with\nrepaired equipment.",
+    "OriginalText": "最先端ファッションを身に纏うクルー。\n拠点や戦闘の華として活躍する。\n不時着時の衝撃により、装備の損傷が\n激しかったため、新調しているクルーもいる。",
+    "Text": "최신 패션을 걸친 크루.\n거점과 전장의 꽃으로 활약한다.\n불시착 충격으로 장비 손상이\n심해 새로 장만한 크루도 있다.",
     "Enabled": true
   },
   "650011": {
-    "OriginalText": "各技術に特化した職人肌のスペシャリスト。\n拠点運営を強力にサポートしてくれる。\n不時着時の衝撃により、伝備の損傷が\n撃しかったため、新調しているクルーもいる。",
-    "Text": "Technology specialist. Excels\nin base management support.\nRenewed crew with repaired\nequipment.",
+    "OriginalText": "各技術に特化した職人肌のスペシャリスト。\n拠点運営を強力にサポートしてくれる。\n不時着時の衝撃により、装備の損傷が\n激しかったため、新調しているクルーもいる。",
+    "Text": "각 기술에 특화된 장인형 전문가.\n거점 운영을 든든하게 지원한다.\n불시착 충격으로 장비 손상이\n심해 새로 장만한 크루도 있다.",
     "Enabled": true
   },
   "650012": {
-    "OriginalText": "アークス内でも有名な歴戦の戦土。\n戦場で立ちはだかる敵を一掃してくれる。\n不時着時の衝撃により、伝備の損傷が\n撃しかったため、新調しているクルーもいる。",
-    "Text": "ARKS veteran and famous.\nSweeps enemies in battle.\nRenewed crew with repaired\nequipment.",
+    "OriginalText": "アークス内でも有名な歴戦の戦士。\n戦場で立ちはだかる敵を一掃してくれる。\n不時着時の衝撃により、装備の損傷が\n激しかったため、新調しているクルーもいる。",
+    "Text": "아크스에서도 유명한 역전의 전사.\n전장에서 앞을 가로막는 적을 쓸어버린다.\n불시착 충격으로 장비 손상이\n심해 새로 장만한 크루도 있다.",
     "Enabled": true
   },
   "650013": {
     "OriginalText": "マザーシップのどこかで見かけた\nことのあるクルー。\n個性豊かな面々が戦闘をサポートする。",
-    "Text": "Crew seen somewhere in the\nMothership. A unique person that\nexcels in combat support.",
+    "Text": "마더 쉽 어딘가에서 본 적이\n있는 크루.\n개성 넘치는 이들이 전투를 지원한다.",
     "Enabled": true
   },
   "650014": {
     "OriginalText": "各セクションのリーダー候補のクルー。\n他のクルーからの信頼も厚い。",
-    "Text": "Crew candidate for section\nleader. Trusted by other\ncrew members.",
+    "Text": "각 섹션의 리더 후보인 크루.\n다른 크루들의 신뢰도 두텁다.",
     "Enabled": true
   },
   "650015": {
     "OriginalText": "様々な思いを残し、この地を去った者たちの残滓。\n彼らの思いに耳を毛けるのもいいだろう。\n[a 03]※このカプセルのキャラは拠点配置不可[b]",
-    "Text": "Remnants of those who left,\nthat left many thoughts.\n[a 03]※Characters from this capsule\ncan't be placed in the base.[b]",
-    "Enabled": true
+    "Text": "이 땅에 여러 마음을 남기고 떠난 이들의 잔재.\n그들의 마음에 귀 기울여 봐도 좋으리라.\n[a 03]*이 캡슐의 캐릭터는 거점 배치 불가[b]",
+    "Enabled": false
   },
   "650016": {
     "OriginalText": "DLCシリーズ の解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "DLC 시리즈 설명문",
+    "Enabled": true
   },
   "650017": {
     "OriginalText": "スペシャルシリーズ の解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "스페셜 시리즈 설명문",
+    "Enabled": true
   },
   "650018": {
     "OriginalText": "DLCシリーズ03 の解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "DLC 시리즈03 설명문",
+    "Enabled": true
   },
   "650019": {
     "OriginalText": "DLCシリーズ04 の解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "DLC 시리즈04 설명문",
+    "Enabled": true
   },
   "650020": {
     "OriginalText": "DLCシリーズ05 の解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "DLC 시리즈05 설명문",
+    "Enabled": true
   },
   "650021": {
     "OriginalText": "DLCシリーズ06 の解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "DLC 시리즈06 설명문",
+    "Enabled": true
   },
   "650022": {
     "OriginalText": "DLCシリーズ07 の解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "DLC 시리즈07 설명문",
+    "Enabled": true
   },
   "650023": {
     "OriginalText": "DLCシリーズ08 の解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "DLC 시리즈08 설명문",
+    "Enabled": true
   },
   "650024": {
     "OriginalText": "DLCシリーズ09 の解説文",
-    "Text": "",
-    "Enabled": false
+    "Text": "DLC 시리즈09 설명문",
+    "Enabled": true
   },
   "650025": {
     "OriginalText": "歴史の陰で活躍してきたという、幻のクルー。\nその実力は謎に包まれている。",
-    "Text": "Phantom crew with a great history.\nIts strength is full of mystery.",
+    "Text": "역사의 그늘에서 활약했다는 환상의 크루.\n그 실력은 수수께끼에 싸여 있다.",
     "Enabled": true
   },
   "650026": {
     "OriginalText": "デルタ・ヴァリアント実戦部隊最後の解凍クルー。\n他のクルーとは、次元の違う実力を\n見せつけてくれるはずだ。",
-    "Text": "Last thawed crew of the Delta\nValiant combat unit. It should show\nyou a different perspective of\nother crew.",
+    "Text": "델타 발리언트 실전 부대의 마지막 해동 크루.\n다른 크루와는 차원이 다른 실력을\n보여 줄 것이다.",
     "Enabled": true
   }
 }

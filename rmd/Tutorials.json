@@ -1,1387 +1,1377 @@
 {
-  "770000": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
   "770001": {
     "OriginalText": "『移動とカメラ燥作』",
-    "Text": "[Moving and Camera Usage]",
-    "Enabled": true
+    "Text": "이동과 카메라 조작",
+    "Enabled": false
   },
   "770002": {
     "OriginalText": "『ハンターとレンジャーの攻撃』",
-    "Text": "[Attacking as a Hunter/Ranger]",
+    "Text": "헌터와 레인저의 공격",
     "Enabled": true
   },
   "770003": {
     "OriginalText": "『ハンターの回避』",
-    "Text": "[Dodging as a Hunter]",
+    "Text": "헌터의 회피",
     "Enabled": true
   },
   "770004": {
     "OriginalText": "『ジャストアタックとサブパレット』",
-    "Text": "[Just Attacks and Subpalette]",
+    "Text": "저스트 어택과 서브 팔레트",
     "Enabled": true
   },
   "770005": {
     "OriginalText": "『武器切り替えとロックオン』",
-    "Text": "[Weapon Switching and Lock-on]",
+    "Text": "무기 전환과 록온",
     "Enabled": true
   },
   "770006": {
     "OriginalText": "『グランアーツ』",
-    "Text": "[Gran Arts]",
+    "Text": "그란 아츠",
     "Enabled": true
   },
   "770007": {
     "OriginalText": "『テクニック』",
-    "Text": "[Techniques]",
+    "Text": "테크닉",
     "Enabled": true
   },
   "770008": {
     "OriginalText": "『チェインとグランバースト』",
-    "Text": "[Chain and Gran BURST]",
+    "Text": "체인과 그란 버스트",
     "Enabled": true
   },
   "770009": {
     "OriginalText": "『戦闘不能』",
-    "Text": "[Incapacitation]",
+    "Text": "전투 불능",
     "Enabled": true
   },
   "770010": {
     "OriginalText": "『状態異常』",
-    "Text": "[Status Ailments]",
+    "Text": "상태이상",
     "Enabled": true
   },
   "770011": {
     "OriginalText": "『グランリンク』",
-    "Text": "[Gran Link]",
+    "Text": "그란 링크",
     "Enabled": true
   },
   "770012": {
     "OriginalText": "『攻撃について』",
-    "Text": "[Attacking]",
+    "Text": "공격에 관하여",
     "Enabled": true
   },
   "770013": {
     "OriginalText": "『ステップアタック』",
-    "Text": "[Step Attack]",
+    "Text": "스텝 어택",
     "Enabled": true
   },
   "770014": {
     "OriginalText": "『ジャストガード』",
-    "Text": "[Just Guard]",
+    "Text": "저스트 가드",
     "Enabled": true
   },
   "770015": {
     "OriginalText": "『ハンター』",
-    "Text": "[Hunter]",
+    "Text": "헌터",
     "Enabled": true
   },
   "770016": {
     "OriginalText": "『レンジャー』",
-    "Text": "[Ranger]",
+    "Text": "레인저",
     "Enabled": true
   },
   "770017": {
     "OriginalText": "『フォース』",
-    "Text": "[Force]",
+    "Text": "포스",
     "Enabled": true
   },
   "770018": {
     "OriginalText": "『バスター』",
-    "Text": "[Buster]",
+    "Text": "버스터",
     "Enabled": true
   },
   "770019": {
     "OriginalText": "『バスター』",
-    "Text": "[Buster]",
+    "Text": "버스터",
     "Enabled": true
   },
   "770020": {
     "OriginalText": "『ムービングショット』",
-    "Text": "[Moving Shot]",
+    "Text": "무빙 샷",
     "Enabled": true
   },
   "770021": {
     "OriginalText": "『ヘイロウ』",
-    "Text": "[Halo]",
+    "Text": "헤일로",
     "Enabled": true
   },
   "770022": {
     "OriginalText": "『リングフィールド』",
-    "Text": "[Ring Field]",
+    "Text": "링 필드",
     "Enabled": true
   },
   "770023": {
     "OriginalText": "『パイルとバスター』",
-    "Text": "[Pile and Buster]",
+    "Text": "파일과 버스터",
     "Enabled": true
   },
   "770024": {
     "OriginalText": "『ブーストエネミー』",
-    "Text": "[Boosted Enemy]",
+    "Text": "부스트 에너미",
     "Enabled": true
   },
   "770025": {
     "OriginalText": "『レアエネミー』",
-    "Text": "[Rare Enemy]",
+    "Text": "레어 에너미",
     "Enabled": true
   },
   "770026": {
     "OriginalText": "『部位破壊』",
-    "Text": "[Part Destruction]",
+    "Text": "부위 파괴",
     "Enabled": true
   },
   "770027": {
     "OriginalText": "『設定とヘルプ』",
-    "Text": "[Options and Help]",
+    "Text": "설정과 헬프",
     "Enabled": true
   },
   "770028": {
     "OriginalText": "『マルチプレイとゲストクルー』",
-    "Text": "[Multiplayer and Guest Crew]",
+    "Text": "멀티플레이와 게스트 크루",
     "Enabled": true
   },
   "770029": {
     "OriginalText": "『クエストの受け方』",
-    "Text": "[Starting Quests]",
+    "Text": "퀘스트 수주 방법",
     "Enabled": true
   },
   "770030": {
     "OriginalText": "『スキルボード』",
-    "Text": "[Skill Board]",
+    "Text": "'스킬 보드'",
     "Enabled": true
   },
   "770031": {
     "OriginalText": "『スキルボードの拡張と切替』",
-    "Text": "[Skill Board Expansion and Switching]",
+    "Text": "'스킬 보드 확장과 전환'",
     "Enabled": true
   },
   "770032": {
     "OriginalText": "『コールドスリープからの解凍』",
-    "Text": "[Defrosting From Cold Sleep]",
+    "Text": "'콜드 슬립에서 해동'",
     "Enabled": true
   },
   "770033": {
     "OriginalText": "『施設の開発』",
-    "Text": "[Facility Development]",
+    "Text": "'시설 개발'",
     "Enabled": true
   },
   "770034": {
     "OriginalText": "『施設の配置と移動』",
-    "Text": "[Moving and Placing Facilities]",
+    "Text": "'시설 배치와 이동'",
     "Enabled": true
   },
   "770035": {
     "OriginalText": "『クルーの配属』",
-    "Text": "[Crew Assignment]",
+    "Text": "'승무원 배치'",
     "Enabled": true
   },
   "770036": {
     "OriginalText": "『クラスカウンター』",
-    "Text": "[Class Counter]",
+    "Text": "'클래스 카운터'",
     "Enabled": true
   },
   "770037": {
     "OriginalText": "『食堂』",
-    "Text": "[Restaurant]",
+    "Text": "식당",
     "Enabled": true
   },
   "770038": {
     "OriginalText": "『武器ショップ』",
-    "Text": "[Weapon Shop]",
+    "Text": "무기 샵",
     "Enabled": true
   },
   "770039": {
     "OriginalText": "『アタッチパーツ』",
-    "Text": "[Attachments]",
+    "Text": "어태치 파츠",
     "Enabled": true
   },
   "770040": {
     "OriginalText": "『武器カスタマイズ』",
-    "Text": "[Weapon Customization]",
+    "Text": "무기 커스터마이즈",
     "Enabled": true
   },
   "770041": {
     "OriginalText": "『防具ショップ』",
-    "Text": "[Shield Shop]",
+    "Text": "방어구 샵",
     "Enabled": true
   },
   "770042": {
     "OriginalText": "『アイテムショップ』",
-    "Text": "[Item Shop]",
+    "Text": "아이템 샵",
     "Enabled": true
   },
   "770043": {
     "OriginalText": "『コスチュームショップ』",
-    "Text": "[Costume Shop]",
+    "Text": "코스튬 샵",
     "Enabled": true
   },
   "770044": {
     "OriginalText": "『エステ』",
-    "Text": "[Makeover Shop]",
+    "Text": "에스테",
     "Enabled": true
   },
   "770045": {
     "OriginalText": "『スタイル』",
-    "Text": "[Styles]",
+    "Text": "스타일",
     "Enabled": true
   },
   "770046": {
     "OriginalText": "『特微』",
-    "Text": "[Skills]",
-    "Enabled": true
+    "Text": "특징",
+    "Enabled": false
   },
   "770047": {
     "OriginalText": "『倉庫と一時倉庫』",
-    "Text": "[Storage and Temp Storage]",
+    "Text": "창고와 임시 창고",
     "Enabled": true
   },
   "770048": {
     "OriginalText": "『メインメニュー』",
-    "Text": "[Main Menu]",
+    "Text": "메인 메뉴",
     "Enabled": true
   },
   "770049": {
     "OriginalText": "『プロミスオーダー』",
-    "Text": "[Promise Orders]",
+    "Text": "프로미스 오더",
     "Enabled": true
   },
   "770050": {
     "OriginalText": "フィルディアの依頼",
-    "Text": "Fildia's Request",
+    "Text": "필디아의 의뢰",
     "Enabled": true
   },
   "770051": {
     "OriginalText": "グランド・アクトⅡ開始！！",
-    "Text": "Grand Act II Begins!!",
+    "Text": "그랜드 액트 II 시작!",
     "Enabled": true
   },
   "770052": {
     "OriginalText": "『グランブースター』",
-    "Text": "[Gran Booster]",
+    "Text": "그란 부스터",
     "Enabled": true
   },
   "770053": {
     "OriginalText": "『アイテム探知伝置』",
-    "Text": "[Item Detection System]",
-    "Enabled": true
+    "Text": "아이템 탐지 장치",
+    "Enabled": false
   },
   "770054": {
     "OriginalText": "『エネミーレーダー』",
-    "Text": "[Enemy Radar]",
+    "Text": "에너미 레이더",
     "Enabled": true
   },
   "770055": {
     "OriginalText": "『バースト加速伝置』",
-    "Text": "BURST Acceleration Device",
-    "Enabled": true
+    "Text": "버스트 가속 장치",
+    "Enabled": false
   },
   "770056": {
     "OriginalText": "『探索隊』",
-    "Text": "Search Team",
+    "Text": "탐색대",
     "Enabled": true
   },
   "770057": {
     "OriginalText": "『ギガンテス捕獲所』",
-    "Text": "[Gigantes Capture Facility]",
+    "Text": "기간테스 포획소",
     "Enabled": true
   },
   "770058": {
     "OriginalText": "『シアタースコープ』",
-    "Text": "Theater Terminal",
+    "Text": "시어터 스코프",
     "Enabled": true
   },
   "770059": {
     "OriginalText": "クラスカウンターへ",
-    "Text": "To Class Counter",
+    "Text": "클래스 카운터로",
     "Enabled": true
   },
   "770060": {
     "OriginalText": "新しい任務",
-    "Text": "New Duties",
+    "Text": "새로운 임무",
     "Enabled": true
   },
   "770061": {
     "OriginalText": "上層の開放",
-    "Text": "Upper Level Opened",
+    "Text": "상층 개방",
     "Enabled": true
   },
   "770062": {
     "OriginalText": "下層の開放",
-    "Text": "Lower Level Opened",
+    "Text": "하층 개방",
     "Enabled": true
   },
   "770063": {
     "OriginalText": "フィルディアの元へ",
-    "Text": "Fildia's Location",
+    "Text": "필디아에게로",
     "Enabled": true
   },
   "770064": {
     "OriginalText": "レイヴァンの助手の元へ",
-    "Text": "Raven's Assistant's Position",
+    "Text": "레이반의 조수에게로",
     "Enabled": true
   },
   "770065": {
     "OriginalText": "クエストゲートへ",
-    "Text": "Quest Gate",
+    "Text": "퀘스트 게이트로",
     "Enabled": true
   },
   "770066": {
     "OriginalText": "コールドスリープルームへ",
-    "Text": "Cold Sleep Chamber",
+    "Text": "콜드 슬립 룸으로",
     "Enabled": true
   },
   "770067": {
     "OriginalText": "マルチプレイルームへ",
-    "Text": "Multiplayer Room",
+    "Text": "멀티플레이 룸으로",
     "Enabled": true
   },
   "770068": {
     "OriginalText": "新しい世界へ",
-    "Text": "To the New World",
+    "Text": "새로운 세계로",
     "Enabled": true
   },
   "770069": {
     "OriginalText": "インフォメーション",
-    "Text": "Information",
+    "Text": "인포메이션",
     "Enabled": true
   },
   "770070": {
     "OriginalText": "『グラン』",
-    "Text": "Gran",
+    "Text": "그란",
     "Enabled": true
   },
   "770071": {
     "OriginalText": "『戦闘演習２：テクニック』",
-    "Text": "Battle Excerise 2: Techniques",
+    "Text": "전투 연습 2: 테크닉",
     "Enabled": true
   },
   "770072": {
     "OriginalText": "『戦闘演習３：ガード』",
-    "Text": "Battle Excerise 3: Guard",
+    "Text": "전투 연습 3: 가드",
     "Enabled": true
   },
   "770073": {
     "OriginalText": "ＰＳＯ２連動特典解放",
-    "Text": "PSO2 Save Bonus Award",
+    "Text": "PSO2 연동 특전 해금",
     "Enabled": true
   },
   "770074": {
     "OriginalText": "『クエストインフォメーション』",
-    "Text": "[Quest Information]",
+    "Text": "퀘스트 인포메이션",
     "Enabled": true
   },
   "770075": {
     "OriginalText": "『フォースの攻撃』",
-    "Text": "[Attacking as a Force]",
+    "Text": "포스의 공격",
     "Enabled": true
   },
   "770076": {
     "OriginalText": "『レンジャーの回避』",
-    "Text": "[Dodging as a Ranger]",
+    "Text": "레인저의 회피",
     "Enabled": true
   },
   "770077": {
     "OriginalText": "『フォースの回避』",
-    "Text": "[Dodging as a Force]",
+    "Text": "포스의 회피",
     "Enabled": true
   },
   "770078": {
     "OriginalText": "ＰＳＯ２連動特典追加",
-    "Text": "PSO2 Save Bonus Added",
+    "Text": "PSO2 연동 특전 추가",
     "Enabled": true
   },
   "770079": {
     "OriginalText": "『回避と防御について』",
-    "Text": "[About Dodging and Defense]",
+    "Text": "회피와 방어에 관하여",
     "Enabled": true
   },
   "770080": {
     "OriginalText": "難易度ハード",
-    "Text": "Hard Difficulty",
+    "Text": "난이도 하드",
     "Enabled": true
   },
   "770081": {
     "OriginalText": "難易度ベリーハード",
-    "Text": "Very Hard Difficulty",
+    "Text": "난이도 베리 하드",
     "Enabled": true
   },
   "770082": {
     "OriginalText": "グランド・アクトⅠ開始！！",
-    "Text": "Grand Act I Begins!!",
+    "Text": "그랜드 액트 I 시작!",
     "Enabled": true
   },
   "770083": {
     "OriginalText": "ver.1.01アップデート！",
-    "Text": "Version 1.01 Updates!",
+    "Text": "ver.1.01 업데이트!",
     "Enabled": true
   },
   "770084": {
     "OriginalText": "ver.1.02アップデート！",
-    "Text": "Version 1.02 Updates!",
+    "Text": "ver.1.02 업데이트!",
     "Enabled": true
   },
   "770085": {
     "OriginalText": "ver.1.03アップデート！",
-    "Text": "Version 1.03 Updates!",
+    "Text": "ver.1.03 업데이트!",
     "Enabled": true
   },
   "770086": {
     "OriginalText": "ver.1.05アップデート！",
-    "Text": "Version 1.05 Updates!",
+    "Text": "ver.1.05 업데이트!",
     "Enabled": true
   },
   "770087": {
     "OriginalText": "『コア精錬所』",
-    "Text": "[Core Refinery]",
+    "Text": "코어 제련소",
     "Enabled": true
   },
   "770088": {
     "OriginalText": "難易度スーパーハード",
-    "Text": "Super Hard Difficulty",
+    "Text": "난이도 슈퍼 하드",
     "Enabled": true
   },
   "770089": {
     "OriginalText": "難易度エクストラハード",
-    "Text": "Extra Hard Difficulty",
+    "Text": "난이도 엑스트라 하드",
     "Enabled": true
   },
   "770090": {
     "OriginalText": "『武器エクステンド』",
-    "Text": "[Weapon Extension]",
+    "Text": "무기 익스텐드",
     "Enabled": true
   },
   "770091": {
     "OriginalText": "『再キャラクタークリエイト』",
-    "Text": "[Recreate Character]",
+    "Text": "재캐릭터 크리에이트",
     "Enabled": true
   },
   "770092": {
     "OriginalText": "ver.1.05アップデート！ その１",
-    "Text": "Version 1.05 Updates! Part 1",
+    "Text": "ver.1.05 업데이트! 1",
     "Enabled": true
   },
   "770093": {
     "OriginalText": "ver.1.05アップデート！ その２",
-    "Text": "Version 1.05 Updates! Part 2",
+    "Text": "ver.1.05 업데이트! 2",
     "Enabled": true
   },
   "770094": {
     "OriginalText": "予備",
-    "Text": "Reserved",
+    "Text": "예비",
     "Enabled": true
-  },
-  "780000": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
   },
   "780001": {
     "OriginalText": "『カメラ燥作』\n\n[f 66] で[a 07]周りを見回す[b]ことができます。\nカメラを標準の視点にリセットするには\n[f 79] を押します。\n\nメインメニューの\n［設定/ヘルプ］＞［カメラ設定］で\n通常カメラの設定を変更することができます。",
-    "Text": "[Camera Control]\n\nUse [f 66] to [a 07]look around[b] and move the camera.\nTo reset the camera to the default view,\npress the [f 79] button.",
-    "Enabled": true
+    "Text": "카메라 조작\n\n[f 66]을 움직여 [a 07]주위를 둘러 볼[b] 수 있습니다.\n카메라를 기본 시점으로 되돌리려면\n[f 79] 버튼을 누르세요.\n\n메인 메뉴의 설정/헬프 > 카메라 설정에서\n기본 카메라 설정을 변경할 수 있습니다.",
+    "Enabled": false
   },
   "780002": {
     "OriginalText": "『移動とジャンプ』\n\nキャラクターは [f 65] で[a 07]移動[b]させることが\nできます。\n\nまた [f 75] を押すことで[a 07]ジャンプ[b]ができます。\n\n[a 07]ボタンを長押し[b]することでより高くジャンプ\nすることも可能です。\n\nまずはキャラクターを動かして指定された場\n所まで近づいてみましょう。",
-    "Text": "[Moving and jumping]\n\nUse the [f 65] to [a 07]move[b].\n\nBy pressing [f 75] you can [a 07]jump[b]\ninto the air. You can jump higher by\npressing the button longer.",
+    "Text": "이동과 점프\n\n[f 65]으로 캐릭터를 [a 07]이동[b]할 수 있습니다.\n\n[f 75] 버튼을 누르면 [a 07]점프[b]합니다.\n\n버튼을 [a 07]길게 누르면[b] 더 높이 뛸 수 있습니다.\n\n먼저 캐릭터를 움직여 지정된 장소로\n가까이 가 보세요.",
     "Enabled": true
   },
   "780003": {
     "OriginalText": "『攻撃と連続攻撃』\n\n[f 73] を押すことで、[a 07]通常攻撃[b]を行います。\n\n通常攻撃は１種類ですが、[f 73] を[a 07]連打または\n押し続ける[b]ことで、[a 07]３段攻撃[b]を連続して行う\n「連続攻撃」ができます。",
-    "Text": "[Attacking continuously]\n\nPressing [f 73] will do a [a 07]normal attack[b].\n\nIf you continue to press/hold [f 73],\nyou will do [a 07]additional attacks[b].",
+    "Text": "공격과 연속 공격\n\n[f 73] 버튼을 누르면 [a 07]통상 공격[b]을 합니다.\n\n통상 공격은 한 종류지만, [f 73] 버튼을\n[a 07]연타하거나 계속 누르면[b] [a 07]3단 공격[b]을\n연속으로 펼칠 수 있습니다.",
     "Enabled": true
   },
   "780004": {
     "OriginalText": "『フォトンアーツ』\n\nフォトンアーツとは、フォトンの力を用いた\n強力な攻撃です。\n\nフォトンアーツには射程や属性の異なる\nさままな種類があります。\n\n[f 78] を押しながら [f 73] や [f 74] を押すと\n[a 07]伝備している武器に対応したフォトンアーツ[b]を\n繰り出します。",
-    "Text": "[Photon Arts]\n\nPhoton Arts are powerful attacks using\nphotons.\n\nWhile holding [f 78], you can press [f 73] or [f 74]\n[a 07]to use a Photon Art[b].",
-    "Enabled": true
+    "Text": "포톤 아츠\n\n포톤 아츠는 포톤의 힘을 이용한\n강력한 공격입니다.\n\n사거리와 속성이 서로 다른\n다양한 포톤 아츠가 있습니다.\n\n[f 78] 버튼을 누른 채 [f 73] 또는 [f 74]를 누르면\n[a 07]장비한 무기에 맞는 포톤 아츠[b]를 사용합니다.",
+    "Enabled": false
   },
   "780005": {
     "OriginalText": "\nフォトンアーツは繰り出すごとに\n[a 07]ＰＰ（フォトンポイント）を消費[b]します。\n\nＰＰは[a 07]時間経過[b]、または[a 07]通常攻撃をヒット[b]\nさせることで回復します。\n\n通常攻撃とフォトンアーツを\nうまく組み合わせて戦いましょう。",
-    "Text": "\nEvery time you use a Photon Art, you\nwill [a 07]consume PP (Photon Points)[b].\n\nPP can [a 07]recover over time[b], or \nregained [a 07]by attacking normally.[b]",
+    "Text": "\n포톤 아츠를 사용할 때마다\n[a 07]PP(포톤 포인트)를 소모[b]합니다.\n\nPP는 [a 07]시간이 지나거나[b] [a 07]통상 공격을 적중[b]시키면\n회복됩니다.\n\n통상 공격과 포톤 아츠를\n적절히 조합해 싸우세요.",
     "Enabled": true
   },
   "780006": {
     "OriginalText": "『テクニック』\n\nテクニックとは、フォースがフォトンの力を\n用いて扱う強力な法術です。\n\n[a 07]遠隔攻撃[b]をはじめ、[a 07]パーティーメンバーの\n治癒[b]や[a 07]戦闘ダメージの軽滅[b]など、\nさままなテクニックが存在します。\n\nテクニックは [f 74][a 07] 長押し溜めで発動[b]します。",
-    "Text": "[Techniques]\n\nTechniques are powerful skills utilized by Force\nvia harnessing the power of photons.\n\nThey include things such as [a 07]ranged attacks[b], [a 07]healing party members[b],\nand [a 07]offensive and defensive buffs[b].\n\nYou can [a 07]charge[b] a Technique by\nholding down [f 74].",
-    "Enabled": true
+    "Text": "테크닉\n\n테크닉은 포스가 포톤의 힘을 이용해\n구사하는 강력한 법술입니다.\n\n[a 07]원거리 공격[b]은 물론, [a 07]파티 멤버 치료[b]와\n[a 07]받는 전투 데미지 감소[b] 등\n다양한 테크닉이 있습니다.\n\n[f 74] 버튼을 [a 07]길게 눌러 차지하면 발동[b]합니다.",
+    "Enabled": false
   },
   "780007": {
     "OriginalText": "\nテクニックは繰り出す度に\n[a 07]ＰＰ（フォトンポイント）を消費[b]します。\n\nＰＰは[a 07]時間経過[b]、または[a 07]通常攻撃をヒット[b]させる\nことで回復します。\n\n通常攻撃とテクニックをうまく組み合わせて\n戦いましょう。",
-    "Text": "\nTechniques [a 07]consume PP (Photon Points)[b]\nwhen they are used.\n\nPP will [a 07]slowly recover over time[b],\nor by hitting enemies with [a 07]normal attacks[b].\n\nYou can fight using both normal attacks\nand Techniques.",
+    "Text": "\n테크닉을 사용할 때마다\n[a 07]PP(포톤 포인트)를 소모[b]합니다.\n\nPP는 [a 07]시간이 지나거나[b] [a 07]통상 공격을 적중[b]시키면\n회복됩니다.\n\n통상 공격과 테크닉을 적절히 조합해\n싸우세요.",
     "Enabled": true
   },
   "780008": {
     "OriginalText": "『ハンターの回避アクション』\n\n[f 77] の入力で、[a 07]移動方向へ回避[b]を行います。\n\nハンターの回避アクション「[a 07]ステップ[b]」は、\n最小限の移動距離ですばやく身をかわします。\n\nクラスによって回避アクションは異なります。",
-    "Text": "[Dodging as a Hunter]\n\nBy holding and pressing [f 77]\nyou [a 07]can perform a Dodge Action[b]\nin the direction of where you're\nmoving towards.\n\nYou will only move in a short distance\nas a Hunter. Other Classes will perform\ndifferent Dodge Actions.",
+    "Text": "헌터의 회피 액션\n\n[f 77] 버튼을 누르면 [a 07]이동 방향으로 회피[b]합니다.\n\n헌터의 회피 액션인 [a 07]스텝[b]은\n짧은 거리를 빠르게 움직여 공격을 피합니다.\n\n회피 액션은 클래스마다 다릅니다.",
     "Enabled": true
   },
   "780009": {
     "OriginalText": "『メインパレットの裏表を切り替える』\n\n画面右下の「メインパレット」に、[a 07]攻撃ボタ\nンとそれに対応するアクションが表示[b]されて\nいます。\n\n[f 78] を押している間は、[a 07]メインパレットが\n裏パレットに切り替わります[b]。\n\nこのときに [f 73] や [f 74] を押すことで割り\n当てられた行動をします。",
-    "Text": "[Swapping the Palettes]\nThe Main Palette in the lower right\ncorner of the screen shows [a 07]the\nattack buttons and their actions[b].\nBy holding [f 78], you will [a 07]swap\nto the back palette[b].\n\nPressing [f 73] or [f 74] will\nperform any actions that are\nassigned to them.",
+    "Text": "메인 팔레트 앞뒷면 전환\n\n화면 오른쪽 아래의 메인 팔레트에\n[a 07]공격 버튼과 해당 액션[b]이 표시됩니다.\n\n[f 78] 버튼을 누르고 있는 동안\n[a 07]메인 팔레트가 뒷면 팔레트로 전환[b]됩니다.\n\n이때 [f 73] 또는 [f 74] 버튼을 누르면\n할당된 액션을 수행합니다.",
     "Enabled": true
   },
   "780010": {
     "OriginalText": "『ガード』\n\nハンターは、武器を使ってガードをすることで\n敵からの[a 07]攻撃ダメージを軽滅[b]できます。\nガード時には[a 07]ＰＰを消費[b]します。\n\n初期設定では、ガードは [f 74] に登録されて\nいます。",
-    "Text": "Hunters can [a 07]reduce damage taken[b]\nfrom enemy attacks by guarding with\ntheir weapon. A guard consumes PP.\n\nGuard is assigned to [f 74] by default.",
-    "Enabled": true
+    "Text": "가드\n\n헌터는 무기로 가드해서\n적의 [a 07]공격 데미지를 줄일[b] 수 있습니다.\n가드할 때는 [a 07]PP를 소모[b]합니다.\n\n초기 설정에서는 [f 74] 버튼에\n가드가 등록되어 있습니다.",
+    "Enabled": false
   },
   "780011": {
     "OriginalText": "『ジャストアタック』\n\n攻撃後、体の周囲に光る円が表示されます。\n\n[a 07]円が赤く光っているタイミングで攻撃ボタン\nを押す[b]とジャストアタックとなります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "저스트 어택\n\n공격한 뒤에는 몸 주변에 빛나는 원이 나타납니다.\n\n[a 07]원이 붉게 빛날 때 공격 버튼을 누르면[b]\n저스트 어택이 됩니다.",
+    "Enabled": true
   },
   "780012": {
     "OriginalText": "\nジャストアタックに成功すると大きなダメー\nジを与えることができます。\n\nさらに敵のやられリアクションも大きくなり\nます。\n\nフォトンアーツやチャージテクニックなどと\n組み合わせて活用しましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n저스트 어택에 성공하면\n큰 피해를 줄 수 있습니다.\n\n적의 피격 리액션도 커집니다.\n\n포톤 아츠나 차지 테크닉 등과\n조합해서 활용하세요.",
+    "Enabled": true
   },
   "780013": {
     "OriginalText": "『サブパレット』\n\nサブパレットは画面の下と右に表示されている\nアイコンパレットです。\n\n[a 07]各アイコンにタッチ[b]すると、[a 07]登録されて\nいるアイテムやスキルなどを使用[b]できます。\n\nＨＰが滅ったら、始めからセットされている\n「モノメイト」をタッチしてみましょう。\nＨＰが少量回復します。",
-    "Text": "",
+    "Text": "서브 팔레트\n\n서브 팔레트는 화면 아래와 오른쪽에 있는\n아이콘 팔레트입니다.\n\n[a 07]아이콘을 터치[b]하면 [a 07]등록된 아이템이나\n스킬 등을 사용[b]할 수 있습니다.\n\nHP가 줄었다면 처음부터 등록된\n모노메이트를 터치해 보세요.\nHP가 조금 회복됩니다.",
     "Enabled": false
   },
   "780014": {
-    "OriginalText": "\n[f 7a][f 7b] を押すことで[a 07]３剤[b]のサブパレット\nを切り替えて使うことができます。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "\n[f 7a][f 7b] を押すことで[a 07]３枚[b]のサブパレット\nを切り替えて使うことができます。",
+    "Text": "\n[f 7a][f 7b] 버튼으로 [a 07]3개[b]의 서브 팔레트를\n전환하며 사용할 수 있습니다.",
+    "Enabled": true
   },
   "780015": {
     "OriginalText": "『武器切り替え』\n\n状況に応じて[a 07]使用する武器を切り替える[b]ことで、\n戦闘を有利に進めることができます。\n\n[f 7c][f 7d] で[a 07]武器パレットを選択し、[b]\n[f 02][a 07]で決定[b]することで、\n武器を切り替えることができます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기 전환\n\n상황에 맞게 [a 07]사용할 무기를 바꾸면[b]\n전투를 유리하게 이끌 수 있습니다.\n\n[f 7c][f 7d]로 [a 07]무기 팔레트를 선택하고[b]\n[f 02]로 [a 07]결정[b]하면 무기가 바뀝니다.",
+    "Enabled": true
   },
   "780016": {
     "OriginalText": "『ロックオン』\n\n[f 79][a 07] を押し続ける[b]ことでエネミーを常に\n画面内に捉え、攻撃しやすくなります。\n\n[f 79] を離すとロックオンを解除できます。\n\nエネミーが復数存在する場合、\n[f 66][a 07] 左右でロックオン対象を切り替え可能[b]です。",
-    "Text": "",
+    "Text": "록온\n\n[f 79] 버튼을 [a 07]계속 누르면[b] 에너미를\n항상 화면 안에 두어 공격하기 쉬워집니다.\n\n[f 79] 버튼을 놓으면 록온이 해제됩니다.\n\n에너미가 여럿 있을 때는\n[f 66]을 [a 07]좌우로 움직여 록온 대상을 전환할[b]\n수 있습니다.",
     "Enabled": false
   },
   "780017": {
-    "OriginalText": "\nロックオンの燥作は２通りから選べます。\n\n・ [f 79] 長押し（ホールド）でロックオン\n・ [f 79] を一度押すとロックオン\n\nロックオンの燥作方法はメインメニューの\n［設定/ヘルプ］＞[基本設定]で変更できます。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "\nロックオンの操作は２通りから選べます。\n\n・ [f 79] 長押し（ホールド）でロックオン\n・ [f 79] を一度押すとロックオン\n\nロックオンの操作方法はメインメニューの\n［設定/ヘルプ］＞[基本設定]で変更できます。",
+    "Text": "\n록온 조작은 두 가지 중에서 고를 수 있습니다.\n\n- [f 79] 버튼을 길게 눌러(홀드) 록온\n- [f 79] 버튼을 한 번 눌러 록온\n\n메인 메뉴의 설정/헬프 > 기본 설정에서\n록온 조작 방법을 변경할 수 있습니다.",
+    "Enabled": true
   },
   "780018": {
     "OriginalText": "『グランアーツ』\n\nグランアーツは、ＧＰ（グランポイント）を\n消費して放つ通常攻撃よりも強力な攻撃です。\n\n[f 78] を押しながら [f 73] や [f 74] を押すと\n[a 07]伝備している武器に対応したグランアーツ[b]を\n繰り出します。\n\nグランアーツは裏パレットにもセットされて\nいます。",
-    "Text": "",
+    "Text": "그란 아츠\n\n그란 아츠는 GP(그란 포인트)를 소모해\n통상 공격보다 강력한 공격을 펼치는 기술입니다.\n\n[f 78] 버튼을 누른 채 [f 73] 또는 [f 74]를 누르면\n[a 07]장비한 무기에 맞는 그란 아츠[b]를 사용합니다.\n\n그란 아츠는 뒷면 팔레트에도 등록되어 있습니다.",
     "Enabled": false
   },
   "780019": {
     "OriginalText": "\nグランアーツは繰り出す度に\n[a 07]ＧＰ（グランポイント）を消費[b]します。\n\nＧＰは[a 07]時間経過[b]、または[a 07]通常攻撃をヒット[b]させる\nことで回復します。\n\n通常攻撃とグランアーツをうまく組み合わせ\nて戦いましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n그란 아츠를 사용할 때마다\n[a 07]GP(그란 포인트)를 소모[b]합니다.\n\nGP는 [a 07]시간이 지나거나[b] [a 07]통상 공격을 적중[b]시키면\n회복됩니다.\n\n통상 공격과 그란 아츠를\n적절히 조합해 싸우세요.",
+    "Enabled": true
   },
   "780020": {
     "OriginalText": "『テクニック』\n\nテクニックとは、フォースがグランの力を用いて\n放つ強力な法術です。\n\nテクニックは [f 74][a 07] 長押し溜めで発動[b]します。\n\nテクニックは裏パレットにもセットされて\nいます。",
-    "Text": "Techniques are powerful Force skills\nthat harness Gran.\n\nHold [f 74] to [a 07]charge[b] a Technique.\n\nPlace Techniques on a [a 07]Weapon Palette[b] or\n[a 07]Subpalette[b].",
+    "Text": "테크닉\n\n테크닉은 포스가 그란의 힘을 이용해\n구사하는 강력한 법술입니다.\n\n[f 74] 버튼을 [a 07]길게 눌러 차지하면 발동[b]합니다.\n\n테크닉은 뒷면 팔레트에도 등록되어 있습니다.",
     "Enabled": true
   },
   "780021": {
     "OriginalText": "\nテクニックは繰り出す度に\n[a 07]ＧＰ（グランポイント）を消費[b]します。\n\nＧＰは[a 07]時間経過[b]、または[a 07]通常攻撃をヒット[b]させる\nことで回復します。\n\n通常攻撃とテクニックをうまく組み合わせて\n戦いましょう。",
-    "Text": "\nTechniques [a 07]consume GP (Gran Points)[b]\nwhen used.\n\nGP [a 07]slowly recovers over time[b],\nor by landing [a 07]normal attacks[b] on enemies.\n\nMix normal attacks and Techniques to fight.",
+    "Text": "\n테크닉을 사용할 때마다\n[a 07]GP(그란 포인트)를 소모[b]합니다.\n\nGP는 [a 07]시간이 지나거나[b] [a 07]통상 공격을 적중[b]시키면\n회복됩니다.\n\n통상 공격과 테크닉을\n적절히 조합해 싸우세요.",
     "Enabled": true
   },
   "780022": {
     "OriginalText": "『チェイン』\n\n[a 07]一定時間似内に敵に攻撃を当てる[b]ことで\n[a 07]チェインがカウントアップ[b]されます。\n\nチェイン数が増えると、より大きなダメージ\nを与えられます。\n\nジャストアタックでチェインに成功すると\nよりチェインがつながりやすくなり、\n与えるダメージにもボーナスがつきます。",
-    "Text": "",
+    "Text": "체인\n\n[a 07]일정 시간 안에 적에게 공격을 맞히면[b]\n[a 07]체인 수가 올라갑니다[b].\n\n체인 수가 늘수록 더 큰 데미지를 줄 수 있습니다.\n\n저스트 어택으로 체인을 이어가면\n체인을 더 쉽게 연결할 수 있고,\n주는 데미지에도 보너스가 붙습니다.",
     "Enabled": false
   },
   "780023": {
     "OriginalText": "\nチェインは、一定範囲内にいれば[a 07]別の敵に\n対しても発生[b]します。\n\nパーティーメンバーと協力すれば、チェイン\nを長くつなげやすくなります。\n\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n일정 범위 안에 있다면\n[a 07]다른 적에게도 체인을 이어갈 수 있습니다[b].\n\n파티 멤버들과 협력하면\n체인을 더 오래 이어가기 쉬워집니다.\n\n",
+    "Enabled": true
   },
   "780024": {
     "OriginalText": "『グランバースト』\n\n[a 07]チェインをつなげていると、[b]画面上部の\n「バーストゲージ」がたまっていきます。\n\n[a 07]バーストゲージがいっぱいにたまり切ると\n「グランバースト」が発生[b]します。\n\nグランバースト発生中は、チェインがさら\nにつながりやすくなります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "그란 버스트\n\n[a 07]체인을 이어가면[b] 화면 위쪽의\n버스트 게이지가 차오릅니다.\n\n[a 07]버스트 게이지가 가득 차면\n그란 버스트가 발생[b]합니다.\n\n그란 버스트 중에는\n체인을 더 쉽게 이어갈 수 있습니다.",
+    "Enabled": true
   },
   "780025": {
     "OriginalText": "『戦闘不能』\n\n[a 07]キャラクターのＨＰ（体力）が０[b]になると、\n[a 07]戦闘不能[b]となり、行動ができなくなって\nしまいます。\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "전투 불능\n\n[a 07]캐릭터의 HP(체력)가 0[b]이 되면\n[a 07]전투 불능[b] 상태가 되어\n행동할 수 없게 됩니다.\n",
+    "Enabled": true
   },
   "780026": {
     "OriginalText": "\nプレイヤーが戦闘不能となった時は、\n[a 07]スケープドールを使うことで復活[b]させる\nことができます。\n\n復活させずに「拠点へ帰還する」を選択すると\nクエストを終了して拠点に戻ります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n플레이어가 전투 불능이 됐을 때는\n[a 07]스케이프돌을 사용해 부활[b]할 수 있습니다.\n\n부활하지 않고 거점으로 귀환하기를 선택하면\n퀘스트를 종료하고 거점으로 돌아갑니다.",
+    "Enabled": true
   },
   "780027": {
     "OriginalText": "\n[a 07]パーティーメンバー[b]は、戦闘不能となっても\n[a 07]一定時間経過後に自動的に復活[b]します。\n[a 07]ムーンアトマイザーを使えば、即座に復活[b]\nさせることもできます。\n\nマルチプレイでは、他のプレイヤーが\n戦闘不能の時にムーンアトマイザーを使うことで\nそのプレイヤーを復活させられます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n[a 07]파티 멤버[b]는 전투 불능이 되어도\n[a 07]일정 시간이 지나면 자동으로 부활[b]합니다.\n[a 07]문 아토마이저를 쓰면 즉시 부활[b]\n시킬 수도 있습니다.\n\n멀티플레이에서는 다른 플레이어가\n전투 불능일 때 문 아토마이저를 써서\n그 플레이어를 부활시킬 수 있습니다.",
+    "Enabled": true
   },
   "780028": {
     "OriginalText": "『状態異常』\n\n敵の攻撃によって、プレイヤーやパーティー\nメンバーが[a 07]状態異常になる[b]ことがあります。\n\n状態異常は[a 07]一定時間で自動的に回復[b]しますが、\n[a 07]アイテム「ソルアトマイザー」[b]や[a 07]テクニック\n「アンティ」[b]を使えば同エリアにいる全員が\n回復します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "상태이상\n\n적의 공격으로 플레이어나 파티 멤버가\n[a 07]상태이상에 걸릴[b] 수 있습니다.\n\n상태이상은 [a 07]일정 시간이 지나면 회복[b]되지만,\n[a 07]아이템 솔 아토마이저[b]나 [a 07]테크닉 안티[b]를 쓰면\n같은 에어리어의 모두를 회복시킬 수 있습니다.",
+    "Enabled": true
   },
   "780029": {
     "OriginalText": "『様々な種類の状態異常』\n\n【グラン中毒】\n過度のグランが体内に入り行動を阻害します。\n攻撃などの行動ができなくなり、移動速度が\n低下します。\n\n【バインド】\nその場に拘束され、移動ができなくなります。\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "여러 가지 상태이상\n\n그란 중독\n지나친 그란이 몸에 들어와 행동을 방해합니다.\n공격 등의 행동을 할 수 없게 되며\n이동 속도가 느려집니다.\n\n바인드\n그 자리에 묶여 움직일 수 없게 됩니다.\n",
+    "Enabled": true
   },
   "780030": {
-    "OriginalText": "\n【インフェクション】\n病に感染し一定時間ダメージを受け続けます。\n近くのパーティーメンバーにも感染します。\n\n【ブラインド】\n視覚を阻害され、視界が狭くなります。\n\n【属性異常（炎・劇・雷・風・光・闇・全て）】\n各属性に対する耐性が滅少します。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "\n【インフェクション】\n病に感染し一定時間ダメージを受け続けます。\n近くのパーティーメンバーにも感染します。\n\n【ブラインド】\n視覚を阻害され、視界が狭くなります。\n\n【属性異常（炎・氷・雷・風・光・闇・全て）】\n各属性に対する耐性が減少します。",
+    "Text": "\n인펙션\n감염되어 일정 시간 동안 계속 데미지를 받습니다.\n근처의 파티 멤버에게도 전염됩니다.\n\n블라인드\n시야가 방해받아 보이는 범위가 좁아집니다.\n\n속성 이상(염/빙/뇌/풍/광/암/전체)\n각 속성에 대한 내성이 낮아집니다.",
+    "Enabled": true
   },
   "780031": {
     "OriginalText": "『グランリンク』\n\n「グランリンク」は[a 07]「パイル」を使って\nギガンテスの制御を奪い捕獲[b]する技術です。\n\nグランリンクで捕獲したギガンテスは、拠点\nに連れ帰ることができます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "그란 링크\n\n'그란 링크'는 [a 07]'파일'로 기간테스의\n제어권을 빼앗아 포획[b]하는 기술입니다.\n\n그란 링크로 포획한 기간테스는\n거점으로 데려올 수 있습니다.",
+    "Enabled": true
   },
   "780032": {
     "OriginalText": "『グランリンクを実行するには』\n\nパイルを使って[a 07]ギガンテスに杭を刺します。[b]\n\n[a 07]ギガンテスのＨＰが残りわずか[b]となった時に\n[a 07]サブパレットから「イグニッション」\nのスキルを使い、杭を爆発[b]させればグランリ\nンクが成功します！\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "그란 링크 실행 방법\n\n파일로 [a 07]기간테스에 말뚝을 박습니다.[b]\n\n[a 07]기간테스의 HP가 얼마 남지 않았을 때[b]\n[a 07]서브 팔레트의 '이그니션' 스킬을 사용해\n말뚝을 폭발[b]시키면 그란 링크에 성공합니다!\n",
+    "Enabled": true
   },
   "780033": {
     "OriginalText": "『イグニッションのセット』\n\nグランリンクをするための準備として、[a 07]サブ\nパレットにスキル「イグニッション」\nをセット[b]する必要があります。\n\nメインメニュー[伝備]＞[サブパレット伝備]\nから配置するパレットを選び、\n「イグニッション」をセットします。",
-    "Text": "",
+    "Text": "이그니션 설정\n\n그란 링크를 준비하려면 [a 07]서브 팔레트에\n'이그니션' 스킬을 설정[b]해야 합니다.\n\n메인 메뉴 (장비) > (서브 팔레트 장비)에서\n사용할 팔레트를 선택한 뒤\n'이그니션'을 설정하세요.",
     "Enabled": false
   },
   "780034": {
     "OriginalText": "『倉庫』\n\n倉庫はアイテムを預けることができます。\n\nアイテムパック（手持ちのアイテム）が\n容量上限の２００個入っている時に\nアイテムを入手した場合、そのアイテム\nは倉庫に自動的に入ります。\n\n「モノメイト」など所持量制限のあるアイテム\nを制限数似上に入手した場合も、\nそのアイテムは倉庫へ送られます。",
-    "Text": "",
+    "Text": "창고\n\n창고에는 아이템을 맡길 수 있습니다.\n\n아이템 팩(소지 아이템)이\n최대 용량인 200개로 가득 찬 상태에서\n아이템을 입수하면 그 아이템은\n자동으로 창고에 들어갑니다.\n\n'모노메이트'처럼 소지 수에 제한이 있는\n아이템을 제한 수 이상 입수한 경우에도\n그 아이템은 창고로 보내집니다.",
     "Enabled": false
   },
   "780035": {
     "OriginalText": "『一時倉庫』\n\n倉庫が容量上限の５０００個入っている\n時にアイテムを入手した場合、\nアイテムは一時倉庫に自動的に入ります。\n\n一時倉庫にアイテムがある状態ではクエスト\nゲートやショップにアクセスできません。\n一時倉庫を空にしてからアクセスしてください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "임시 창고\n\n창고가 최대 용량인 5,000개로 가득 찬\n상태에서 아이템을 입수하면\n아이템은 자동으로 임시 창고에 들어갑니다.\n\n임시 창고에 아이템이 있으면 퀘스트\n게이트나 샵에 액세스할 수 없습니다.\n임시 창고를 비운 뒤 액세스해 주세요.",
+    "Enabled": true
   },
   "780036": {
     "OriginalText": "『ステップアタック』\n\n[a 07]回避中に通常攻撃を入力[b]することで、回避後\nの立ち上がりから[a 07]素早く攻撃[b]を始めることが\nできるようになるスキルです。\n\nステップアタックは[a 07]スキルボードにセット[b]\nすれば使えるようになります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "스텝 어택\n\n[a 07]회피 중에 통상 공격을 입력[b]하면\n회피가 끝나고 일어날 때 [a 07]빠르게 공격[b]을\n시작할 수 있게 해 주는 스킬입니다.\n\n스텝 어택은 [a 07]스킬 보드에 장착[b]하면\n사용할 수 있습니다.",
+    "Enabled": true
   },
   "780037": {
     "OriginalText": "『ジャストガード』\n\n敵からの[a 07]攻撃を受ける直前にタイミングよく\n「ガード」[b]を行うことで「ジャストガード」\nが発生するようになるスキルです。\n\n[a 07]受けるダメージを０[b]にして、さらに[a 07]近距離の\n敵に反撃ダメージ[b]を与えます。\nＧＰ（グランポイント）の消費もありません。",
-    "Text": "",
-    "Enabled": false
+    "Text": "저스트 가드\n\n적의 [a 07]공격을 받기 직전 타이밍에 맞춰\n'가드'[b]하면 '저스트 가드'가\n발생하게 해 주는 스킬입니다.\n\n[a 07]받는 데미지를 0[b]으로 만들고,\n[a 07]가까운 적에게 반격 데미지[b]를 줍니다.\nGP(그란 포인트)도 소모하지 않습니다.",
+    "Enabled": true
   },
   "780038": {
     "OriginalText": "\nジャストガードを行うには、\n[a 07]「ジャストガード」をスキルボードにセット[b]し、\n[a 07]「ガード」を武器パレットにセット[b]する必要が\nあります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n저스트 가드를 사용하려면\n[a 07]'저스트 가드'를 스킬 보드에 장착[b]하고,\n[a 07]'가드'를 무기 팔레트에 등록[b]해야 합니다.",
+    "Enabled": true
   },
   "780039": {
     "OriginalText": "『ハンター』\n\nハンターは[a 07]近接攻撃[b]を得意とする戦闘タイプ\nです。\n\n打撃武器である[a 07]ソード・パルチザン・\nダブルセイバー・ナックル[b]を使いこなします。\n\nハンターの回避アクション「ステップ」は\n最小限の移動距離ですばやく身をかわします。",
-    "Text": "Hunters are a class [a 07]specialized\nin melee combat[b].\n\nThey're proficient with [a 07]Swords, Partizans,\nDouble Sabers, & Knuckles[b].\n\nA Hunter's evasion move, [a 07][Step][b],\nlets them dodge with\nminimal movement.",
+    "Text": "헌터\n\n헌터는 [a 07]근접 공격[b]에 특화된\n전투 타입입니다.\n\n타격 무기인 [a 07]소드, 파르티잔,\n더블 세이버, 너클[b]을 능숙하게 다룹니다.\n\n헌터의 회피 액션 '스텝'은\n최소한의 이동 거리로 빠르게 몸을 피합니다.",
     "Enabled": true
   },
   "780040": {
     "OriginalText": "『レンジャー』\n\nレンジャーは[a 07]中～遠距離からの攻撃[b]を得意と\nする戦闘タイプです。\n\n射撃武器である[a 07]アサルトライフルや\nツインマシンガン[b]を使いこなします。\n\nレンジャーの回避アクション「ダイブロール」は\n地面で前転し攻撃を回避します。\n[a 07]ジャストアタックにつなげることが可能[b]です。",
-    "Text": "Rangers specialize in attacking\nfrom [a 07]medium to long range[b].\n\nThey're proficient with weapons such\nas the [a 07]Assault Rifle & Twin Machineguns[b].\n\nTheir evasion skill, [a 07][Dive Roll][b], rolls\nforward on the ground to dodge attacks,\nand can [a 07]chain into a [Just Attack][b].",
+    "Text": "레인저\n\n레인저는 [a 07]중거리와 원거리 공격[b]에\n특화된 전투 타입입니다.\n\n사격 무기인 [a 07]어설트 라이플과\n트윈 머신 건[b]을 능숙하게 다룹니다.\n\n레인저의 회피 액션 '다이브 롤'은\n땅에서 앞으로 굴러 공격을 회피합니다.\n[a 07]저스트 어택으로 이어갈 수도[b] 있습니다.",
     "Enabled": true
   },
   "780041": {
     "OriginalText": "『肩越し視点』\n\n肩越し視点は[a 07]射撃武器用の視点モード[b]です。\n\n[f 66] を使い手動で照準を合わせられます。\n\nまた、[f 07] を押すと\n照準が近くの敵に補正されます。\n\n肩越し視点を使いこなすことで、攻撃したい\n場所を自由に、より精密に狙えます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "TPS 시점\n\nTPS 시점은 [a 07]사격 무기용 시점 모드[b]입니다.\n\n조준은 [f 66]으로 직접 움직일 수 있습니다.\n\n또한 [f 07] 버튼을 누르면\n가까운 적 쪽으로 조준이 보정됩니다.\n\nTPS 시점을 활용하면 공격할 위치를\n자유롭게, 더 정밀하게 조준할 수 있습니다.",
+    "Enabled": true
   },
   "780042": {
     "OriginalText": "\n肩越し視点に変更するには\n・[a 07]自分のキャラクターをタッチ[b]します。\n\n通常視点に戻すには\n・再度、[a 07]自分のキャラクターをタッチ[b]します。\n\n\n[PlayStation®Vita TVでの燥作]\nPlayStation®Vita TVでは、\n[f 72][a 07] 押しこみ[b]で視点切り替えができます。",
-    "Text": "",
+    "Text": "\nTPS 시점으로 전환하려면\n- [a 07]자신의 캐릭터를 터치[b]하세요.\n\n보통 시점으로 돌아가려면\n- 다시 [a 07]자신의 캐릭터를 터치[b]하세요.\n\n\nPS Vita TV에서의 조작\nPS Vita TV에서는\n[f 72][a 07] 버튼을 눌러[b] 시점을 전환할 수 있습니다.",
     "Enabled": false
   },
   "780043": {
     "OriginalText": "『フォース』\n\nフォースは[a 07]遠距離からの攻撃[b]を得意とする\n戦闘タイプです。\n\n法撃武器である[a 07]ロッド・タリス・ウォンド[b]を\n使いこなします。\n\nフォースの回避アクション、\n「ミラージュエスケープ」は瞬間的に\n姿を消し、離れた場所へ出現します。\n\n[a 07]姿が消えている間は攻撃を受けません。[b]",
-    "Text": "Forces are a class that specializes\nin [a 07]long-range attacks[b].\n\nThey wield magical weapons such\nas [a 07]Rods, Talis, & Wands[b].\n\nTheir evasion move, [a 07][Mirage Escape][b],\ncauses them to vanish and briefly\nreappear at a short distance.",
+    "Text": "포스\n\n포스는 [a 07]원거리 공격[b]에 특화된\n전투 타입입니다.\n\n법격 무기인 [a 07]로드, 탈리스, 완드[b]를\n능숙하게 다룹니다.\n\n포스의 회피 액션 '미라쥬 이스케이프'는\n순간적으로 모습을 감춘 뒤\n떨어진 곳에 다시 나타납니다.\n\n[a 07]모습이 사라진 동안에는 공격을 받지 않습니다.[b]",
     "Enabled": true
   },
   "780044": {
     "OriginalText": "『グランアーツ/テクニック』\n\n[a 07]グランアーツ[b]とは、グランを用いた\n強力な攻撃です。\n\nグランアーツは様々な種類があり\n射程や属性が異なります。\n\n[f 74] を押すと[a 07]伝備している武器に\n対応したグランアーツ[b]を繰り出します。\n\n[a 07]フォース、バスターのテクニックは[b]\n[f 74][a 07] 長押し溜めで発動[b]します。",
-    "Text": "",
+    "Text": "그란 아츠/테크닉\n\n[a 07]그란 아츠[b]는 그란을 이용하는\n강력한 공격입니다.\n\n그란 아츠는 종류가 다양하며\n사거리와 속성이 서로 다릅니다.\n\n[f 74] 버튼을 누르면 [a 07]장비한 무기에\n맞는 그란 아츠[b]를 사용합니다.\n\n[a 07]포스와 버스터의 테크닉은[b]\n[f 74][a 07] 버튼을 길게 눌러 차지하면 발동[b]합니다.",
     "Enabled": false
   },
   "780045": {
     "OriginalText": "\nグランアーツは繰り出すごとに\n[a 07]ＧＰ（グランポイント）を消費[b]します。\n\nＧＰは[a 07]時間経過[b]、または[a 07]通常攻撃を\nヒット[b]させることで回復します。\n\n通常攻撃とグランアーツをうまく組み合わせて\n戦いましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n그란 아츠를 사용할 때마다\n[a 07]GP(그란 포인트)를 소모[b]합니다.\n\nGP는 [a 07]시간이 지나거나[b] [a 07]통상 공격을\n적중[b]시키면 회복됩니다.\n\n통상 공격과 그란 아츠를\n적절히 조합해 싸우세요.",
+    "Enabled": true
   },
   "780046": {
     "OriginalText": "『カメラ燥作』\n\n[f 66] で[a 07]周りを見回す[b]ことができます。\nカメラを標準の視点にリセットするには\n[f 07] を押します。\n\nメインメニューの\n［設定］＞［カメラ設定］で\nカメラの設定を変更することができます。",
-    "Text": "",
+    "Text": "카메라 조작\n\n[f 66]을 움직여 [a 07]주위를 둘러 볼[b] 수 있습니다.\n카메라를 기본 시점으로 되돌리려면\n[f 07] 버튼을 누르세요.\n\n메인 메뉴의\n(설정) > (카메라 설정)에서\n카메라 설정을 변경할 수 있습니다.",
     "Enabled": false
   },
   "780047": {
     "OriginalText": "\nジャストアタックに成功すると\n大きなダメージを与えることができます。\n\nさらに敵のやられリアクションも\n大きくなります。\n\nグランアーツやチャージテクニックなどと\n組み合わせて活用しましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n저스트 어택에 성공하면\n큰 데미지를 줄 수 있습니다.\n\n적의 피격 리액션도 커집니다.\n\n그란 아츠나 차지 테크닉 등과\n조합해서 활용하세요.",
+    "Enabled": true
   },
   "780048": {
     "OriginalText": "『サブパレット』\n\nサブパレットは画面の下と右に\n表示されているアイコンパレットです。\n\n[a 07]アイコンをタッチ[b]すると、\n[a 07]アイテムを使用[b]できます。\n\n始めからセットされている「モノメイト」を\nタッチするとＨＰが少量回復します。\n\n[a 07]テクニックはアイコンを\nしばらくタッチ[b]すると発動します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "서브 팔레트\n\n서브 팔레트는 화면 아래와 오른쪽에\n표시되는 아이콘 팔레트입니다.\n\n[a 07]아이콘을 터치[b]하면\n[a 07]아이템을 사용[b]할 수 있습니다.\n\n처음부터 등록된 '모노메이트'를\n터치하면 HP가 조금 회복됩니다.\n\n[a 07]테크닉은 아이콘을\n잠시 누르고 있으면[b] 발동합니다.",
+    "Enabled": true
   },
   "780049": {
     "OriginalText": "『ガード』\n\nハンターは、武器を使ってガードをすることで\n敵からの[a 07]攻撃ダメージを軽滅[b]できます。\nガード時には[a 07]ＧＰを消費[b]します。\n\n初期設定では、ガードは [f 74] に\n登録されています。",
-    "Text": "",
+    "Text": "가드\n\n헌터는 무기로 가드해서\n적의 [a 07]공격 데미지를 줄일[b] 수 있습니다.\n가드할 때는 [a 07]GP를 소모[b]합니다.\n\n초기 설정에서는 가드가 [f 74] 버튼에\n등록되어 있습니다.",
     "Enabled": false
   },
   "780050": {
     "OriginalText": "\n[a 07]赤いガイドアイコン[b]は、洋語が\n進行する場所に表示されます。\n\n迷った時は赤いガイドアイコンを\n探してみましょう。",
-    "Text": "The [a 07]red guide marker[b] points to the\nstory section.\n\nIf you get stuck,\nlook for the red marker.",
-    "Enabled": true
+    "Text": "\n[a 07]빨간 안내 아이콘[b]은 스토리가\n진행되는 장소에 표시됩니다.\n\n길을 잃었을 때는 빨간 안내 아이콘을\n찾아보세요.",
+    "Enabled": false
   },
   "780051": {
     "OriginalText": "『ムービングショット』\n\n[a 07]アサルトライフルや一部のグランアーツ[b]では、\n[a 07]移動しながら射撃[b]をおこなう\n「[a 07]ムービングショット[b]」が使えます。\n\n敵の攻撃を避けながら攻撃するという\n安全な立ち回りが可能となります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "무빙 샷\n\n[a 07]어설트 라이플과 일부 그란 아츠[b]는\n[a 07]이동하면서 사격[b]하는\n'[a 07]무빙 샷[b]'을 사용할 수 있습니다.\n\n적의 공격을 피하면서 공격하는\n안전한 전투가 가능해집니다.",
+    "Enabled": true
   },
   "780052": {
     "OriginalText": "\nムービングショットは、通常の射撃に比べて\n弾丸の着弾位置がバラけやすくなります。\n\n正確な射撃をする場合は立ち止まって攻撃し、\n敵の攻撃を避けて戦う時に\nムービングショットを使うとよいでしょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n무빙 샷은 일반 사격보다\n탄환이 맞는 위치가 흩어지기 쉽습니다.\n\n정확하게 쏘려면 멈춰서 공격하고,\n적의 공격을 피하며 싸울 때는\n무빙 샷을 활용하세요.",
+    "Enabled": true
   },
   "780053": {
     "OriginalText": "『ガード』\n\nハンターは、武器を使ってガードをすることで\n敵からの[a 07]攻撃ダメージを軽滅[b]できます。\nガード時には[a 07]ＧＰを消費[b]します。\n\n初期設定では、ガードは裏パレットの [f 74] に\n登録されています。",
-    "Text": "",
+    "Text": "가드\n\n헌터는 무기로 가드해서\n적의 [a 07]공격 데미지를 줄일[b] 수 있습니다.\n가드할 때는 [a 07]GP를 소모[b]합니다.\n\n초기 설정에서는 가드가 뒷면 팔레트의\n[f 74] 버튼에 등록되어 있습니다.",
     "Enabled": false
   },
   "780054": {
     "OriginalText": "\nバスターのレベルを上げて獲得するスキル\n「[a 07]武伝伝備パイル[b]」を使えば、[a 07]他のクラスでも\nパイルを伝備できます[b]。\n\nまた、[a 07]ルティナたちもパイルを使用します[b]。\n他のパーティーメンバーが杭を打ち込んだ時に\n「[a 07]イグニッション[b]」を使うことでも\n[a 07]ギガンテスを捕獲[b]することができます。",
-    "Text": "",
+    "Text": "\n버스터의 레벨을 올려 얻는 스킬\n'[a 07]무기 장비 파일[b]'을 사용하면 [a 07]다른 클래스도\n파일을 장비할 수 있습니다[b].\n\n또한 [a 07]루티나 일행도 파일을 사용합니다[b].\n다른 파티 멤버가 말뚝을 박았을 때\n'[a 07]이그니션[b]'을 사용해도\n[a 07]기간테스를 포획[b]할 수 있습니다.",
     "Enabled": false
   },
   "780055": {
     "OriginalText": "\n難易度[a 07]ハード[b]のクエストが追加されました。\n\nハードの難易度は出現する敵が強くなりますが、\nノーマルにはない[a 07]良い素村を入手[b]できます。\n\n伝備を整え、積冷的に挑戦しましょう。\n\nどうしても歯が立たない時は、\n他のクエストをこなしてレベルを上げ、\n伝備を強化していきましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n난이도 [a 07]하드[b]의 퀘스트가 추가됐습니다.\n\n하드는 출현하는 적이 더 강하지만,\n노멀에서는 얻을 수 없는 [a 07]좋은 소재를 입수[b]할 수 있습니다.\n\n장비를 갖추고 적극적으로 도전하세요.\n\n도저히 상대가 되지 않을 때는\n다른 퀘스트를 진행하며 레벨을 올리고\n장비를 강화하세요.",
+    "Enabled": true
   },
   "780056": {
     "OriginalText": "\n難易度[a 07]ベリーハード[b]のクエストが追加されました。\n\nベリーハードは、ハードを超える難易度です。\nさらに敵が強くなりますが、\nハードにはない[a 07]良い素村を入手[b]できます。\n\nレベルを上げ、伝備を整えて、挑戦しましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n난이도 [a 07]베리 하드[b]의 퀘스트가 추가됐습니다.\n\n베리 하드는 하드보다 더 어렵습니다.\n적이 더욱 강해지지만,\n하드에서는 얻을 수 없는 [a 07]좋은 소재를 입수[b]할 수 있습니다.\n\n레벨을 올리고 장비를 갖춰 도전하세요.",
+    "Enabled": true
   },
   "780057": {
     "OriginalText": "『ヘイロウ』\n\nヘイロウは対ギガンテス用に開発された\n遠距離戦向きの法撃武器です。\n\n[f 74][a 07] を押すとギガンテスと戦う足場\n「リングフィールド」を空中に展開[b]できます。\n\nアイテム[a 07]「リングジェネレーター」[b]を\n使うことでもリングフィールドを展開できます。",
-    "Text": "The Halo is a weapon built for\nlong-range combat against the Gigantes.\n\n[f 74] deploys the [Ring Field],\na mobile platform letting you\nfight a Gigantes from the air.\n\nYou can also deploy a [Ring Field]\nusing a Ring Generator.",
+    "Text": "헤일로\n\n헤일로는 대 기간테스용으로 개발된\n원거리 전투용 법격 무기입니다.\n\n[f 74][a 07]를 누르면 기간테스와 싸울 발판인\n'링 필드'를 공중에 전개[b]할 수 있습니다.\n\n아이템 [a 07]'링 제너레이터'[b]를 사용해도\n링 필드를 전개할 수 있습니다.",
     "Enabled": true
   },
   "780058": {
     "OriginalText": "『リングフィールド』\n\n巨大なギガンテスと戦うときは、\n「リングフィールド」を足場として\n活用しましょう。\n\n[a 07]ヘイロウを伝備し、 [b][f 74][a 07] を押すと\nリングフィールドが空中に展開[b]されます。\n\n[a 07]リングフィールドの下で [b][f 76][a 07] を押す[b]ことで\nリングフィールドに乗ることができます。",
-    "Text": "",
+    "Text": "링 필드\n\n거대한 기간테스와 싸울 때는\n'링 필드'를 발판으로 활용하세요.\n\n[a 07]헤일로를 장비하고 [b][f 74][a 07]를 누르면\n링 필드가 공중에 전개[b]됩니다.\n\n[a 07]링 필드 아래에서 [b][f 76][a 07]를 누르면[b]\n링 필드 위로 올라갈 수 있습니다.",
     "Enabled": false
   },
   "780059": {
     "OriginalText": "\nリングフィールドは上に重ねて階層を\n作ることでもできます。\n\nリングフィールド上では、[a 07]中臨マーク上で [b]\n[f 76][a 07] を押す[b]ことで上階層に移動できます。\n\nリングフィールドの[a 07]外周部で[b][f 76][a 07] を押す[b]と、\n下に降りることができます。",
-    "Text": "",
+    "Text": "\n링 필드는 위로 겹쳐 쌓아서\n층을 만들 수도 있습니다.\n\n링 필드에서 [a 07]중앙 표시 위에서[b]\n[f 76][a 07] 버튼을 누르면[b] 위층으로 이동합니다.\n\n링 필드의 [a 07]가장자리에서[b][f 76][a 07] 버튼을 누르면[b]\n아래로 내려갈 수 있습니다.",
     "Enabled": false
   },
   "780060": {
     "OriginalText": "『パイル』\n\nパイルは対ギガンテス用に開発された武器です。\n\n打撃と射撃の両方の特性を持ち、[a 07]近距離では\n直接打撃[b]、[a 07]遠距離に対しては杭を撃ち出し[b]て\n攻撃します。\n\n[a 07]ギガンテスに杭を打ち込んだのち[b]に\n「[a 07]イグニッション[b]」をおこなえば、\n[a 07]ギガンテスを捕獲[b]することもできます。",
-    "Text": "The Pile is a weapon made to\ncounter the Gigantes.\n\nIt has [a 07]both Strike & Ranged\ncapabilities[b]; [a 07]melee hits up close,\nfiring stakes at a distance.[b]\n\nBy driving stakes into a Gigantes,\nyou can perform an [Ignition] to capture it.",
+    "Text": "파일\n\n파일은 기간테스용으로 개발된 무기입니다.\n\n타격과 사격의 특성을 모두 갖추고,\n[a 07]가까운 적은 직접 타격[b]하며\n[a 07]먼 적은 말뚝을 발사[b]해 공격합니다.\n\n[a 07]기간테스에 말뚝을 박은 뒤[b]\n'[a 07]이그니션[b]'을 사용하면\n[a 07]기간테스를 포획[b]할 수도 있습니다.",
     "Enabled": true
   },
   "780061": {
     "OriginalText": "\nこれよりあなたは「惑星脱出」を目指して\n自由に活動することができます。\n\n今起きているどの問題から解決するか、\nそれとも最初に伝備を強化するか、\n自身で良いと思うままに行動してみてください。\n\nこれから重ねる行動がやがて「惑星脱出」へと\n結びつくでしょう。",
-    "Text": "From here, you're free to take\nwhatever steps you need to\nachieve [Planetary Escape].\n\nTackle pressing issues first,\nor strengthen yourself; Act as you will.\n\nAll actions will eventually\nlead to [Planetary Escape].",
+    "Text": "\n이제 '행성 탈출'을 목표로\n자유롭게 활동할 수 있습니다.\n\n지금 벌어진 문제 중 무엇부터 해결할지,\n아니면 먼저 장비부터 강화할지,\n스스로 좋다고 생각하는 대로 행동해 보세요.\n\n앞으로 쌓아 갈 행동들이\n언젠가 '행성 탈출'로 이어질 것입니다.",
     "Enabled": true
   },
   "780062": {
     "OriginalText": "『ブーストエネミー』\n\nエネミーの中には、能力がブーストしてい\nる個体がまれに存在します。\n\nブーストエネミーは通常のエネミーより強\nく脅威となりますが、倒すと[a 07]多くの経験値や\n良いアイテム[b]を得られます。\n\nブーストエネミーは[a 07]身体の色が通常と異なり\n名前が赤[b]で表示されます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "부스트 에너미\n\n에너미 중에는 드물게\n능력이 강화된 개체가 있습니다.\n\n부스트 에너미는 일반 에너미보다 강하고\n위협적이지만, 쓰러뜨리면 [a 07]많은 경험치와\n좋은 아이템[b]을 얻을 수 있습니다.\n\n부스트 에너미는 [a 07]몸의 색이 일반 개체와 다르고,\n이름이 빨간색[b]으로 표시됩니다.",
+    "Enabled": true
   },
   "780063": {
     "OriginalText": "『レアエネミー』\n\nクエスト中、希少な個体である\n「レアエネミー」がごくまれに出現します。\n\nレアエネミーからは[a 07]特別な素村[b]を手に入れる\nことができるため、積冷的に倒しましょう。\n\nレアエネミーは[a 07]身体の色が通常と異なります。[b]",
-    "Text": "",
+    "Text": "레어 에너미\n\n퀘스트 중에 희귀한 개체인\n'레어 에너미'가 아주 드물게 출현합니다.\n\n레어 에너미에게서 [a 07]특별한 소재[b]를\n얻을 수 있으니 적극적으로 쓰러뜨리세요.\n\n레어 에너미는 [a 07]몸의 색이 일반 개체와 다릅니다.[b]",
     "Enabled": false
   },
   "780064": {
     "OriginalText": "『部位破壊』\n\n大型エネミーやギガンテスは、攻撃を集中す\nることで[a 07]兵器や伝甲を破壊可能[b]です。\n\n兵器を破壊すれば[a 07]攻撃が停止[b]し、伝甲を破壊\nすれば[a 07]弱点が露出[b]します。\n\nギガンテスを倒すには、まず[a 07]伝甲を破壊し、\n弱点を狙いダメージを与える戦略[b]が重要です。",
-    "Text": "",
+    "Text": "부위 파괴\n\n대형 에너미나 기간테스에 공격을 집중하면\n[a 07]무장이나 장갑을 파괴[b]할 수 있습니다.\n\n무장을 파괴하면 [a 07]공격이 멈추고[b],\n장갑을 파괴하면 [a 07]약점이 드러납니다[b].\n\n기간테스를 쓰러뜨리려면 먼저 [a 07]장갑을 파괴하고\n약점을 노려 데미지를 주는 전략[b]이 중요합니다.",
     "Enabled": false
   },
   "780065": {
     "OriginalText": "『設定とヘルプ』\n\n設定/ヘルプではゲームの設定や\nチュートリアルなどの確認ができます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "설정과 헬프\n\n설정/헬프에서 게임 설정과\n튜토리얼 등을 확인할 수 있습니다.",
+    "Enabled": true
   },
   "780066": {
     "OriginalText": "『アドホック通信によるマルチプレイ』\n\nマルチプレイルームでは、[a 07]他のプレイヤーと\nマルチプレイ[b]を開始できます。\n\nストーリーをマルチプレイで\n進めることもできますので\nストーリー進行が同じプレイヤー同土は、\n一緒にストーリーを楽しめます。",
-    "Text": "",
+    "Text": "애드혹 통신을 이용한 멀티플레이\n\n멀티플레이 룸에서는 [a 07]다른 플레이어와\n멀티플레이[b]를 시작할 수 있습니다.\n\n스토리도 멀티플레이로 진행할 수 있으니\n스토리 진행도가 같은 플레이어끼리는\n함께 스토리를 즐길 수 있습니다.",
     "Enabled": false
   },
   "780067": {
     "OriginalText": "『マルチプレイカウンターの燥作』\n\n「パーティーを結成」\n自分がリーダー（ホスト）となります。\n参加メンバーが揃ったら「メンバー決定」で\nパーティーを結成します。\nパーティーメンバーは[a 07]最大４人[b]です。\n\n「パーティーに参加」\n他のリーダーが作ったパーティーに参加します。",
-    "Text": "",
+    "Text": "멀티플레이 카운터 조작\n\n'파티 결성'\n자신이 리더(호스트)가 됩니다.\n참가 멤버가 모이면 '멤버 결정'을 눌러\n파티를 결성하세요.\n파티 멤버는 [a 07]최대 4명[b]입니다.\n\n'파티에 참가'\n다른 리더가 만든 파티에 참가합니다.",
     "Enabled": false
   },
   "780068": {
     "OriginalText": "『ゲストクルー』\n\nマルチプレイで遊んだ他のプレイヤーのキャ\nラクターは「[a 07]ゲストクルー[b]」に登録されます。\n\nゲストクルーは、クエストゲートからクエス\nトに出発する時に[a 07]パーティーメンバーとして\n連れて行くことができます[b]。",
-    "Text": "",
-    "Enabled": false
+    "Text": "게스트 크루\n\n멀티플레이로 함께 놀았던 플레이어의\n캐릭터는 '[a 07]게스트 크루[b]'로 등록됩니다.\n\n퀘스트 게이트에서 퀘스트로 출발할 때\n게스트 크루를 [a 07]파티 멤버로\n데려갈 수 있습니다[b].",
+    "Enabled": true
   },
   "780069": {
     "OriginalText": "\nメインメニューの\n［プレイヤー］＞［ゲストクルー］で、最近\nマルチプレイで遊んだゲストクルーを\n確認できます。\n\nゲストクルーは[a 07]５０人を越えると古いものか\nら順に消去[b]されます。\n\nゲストリストで [f 03] を押して\nお気に入りに登録すれば、\n５０人を越えても消去されなくなります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n메인 메뉴의\n(플레이어) > (게스트 크루)에서 최근\n멀티플레이로 함께 놀았던\n게스트 크루를 확인할 수 있습니다.\n\n게스트 크루는 [a 07]50명을 넘으면 오래된 순서로\n삭제[b]됩니다.\n\n게스트 리스트에서 [f 03] 버튼을 눌러\n즐겨찾기에 등록하면\n50명을 넘어도 삭제되지 않습니다.",
+    "Enabled": true
   },
   "780070": {
     "OriginalText": "『クエストゲート』\n\n拠点から「クエストゲート」に入ると\n惑星地図が表示され、[a 07]クエストを選んで\n出発[b]することができます。\n\n「クエスト」のほかに\n今までの話を確認する「あらすじの確認」\nなどが選択できます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "퀘스트 게이트\n\n거점에서 '퀘스트 게이트'로 들어가면\n행성 지도가 표시되고, [a 07]퀘스트를 선택해\n출발[b]할 수 있습니다.\n\n'퀘스트' 외에도 지금까지의 이야기를\n확인하는 '줄거리 확인' 등을\n선택할 수 있습니다.",
+    "Enabled": true
   },
   "780071": {
     "OriginalText": "『クエストを選択する』\n\n「クエスト」でボタンを押すと\nクエスト一覧が表示されます。\n\n[f 65][a 07] または[b][f 07][f 08][a 07] を押すことで、\n目的地の場所を変更[b]すること\nができます。\n\n[f 7c][f 7d] でクエストを選び、\n[a 07]行きたいクエストを決定[b]します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "퀘스트 선택\n\n'퀘스트'에서 버튼을 누르면\n퀘스트 리스트가 표시됩니다.\n\n[f 65][a 07] 또는[b][f 07][f 08][a 07] 버튼을 누르면\n목적지를 변경[b]할 수 있습니다.\n\n[f 7c][f 7d] 버튼으로 퀘스트를 고르고,\n[a 07]진행할 퀘스트를 결정[b]하세요.",
+    "Enabled": true
   },
   "780072": {
     "OriginalText": "『パーティーメンバーを選択する』\n\n行きたいクエストを決定した後、連れて\nいく[a 07]パーティーメンバーを選びます。[b]\n\n洋語が進行するメインクエストでは\nストーリーに登場する人洋が\nおすすめとして表示されています。\n[f 09] で[a 07]おすすめのメンバーを\n自動選択[b]することもできます。",
-    "Text": "",
+    "Text": "파티 멤버 선택\n\n진행할 퀘스트를 결정한 뒤\n함께 갈 [a 07]파티 멤버를 선택합니다.[b]\n\n스토리가 진행되는 메인 퀘스트에서는\n스토리에 등장하는 인물이\n추천 멤버로 표시됩니다.\n[f 09] 버튼으로 [a 07]추천 멤버를\n자동 선택[b]할 수도 있습니다.",
     "Enabled": false
   },
   "780073": {
     "OriginalText": "『スキルボード』\n\n習得したスキルをスキルボードにセットして\n自分好みの能力をカスタマイズしましょう。\n\n[a 07]スキルボードにセットしていないスキルは効\n果を発揮しません。[b]\n\nスキルによっては、スキルボードにセットし\nた後、[a 07]サブパレットにスキルをセット[b]する\n必要があります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "스킬 보드\n\n습득한 스킬을 스킬 보드에 장착해\n원하는 능력으로 커스터마이즈하세요.\n\n[a 07]스킬 보드에 장착하지 않은 스킬은\n효과를 발휘하지 않습니다.[b]\n\n일부 스킬은 스킬 보드에 장착한 뒤,\n[a 07]서브 팔레트에도 스킬을 등록[b]해야 합니다.",
+    "Enabled": true
   },
   "780074": {
     "OriginalText": "『コンボスキル』\n\nスキルをスキルボードにセットしたときに、\n[a 07]隣りあうスキルの組み合わせによって\n特別な「コンボスキル」が発生[b]することが\nあります。\n\nスキルの組み合わせを試してみましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "콤보 스킬\n\n스킬 보드에 스킬을 장착했을 때,\n[a 07]서로 인접한 스킬의 조합에 따라\n특별한 '콤보 스킬'이 발생[b]하기도 합니다.\n\n여러 스킬 조합을 시험해 보세요.",
+    "Enabled": true
   },
   "780075": {
     "OriginalText": "『スキルボードの拡張』\n\nオルクスのプロミスオーダーを達成し、\n[a 07]２剤目のスキルボード[b]にスキルを\nセットできるようになりました。",
-    "Text": "",
+    "Text": "스킬 보드 확장\n\n오르쿠스의 프로미스 오더를 달성해\n[a 07]두 번째 스킬 보드[b]에도\n스킬을 장착할 수 있게 됐습니다.",
     "Enabled": false
   },
   "780076": {
     "OriginalText": "\nメインメニューの［武器伝備］で、\n武器スロットごとに使用するスキルボードを\n選択できます。\n\n武器の特性に応じてスキルボードをセット\nしましょう。\n\nゲーム中に [f 7c][f 7d] で武器を切り替えると\n[a 07]セットされたスキルボードに切り替わります[b]。",
-    "Text": "",
+    "Text": "\n메인 메뉴의 (무기 장비)에서\n무기 슬롯별로 사용할 스킬 보드를\n선택할 수 있습니다.\n\n무기의 특성에 맞춰 스킬 보드를 설정하세요.\n\n게임 중 [f 7c][f 7d] 버튼으로 무기를 바꾸면\n[a 07]설정한 스킬 보드로 전환됩니다[b].",
     "Enabled": false
   },
   "780077": {
     "OriginalText": "『コールドスリープからの解凍』\n\nカプセルで[a 07]コールドスリープしているクルー\nを解凍[b]し、仲間を増やすことができます。\n\n解凍するには[a 07]グランエナジーを消費[b]します。\n\n解凍されたクルーは、[a 07]ラボの「クルー配属」[b]\nでショップや施設に配属できます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "'콜드 슬립에서 해동'\n\n캡슐에서 [a 07]콜드 슬립 중인 승무원을 해동[b]해서\n동료를 늘릴 수 있습니다.\n\n해동에는 [a 07]그란 에너지를 소비[b]합니다.\n\n해동한 승무원은 [a 07]랩의 '승무원 배치'[b]에서\n샵이나 시설에 배치할 수 있습니다.",
+    "Enabled": true
   },
   "780078": {
     "OriginalText": "『パスワード』\n\nキャンペーンなどで入手したパスワードを入\n力することで特別なクルーを解凍することが\nできます。\n\nコールドスリープカウンターにアクセスして\n［パスワードの入力］メニューから入力をお\nこないます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "'패스워드'\n\n캠페인 등으로 얻은 패스워드를 입력하면,\n특별한 승무원을 해동할 수 있습니다.\n\n콜드 슬립 카운터에 액세스한 뒤,\n'패스워드 입력' 메뉴에서 입력하세요.",
+    "Enabled": true
   },
   "780079": {
     "OriginalText": "『施設の開発』\n\n[a 07]ラボでショップや施設の開発が自由におこな\nえる[b]ようになりました。\n\n開発したショップや施設は、[a 07]ラボの\n［施設の設置と移動］で拠点に配置[b]できます。\n\n施設の[a 07]開発にはグランエナジーを消費[b]します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "'시설 개발'\n\n[a 07]랩에서 샵과 시설을 자유롭게 개발[b]할 수\n있게 됐습니다.\n\n개발한 샵과 시설은 [a 07]랩의\n'시설 설치와 이동'에서 거점에 배치[b]합니다.\n\n시설 [a 07]개발에는 그란 에너지를 소비[b]합니다.",
+    "Enabled": true
   },
   "780080": {
     "OriginalText": "『ショップ』\n\n武器やアイテムの作成、各種能力の習得など\n[a 07]キャラクターの強化やカスタマイズに役立つ\nショップ[b]を開発できます。\n\nショップの機能や品ぞろえは、ショップのラ\nンクにより変化します。\n\nまた、[a 07]配属するクルーの「特微」により\nアイテムが作成しやすくなる[b]ことがあります。",
-    "Text": "",
+    "Text": "'샵'\n\n무기와 아이템 제작, 각종 능력 습득 등\n[a 07]캐릭터 강화와 커스터마이즈에 도움이 되는\n샵[b]을 개발할 수 있습니다.\n\n샵의 기능과 품목은 샵 랭크에 따라\n달라집니다.\n\n[a 07]배치한 승무원의 '특징'에 따라\n아이템을 더 쉽게 제작[b]할 수도 있습니다.",
     "Enabled": false
   },
   "780081": {
     "OriginalText": "『施設』\n\nグランブースターやエネミーレーダーなど、\n[a 07]探索を支援する施設[b]を開発可能です。\n\n施設は一部を除き、拠点に配置するだけで\n効果を発揮します。\n\n施設の効果は[a 07]クエストゲートの「インフォ\nメーション」で確認[b]できます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "'시설'\n\n그란 부스터와 에너미 레이더 등,\n[a 07]탐사를 지원하는 시설[b]을 개발할 수 있습니다.\n\n일부를 제외한 시설은 거점에 배치하기만 해도\n효과를 발휘합니다.\n\n시설의 효과는 [a 07]퀘스트 게이트의 '인포메이션'에서\n확인[b]할 수 있습니다.",
+    "Enabled": true
   },
   "780082": {
     "OriginalText": "『インテリア・床』\n\n各種インテリアを開発できます。\n\n探索拠点のイメージを変えたい時に活用しま\nしょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "'인테리어와 바닥'\n\n각종 인테리어를 개발할 수 있습니다.\n\n탐사 거점의 분위기를 바꾸고 싶을 때\n활용하세요.",
+    "Enabled": true
   },
   "780083": {
     "OriginalText": "『施設の配置と移動』\n\n開発で作ったショップや施設、インテリアを\n拠点に配置できます。\n\nショップは[a 07]キャラクターの強化カスタマイズ[b]、\n施設は[a 07]クエストでの探索活動を支援[b]する効果\nがあります。\n\nそれぞれ[a 07]配置するためのコスト[b]があり、合計\nコストが制限を越える配置はできません。",
-    "Text": "",
-    "Enabled": false
+    "Text": "'시설 배치와 이동'\n\n개발한 샵, 시설, 인테리어를 거점에\n배치할 수 있습니다.\n\n샵은 [a 07]캐릭터 강화와 커스터마이즈[b]에,\n시설은 [a 07]퀘스트 중 탐사 활동을 지원[b]하는 데\n도움이 됩니다.\n\n각각 [a 07]배치 코스트[b]가 있으며, 총코스트가 한도를\n넘도록 배치할 수는 없습니다.",
+    "Enabled": true
   },
   "780084": {
     "OriginalText": "『クルーの配属』\n\n[a 07]コールドスリープから解凍したクルー[b]を\nショップや一部の施設に配属できます。\n\n配属されたクルーの「[a 07]特微[b]」によって、\n様々な効果があります。\n\nクルーの「特微」に注目し、そのショップに\n向いているクルーを配属していきましょう。",
-    "Text": "",
+    "Text": "'승무원 배치'\n\n[a 07]콜드 슬립에서 해동한 승무원[b]을\n샵이나 일부 시설에 배치할 수 있습니다.\n\n배치된 승무원의 '[a 07]특징[b]'에 따라,\n다양한 효과가 생깁니다.\n\n승무원의 '특징'을 살펴보고,\n그 샵에 맞는 승무원을 배치하세요.",
     "Enabled": false
   },
   "780085": {
     "OriginalText": "『クラスカウンター』\n\nクラスカウンターでは、プレイヤーの能力を\nカスタマイズできます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "'클래스 카운터'\n\n클래스 카운터에서는 플레이어의 능력을\n커스터마이즈할 수 있습니다.",
+    "Enabled": true
   },
   "780086": {
     "OriginalText": "『クラス変更』\n\nキャラクターの[a 07]クラスを自由に変更[b]できます。\nクラスを変更しても、[a 07]元のクラスのレベルは\n維持[b]されます。\n\nまた、パーティーメンバーのレベルは\n[a 07]プレイヤーの現在のクラスレベルにあわせて\n変化[b]します。",
-    "Text": "",
+    "Text": "'클래스 변경'\n\n캐릭터의 [a 07]클래스를 자유롭게 변경[b]할 수 있습니다.\n변경해도 [a 07]원래 클래스의 레벨은 유지[b]됩니다.\n\n파티 멤버의 레벨은\n[a 07]플레이어의 현재 클래스 레벨에 맞춰 변경[b]됩니다.",
     "Enabled": false
   },
   "780087": {
     "OriginalText": "『グランアーツ・テクニック習得』\n\nグランアーツは武器にセットする強化攻撃、\nテクニックはフォースの放つ法術です。\n\n[a 07]習得には素村が必要[b]です。\n\nフォース用武器にはグランアーツは\nありません。\n\nハンター、レンジャーがテクニックを使うには\nスキル「テクニック使用可」が必要です。",
-    "Text": "",
+    "Text": "'그란 아츠와 테크닉 습득'\n\n그란 아츠는 무기에 등록하는 강화 공격이며,\n테크닉은 포스가 사용하는 법술입니다.\n\n[a 07]습득에는 소재가 필요[b]합니다.\n\n포스용 무기에는 그란 아츠가 없습니다.\n\n헌터와 레인저가 테크닉을 사용하려면,\n'테크닉 사용 가능' 스킬이 필요합니다.",
     "Enabled": false
   },
   "780088": {
     "OriginalText": "『食堂』\n\n食堂では食事をすることができます。\n\n食事をすることで、[a 07]次のクエスト中、\nプレイヤーにさままな効果が発生[b]します。\n\nマルチプレイ時には、全員に食事の効果が\n反映されます。\n\nクエストを終了すると食事の効果はなくなり\nます。",
-    "Text": "",
+    "Text": "식당\n\n식당에서는 식사를 할 수 있습니다.\n\n식사하면 [a 07]다음 퀘스트 동안\n플레이어에게 여러 효과가 발생[b]합니다.\n\n멀티플레이에서는 모두에게\n식사 효과가 적용됩니다.\n\n퀘스트를 종료하면 식사 효과가 사라집니다.",
     "Enabled": false
   },
   "780089": {
-    "OriginalText": "『武器を作る』\n\n武器を作るには[a 07]素村が必要[b]になります。\n\n素村は[a 07]エネミーを倒したり、クエストを\nクリアする[b]と入手できます。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "『武器を作る』\n\n武器を作るには[a 07]素材が必要[b]になります。\n\n素材は[a 07]エネミーを倒したり、クエストを\nクリアする[b]と入手できます。",
+    "Text": "무기 제작\n\n무기를 만들려면 [a 07]소재가 필요[b]합니다.\n\n소재는 [a 07]에너미를 쓰러뜨리거나\n퀘스트를 클리어[b]하면 입수할 수 있습니다.",
+    "Enabled": true
   },
   "780090": {
     "OriginalText": "『アタッチパーツ』\n\nアタッチパーツは[a 07]武器につけるパーツ[b]です。\nアタッチパーツを作るときに、村料とした\n「コア」の持つ特殊能力を継承します。\n\nアタッチパーツは[a 07]「武器カスタマイズ」\nメニューで武器の好きな場所に伝着[b]できます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "어태치 파츠\n\n어태치 파츠는 [a 07]무기에 붙이는 파츠[b]입니다.\n제작할 때 재료로 사용한\n'코어'의 특수 능력을 계승합니다.\n\n어태치 파츠는 [a 07]'무기 커스터마이즈'\n메뉴에서 무기의 원하는 위치에 장착[b]할 수 있습니다.",
+    "Enabled": true
   },
   "780091": {
     "OriginalText": "『アタッチパーツを作る』\n\n最初にアタッチパーツにしたい[a 07]特殊能力を\n選択[b]します。\n\n次に、[a 07]使用する「コア」を選択[b]します。\n[a 07]同じ名前の「コア」でも能力が異なります[b]ので\n能力を確認して「コア」を選びましょう。\n\n最後に[a 07]パーツの形状を選択[b]します。\n形状により必要素村が異なります。",
-    "Text": "",
+    "Text": "어태치 파츠 제작\n\n먼저 어태치 파츠에 부여할 [a 07]특수 능력을\n선택[b]합니다.\n\n다음으로 [a 07]사용할 '코어'를 선택[b]합니다.\n[a 07]이름이 같은 '코어'도 능력이 다르므로[b]\n능력을 확인하고 '코어'를 선택하세요.\n\n마지막으로 [a 07]파츠의 모양을 선택[b]합니다.\n모양에 따라 필요한 소재가 다릅니다.",
     "Enabled": false
   },
   "780092": {
     "OriginalText": "『武器カスタマイズ』\n\n作成した[a 07]アタッチパーツを武器の好きな場所\nにつける[b]ことができます。\n\nアタッチパーツは[a 07]最大４つ[b]までつけることが\nできます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기 커스터마이즈\n\n제작한 [a 07]어태치 파츠를 무기의\n원하는 위치에 붙일[b] 수 있습니다.\n\n어태치 파츠는 [a 07]최대 4개[b]까지\n붙일 수 있습니다.",
+    "Enabled": true
   },
   "780093": {
-    "OriginalText": "『防具を作る』\n\n防具(シールドユニット)を作るには\n[a 07]素村が必要[b]になります。\n\n素村は、[a 07]エネミーを倒したり、クエスト\nをクリアする[b]ことで入手できます。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "『防具を作る』\n\n防具(シールドユニット)を作るには\n[a 07]素材が必要[b]になります。\n\n素材は、[a 07]エネミーを倒したり、クエスト\nをクリアする[b]ことで入手できます。",
+    "Text": "방어구 제작\n\n방어구(실드 유닛)를 만들려면\n[a 07]소재가 필요[b]합니다.\n\n소재는 [a 07]에너미를 쓰러뜨리거나\n퀘스트를 클리어[b]하면 입수할 수 있습니다.",
+    "Enabled": true
   },
   "780094": {
-    "OriginalText": "『アイテムショップ』\n\n[a 07]素村からアイテムを作成[b]します。\n\n回復アイテムはグランピースから作ることが\nできます。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "『アイテムショップ』\n\n[a 07]素材からアイテムを作成[b]します。\n\n回復アイテムはグランピースから作ることが\nできます。",
+    "Text": "아이템 샵\n\n[a 07]소재로 아이템을 제작[b]합니다.\n\n회복 아이템은 그란 피스로\n만들 수 있습니다.",
+    "Enabled": true
   },
   "780095": {
-    "OriginalText": "『コスチュームショップ』\n\n[a 07]素村からコスチュームを作成[b]します。\n\nコスチュームは[a 07]エステで着替える[b]ことができ\nます。\n\nコスチュームは防御力に影響しません。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "『コスチュームショップ』\n\n[a 07]素材からコスチュームを作成[b]します。\n\nコスチュームは[a 07]エステで着替える[b]ことができ\nます。\n\nコスチュームは防御力に影響しません。",
+    "Text": "코스튬 샵\n\n[a 07]소재로 코스튬을 제작[b]합니다.\n\n코스튬은 [a 07]에스테에서 갈아입을[b] 수 있습니다.\n\n코스튬은 방어력에 영향을 주지 않습니다.",
+    "Enabled": true
   },
   "780096": {
     "OriginalText": "『エステ』\n\nエステでは、[a 07]外見やコスチュームの変更、\n性格・特微の設定[b]ができます。\n\nエステのレベルを上げ、クルーを配属することで\n編集メニューと選択縫が増え、\nより細かく多彩なカスタマイズが可能となります。",
-    "Text": "At the [a 07]Beauty Salon[b], you can change\nyour appearance, costumes, and personality traits.\n\nUpgrading it unlocks more edit\noptions for deeper customization.",
-    "Enabled": true
+    "Text": "에스테\n\n에스테에서는 [a 07]외형과 코스튬을 변경하고\n성격과 특징을 설정[b]할 수 있습니다.\n\n에스테의 레벨을 올리고 크루를 배속하면\n편집 메뉴와 선택지가 늘어나\n더 세밀하고 다양하게\n커스터마이즈할 수 있습니다.",
+    "Enabled": false
   },
   "780097": {
     "OriginalText": "『スタイル』\n\nスタイルは、一緒にマルチプレイを行った\n[a 07]他のプレイヤーがあなたのキャラクターを\n「ゲストクルー」として呼び出す時に\n表示[b]されます。\n\nキャラクターの能力には一切影響しません。\n\n自分のキャラクターにふさわしいスタイルを\n選びましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "스타일\n\n스타일은 함께 멀티플레이를 한\n[a 07]다른 플레이어가 당신의 캐릭터를\n'게스트 크루'로 불러올 때\n표시[b]됩니다.\n\n캐릭터의 능력에는 전혀 영향을 주지 않습니다.\n\n자신의 캐릭터에 어울리는 스타일을\n선택하세요.",
+    "Enabled": true
   },
   "780098": {
     "OriginalText": "『特微』\n\n特微は、一緒にマルチプレイを行った\n[a 07]他のプレイヤーがあなたのキャラクターを\n「ゲストクルー」として呼び出した時に\n戦闘中の能力に影響[b]します。\n\n自分のキャラクターにふさわしい特微を\n選びましょう。",
-    "Text": "",
+    "Text": "특징\n\n특징은 함께 멀티플레이를 한\n[a 07]다른 플레이어가 당신의 캐릭터를\n'게스트 크루'로 불러왔을 때\n전투 중 능력에 영향을 줍니다[b].\n\n자신의 캐릭터에 어울리는 특징을\n선택하세요.",
     "Enabled": false
   },
   "780099": {
     "OriginalText": "『倉庫』\n\n倉庫には[a 07]自由にアイテムを預けられます。[b]\n\nアイテムパック（手持ちのアイテム）の\n[a 07]所持数に上限がある「モノメイト」などの\nアイテムを、上限数似上に獲得すると\n自動的に倉庫に入ります。[b]\n\nまた、[a 07]アイテムパック全体の上限２００個を\n超える場合も、同様に倉庫に入ります。[b]",
-    "Text": "",
+    "Text": "창고\n\n창고에는 [a 07]자유롭게 아이템을 맡길 수 있습니다.[b]\n\n아이템 팩(소지 아이템)의\n[a 07]'모노메이트'처럼 소지 수에 제한이 있는\n아이템을 제한 수 이상 입수하면\n자동으로 창고에 들어갑니다.[b]\n\n또한 [a 07]아이템 팩 전체의 최대 용량인 200개를\n넘을 때도 마찬가지로 창고에 들어갑니다.[b]",
     "Enabled": false
   },
   "780100": {
     "OriginalText": "『セーブ時の注意』\n\nセーブ中は画面右上にセーブアイコンが\n表示されます。\n\n[a 07]セーブ中にはメモリーカードの抜き差しや、\nPlayStation®Vita本体の電装を\n落とさないようにしてください。[b]\n\nセーブデータが破損する恐れがあります。",
-    "Text": "",
+    "Text": "저장 시 주의 사항\n\n저장 중에는 화면 오른쪽 위에\n저장 아이콘이 표시됩니다.\n\n[a 07]저장 중에 메모리 카드를 빼거나 끼우거나,\nPS Vita 본체의 전원을 끄지 마세요.[b]\n\n저장 데이터가 손상될 수 있습니다.",
     "Enabled": false
   },
   "780101": {
-    "OriginalText": "『メインメニュー』\n\n[f 09] でメインメニューを開くこと\nができます。\n\nメインメニューでは、[a 07]アイテムの整理や伝備、\n進行状況の確認、セーブなどを行えます。[b]",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "『メインメニュー』\n\n[f 09] でメインメニューを開くこと\nができます。\n\nメインメニューでは、[a 07]アイテムの整理や装備、\n進行状況の確認、セーブなどを行えます。[b]",
+    "Text": "메인 메뉴\n\n[f 09] 버튼으로 메인 메뉴를\n열 수 있습니다.\n\n메인 메뉴에서 [a 07]아이템 정리와 장비,\n진행 상황 확인, 저장 등을 할 수 있습니다.[b]",
+    "Enabled": true
   },
   "780102": {
     "OriginalText": "『プロミスオーダー』\n\n[a 07]拠点にいる人々と約束[b]することで発生するのが\n「プロミスオーダー」です。\n\n頼み事がある人洋には[a 07]頭上にアイコンが表示[b]\nされます。\n\n彼らの悩みやお願いを聞いてみましょう。",
-    "Text": "",
+    "Text": "프로미스 오더\n\n[a 07]거점의 사람들과 약속[b]하면\n'프로미스 오더'가 발생합니다.\n\n부탁할 일이 있는 인물은 [a 07]머리 위에\n아이콘이 표시[b]됩니다.\n\n그들의 고민이나 부탁을 들어 보세요.",
     "Enabled": false
   },
   "780103": {
     "OriginalText": "\n約束の条件を既たしたら、その人洋に話しかけ\n[a 07]約束のリストから報告[b]を行いましょう。\n\n解決により励起したグランエナジーと\n彼らからのお礼を受け取ることができます。\n\n一度解決した約束は、クエストクリアによる\n日数経過で再受託できるようになります。\n[a 03]※１回のみの約束は除く[b]",
-    "Text": "",
+    "Text": "\n약속의 조건을 달성하면 그 인물에게 말을 걸어\n[a 07]약속 리스트에서 보고[b]하세요.\n\n문제 해결로 여기된 그란 에너지와\n의뢰자의 사례를 받을 수 있습니다.\n\n한 번 해결한 약속도 퀘스트를 클리어해\n날짜가 지나면 다시 수락할 수 있습니다.\n[a 03]주의: 한 번만 가능한 약속은 제외[b]",
     "Enabled": false
   },
   "780104": {
     "OriginalText": "\nフィルディア艦長とのプロミスオーダーを\n果たすことで、\n施設やショップが増えていきます。\n\n積冷的にフィルディアの依頼を達成して、\n拠点の拡充を目指しましょう。",
-    "Text": "As you complete more Promise Orders\nfrom Captain Fildia, more facilities will unlock.\n\nKeep working on her\nPromise Orders to expand the base!",
-    "Enabled": true
+    "Text": "\n필디아 함장의 프로미스 오더를\n달성하면 시설과 샵이 늘어납니다.\n\n필디아의 의뢰를 적극적으로 달성해\n거점을 확충하세요.",
+    "Enabled": false
   },
   "780105": {
     "OriginalText": "\nあなたはデルタ・ヴァリアントの艦長となり、\n多くのクルーを導くその指揮を委ねられました。\n\nこの「グランド・アクトⅡ」では\n惑星規物のギガンテスと戦うため、\n惑星の調査や拠点の拡張を行うことができます。\n\n艦長としての手腕を発揮し、ぜひクルーを\n導いてください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n당신은 델타 발리언트의 함장이 되어,\n많은 크루를 이끌 지휘권을 맡았습니다.\n\n이번 '그랜드 액트 II'에서는\n행성 규모의 기간테스와 싸우기 위해\n행성을 조사하고 거점을 확장할 수 있습니다.\n\n함장으로서 역량을 발휘해\n크루를 이끌어 주세요.",
+    "Enabled": true
   },
   "780106": {
-    "OriginalText": "『グランブースター』\n\nグランブースターはグランを励起させる伝置\nです。\n\nクエストで入手できる[a 07]グランエナジーの量を\n増やし[b]たり、[a 07]グランアーツの消費量を節約[b]し\nたりすることができます。\n\nグラン予報土の特微を持つクルーが配属され\nると、より効果を発揮できます。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "『グランブースター』\n\nグランブースターはグランを励起させる装置\nです。\n\nクエストで入手できる[a 07]グランエナジーの量を\n増やし[b]たり、[a 07]グランアーツの消費量を節約[b]し\nたりすることができます。\n\nグラン予報士の特徴を持つクルーが配属され\nると、より効果を発揮できます。",
+    "Text": "그란 부스터\n\n그란 부스터는 그란을\n활성화하는 장치입니다.\n\n퀘스트에서 입수하는 [a 07]그란 에너지의 양을\n늘리거나[b], [a 07]그란 아츠의 소모량을 줄일[b] 수\n있습니다.\n\n그란 예보사의 특징을 가진 크루를\n배속하면 더 큰 효과를 발휘합니다.",
+    "Enabled": true
   },
   "780107": {
     "OriginalText": "『アイテム探知伝置』\n\nアイテム探知伝置はアイテム発見の補助をす\nる伝置です。\n\n[a 07]通常のアイテムやレアアイテムを入手しやす\nなります。[b]\n\nダウジンガーやラッキライザーの特微を持つ\nクルーが配属されるとより効果を発揮できます。",
-    "Text": "",
+    "Text": "아이템 탐지 장치\n\n아이템 탐지 장치는\n아이템 발견을 돕는 장치입니다.\n\n[a 07]일반 아이템과 레어 아이템을\n입수하기 쉬워집니다.[b]\n\n다우징거나 럭키라이저의 특징을 가진\n크루를 배속하면 더 큰 효과를 발휘합니다.",
     "Enabled": false
   },
   "780108": {
     "OriginalText": "『エネミーレーダー』\n\nエネミーレーダーは強力なエネミーを観測す\nる伝置です。\n\n[a 07]ブーストエネミーやレアエネミーを発見しや\nすくなります。[b]\n\n「野生の勘」の特微を持つクルーが配属され\nるとより効果を発揮できます。",
-    "Text": "",
+    "Text": "에너미 레이더\n\n에너미 레이더는\n강력한 에너미를 관측하는 장치입니다.\n\n[a 07]부스트 에너미와 레어 에너미를\n발견하기 쉬워집니다.[b]\n\n'야생의 감'이라는 특징을 가진 크루를\n배속하면 더 큰 효과를 발휘합니다.",
     "Enabled": false
   },
   "780109": {
     "OriginalText": "『バースト加速伝置』\n\nバースト加速伝置はグランの活性化(バースト)\nを行う伝置です。\n\n[a 07]クルーを配属することで、チェインによる\nバーストが発生した時の効果を増やす[b]こと\nができます。",
-    "Text": "",
+    "Text": "버스트 가속 장치\n\n버스트 가속 장치는\n그란을 활성화(버스트)하는 장치입니다.\n\n[a 07]크루를 배속하면 체인으로\n버스트가 발생했을 때의 효과를 늘릴[b] 수\n있습니다.",
     "Enabled": false
   },
   "780110": {
     "OriginalText": "『探索隊』\n\n探索隊では[a 07]クルーを探索に派遣[b]できます。\n\n[a 07]クエストに行くことで日が経過し探索隊が\n帰還[b]すれば、探索で発見したものを入手する\nことができます。\n\nプレイヤーが惑星探索を進めていくことで、\n探索隊の行ける場所も増えていきます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "탐색대\n\n탐색대에서는 [a 07]크루를 탐색에 파견[b]합니다.\n\n[a 07]퀘스트에 나가면 날짜가 지나고,\n탐색대가 돌아오면[b] 탐색에서\n발견한 것들을 입수할 수 있습니다.\n\n플레이어가 행성 탐색을 진행하면\n탐색대가 갈 수 있는 장소도 늘어납니다.",
+    "Enabled": true
   },
   "780111": {
     "OriginalText": "『疲労者』\n\n探索に派遣すると疲労者がでることがあります。\n探索隊を派遣するときには、[a 07]派遣に際して\n必要人数[b]があります。\n\n疲労者が出ると派遣できる人数が滅り、\n必要人数似下のときにはその探索へ\n派遣ができなくなります。\n\n[a 07]クエストに行くことで日が経過し、\n疲労者は回復[b]します。",
-    "Text": "",
+    "Text": "피로한 대원\n\n탐색에 파견하면 피로한 대원이 생기기도 합니다.\n탐색대를 파견할 때는 [a 07]필요한 인원[b]이 있습니다.\n\n피로한 대원이 생기면 파견 가능한 인원이\n줄어듭니다. 필요한 인원 이하가 되면\n그 탐색에 파견할 수 없습니다.\n\n[a 07]퀘스트에 나가면 날짜가 지나고\n피로한 대원은 회복[b]합니다.",
     "Enabled": false
   },
   "780112": {
     "OriginalText": "『ギガンテス捕獲所』\n\n捕獲したギガンテスは拠点の下層にいます。\n\n[a 07]下層にあるカウンター[b]から、\nギガンテスの情報を見ることができます。",
-    "Text": "The captured Gigantes are\nlocated in the [a 07]lower-levels\nof the base[b].\n\nYou can view information about\nthe captured Gigantes from\nthe counter there.",
+    "Text": "기간테스 포획소\n\n포획한 기간테스는 거점 하층에 있습니다.\n\n[a 07]하층의 카운터[b]에서\n기간테스 정보를 볼 수 있습니다.",
     "Enabled": true
   },
   "780113": {
     "OriginalText": "『ギガンテスブラスト』\n\n[a 07]ギガンテスブラスト[b]とは、グランリンクで\n[a 07]捕獲したギガンテスを呼び出し、\nその強大な能力を使役する技[b]です。",
-    "Text": "[a 07]Gigantes Blast[b] summons a captured\nGigantes from the Gran Link,\nharnessing its destructive power.",
+    "Text": "기간테스 블래스트\n\n[a 07]기간테스 블래스트[b]는 그란 링크로\n[a 07]포획한 기간테스를 소환해\n그 강대한 능력을 사용하는 기술[b]입니다.",
     "Enabled": true
   },
   "780114": {
     "OriginalText": "『ギガンテスブラストの発動』\n\n「サブパレット伝備」の「ギガンテス」から\n[a 07]ギガンテスブラストをサブパレットに\nセット[b]します。\n\nクエスト中に[a 07]敵を倒すとアイコン周囲の\nブラストゲージが溜まり、\nゲージがいっぱいの状態で\nアイコンにタッチ[b]すると\nギガンテスブラストが開始します。",
-    "Text": "From the Subpalette,[a 07]set\nGigantes Blast under [Gigantes][b].\n\n[a 07]Defeating enemies fills the blast\ngauge around the icon[b].\nTap it when full to trigger\na Gigantes Blast.",
-    "Enabled": true
+    "Text": "기간테스 블래스트 발동\n\n'서브 팔레트 장비'의 '기간테스'에서\n[a 07]기간테스 블래스트를 서브 팔레트에\n등록[b]하세요.\n\n퀘스트 중 [a 07]적을 쓰러뜨리면 아이콘 주위의\n블래스트 게이지가 차오릅니다.\n게이지가 가득 찬 상태에서\n아이콘을 터치[b]하면\n기간테스 블래스트가 시작됩니다.",
+    "Enabled": false
   },
   "780115": {
     "OriginalText": "『シアタースコープ』\n\nシアタースコープでは、これまでに体験した\nイベントを再生することができます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "시어터 스코프\n\n시어터 스코프에서\n지금까지 본 이벤트를 다시 재생합니다.",
+    "Enabled": true
   },
   "780116": {
     "OriginalText": "\nクラスカウンターでは、プレイヤーの能力を\nカスタマイズできます。\n\nレベルアップ時に[a 07]習得したスキルは、\nクラスカウンターで「スキルボード」に\nセットすると効果を発揮します。[b]\n\nスキルを習得したらまずクラスカウンターへ\n行きましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n클래스 카운터에서는\n플레이어의 능력을 커스터마이즈합니다.\n\n레벨 업으로 [a 07]습득한 스킬은\n클래스 카운터에서 '스킬 보드'에\n장착해야 효과를 발휘합니다.[b]\n\n스킬을 습득했다면 먼저\n클래스 카운터로 가 보세요.",
+    "Enabled": true
   },
   "780117": {
     "OriginalText": "\n艦長を引き継ぎ、惑星探索任務を続行します。\n\n[a 07]ラボで「施設の開発」や「施設の配置と移動」\nができるようになりました。[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n함장직을 이어받아 행성 탐색 임무를 계속합니다.\n\n[a 07]랩에서 '시설 개발'과 '시설 배치 및 이동'을\n할 수 있게 됐습니다.[b]",
+    "Enabled": true
   },
   "780118": {
     "OriginalText": "\n[a 07]拠点の上層が開放[b]されました。\n\n上層入口から行くことができます。",
-    "Text": "\nThe [a 07]upper-levels of the gate[b] have been unlocked.\n\nYou can access them from the upper-level enterance.",
+    "Text": "\n[a 07]거점의 상층이 개방[b]됐습니다.\n\n상층 입구에서 올라갈 수 있습니다.",
     "Enabled": true
   },
   "780119": {
     "OriginalText": "\n[a 07]拠点の下層が開放[b]されました。\n\n下層入口から行くことができます。",
-    "Text": "The [a 07]lower-levels of the gate[b] have been unlocked.\n\nYou can access them from the lower-level enterance.",
-    "Enabled": false
+    "Text": "\n[a 07]거점의 하층이 개방[b]됐습니다.\n\n하층 입구에서 내려갈 수 있습니다.",
+    "Enabled": true
   },
   "780120": {
     "OriginalText": "\nフィルディアは[a 07]ブリッジ[b]に居ます。\n\nブリッジへはデルタ・ヴァリアントの\n出入り口から移動できます。\n",
-    "Text": "Fildia is at the bridge. You can access the bridge via the entrance/exit of the Delta Valiant.",
+    "Text": "\n필디아는 [a 07]브리지[b]에 있습니다.\n\n브리지는 델타 발리언트의\n출입구를 통해 갈 수 있습니다.\n",
     "Enabled": true
   },
   "780121": {
     "OriginalText": "\n助手のシャロンは、外の[a 07]ラボ[b]に居ます。\nラボに行ってみましょう。\n\n[a 07]赤い吹き出し[b]は、話しかけると\n洋語が進行する人洋の上に表示されます。\n\n迷った時は赤い吹き出しや\n赤いガイドアイコンを\n探してみましょう。",
-    "Text": "",
+    "Text": "\n조수 샤론은 밖에 있는 [a 07]랩[b]에 있습니다.\n랩으로 가 보세요.\n\n[a 07]빨간 말풍선[b]은 대화하면\n스토리가 진행되는 인물 위에 표시됩니다.\n\n길을 잃었을 때는 빨간 말풍선이나\n빨간 안내 아이콘을 찾아보세요.",
     "Enabled": false
   },
   "780122": {
     "OriginalText": "\n[a 07]拠点のはずれにあるクエストゲート[b]から\nクエストを選び、探索の旅へ出ることができ\nます。",
-    "Text": "\nYou can now [a 07]select a quest &\nset off on an exploration[b] via the\nQuest Gate on the outskirts of the base.",
+    "Text": "\n[a 07]거점 외곽의 퀘스트 게이트[b]에서\n퀘스트를 선택하고 탐색을 떠날 수 있습니다.",
     "Enabled": true
   },
   "780123": {
     "OriginalText": "\n[a 07]コールドスリープルーム[b]はデルタ・\nヴァリアントの出入り口から向かうことがで\nきます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n[a 07]콜드 슬립 룸[b]은 델타 발리언트의\n출입구를 통해 갈 수 있습니다.",
+    "Enabled": true
   },
   "780124": {
     "OriginalText": "\n[a 07]マルチプレイルーム[b]はデルタ・\nヴァリアントの出入り口から移動できます。\n\nアドホック通信で[a 07]他のプレイヤーと\nマルチプレイを行う場合[b]は\n[a 07]マルチプレイルーム[b]に行きましょう。",
-    "Text": "\nYou can access the [a 07]Multiplayer Room[b] via the\nDelta Valiant's entrance/exit.\n\nFor [a 07]Ad-Hoc multiplayer[b], visit the\n[a 07]Multiplayer Room[b].",
+    "Text": "\n[a 07]멀티플레이 룸[b]은 델타 발리언트의\n출입구를 통해 갈 수 있습니다.\n\n애드혹 통신으로 [a 07]다른 플레이어와\n멀티플레이를 할 때[b]는\n[a 07]멀티플레이 룸[b]으로 가세요.",
     "Enabled": true
   },
   "780125": {
     "OriginalText": "ゲームクリアおめでとうごいます。\n\nデルタ・ヴァリアントの洋語は\n一旦終わりましたが、\n時間を惑星マキア崩壊前に戻し、\n引き続きゲームを楽しむことができます。\n\n新たなイベントやクエストが追加された、\n少しだけパラレルな惑星マキアでの生活を\n引き続きお楽しみください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "게임 클리어를 축하합니다.\n\n델타 발리언트의 이야기는\n일단 끝났지만, 시간을 행성 마키아의\n붕괴 전으로 되돌려 계속 게임을\n즐길 수 있습니다.\n\n새 이벤트와 퀘스트가 추가된,\n조금 다른 평행 세계의 행성 마키아에서\n계속 생활을 즐겨 주세요.",
+    "Enabled": true
   },
   "780126": {
     "OriginalText": "\nＤＬＣが追加されました。\n\n武器、防具、コスチューム、アイテムは\n[a 07]各ショップで作成可能[b]、[a 07]施設はラボで開発\n可能[b]です。\n\nＤＬＣキャラクターは[a 07]コールドスリープから\n解凍[b]できます。\n\nＤＬＣクエストは[a 07]クエストゲートから\n選ぶ[b]ことができます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\nDLC가 추가됐습니다.\n\n무기, 방어구, 코스튬, 아이템은\n[a 07]각 샵에서 제작[b]할 수 있고,\n[a 07]시설은 랩에서 개발[b]할 수 있습니다.\n\nDLC 캐릭터는 [a 07]콜드 슬립에서 해동[b]합니다.\n\nDLC 퀘스트는 [a 07]퀘스트 게이트에서\n선택[b]할 수 있습니다.",
+    "Enabled": true
   },
   "780127": {
     "OriginalText": "『グラン』\n\n[a 07]グラン[b]の力を糾かり、フォトンの代わりに\n使えるようになりました。\n\nフォトンポイント(PP)\n → [a 07]グランポイント(GP)[b]\nフォトンアーツ(PA)\n → [a 07]グランアーツ(GA)[b]\nと呼称します。\n",
-    "Text": "Now that we've harnessed [a 07]Gran[b],\nwe'll use it instead of Photons.\n\nPhoton Points (PP)\n → [a 07]Gran Points (GP)[b]\nPhoton Arts (PA)\n → [a 07]Gran Arts (GA)[b]\n",
-    "Enabled": true
+    "Text": "그란\n\n[a 07]그란[b]의 힘을 얻어\n포톤 대신 사용할 수 있게 됐습니다.\n\n포톤 포인트(PP)\n > [a 07]그란 포인트(GP)[b]\n포톤 아츠(PA)\n > [a 07]그란 아츠(GA)[b]\n라고 부릅니다.\n",
+    "Enabled": false
   },
   "780128": {
     "OriginalText": "\n倉庫の容量上限[a 07]２０００個[b]を超えた\n状態でアイテムを入手した場合、\nアイテムは[a 07]一時倉庫へ自動的に入ります。[b]\n\n一時倉庫にアイテムがある状態ではクエスト\nゲートやショップにアクセスできません。\n[a 07]一時倉庫を空にしてからアクセス[b]してください。",
-    "Text": "",
+    "Text": "\n창고의 최대 용량인 [a 07]2,000개[b]를 넘은\n상태에서 아이템을 입수하면\n아이템은 [a 07]자동으로 임시 창고에 들어갑니다.[b]\n\n임시 창고에 아이템이 있으면 퀘스트\n게이트나 샵에 액세스할 수 없습니다.\n[a 07]임시 창고를 비운 뒤 액세스[b]해 주세요.",
     "Enabled": false
   },
   "780129": {
     "OriginalText": "\nメインメニューの[伝備]＞[武器伝備]で\n[a 07]６つの武器スロットに武器を設定[b]できます。\n\nメインパレット、裏パレットへの攻撃の\n割当ては[伝備]＞[武器パレット伝備]\nから行います。\n\nサブパレットへのアイテムやスキルの\n割当ては[伝備]＞[サブパレット伝備]\nから行います。",
-    "Text": "",
+    "Text": "\n메인 메뉴 (장비) > (무기 장비)에서\n[a 07]6개의 무기 슬롯에 무기를 설정[b]합니다.\n\n메인 팔레트와 뒷면 팔레트의 공격 배정은\n(장비) > (무기 팔레트 장비)에서 합니다.\n\n서브 팔레트의 아이템과 스킬 배정은\n(장비) > (서브 팔레트 장비)에서 합니다.",
     "Enabled": false
   },
   "780130": {
     "OriginalText": "\nファンタシースターオンライン２\n(PlayStation®Vita)連動特典\n「[a 07]ＰＳＯ２クルー[b]」の入ったカプセルが\nコールドスリープルームに追加されました。\n\nぜひ解凍して仲間に加えてください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n판타시 스타 온라인 2\n(PlayStation Vita) 연동 특전인\n'[a 07]PSO2 승무원[b]'이 든 캡슐이\n콜드 슬립 룸에 추가됐습니다.\n\n해동해서 동료로 맞이해 보세요.",
+    "Enabled": true
   },
   "780131": {
     "OriginalText": "\nファンタシースターオンライン２\n(PlayStation®Vita)の\nセーブデータがメモリーカード内に\n見つかりました。\n\n連動特典として、コールドスリープルームに\n「[a 07]ＰＳＯ２クルー[b]」が追加されます。\n[a 07]コールドスリープルームは、ゲームを進めると\n使用できるようになります。[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n메모리 카드에서\n판타시 스타 온라인 2\n(PlayStation Vita)의\n저장 데이터를 찾았습니다.\n\n연동 특전으로 콜드 슬립 룸에\n'[a 07]PSO2 승무원[b]'이 추가됩니다.\n[a 07]콜드 슬립 룸은 게임을 진행하면\n사용할 수 있게 됩니다.[b]",
+    "Enabled": true
   },
   "780132": {
     "OriginalText": "『レンジャーの回避アクション』\n\n[f 77] の入力で、[a 07]移動方向へ回避[b]を行います。\n\nレンジャーの回避アクション「[a 07]ダイブロール[b]」は\n地面で前転して攻撃を回避します。\n\nクラスによって回避アクションは異なります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "레인저의 회피 액션\n\n[f 77] 버튼을 누르면 [a 07]이동 방향으로 회피[b]합니다.\n\n레인저의 회피 액션 '[a 07]다이브 롤[b]'은\n땅에서 앞으로 굴러 공격을 회피합니다.\n\n회피 액션은 클래스마다 다릅니다.",
+    "Enabled": true
   },
   "780133": {
     "OriginalText": "『フォースの回避アクション』\n\n[f 77] の入力で、[a 07]移動方向へ回避[b]を行います。\n\nフォースの回避アクション、\n「[a 07]ミラージュエスケープ[b]」は瞬間的に姿を消し、\n離れた場所へ出現します。\n\n[a 07]姿が消えている間は攻撃を受けません。[b]\n\nクラスによって回避アクションは異なります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "포스의 회피 액션\n\n[f 77] 버튼을 누르면 [a 07]이동 방향으로 회피[b]합니다.\n\n포스의 회피 액션 '[a 07]미라쥬 이스케이프[b]'는\n순간적으로 모습을 감춘 뒤\n떨어진 곳에 다시 나타납니다.\n\n[a 07]모습이 사라진 동안에는 공격을 받지 않습니다.[b]\n\n회피 액션은 클래스마다 다릅니다.",
+    "Enabled": true
   },
   "780134": {
     "OriginalText": "\nまた、グランバースト発生中はさままな\n[a 07]バースト効果[b]がランダムで発生します。\n\n【経験値UP】\n 獲得経験値がアップします。\n\n【アイテムドロップUP】\n アイテムドロップ率がアップします。\n\n【レアエネミー出現率UP】\n レアエネミーの出現率がアップします。",
-    "Text": "",
+    "Text": "\n그란 버스트가 발생하는 동안에는\n여러 [a 07]버스트 효과[b]가 랜덤으로 발생합니다.\n\n경험치 증가\n 획득 경험치가 증가합니다.\n\n아이템 드랍 증가\n 아이템 드랍률이 증가합니다.\n\n레어 에너미 출현률 UP\n 레어 에너미의 출현률이 증가합니다.",
     "Enabled": false
   },
   "780135": {
     "OriginalText": "『素村のコアを選ぶ』\n\n必要な素村に含まれる「コア」には、\nさままな特殊能力がついており、\n作成時に選択した「コア」の能力が\n防具に継承されます。\n\n[a 07]同じ名前の「コア」でも能力が異なる[b]ので、\n能力を確認して「コア」を選びましょう。",
-    "Text": "",
+    "Text": "소재로 쓸 코어 선택\n\n필요한 소재에 포함된 '코어'에는\n여러 특수 능력이 붙어 있습니다.\n제작할 때 선택한 '코어'의 능력은\n방어구에 계승됩니다.\n\n[a 07]이름이 같은 '코어'도 능력이 다르므로[b]\n능력을 확인하고 '코어'를 선택하세요.",
     "Enabled": false
   },
   "780136": {
     "OriginalText": "『防具の防御力』\n\n防具には３種類の防御力があります。\n\n打撃防御…\n近接攻撃で受けるダメージに影響します。\n\n射撃防御…\n射撃攻撃で受けるダメージに影響します。\n\n法撃防御…\n法撃攻撃で受けるダメージに影響します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "방어구의 방어력\n\n방어구에는 3종류의 방어력이 있습니다.\n\n타격 방어:\n근접 공격으로 받는 데미지에 영향을 줍니다.\n\n사격 방어:\n사격 공격으로 받는 데미지에 영향을 줍니다.\n\n법격 방어:\n법격 공격으로 받는 데미지에 영향을 줍니다.",
+    "Enabled": true
   },
   "780137": {
-    "OriginalText": "\nヘイロウは[a 07]武器として伝備[b]します。\n\nメインメニュー［伝備］＞［武器伝備］の\n[a 07]武器選択リストで［ヘイロウ］カテゴリから\n伝備[b]してください。\n",
-    "Text": "You can now [a 07]equip[b] the Halo.\n\nFrom the [a 07]main menu, select [Equip] > [Equip Weapon], then choose [Halo][b].",
+    "OriginalText": "\nヘイロウは[a 07]武器として装備[b]します。\n\nメインメニュー［装備］＞［武器装備］の\n[a 07]武器選択リストで［ヘイロウ］カテゴリから\n装備[b]してください。\n",
+    "Text": "\n헤일로는 [a 07]무기로 장비[b]합니다.\n\n메인 메뉴의 장비 > 무기 장비에서\n[a 07]무기 선택 리스트의 '헤일로' 카테고리를 골라\n장비[b]해 주세요.\n",
     "Enabled": true
   },
   "780138": {
     "OriginalText": "リングフィールドはギガンテスの攻撃によって\n破壊されることがあります。\n\nアイテム[a 07]「リングジェネレーター」[b]を\n使うことでもリングフィールドを展開できます。\n\n「リングジェネレーター」は\nアイテムショップで作成し、\n[a 07]サブパレットにセットする[b]ことができます。\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "링 필드는 기간테스의 공격으로\n파괴될 수 있습니다.\n\n아이템 [a 07]'링 제너레이터'[b]로도\n링 필드를 전개할 수 있습니다.\n\n'링 제너레이터'는 아이템 샵에서\n제작하고 [a 07]서브 팔레트에 등록[b]할 수 있습니다.\n",
+    "Enabled": true
   },
   "780139": {
     "OriginalText": "『パイルとチェイン』\n\nパイルのグランアーツで撃ち出された杭は、\n敵の身体に突き刺さって残ります。\n\n[a 07]杭の刺さった場所[b]を狙って攻撃をあてれば、\n杭の共振効果によって\n[a 07]1回の攻撃でチェインが2回カウント[b]され、\nさらに[a 07]チェイン中ダメージにもボーナス[b]が\n入ります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "파일과 체인\n\n파일의 그란 아츠로 발사한 말뚝은\n적의 몸에 박힌 채 남습니다.\n\n[a 07]말뚝이 박힌 위치[b]를 노려 공격을 맞히면\n말뚝의 공진 효과로\n[a 07]공격 1회에 체인이 2회 집계[b]되고,\n[a 07]체인 중 데미지에도 보너스[b]가 붙습니다.",
+    "Enabled": true
   },
   "780140": {
-    "OriginalText": "『バスター』\n\nバスターは対ギガンテス武器である[a 07]パイルや\nヘイロウを使いこなす[b]新しい戦闘タイプです。\n\n[a 07]すべてのクラスの武器種を伝備可能[b]で、\nまた[a 07]テクニックを使うこともできます[b]。\n\n打撃力・射撃力・法撃力のバランスが良く、\nダイブロールによる回避ができます。",
-    "Text": "Buster is a new combat class wielding\nweapons like the [a 07]Pile and Halo[b]\nto counter the Gigantes.\n\nIt can equip [a 07]any class's\nweapons and use Techniques[b].\n\nIt balances Strike, Ranged, &\nTech stats, and evades attacks\nwith Dive Roll.",
+    "OriginalText": "『バスター』\n\nバスターは対ギガンテス武器である[a 07]パイルや\nヘイロウを使いこなす[b]新しい戦闘タイプです。\n\n[a 07]すべてのクラスの武器種を装備可能[b]で、\nまた[a 07]テクニックを使うこともできます[b]。\n\n打撃力・射撃力・法撃力のバランスが良く、\nダイブロールによる回避ができます。",
+    "Text": "버스터\n\n버스터는 대 기간테스 무기인 [a 07]파일과\n헤일로를 능숙하게 다루는[b] 새 전투 유형입니다.\n\n[a 07]모든 클래스의 무기 종류를 장비[b]할 수 있고,\n[a 07]테크닉도 사용[b]할 수 있습니다.\n\n타격력, 사격력, 법격력의 균형이 좋으며,\n다이브 롤로 회피합니다.",
     "Enabled": true
   },
   "780141": {
     "OriginalText": "\n部位破壊をすることで、「怒り」など敵の行\n動が変化することがあります。\n\nまた、破壊した部位に応じてアイテムがドロ\nップします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n부위를 파괴하면 '분노' 상태가 되는 등\n적의 행동이 달라지기도 합니다.\n\n또한 파괴한 부위에 따라 아이템이 드랍됩니다.",
+    "Enabled": true
   },
   "780142": {
     "OriginalText": "『クエストへ出発する』\n\n連れていくパーティーメンバーを決めた後、\n[a 07]「クエスト開始」を選択[b]すると\nクエストへ出発します。\n\nマルチプレイでは全員がクエストゲートから\n「クエスト開始」を選ぶことで\n出発できます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "퀘스트로 출발하기\n\n함께 갈 파티 멤버를 결정한 뒤\n[a 07]'퀘스트 시작'을 선택[b]하면\n퀘스트로 출발합니다.\n\n멀티플레이에서는 모두가 퀘스트 게이트에서\n'퀘스트 시작'을 선택하면 출발할 수 있습니다.",
+    "Enabled": true
   },
   "780143": {
     "OriginalText": "『メインクエストアイコン』\n\n洋語が進行する[a 07]メインクエストでは\n赤いガイドアイコン[b]がつきます。",
-    "Text": "",
+    "Text": "메인 퀘스트 아이콘\n\n스토리가 진행되는 [a 07]메인 퀘스트에는\n빨간 안내 아이콘[b]이 붙습니다.",
     "Enabled": false
   },
   "780144": {
     "OriginalText": "『クエストインフォメーション』\n\nクエスト一覧で [f 04] を押すと\nクエスト情報が非表示になります。\n\nさらに [f 04] を押すと\n[a 07]インフォメーションが表示され、\nレアドロップ率アップなどの情報を\n確認できます。[b]\n\n拠点にレーダーなどを設置すると\nインフォメーションの情報が追加されます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "퀘스트 인포메이션\n\n퀘스트 리스트에서 [f 04] 버튼을 누르면\n퀘스트 정보가 숨겨집니다.\n\n[f 04] 버튼을 한 번 더 누르면\n[a 07]인포메이션이 표시되어\n레어 드랍률 증가 등의 정보를\n확인할 수 있습니다.[b]\n\n거점에 레이더 등을 설치하면\n인포메이션에 정보가 추가됩니다.",
+    "Enabled": true
   },
   "780145": {
     "OriginalText": "『素村のコアを選ぶ』\n\n必要な素村に含まれる「コア」には、\nさままな特殊能力がついており、\n作成時に選択した「コア」の能力が武器に\n継承されます。\n\n[a 07]同じ名前の「コア」でも能力が異なる[b]ので、\n能力を確認して「コア」を選びましょう。",
-    "Text": "",
+    "Text": "소재로 쓸 코어 선택\n\n필요한 소재에 포함된 '코어'에는\n여러 특수 능력이 붙어 있습니다.\n제작할 때 선택한 '코어'의 능력은\n무기에 계승됩니다.\n\n[a 07]이름이 같은 '코어'도 능력이 다르므로[b]\n능력을 확인하고 '코어'를 선택하세요.",
     "Enabled": false
   },
   "780146": {
     "OriginalText": "『武器の攻撃力』\n\n武器の攻撃力には似下の３種類があります。\n\n打撃力…\n近接攻撃やグランアーツの威力に影響します。\n\n射撃力…\n射撃攻撃やグランアーツの威力に影響します。\n\n法撃力…\n法撃やテクニックの威力に影響します。",
-    "Text": "",
+    "Text": "무기의 공격력\n\n무기의 공격력에는 아래 3종류가 있습니다.\n\n타격력:\n근접 공격과 그란 아츠의 위력에 영향을 줍니다.\n\n사격력:\n사격 공격과 그란 아츠의 위력에 영향을 줍니다.\n\n법격력:\n법격과 테크닉의 위력에 영향을 줍니다.",
     "Enabled": false
   },
   "780147": {
     "OriginalText": "『属性のあるアタッチパーツ』\n\n武器に属性のあるアタッチパーツをつけて\n属性を付与できます。\n\n属性には、炎劇雷風光闇の６種類があり\nエネミーの[a 07]弱点属性[b]の武器で攻撃すると\nより大きなダメージを与えられます。\n\nシールドユニットの属性耐性は\n属性攻撃ダメージを滅らせます。",
-    "Text": "",
+    "Text": "속성을 가진 어태치 파츠\n\n속성이 있는 어태치 파츠를 무기에 붙여\n속성을 부여할 수 있습니다.\n\n염속성, 빙속성, 뇌속성, 풍속성,\n광속성, 암속성의 6가지 속성이 있으며, 에너미의\n[a 07]약점 속성[b]을 가진 무기로 공격하면\n더 큰 데미지를 줄 수 있습니다.\n\n실드 유닛의 속성 내성은\n속성 공격으로 받는 데미지를 줄입니다.",
     "Enabled": false
   },
   "780148": {
     "OriginalText": "\nバースト効果には様々な種類があります。\n\n【レアドロップUP】\n レアアイテムのドロップ率アップ\n【ダメージカット】\n エネミーから受けるダメージを滅少\n【ダメージコンバージョン】\n ダメージを受けるとＧＰが回復\n【クリティカルUP】\n クリティカルの発生率アップ",
-    "Text": "",
+    "Text": "\n버스트 효과에는 여러 종류가 있습니다.\n\n레어 드랍 증가\n 레어 아이템의 드랍률 증가\n데미지 컷\n 에너미에게 받는 데미지 감소\n데미지 컨버전\n 데미지를 받으면 GP 회복\n크리티컬 증가\n 크리티컬 발생률 증가",
     "Enabled": false
   },
   "780149": {
-    "OriginalText": "\n【ワンモアセット】\n バーストの時間が一回ぶん延長される効果、\n 「ワンモア」の発生率アップ\n【ガッツ】\n ＨＰ１０％似上の時に発動\n ダメージを受けてもＨＰ１で踏みとどまる\n【モータルブロウ】\n 打撃攻撃のダメージが２倍になる",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "\n【ワンモアセット】\n バーストの時間が一回ぶん延長される効果、\n 「ワンモア」の発生率アップ\n【ガッツ】\n ＨＰ１０％以上の時に発動\n ダメージを受けてもＨＰ１で踏みとどまる\n【モータルブロウ】\n 打撃攻撃のダメージが２倍になる",
+    "Text": "\n원 모어 세트\n 버스트 시간이 한 번 더 연장되는 효과인\n '원 모어'의 발생률 증가\n근성\n HP가 10% 이상일 때 발동\n 데미지를 받아도 HP 1로 버팀\n모탈 블로\n 타격 공격 데미지가 2배가 됨",
+    "Enabled": true
   },
   "780150": {
     "OriginalText": "\nギガンテスブラストが開始されると\n[a 07]発動までの時間が\n「発動ボタン」に表示[b]されます。\n\n[a 07]マルチプレイでは、発動するまでに\n他のプレイヤーが発動ボタンを押すことで、\nギガンテスブラストを支援[b]できます。\n\n４人で協力すれば、より強力な\nギガンテスブラストが発動します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n기간테스 블래스트가 시작되면\n[a 07]발동까지 남은 시간이\n'발동 버튼'에 표시[b]됩니다.\n\n[a 07]멀티플레이에서는 발동 전에\n다른 플레이어가 발동 버튼을 누르면\n기간테스 블래스트를 지원[b]할 수 있습니다.\n\n4명이 협력하면 더 강력한\n기간테스 블래스트가 발동합니다.",
+    "Enabled": true
   },
   "780151": {
     "OriginalText": "『スキルボード』\n\n[a 07]レベルアップ時に習得したスキル[b]をスキル\nボードにセットします。\n\n[a 07]スキルボードにセットしていないスキルは効\n果を発揮しない[b]ので気をつけてください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "스킬 보드\n\n[a 07]레벨 업으로 습득한 스킬[b]을\n스킬 보드에 장착하세요.\n\n[a 07]스킬 보드에 장착하지 않은 스킬은\n효과를 발휘하지 않으니[b] 주의하세요.",
+    "Enabled": true
   },
   "780152": {
     "OriginalText": "\nマルチプレイ中は[a 07]リーダー（ホスト）の\nストーリー進行に合わせて拠点の施設や\n人洋の居場所が変化[b]します。\n\nリーダー（ホスト）似外のプレイヤーが\nストーリーを進めようとした時に\n施設や人洋にアクセスできない場合は\nいったんパーティーから離脱すれば、\nアクセス可能になります。",
-    "Text": "",
+    "Text": "\n멀티플레이 중에는 [a 07]리더(호스트)의\n스토리 진행에 따라 거점 시설과\n인물의 위치가 달라집니다[b].\n\n리더(호스트)가 아닌 플레이어가\n스토리를 진행하려 할 때\n시설이나 인물에 액세스할 수 없다면\n한 번 파티에서 탈퇴하세요.\n그러면 액세스할 수 있습니다.",
     "Enabled": false
   },
   "780200": {
     "OriginalText": "\n・村料とコアを倉庫に一括で預ける機能追加\n・入手した村料とコアを自動的に倉庫に送る\n 機能追加\n （設定/ヘルプ→基本設定から変更）\n・コールドスリープルームにコラボキャラクター\n ニコ生キャラクターを追加\n 秘密のパスワードを探して解凍しよう！\n・その他、不具合修正\n",
-    "Text": "- Added bulk deposit of Materials &\nCores into Storage.\n- Added auto-deposit of Materials &\nCores into Storage.\n(Settings/Help → Basic Settings)\n- Added NicoNico Live collaboration\ncharacters to Cold Sleep.\nFind the passwords to unlock them!\n- Other bug fixes",
-    "Enabled": true
+    "Text": "\n- 재료와 코어를 창고에 일괄 맡기는 기능 추가\n- 입수한 재료와 코어를 자동으로 창고에\n 보내는 기능 추가\n (설정/헬프 > 기본 설정에서 변경)\n- 콜드 슬립 룸에 콜라보 캐릭터와\n 니코니코 생방송 캐릭터 추가\n 비밀 패스워드를 찾아 해동해 보세요!\n- 기타 버그 수정\n",
+    "Enabled": false
   },
   "780201": {
     "OriginalText": "\n[a 03]【ご注意】\n新しいバージョンでセーブしたデータは\n古いバージョンでロードできなくなります。[b]\n",
-    "Text": "[a 03][Notice]\nData saved in the new versions\ncannot be loaded in older versions.[b]",
+    "Text": "\n[a 03]주의\n새 버전에서 저장한 데이터는\n이전 버전에서 불러올 수 없습니다.[b]\n",
     "Enabled": true
   },
   "780202": {
     "OriginalText": "\n・サイドストーリー開始\n [a 07]拠点上層に新キャラクター「ガーネット」出現[b]\n （※本編シナリオクリア後）\n ガーネットに話しかけると\n 第０話を無料で遊ぶことができます\n\n・武器カスタマイズの燥作性を改良\n 方向キーによるアタッチパーツの移動を\n 細かく調整できるように改良",
-    "Text": "",
+    "Text": "\n- 사이드 스토리 시작\n [a 07]거점 상층에 새 캐릭터 '가넷' 등장[b]\n (본편 시나리오 클리어 후)\n 가넷에게 말을 걸면\n 제0화를 무료로 플레이할 수 있습니다\n\n- 무기 커스터마이즈의 조작성 개선\n 방향키로 어태치 파츠를 더 세밀하게\n 이동시킬 수 있도록 개선",
     "Enabled": false
   },
   "780203": {
     "OriginalText": "\n・トライアルクエスト追加\n ワールドマップの「追加クエスト」に\n タイムアタック用クエストが出現\n （※グランド・アクトⅡ開始後）\n\n・コールドスリープルームに\n 新コラボキャラクターを追加\n （※パスワードが必要）",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n- 트라이얼 퀘스트 추가\n 월드맵의 '추가 퀘스트'에\n 타임 어택용 퀘스트 등장\n (그랜드 액트 II 시작 후)\n\n- 콜드 슬립 룸에\n 새로운 콜라보 캐릭터 추가\n (패스워드 필요)",
+    "Enabled": true
   },
   "780204": {
     "OriginalText": "\n・「約束」へのアクセスを改良\n\n・その他、不具合修正\n\n[a 03]【ご注意】\n新しいバージョンでセーブしたデータは\n古いバージョンでロードできなくなります。[b]\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n- '약속' 액세스 개선\n\n- 기타 버그 수정\n\n[a 03]주의\n새 버전에서 저장한 데이터는\n이전 버전에서 불러올 수 없습니다.[b]\n",
+    "Enabled": true
   },
   "780205": {
     "OriginalText": "\n・クラスレベル150追加\n  レベルの上限が100→150に上昇\n\n・難易度スーパーハード\n エネミーLv.101似上のクエスト追加\n 新しいエネミー追加\n ※オルクスの約束スーパーハード開放クリア後\n\n・拠点にLv.5のショップ、施設を追加",
-    "Text": "",
+    "Text": "\n- 클래스 레벨 150 추가\n 레벨 상한이 100 > 150으로 상승\n\n- 난이도 슈퍼 하드\n 에너미 Lv.101 이상인 퀘스트 추가\n 새로운 에너미 추가\n 조건: 오르쿠스의 약속 '슈퍼 하드 개방' 클리어\n\n- 거점에 Lv.5 샵과 시설 추가",
     "Enabled": false
   },
   "780206": {
     "OriginalText": "『アタッチパーツ改造』\n\n作成済みのアタッチパーツの\n特殊能力を入れ替えることができます。\n\n村料となるコアを消費することで、\n特殊能力が入れ替わります。\n（※元の特殊能力は消えます）",
-    "Text": "",
+    "Text": "어태치 파츠 개조\n\n이미 제작한 어태치 파츠의\n특수 능력을 교체할 수 있습니다.\n\n재료인 코어를 소모하면\n특수 능력이 교체됩니다.\n(기존 특수 능력은 사라집니다)",
     "Enabled": false
   },
   "780207": {
     "OriginalText": "『コア強化』\n\nコアの持つ特殊能力を\n強化することができます。\n（例：パワーⅠ→パワーⅡ）\n\nコアを強化するには、\n同じ特殊能力を持つコアが復数必要です。\n強化後のコアは、\n必ずスモール・コアになります。",
-    "Text": "",
+    "Text": "코어 강화\n\n코어가 가진 특수 능력을\n강화할 수 있습니다.\n(예: 파워 I > 파워 II)\n\n코어를 강화하려면 같은 특수 능력을 가진\n코어가 여러 개 필요합니다.\n강화한 코어는 반드시\n스몰 코어가 됩니다.",
     "Enabled": false
   },
   "780208": {
-    "OriginalText": "\n難易度[a 07]スーパーハード[b]のクエストが\n追加されました。\n\nスーパーハードのクエストは、\n上級者向けの難易度です。\n\n状態異常や属性攻撃を行うエネミーが\n多数出現します。\n\n伝備、アタッチパーツ、スキルを駆使して\n挑戦しましょう！",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "\n難易度[a 07]スーパーハード[b]のクエストが\n追加されました。\n\nスーパーハードのクエストは、\n上級者向けの難易度です。\n\n状態異常や属性攻撃を行うエネミーが\n多数出現します。\n\n装備、アタッチパーツ、スキルを駆使して\n挑戦しましょう！",
+    "Text": "\n난이도 [a 07]슈퍼 하드[b]의 퀘스트가\n추가됐습니다.\n\n슈퍼 하드는 상급자를 위한 난이도입니다.\n\n상태이상이나 속성 공격을 사용하는\n에너미가 다수 출현합니다.\n\n장비, 어태치 파츠, 스킬을 활용해\n도전하세요!",
+    "Enabled": true
   },
   "780209": {
     "OriginalText": "\nスーパーハード追加により、\n[a 07]施設Lv.5が追加[b]されました。\n\n拠点にクラスカウンターLv.5を配置すると、\n[a 07]ＧＡ/テクニックのレベル上限が\n25まで追加[b]されます。\n\n武器・防具ショップLv.5を配置すると、\n[a 07]新たな武器・防具・アタッチパーツを\n作成[b]することができます。\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n슈퍼 하드 추가와 함께\n[a 07]시설 Lv.5가 추가[b]됐습니다.\n\n거점에 클래스 카운터 Lv.5를 배치하면\n[a 07]GA/테크닉의 레벨 상한이\n25까지 확장[b]됩니다.\n\n무기 및 방어구 샵 Lv.5를 배치하면\n[a 07]새로운 무기, 방어구, 어태치 파츠를\n제작[b]할 수 있습니다.\n",
+    "Enabled": true
   },
   "780210": {
     "OriginalText": "\n・ＧＡ、テクニックのレベル25追加\n レベルの上限が20→25に上昇\n ※クラスカウンターLv.5の設置が必要\n\n・レアリティ★11・12の新伝備アイテム登場\n 武器、防具、アタッチパーツが追加\n ※武器防具ショップLv.5の設置が必要\n ※特定の素村が必要",
-    "Text": "",
+    "Text": "\n- GA와 테크닉 레벨 25 추가\n 레벨 상한이 20 > 25로 상승\n 조건: 클래스 카운터 Lv.5 설치\n\n- 레어리티 ★11, 12의 새 장비 아이템 등장\n 무기, 방어구, 어태치 파츠 추가\n 조건: 무기 및 방어구 샵 Lv.5 설치\n 조건: 특정 소재 필요",
     "Enabled": false
   },
   "780211": {
     "OriginalText": "\n・新しい施設『コア精錬所』\n アタッチパーツの特殊能力の付け替え、\n 合成によるコア強化が可能\n\n・コールドスリープルームに\n 新キャラクターを追加\n\n・トライアルクエスト追加\n ワールドマップの「追加クエスト」に\n ＰＴアタック用クエストが出現\n ※ベリーハード追加後",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n- 새 시설 '코어 제련소'\n 어태치 파츠의 특수 능력 교체와\n 합성을 통한 코어 강화 가능\n\n- 콜드 슬립 룸에\n 새로운 캐릭터 추가\n\n- 트라이얼 퀘스트 추가\n 월드맵의 '추가 퀘스트'에\n PT 어택용 퀘스트 등장\n 조건: 베리 하드 추가 후",
+    "Enabled": true
   },
   "780212": {
     "OriginalText": "\n・その他、不具合修正\n\n\n[a 03]【ご注意】\n新しいバージョンでセーブしたデータは\n古いバージョンでロードできなくなります。[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n- 기타 버그 수정\n\n\n[a 03]주의\n새 버전에서 저장한 데이터는\n이전 버전에서 불러올 수 없습니다.[b]",
+    "Enabled": true
   },
   "780213": {
     "OriginalText": "\n・クラスレベル200追加\n  レベルの上限が150→200に上昇\n\n・難易度エクストラハード\n エネミーLv.151似上のクエスト追加\n 新しいエネミー追加\n ※オルクスの約束エクストラハード開放クリア後\n",
-    "Text": "",
+    "Text": "\n- 클래스 레벨 200 추가\n 레벨 상한이 150 > 200으로 상승\n\n- 난이도 엑스트라 하드\n 에너미 Lv.151 이상인 퀘스트 추가\n 새로운 에너미 추가\n 조건: 오르쿠스의 약속\n '엑스트라 하드 개방' 클리어\n",
     "Enabled": false
   },
   "780214": {
     "OriginalText": "\n・ＧＡ、テクニックのレベル30追加\n レベルの上限が25→30に上昇\n ※クラスカウンターLv.5の設置が必要\n\n・レアリティ★13～15の新伝備アイテム登場\n 武器、防具、アタッチパーツが追加\n ※武器防具ショップLv.5の設置が必要\n ※特定の素村が必要\n",
-    "Text": "",
+    "Text": "\n- GA와 테크닉 레벨 30 추가\n 레벨 상한이 25 > 30으로 상승\n 조건: 클래스 카운터 Lv.5 설치\n\n- 레어리티 ★13~15의 새 장비 아이템 등장\n 무기, 방어구, 어태치 파츠 추가\n 조건: 무기 및 방어구 샵 Lv.5 설치\n 조건: 특정 소재 필요\n",
     "Enabled": false
   },
   "780215": {
     "OriginalText": "\n・『武器エクステンド』\n 武器Ａに武器Ｂを合成して\n 性能を変化させる機能\n ※ヨミの約束武器合成研究クリア後\n\n・『再キャラクタークリエイト』\n 現在の状況を引き継いだ状態で\n 再度キャラクタークリエイトが可能\n ※リーティアの約束コールドスリープ改造\n  クリア後\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n- '무기 익스텐드'\n 무기 A에 무기 B를 합성해\n 성능을 바꾸는 기능\n 조건: 요미의 약속 '무기 합성 연구' 클리어\n\n- '재캐릭터 크리에이트'\n 현재 상태를 이어받아\n 캐릭터 크리에이트를 다시 실행할 수 있음\n 조건: 리티아의 약속 '콜드 슬립 개조'\n 클리어\n",
+    "Enabled": true
   },
   "780216": {
     "OriginalText": "\n・オペレーター交代の拡張\n キサラ、リーティア似外のキャラクターを\n オペレーターに設定可能\n ※約束の達成等が必要\n ※オペレーター交代でゲーム進行の差異なし\n\n・サイドストーリー\n ガーネット編とサンシャウト編の\n 共通エピローグを追加\n ※双方の第３話クリアが必要",
-    "Text": "",
+    "Text": "\n- 오퍼레이터 교대 확장\n 키사라와 리티아 외의 캐릭터도\n 오퍼레이터로 지정 가능\n 조건: 약속 달성 등 필요\n 오퍼레이터를 교대해도 게임 진행은 같음\n\n- 사이드 스토리\n 가넷 편과 선샤우트 편의\n 공통 에필로그 추가\n 조건: 양쪽 제3화 클리어",
     "Enabled": false
   },
   "780217": {
     "OriginalText": "\n・アイテム追加\n ＤＬＣ配信済みの伝備アイテム、\n サイドストーリーのクリア報酬の作成が可能\n ※各ストーリーのクリア後\n\n・特殊能力、スキル説明文の修正\n その他、不具合修正\n\n[a 03]【ご注意】\n新しいバージョンでセーブしたデータは\n古いバージョンでロードできなくなります。[b]",
-    "Text": "",
+    "Text": "\n- 아이템 추가\n DLC로 배포된 장비 아이템과\n 사이드 스토리 클리어 보상 제작 가능\n 조건: 각 스토리 클리어 후\n\n- 특수 능력과 스킬 설명문 수정\n 기타 버그 수정\n\n[a 03]주의\n새 버전에서 저장한 데이터는\n이전 버전에서 불러올 수 없습니다.[b]",
     "Enabled": false
   },
   "780218": {
     "OriginalText": "\n難易度[a 07]エクストラハード[b]のクエストが\n追加されました。\n\nエクストラハードは、スーパーハードを\nさらに超える難易度です！\n\nエネミーやギガンテスの伝甲が硬く、\n単発の攻撃だけで倒すのは難しいでしょう。\n\nチェインやクロスバーストを継続させて\n大ダメージを与えましょう！",
-    "Text": "",
+    "Text": "\n난이도 [a 07]엑스트라 하드[b]의 퀘스트가\n추가됐습니다.\n\n엑스트라 하드는 슈퍼 하드보다\n더욱 어려운 난이도입니다!\n\n에너미와 기간테스의 장갑이 단단해서\n단발 공격만으로는 쓰러뜨리기 어렵습니다.\n\n체인과 크로스 버스트를 유지하며\n큰 데미지를 주세요!",
     "Enabled": false
   },
   "780219": {
     "OriginalText": "エクストラハード(仮２)",
-    "Text": "",
-    "Enabled": false
+    "Text": "엑스트라 하드(임시 2)",
+    "Enabled": true
   },
   "780220": {
     "OriginalText": "『武器エクステンド』\n\n武器Ａに武器Ｂを合成して\n性能を変化させる機能です。\n\n例えば、★3の武器Ａに\n★10の武器Ｂを合成すると、\n武器Ａは★10相当の性能になります。\n\n[a 03]※武器Ａとして選択できるのは\n アイテムパック内の武器のみ[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기 익스텐드\n\n무기 A에 무기 B를 합성해\n성능을 바꾸는 기능입니다.\n\n예를 들어 ★3인 무기 A에\n★10인 무기 B를 합성하면\n무기 A의 성능은 ★10 수준이 됩니다.\n\n[a 03]주의: 무기 A로 선택할 수 있는 것은\n아이템 팩에 있는 무기뿐입니다[b]",
+    "Enabled": true
   },
   "780221": {
     "OriginalText": "『再キャラクタークリエイト』\n\n現在の状況を引き継いだ状態で\n再度キャラクタークリエイトが実行できます。\n[a 03]※アイテムパックに３つ似上の空きが必要[b]\n\n性別や種族も変更することが可能です。\n\nこれまで伝備できなかったコスチュームなどに\n着替えてみましょう。",
-    "Text": "",
+    "Text": "재캐릭터 크리에이트\n\n현재 상태를 이어받은 채로\n캐릭터 크리에이트를 다시 실행할 수 있습니다.\n[a 03]주의: 아이템 팩에 빈 공간이 3칸 이상 필요[b]\n\n성별과 종족도 변경할 수 있습니다.\n\n지금까지 장비하지 못했던 코스튬 등으로\n갈아입어 보세요.",
     "Enabled": false
   },
   "780222": {
     "OriginalText": "\n・クラスレベル200追加\n  レベルの上限が100→200に上昇\n\n・難易度スーパーハード＆エクストラハード\n エネミーLv.101似上のクエスト追加\n 新しいエネミー追加\n ※オルクスの約束スーパーハード開放クリア後\n ※オルクスの約束エクストラハード開放クリア後\n",
-    "Text": "",
+    "Text": "\n- 클래스 레벨 200 추가\n 레벨 상한이 100 > 200으로 상승\n\n- 난이도 슈퍼 하드와 엑스트라 하드\n 에너미 Lv.101 이상인 퀘스트 추가\n 새로운 에너미 추가\n 조건: 오르쿠스의 약속 '슈퍼 하드 개방' 클리어\n 조건: 오르쿠스의 약속\n '엑스트라 하드 개방' 클리어\n",
     "Enabled": false
   },
   "780223": {
     "OriginalText": "\n・ＧＡ、テクニックのレベル30追加\n レベルの上限が20→30に上昇\n ※クラスカウンターLv.5の設置が必要\n\n・レアリティ★11～15の新伝備アイテム登場\n 武器、防具、アタッチパーツが追加\n ※武器防具ショップLv.5の設置が必要\n ※特定の素村が必要\n",
-    "Text": "",
+    "Text": "\n- GA와 테크닉 레벨 30 추가\n 레벨 상한이 20 > 30으로 상승\n 조건: 클래스 카운터 Lv.5 설치\n\n- 레어리티 ★11~15의 새 장비 아이템 등장\n 무기, 방어구, 어태치 파츠 추가\n 조건: 무기 및 방어구 샵 Lv.5 설치\n 조건: 특정 소재 필요\n",
     "Enabled": false
   },
   "780224": {
     "OriginalText": "\n・新しい施設『コア精錬所』\n アタッチパーツの特殊能力の付け替え、\n 合成によるコア強化が可能\n\n・コールドスリープルームに\n 新キャラクターを追加\n\n・トライアルクエスト追加\n ワールドマップの「追加クエスト」に\n ＰＴアタック用クエストが出現\n ※ベリーハード追加後",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n- 새 시설 '코어 제련소'\n 어태치 파츠의 특수 능력 교체와\n 합성을 통한 코어 강화 가능\n\n- 콜드 슬립 룸에\n 새로운 캐릭터 추가\n\n- 트라이얼 퀘스트 추가\n 월드맵의 '추가 퀘스트'에\n PT 어택용 퀘스트 등장\n 조건: 베리 하드 추가 후",
+    "Enabled": true
   },
   "780225": {
     "OriginalText": "\n・『武器エクステンド』\n 武器Ａに武器Ｂを合成して\n 性能を変化させる機能\n ※ヨミの約束武器合成研究クリア後\n\n・『再キャラクタークリエイト』\n レベル等を引き継いだ状態で\n 再度キャラクタークリエイトが可能\n ※リーティアの約束コールドスリープ改造\n  クリア後\n",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n- '무기 익스텐드'\n 무기 A에 무기 B를 합성해\n 성능을 바꾸는 기능\n 조건: 요미의 약속 '무기 합성 연구' 클리어\n\n- '재캐릭터 크리에이트'\n 레벨 등을 이어받아\n 캐릭터 크리에이트를 다시 실행할 수 있음\n 조건: 리티아의 약속 '콜드 슬립 개조'\n 클리어\n",
+    "Enabled": true
   },
   "780226": {
     "OriginalText": "\n・オペレーター交代の拡張\n キサラ、リーティア似外のキャラクターを\n オペレーターに設定可能\n ※約束の達成等が必要\n ※オペレーター交代でゲーム進行の差異なし\n\n・サイドストーリー\n ガーネット編とサンシャウト編の\n 共通エピローグを追加\n ※双方の第３話クリアが必要\n",
-    "Text": "",
+    "Text": "\n- 오퍼레이터 교대 확장\n 키사라와 리티아 외의 캐릭터도\n 오퍼레이터로 지정 가능\n 조건: 약속 달성 등 필요\n 오퍼레이터를 교대해도 게임 진행은 같음\n\n- 사이드 스토리\n 가넷 편과 선샤우트 편의\n 공통 에필로그 추가\n 조건: 양쪽 제3화 클리어\n",
     "Enabled": false
   },
   "780227": {
     "OriginalText": "\n・アイテム追加\n ＤＬＣ配信済みの伝備アイテム、\n サイドストーリーのクリア報酬の作成が可能\n ※各ストーリーのクリア後\n\n・特殊能力、スキル説明文の修正\n その他、不具合修正\n\n[a 03]【ご注意】\n新しいバージョンでセーブしたデータは\n古いバージョンでロードできなくなります。[b]",
-    "Text": "",
+    "Text": "\n- 아이템 추가\n DLC로 배포된 장비 아이템과\n 사이드 스토리 클리어 보상 제작 가능\n 조건: 각 스토리 클리어 후\n\n- 특수 능력과 스킬 설명문 수정\n 기타 버그 수정\n\n[a 03]주의\n새 버전에서 저장한 데이터는\n이전 버전에서 불러올 수 없습니다.[b]",
     "Enabled": false
   },
   "780228": {
     "OriginalText": "\n合成後に武器Ｂは消滅しますが、\nアタッチパーツは手元に残ります。\n\n[a 03]※すでに合成済みの武器、\n 再入手できない貴重な武器は\n 武器Ｂとして合成不可[b]\n\n合成にはホワイトチケットを消費します。\n必要数は合成する武器Ｂのレアリティで\n変化します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "\n합성한 뒤 무기 B는 사라지지만,\n어태치 파츠는 소지품으로 남습니다.\n\n[a 03]주의: 이미 합성한 무기나\n다시 입수할 수 없는 귀중한 무기는\n무기 B로 합성할 수 없습니다[b]\n\n합성할 때는 화이트 티켓을 소모합니다.\n필요한 수는 합성할 무기 B의\n레어리티에 따라 달라집니다.",
+    "Enabled": true
   }
 }

@@ -1,3 +1,20 @@
 *.1
 
 *.kate-swp
+
+# New Korean technical assets are kept on NAS, not in this text repository.
+*.cpk
+*.vpk
+*.rmd
+*.bin
+*.elf
+*.self
+*.dmp
+*.skprx
+.DS_Store
+__pycache__/
+analysis/
+backups/
+history/
+reviews/
+review_json/

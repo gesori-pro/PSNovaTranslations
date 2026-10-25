@@ -1,0 +1,1927 @@
+{
+  "key5001": {
+    "OriginalText": "ルティナ",
+    "Text": "루티나",
+    "Enabled": true
+  },
+  "key5002": {
+    "OriginalText": "セイル",
+    "Text": "세일",
+    "Enabled": true
+  },
+  "key5003": {
+    "OriginalText": "イズナ",
+    "Text": "이즈나",
+    "Enabled": true
+  },
+  "key5004": {
+    "OriginalText": "ユノ",
+    "Text": "유노",
+    "Enabled": true
+  },
+  "key5005": {
+    "OriginalText": "フィルディア",
+    "Text": "필디아",
+    "Enabled": true
+  },
+  "key5006": {
+    "OriginalText": "レイヴァン",
+    "Text": "레이반",
+    "Enabled": true
+  },
+  "key5007": {
+    "OriginalText": "レイヴァン幼少期（欠番）",
+    "Text": "어린 레이반 (결번)",
+    "Enabled": true
+  },
+  "key5008": {
+    "OriginalText": "マグナス",
+    "Text": "마그너스",
+    "Enabled": true
+  },
+  "key5009": {
+    "OriginalText": "カリスト",
+    "Text": "칼리스토",
+    "Enabled": true
+  },
+  "key5010": {
+    "OriginalText": "キサラ",
+    "Text": "키사라",
+    "Enabled": true
+  },
+  "key5011": {
+    "OriginalText": "リーティア",
+    "Text": "리티아",
+    "Enabled": true
+  },
+  "key5012": {
+    "OriginalText": "ヨミ",
+    "Text": "요미",
+    "Enabled": true
+  },
+  "key5013": {
+    "OriginalText": "オルクス",
+    "Text": "오르쿠스",
+    "Enabled": true
+  },
+  "key5014": {
+    "OriginalText": "ヒュペリオン",
+    "Text": "히페리온",
+    "Enabled": true
+  },
+  "key5015": {
+    "OriginalText": "シャロン",
+    "Text": "샤론",
+    "Enabled": true
+  },
+  "key5016": {
+    "OriginalText": "レイヴァン覚醒時",
+    "Text": "각성한 레이반",
+    "Enabled": true
+  },
+  "key5017": {
+    "OriginalText": "ユノホログラム時",
+    "Text": "유노 홀로그램",
+    "Enabled": true
+  },
+  "key5103": {
+    "OriginalText": "ロジスタ",
+    "Text": "로지스타",
+    "Enabled": true
+  },
+  "key5104": {
+    "OriginalText": "ムウェル",
+    "Text": "무웰",
+    "Enabled": true
+  },
+  "key5105": {
+    "OriginalText": "キレンツ",
+    "Text": "키렌츠",
+    "Enabled": true
+  },
+  "key5106": {
+    "OriginalText": "ゲシェム",
+    "Text": "게셈",
+    "Enabled": true
+  },
+  "key5107": {
+    "OriginalText": "ペルフ",
+    "Text": "페르프",
+    "Enabled": true
+  },
+  "key5108": {
+    "OriginalText": "テディク",
+    "Text": "테디크",
+    "Enabled": true
+  },
+  "key5109": {
+    "OriginalText": "パルデス",
+    "Text": "팔데스",
+    "Enabled": true
+  },
+  "key5113": {
+    "OriginalText": "アンツ",
+    "Text": "안츠",
+    "Enabled": true
+  },
+  "key5114": {
+    "OriginalText": "レデン",
+    "Text": "레덴",
+    "Enabled": true
+  },
+  "key5115": {
+    "OriginalText": "ヴァン",
+    "Text": "반",
+    "Enabled": true
+  },
+  "key5116": {
+    "OriginalText": "ソーマ",
+    "Text": "소마",
+    "Enabled": true
+  },
+  "key5117": {
+    "OriginalText": "ヴィエナス",
+    "Text": "비에나스",
+    "Enabled": true
+  },
+  "key5118": {
+    "OriginalText": "チャハール",
+    "Text": "차하르",
+    "Enabled": true
+  },
+  "key5119": {
+    "OriginalText": "シタンバル",
+    "Text": "시탄바르",
+    "Enabled": true
+  },
+  "key5120": {
+    "OriginalText": "ラック",
+    "Text": "라크",
+    "Enabled": true
+  },
+  "key5121": {
+    "OriginalText": "ファンナス",
+    "Text": "판나스",
+    "Enabled": true
+  },
+  "key5122": {
+    "OriginalText": "ヘクサ",
+    "Text": "헥사",
+    "Enabled": true
+  },
+  "key5123": {
+    "OriginalText": "ディセット",
+    "Text": "디세트",
+    "Enabled": true
+  },
+  "key5124": {
+    "OriginalText": "カラント",
+    "Text": "카란트",
+    "Enabled": true
+  },
+  "key5125": {
+    "OriginalText": "グラナート",
+    "Text": "그라나트",
+    "Enabled": true
+  },
+  "key5126": {
+    "OriginalText": "ザールドゥ",
+    "Text": "자르두",
+    "Enabled": true
+  },
+  "key5127": {
+    "OriginalText": "ブライン",
+    "Text": "브라인",
+    "Enabled": true
+  },
+  "key5128": {
+    "OriginalText": "イズル",
+    "Text": "이즈루",
+    "Enabled": true
+  },
+  "key5129": {
+    "OriginalText": "サフェード",
+    "Text": "사페드",
+    "Enabled": true
+  },
+  "key5130": {
+    "OriginalText": "ホルド",
+    "Text": "홀드",
+    "Enabled": true
+  },
+  "key5131": {
+    "OriginalText": "ケヴィン",
+    "Text": "케빈",
+    "Enabled": true
+  },
+  "key5132": {
+    "OriginalText": "クラスト",
+    "Text": "크라스트",
+    "Enabled": true
+  },
+  "key5133": {
+    "OriginalText": "レイジ",
+    "Text": "레이지",
+    "Enabled": true
+  },
+  "key5134": {
+    "OriginalText": "レスタム",
+    "Text": "레스타무",
+    "Enabled": true
+  },
+  "key5135": {
+    "OriginalText": "セドゥム",
+    "Text": "세둠",
+    "Enabled": true
+  },
+  "key5136": {
+    "OriginalText": "ルーク",
+    "Text": "루크",
+    "Enabled": true
+  },
+  "key5137": {
+    "OriginalText": "トレッティ",
+    "Text": "트레티",
+    "Enabled": true
+  },
+  "key5138": {
+    "OriginalText": "ナハル",
+    "Text": "나하르",
+    "Enabled": true
+  },
+  "key5139": {
+    "OriginalText": "アルフ",
+    "Text": "알프",
+    "Enabled": true
+  },
+  "key5140": {
+    "OriginalText": "モガット",
+    "Text": "모가트",
+    "Enabled": true
+  },
+  "key5141": {
+    "OriginalText": "イスタル",
+    "Text": "이스타르",
+    "Enabled": true
+  },
+  "key5142": {
+    "OriginalText": "ヘリオス",
+    "Text": "헬리오스",
+    "Enabled": true
+  },
+  "key5143": {
+    "OriginalText": "アレクト",
+    "Text": "알렉트",
+    "Enabled": true
+  },
+  "key5144": {
+    "OriginalText": "ゴーティス",
+    "Text": "고티스",
+    "Enabled": true
+  },
+  "key5145": {
+    "OriginalText": "ミマサギ",
+    "Text": "미마사기",
+    "Enabled": true
+  },
+  "key5146": {
+    "OriginalText": "カグラ",
+    "Text": "카구라",
+    "Enabled": true
+  },
+  "key5147": {
+    "OriginalText": "ポール",
+    "Text": "폴",
+    "Enabled": true
+  },
+  "key5148": {
+    "OriginalText": "ヨウゲン",
+    "Text": "요겐",
+    "Enabled": true
+  },
+  "key5149": {
+    "OriginalText": "ノヴァイア",
+    "Text": "노바이아",
+    "Enabled": true
+  },
+  "key5150": {
+    "OriginalText": "リザノス",
+    "Text": "리자노스",
+    "Enabled": true
+  },
+  "key5151": {
+    "OriginalText": "スライブ",
+    "Text": "스라이브",
+    "Enabled": true
+  },
+  "key5152": {
+    "OriginalText": "オウガス",
+    "Text": "오우가스",
+    "Enabled": true
+  },
+  "key5153": {
+    "OriginalText": "メイズ",
+    "Text": "메이즈",
+    "Enabled": true
+  },
+  "key5154": {
+    "OriginalText": "エッセル",
+    "Text": "엣셀",
+    "Enabled": true
+  },
+  "key5155": {
+    "OriginalText": "ノライク",
+    "Text": "노라이크",
+    "Enabled": true
+  },
+  "key5156": {
+    "OriginalText": "ヌクート",
+    "Text": "누쿠트",
+    "Enabled": true
+  },
+  "key5157": {
+    "OriginalText": "イーヴァス",
+    "Text": "이바스",
+    "Enabled": true
+  },
+  "key5158": {
+    "OriginalText": "トール",
+    "Text": "토르",
+    "Enabled": true
+  },
+  "key5159": {
+    "OriginalText": "キール",
+    "Text": "키르",
+    "Enabled": true
+  },
+  "key5160": {
+    "OriginalText": "オクトベル",
+    "Text": "옥토벨",
+    "Enabled": true
+  },
+  "key5161": {
+    "OriginalText": "ダイナ",
+    "Text": "다이나",
+    "Enabled": true
+  },
+  "key5162": {
+    "OriginalText": "ツヴァイ",
+    "Text": "츠바이",
+    "Enabled": true
+  },
+  "key5163": {
+    "OriginalText": "カーク",
+    "Text": "커크",
+    "Enabled": true
+  },
+  "key5164": {
+    "OriginalText": "オーケン",
+    "Text": "오켄",
+    "Enabled": true
+  },
+  "key5165": {
+    "OriginalText": "ゼノ",
+    "Text": "제노",
+    "Enabled": true
+  },
+  "key5166": {
+    "OriginalText": "リョーマ",
+    "Text": "료마",
+    "Enabled": true
+  },
+  "key5167": {
+    "OriginalText": "イルゲート",
+    "Text": "일게이트",
+    "Enabled": true
+  },
+  "key5168": {
+    "OriginalText": "ブラック",
+    "Text": "블랙",
+    "Enabled": true
+  },
+  "key5169": {
+    "OriginalText": "グラバー",
+    "Text": "그라버",
+    "Enabled": true
+  },
+  "key5170": {
+    "OriginalText": "ディーヴァス",
+    "Text": "디바스",
+    "Enabled": true
+  },
+  "key5171": {
+    "OriginalText": "クシード",
+    "Text": "쿠시드",
+    "Enabled": true
+  },
+  "key5307": {
+    "OriginalText": "リストパット",
+    "Text": "리스트파트",
+    "Enabled": true
+  },
+  "key5308": {
+    "OriginalText": "トライス",
+    "Text": "트라이스",
+    "Enabled": true
+  },
+  "key5309": {
+    "OriginalText": "フィスター",
+    "Text": "피스터",
+    "Enabled": true
+  },
+  "key5310": {
+    "OriginalText": "プロシネッツ",
+    "Text": "프로시네츠",
+    "Enabled": true
+  },
+  "key5311": {
+    "OriginalText": "カルベンティック",
+    "Text": "카르벤티크",
+    "Enabled": true
+  },
+  "key5312": {
+    "OriginalText": "ハイト",
+    "Text": "하이트",
+    "Enabled": true
+  },
+  "key5313": {
+    "OriginalText": "クォート",
+    "Text": "쿼트",
+    "Enabled": true
+  },
+  "key5314": {
+    "OriginalText": "ラバディ",
+    "Text": "라바디",
+    "Enabled": true
+  },
+  "key5315": {
+    "OriginalText": "サザナミ",
+    "Text": "사자나미",
+    "Enabled": true
+  },
+  "key5316": {
+    "OriginalText": "ティオ",
+    "Text": "티오",
+    "Enabled": true
+  },
+  "key5317": {
+    "OriginalText": "アハト",
+    "Text": "아하트",
+    "Enabled": true
+  },
+  "key5318": {
+    "OriginalText": "ブリッツ",
+    "Text": "블리츠",
+    "Enabled": true
+  },
+  "key5319": {
+    "OriginalText": "チェルニー",
+    "Text": "체르니",
+    "Enabled": true
+  },
+  "key5320": {
+    "OriginalText": "ニュート",
+    "Text": "뉴트",
+    "Enabled": true
+  },
+  "key5321": {
+    "OriginalText": "ヒューイット",
+    "Text": "휴잇",
+    "Enabled": true
+  },
+  "key5322": {
+    "OriginalText": "ローアル",
+    "Text": "로아르",
+    "Enabled": true
+  },
+  "key5323": {
+    "OriginalText": "ミドゥバル",
+    "Text": "미두바르",
+    "Enabled": true
+  },
+  "key5324": {
+    "OriginalText": "カッテル",
+    "Text": "카텔",
+    "Enabled": true
+  },
+  "key5325": {
+    "OriginalText": "レギスタン",
+    "Text": "레기스탄",
+    "Enabled": true
+  },
+  "key5326": {
+    "OriginalText": "デセット",
+    "Text": "데세트",
+    "Enabled": true
+  },
+  "key5327": {
+    "OriginalText": "セイン",
+    "Text": "세인",
+    "Enabled": true
+  },
+  "key5328": {
+    "OriginalText": "ケルブ",
+    "Text": "케르브",
+    "Enabled": true
+  },
+  "key5329": {
+    "OriginalText": "ジャルナー",
+    "Text": "자르나",
+    "Enabled": true
+  },
+  "key5330": {
+    "OriginalText": "ギグス",
+    "Text": "긱스",
+    "Enabled": true
+  },
+  "key5331": {
+    "OriginalText": "ハツェル",
+    "Text": "하첼",
+    "Enabled": true
+  },
+  "key5332": {
+    "OriginalText": "ハスターン",
+    "Text": "하스탄",
+    "Enabled": true
+  },
+  "key5333": {
+    "OriginalText": "ヴェルド",
+    "Text": "벨드",
+    "Enabled": true
+  },
+  "key5334": {
+    "OriginalText": "ネイザン",
+    "Text": "네이선",
+    "Enabled": true
+  },
+  "key5335": {
+    "OriginalText": "モリス",
+    "Text": "모리스",
+    "Enabled": true
+  },
+  "key5336": {
+    "OriginalText": "リスター",
+    "Text": "리스타",
+    "Enabled": true
+  },
+  "key5337": {
+    "OriginalText": "ユース",
+    "Text": "유스",
+    "Enabled": true
+  },
+  "key5338": {
+    "OriginalText": "ゼディ",
+    "Text": "제디",
+    "Enabled": true
+  },
+  "key5339": {
+    "OriginalText": "エイガス",
+    "Text": "에이가스",
+    "Enabled": true
+  },
+  "key5340": {
+    "OriginalText": "チャーディス",
+    "Text": "차디스",
+    "Enabled": true
+  },
+  "key5341": {
+    "OriginalText": "レックス",
+    "Text": "렉스",
+    "Enabled": true
+  },
+  "key5342": {
+    "OriginalText": "ソーラック",
+    "Text": "소라크",
+    "Enabled": true
+  },
+  "key5343": {
+    "OriginalText": "エスト",
+    "Text": "에스트",
+    "Enabled": true
+  },
+  "key5344": {
+    "OriginalText": "オボロ",
+    "Text": "오보로",
+    "Enabled": true
+  },
+  "key5345": {
+    "OriginalText": "ノーヴィーク",
+    "Text": "노비크",
+    "Enabled": true
+  },
+  "key5346": {
+    "OriginalText": "ガゼル",
+    "Text": "가젤",
+    "Enabled": true
+  },
+  "key5347": {
+    "OriginalText": "ジェイク",
+    "Text": "제이크",
+    "Enabled": true
+  },
+  "key5348": {
+    "OriginalText": "ユディン",
+    "Text": "유딘",
+    "Enabled": true
+  },
+  "key5349": {
+    "OriginalText": "アフィン",
+    "Text": "아핀",
+    "Enabled": true
+  },
+  "key5350": {
+    "OriginalText": "レーヴァル",
+    "Text": "레발",
+    "Enabled": true
+  },
+  "key5351": {
+    "OriginalText": "アーシェル",
+    "Text": "아셸",
+    "Enabled": true
+  },
+  "key5352": {
+    "OriginalText": "ズック",
+    "Text": "즈크",
+    "Enabled": true
+  },
+  "key5353": {
+    "OriginalText": "ディレッド",
+    "Text": "디레드",
+    "Enabled": true
+  },
+  "key5354": {
+    "OriginalText": "ヴァルメン",
+    "Text": "발멘",
+    "Enabled": true
+  },
+  "key5453": {
+    "OriginalText": "ヤージウス",
+    "Text": "야지우스",
+    "Enabled": true
+  },
+  "key5454": {
+    "OriginalText": "ヤン",
+    "Text": "얀",
+    "Enabled": true
+  },
+  "key5455": {
+    "OriginalText": "ザイン",
+    "Text": "자인",
+    "Enabled": true
+  },
+  "key5456": {
+    "OriginalText": "アウグスト",
+    "Text": "아우구스트",
+    "Enabled": true
+  },
+  "key5457": {
+    "OriginalText": "ネクト",
+    "Text": "넥트",
+    "Enabled": true
+  },
+  "key5458": {
+    "OriginalText": "セブ",
+    "Text": "세브",
+    "Enabled": true
+  },
+  "key5459": {
+    "OriginalText": "ニンヴァス",
+    "Text": "닌바스",
+    "Enabled": true
+  },
+  "key5460": {
+    "OriginalText": "アクセル",
+    "Text": "액셀",
+    "Enabled": true
+  },
+  "key5461": {
+    "OriginalText": "オルバ",
+    "Text": "오르바",
+    "Enabled": true
+  },
+  "key5462": {
+    "OriginalText": "スザーラ",
+    "Text": "스자라",
+    "Enabled": true
+  },
+  "key5463": {
+    "OriginalText": "ツェント",
+    "Text": "첸트",
+    "Enabled": true
+  },
+  "key5464": {
+    "OriginalText": "クラッド",
+    "Text": "클래드",
+    "Enabled": true
+  },
+  "key5465": {
+    "OriginalText": "ミリアルド",
+    "Text": "미리알드",
+    "Enabled": true
+  },
+  "key5466": {
+    "OriginalText": "フトルニク",
+    "Text": "후토르니크",
+    "Enabled": true
+  },
+  "key5467": {
+    "OriginalText": "タオゼント",
+    "Text": "타오젠트",
+    "Enabled": true
+  },
+  "key5468": {
+    "OriginalText": "シュタイン",
+    "Text": "슈타인",
+    "Enabled": true
+  },
+  "key5469": {
+    "OriginalText": "ファナドゥル",
+    "Text": "파나두르",
+    "Enabled": true
+  },
+  "key5470": {
+    "OriginalText": "パハール",
+    "Text": "파하르",
+    "Enabled": true
+  },
+  "key5471": {
+    "OriginalText": "ハル",
+    "Text": "하루",
+    "Enabled": true
+  },
+  "key5472": {
+    "OriginalText": "ガスール",
+    "Text": "가수르",
+    "Enabled": true
+  },
+  "key5473": {
+    "OriginalText": "フーヴァル",
+    "Text": "후바르",
+    "Enabled": true
+  },
+  "key5474": {
+    "OriginalText": "ペルラ",
+    "Text": "페를라",
+    "Enabled": true
+  },
+  "key5475": {
+    "OriginalText": "セム",
+    "Text": "셈",
+    "Enabled": true
+  },
+  "key5476": {
+    "OriginalText": "メルギス",
+    "Text": "멜기스",
+    "Enabled": true
+  },
+  "key5477": {
+    "OriginalText": "エイジ",
+    "Text": "에이지",
+    "Enabled": true
+  },
+  "key5478": {
+    "OriginalText": "モルタ",
+    "Text": "모르타",
+    "Enabled": true
+  },
+  "key5479": {
+    "OriginalText": "シャムス",
+    "Text": "샴스",
+    "Enabled": true
+  },
+  "key5480": {
+    "OriginalText": "ミスト",
+    "Text": "미스트",
+    "Enabled": true
+  },
+  "key5481": {
+    "OriginalText": "ペダル",
+    "Text": "페달",
+    "Enabled": true
+  },
+  "key5482": {
+    "OriginalText": "マクシモ",
+    "Text": "막시모",
+    "Enabled": true
+  },
+  "key5483": {
+    "OriginalText": "ベン",
+    "Text": "벤",
+    "Enabled": true
+  },
+  "key5484": {
+    "OriginalText": "オスカル",
+    "Text": "오스카르",
+    "Enabled": true
+  },
+  "key5485": {
+    "OriginalText": "ナージエ",
+    "Text": "나지에",
+    "Enabled": true
+  },
+  "key5486": {
+    "OriginalText": "ヒスト",
+    "Text": "히스트",
+    "Enabled": true
+  },
+  "key5487": {
+    "OriginalText": "ホワイスト",
+    "Text": "호와이스트",
+    "Enabled": true
+  },
+  "key5488": {
+    "OriginalText": "ドゥーベン",
+    "Text": "두벤",
+    "Enabled": true
+  },
+  "key5489": {
+    "OriginalText": "ディアマント",
+    "Text": "디아만트",
+    "Enabled": true
+  },
+  "key5490": {
+    "OriginalText": "フェニディー",
+    "Text": "페니디",
+    "Enabled": true
+  },
+  "key5491": {
+    "OriginalText": "アナン",
+    "Text": "아난",
+    "Enabled": true
+  },
+  "key5492": {
+    "OriginalText": "マーク",
+    "Text": "마크",
+    "Enabled": true
+  },
+  "key5493": {
+    "OriginalText": "エフェス",
+    "Text": "에페스",
+    "Enabled": true
+  },
+  "key5494": {
+    "OriginalText": "ホーク",
+    "Text": "호크",
+    "Enabled": true
+  },
+  "key5495": {
+    "OriginalText": "エディン",
+    "Text": "에딘",
+    "Enabled": true
+  },
+  "key5496": {
+    "OriginalText": "トレーズ",
+    "Text": "트레즈",
+    "Enabled": true
+  },
+  "key5497": {
+    "OriginalText": "カトルズ",
+    "Text": "카토르즈",
+    "Enabled": true
+  },
+  "key5498": {
+    "OriginalText": "ゾルガー",
+    "Text": "졸가",
+    "Enabled": true
+  },
+  "key5499": {
+    "OriginalText": "デスマスク",
+    "Text": "데스마스크",
+    "Enabled": true
+  },
+  "key5500": {
+    "OriginalText": "セガエイギョーマン",
+    "Text": "세가 영업맨",
+    "Enabled": true
+  },
+  "key5501": {
+    "OriginalText": "３Ｚー１０３",
+    "Text": "3Z-103",
+    "Enabled": true
+  },
+  "key5502": {
+    "OriginalText": "ハルライン",
+    "Text": "하르라인",
+    "Enabled": true
+  },
+  "key5503": {
+    "OriginalText": "セスバルド",
+    "Text": "세스발드",
+    "Enabled": true
+  },
+  "key5504": {
+    "OriginalText": "シショウ",
+    "Text": "시쇼",
+    "Enabled": true
+  },
+  "key5505": {
+    "OriginalText": "ヒーベスト",
+    "Text": "히베스트",
+    "Enabled": true
+  },
+  "key5606": {
+    "OriginalText": "アカネ",
+    "Text": "아카네",
+    "Enabled": true
+  },
+  "key5607": {
+    "OriginalText": "リーシャ",
+    "Text": "리샤",
+    "Enabled": true
+  },
+  "key5608": {
+    "OriginalText": "ココナ",
+    "Text": "코코나",
+    "Enabled": true
+  },
+  "key5609": {
+    "OriginalText": "コズト",
+    "Text": "코즈토",
+    "Enabled": true
+  },
+  "key5610": {
+    "OriginalText": "ヌートリア",
+    "Text": "누트리아",
+    "Enabled": true
+  },
+  "key5611": {
+    "OriginalText": "ソラン",
+    "Text": "소란",
+    "Enabled": true
+  },
+  "key5612": {
+    "OriginalText": "カトラ",
+    "Text": "카트라",
+    "Enabled": true
+  },
+  "key5613": {
+    "OriginalText": "エルザ",
+    "Text": "엘자",
+    "Enabled": true
+  },
+  "key5614": {
+    "OriginalText": "チャナ",
+    "Text": "차나",
+    "Enabled": true
+  },
+  "key5615": {
+    "OriginalText": "レイラ",
+    "Text": "레일라",
+    "Enabled": true
+  },
+  "key5616": {
+    "OriginalText": "サーシャル",
+    "Text": "사샬",
+    "Enabled": true
+  },
+  "key5617": {
+    "OriginalText": "ナディ",
+    "Text": "나디",
+    "Enabled": true
+  },
+  "key5618": {
+    "OriginalText": "カレン",
+    "Text": "카렌",
+    "Enabled": true
+  },
+  "key5619": {
+    "OriginalText": "エクレア",
+    "Text": "에클레어",
+    "Enabled": true
+  },
+  "key5620": {
+    "OriginalText": "ベール",
+    "Text": "베르",
+    "Enabled": true
+  },
+  "key5621": {
+    "OriginalText": "ジャネル",
+    "Text": "자넬",
+    "Enabled": true
+  },
+  "key5622": {
+    "OriginalText": "シーラ",
+    "Text": "실라",
+    "Enabled": true
+  },
+  "key5623": {
+    "OriginalText": "ウィーナ",
+    "Text": "위나",
+    "Enabled": true
+  },
+  "key5624": {
+    "OriginalText": "キィ",
+    "Text": "키",
+    "Enabled": true
+  },
+  "key5625": {
+    "OriginalText": "マイム",
+    "Text": "마임",
+    "Enabled": true
+  },
+  "key5626": {
+    "OriginalText": "ターラー",
+    "Text": "탈라",
+    "Enabled": true
+  },
+  "key5627": {
+    "OriginalText": "アマネ",
+    "Text": "아마네",
+    "Enabled": true
+  },
+  "key5628": {
+    "OriginalText": "ケイナ",
+    "Text": "케이나",
+    "Enabled": true
+  },
+  "key5629": {
+    "OriginalText": "スール",
+    "Text": "수르",
+    "Enabled": true
+  },
+  "key5630": {
+    "OriginalText": "アンリ",
+    "Text": "앙리",
+    "Enabled": true
+  },
+  "key5631": {
+    "OriginalText": "アヴィール",
+    "Text": "아비르",
+    "Enabled": true
+  },
+  "key5632": {
+    "OriginalText": "ルービン",
+    "Text": "루빈",
+    "Enabled": true
+  },
+  "key5633": {
+    "OriginalText": "ナリサ",
+    "Text": "나리사",
+    "Enabled": true
+  },
+  "key5634": {
+    "OriginalText": "アイラ",
+    "Text": "아이라",
+    "Enabled": true
+  },
+  "key5635": {
+    "OriginalText": "シフィル",
+    "Text": "시피르",
+    "Enabled": true
+  },
+  "key5636": {
+    "OriginalText": "チャルネ",
+    "Text": "차르네",
+    "Enabled": true
+  },
+  "key5637": {
+    "OriginalText": "ナルジュ",
+    "Text": "나르주",
+    "Enabled": true
+  },
+  "key5638": {
+    "OriginalText": "レナ",
+    "Text": "레나",
+    "Enabled": true
+  },
+  "key5639": {
+    "OriginalText": "アルテ",
+    "Text": "알테",
+    "Enabled": true
+  },
+  "key5640": {
+    "OriginalText": "バリーシュ",
+    "Text": "바리슈",
+    "Enabled": true
+  },
+  "key5641": {
+    "OriginalText": "ソーシャ",
+    "Text": "소샤",
+    "Enabled": true
+  },
+  "key5642": {
+    "OriginalText": "クリム",
+    "Text": "크림",
+    "Enabled": true
+  },
+  "key5643": {
+    "OriginalText": "ルアナ",
+    "Text": "루아나",
+    "Enabled": true
+  },
+  "key5644": {
+    "OriginalText": "ロザリア",
+    "Text": "로잘리아",
+    "Enabled": true
+  },
+  "key5645": {
+    "OriginalText": "キルノ",
+    "Text": "키르노",
+    "Enabled": true
+  },
+  "key5646": {
+    "OriginalText": "カナ",
+    "Text": "카나",
+    "Enabled": true
+  },
+  "key5647": {
+    "OriginalText": "ナル",
+    "Text": "나르",
+    "Enabled": true
+  },
+  "key5648": {
+    "OriginalText": "セリウス",
+    "Text": "세리우스",
+    "Enabled": true
+  },
+  "key5649": {
+    "OriginalText": "ヒナ",
+    "Text": "히나",
+    "Enabled": true
+  },
+  "key5650": {
+    "OriginalText": "フィーリン",
+    "Text": "피린",
+    "Enabled": true
+  },
+  "key5651": {
+    "OriginalText": "テイシア",
+    "Text": "테이시아",
+    "Enabled": true
+  },
+  "key5652": {
+    "OriginalText": "プリシュ",
+    "Text": "프리슈",
+    "Enabled": true
+  },
+  "key5653": {
+    "OriginalText": "レティ",
+    "Text": "레티",
+    "Enabled": true
+  },
+  "key5654": {
+    "OriginalText": "ハスナ",
+    "Text": "하스나",
+    "Enabled": true
+  },
+  "key5655": {
+    "OriginalText": "エーレ",
+    "Text": "에레",
+    "Enabled": true
+  },
+  "key5656": {
+    "OriginalText": "リッカ",
+    "Text": "릿카",
+    "Enabled": true
+  },
+  "key5657": {
+    "OriginalText": "メルクレード",
+    "Text": "멜크레드",
+    "Enabled": true
+  },
+  "key5658": {
+    "OriginalText": "セレネ",
+    "Text": "셀레네",
+    "Enabled": true
+  },
+  "key5659": {
+    "OriginalText": "シャヴィ",
+    "Text": "샤비",
+    "Enabled": true
+  },
+  "key5660": {
+    "OriginalText": "ウェルザ",
+    "Text": "웰자",
+    "Enabled": true
+  },
+  "key5661": {
+    "OriginalText": "アティ",
+    "Text": "아티",
+    "Enabled": true
+  },
+  "key5662": {
+    "OriginalText": "オウカ",
+    "Text": "오우카",
+    "Enabled": true
+  },
+  "key5663": {
+    "OriginalText": "ルミア",
+    "Text": "루미아",
+    "Enabled": true
+  },
+  "key5664": {
+    "OriginalText": "ミディ",
+    "Text": "미디",
+    "Enabled": true
+  },
+  "key5665": {
+    "OriginalText": "ファティ",
+    "Text": "파티",
+    "Enabled": true
+  },
+  "key5666": {
+    "OriginalText": "キャサリン",
+    "Text": "캐서린",
+    "Enabled": true
+  },
+  "key5667": {
+    "OriginalText": "ルーティ",
+    "Text": "루티",
+    "Enabled": true
+  },
+  "key5668": {
+    "OriginalText": "ミリザ",
+    "Text": "미리자",
+    "Enabled": true
+  },
+  "key5669": {
+    "OriginalText": "リーア",
+    "Text": "리아",
+    "Enabled": true
+  },
+  "key5805": {
+    "OriginalText": "ラーチェ",
+    "Text": "라체",
+    "Enabled": true
+  },
+  "key5806": {
+    "OriginalText": "ノッコ",
+    "Text": "놋코",
+    "Enabled": true
+  },
+  "key5807": {
+    "OriginalText": "チャール",
+    "Text": "차르",
+    "Enabled": true
+  },
+  "key5808": {
+    "OriginalText": "ジューテ",
+    "Text": "주테",
+    "Enabled": true
+  },
+  "key5809": {
+    "OriginalText": "エリス",
+    "Text": "에리스",
+    "Enabled": true
+  },
+  "key5810": {
+    "OriginalText": "フラーヴォ",
+    "Text": "프라보",
+    "Enabled": true
+  },
+  "key5811": {
+    "OriginalText": "エルティ",
+    "Text": "엘티",
+    "Enabled": true
+  },
+  "key5812": {
+    "OriginalText": "ブルーナ",
+    "Text": "브루나",
+    "Enabled": true
+  },
+  "key5813": {
+    "OriginalText": "ルナ",
+    "Text": "루나",
+    "Enabled": true
+  },
+  "key5814": {
+    "OriginalText": "オリヴィア",
+    "Text": "올리비아",
+    "Enabled": true
+  },
+  "key5815": {
+    "OriginalText": "アディーン",
+    "Text": "아딘",
+    "Enabled": true
+  },
+  "key5816": {
+    "OriginalText": "ソレイユ",
+    "Text": "솔레이유",
+    "Enabled": true
+  },
+  "key5817": {
+    "OriginalText": "リリー",
+    "Text": "릴리",
+    "Enabled": true
+  },
+  "key5818": {
+    "OriginalText": "アイム",
+    "Text": "아임",
+    "Enabled": true
+  },
+  "key5819": {
+    "OriginalText": "リャイス",
+    "Text": "랴이스",
+    "Enabled": true
+  },
+  "key5820": {
+    "OriginalText": "ナノハ",
+    "Text": "나노하",
+    "Enabled": true
+  },
+  "key5821": {
+    "OriginalText": "オルガ",
+    "Text": "올가",
+    "Enabled": true
+  },
+  "key5822": {
+    "OriginalText": "ニア",
+    "Text": "니아",
+    "Enabled": true
+  },
+  "key5823": {
+    "OriginalText": "トティア",
+    "Text": "토티아",
+    "Enabled": true
+  },
+  "key5824": {
+    "OriginalText": "イリーナ",
+    "Text": "이리나",
+    "Enabled": true
+  },
+  "key5825": {
+    "OriginalText": "サラ",
+    "Text": "사라",
+    "Enabled": true
+  },
+  "key5826": {
+    "OriginalText": "グルシー",
+    "Text": "그루시",
+    "Enabled": true
+  },
+  "key5827": {
+    "OriginalText": "ネイリン",
+    "Text": "네이린",
+    "Enabled": true
+  },
+  "key5828": {
+    "OriginalText": "ロゼッタ",
+    "Text": "로제타",
+    "Enabled": true
+  },
+  "key5829": {
+    "OriginalText": "ポタ",
+    "Text": "포타",
+    "Enabled": true
+  },
+  "key5830": {
+    "OriginalText": "ファイム",
+    "Text": "파임",
+    "Enabled": true
+  },
+  "key5831": {
+    "OriginalText": "サクラ",
+    "Text": "사쿠라",
+    "Enabled": true
+  },
+  "key5832": {
+    "OriginalText": "セリリア",
+    "Text": "세리리아",
+    "Enabled": true
+  },
+  "key5833": {
+    "OriginalText": "ホオヅキ",
+    "Text": "호오즈키",
+    "Enabled": true
+  },
+  "key5834": {
+    "OriginalText": "ティアナ",
+    "Text": "티아나",
+    "Enabled": true
+  },
+  "key5835": {
+    "OriginalText": "メア",
+    "Text": "메아",
+    "Enabled": true
+  },
+  "key5836": {
+    "OriginalText": "エンネア",
+    "Text": "엔네아",
+    "Enabled": true
+  },
+  "key5837": {
+    "OriginalText": "シャオリン",
+    "Text": "샤오린",
+    "Enabled": true
+  },
+  "key5838": {
+    "OriginalText": "モカ",
+    "Text": "모카",
+    "Enabled": true
+  },
+  "key5839": {
+    "OriginalText": "フィー",
+    "Text": "피",
+    "Enabled": true
+  },
+  "key5840": {
+    "OriginalText": "アトリア",
+    "Text": "아트리아",
+    "Enabled": true
+  },
+  "key5841": {
+    "OriginalText": "ペトク",
+    "Text": "페토크",
+    "Enabled": true
+  },
+  "key5842": {
+    "OriginalText": "カエデ",
+    "Text": "카에데",
+    "Enabled": true
+  },
+  "key5843": {
+    "OriginalText": "ミュー",
+    "Text": "뮤",
+    "Enabled": true
+  },
+  "key5844": {
+    "OriginalText": "ノアティル",
+    "Text": "노아티르",
+    "Enabled": true
+  },
+  "key5845": {
+    "OriginalText": "フュッティ",
+    "Text": "퓨티",
+    "Enabled": true
+  },
+  "key5846": {
+    "OriginalText": "マリス",
+    "Text": "마리스",
+    "Enabled": true
+  },
+  "key5847": {
+    "OriginalText": "アプレール",
+    "Text": "아프렐",
+    "Enabled": true
+  },
+  "key5848": {
+    "OriginalText": "シェスチ",
+    "Text": "셰스치",
+    "Enabled": true
+  },
+  "key5849": {
+    "OriginalText": "エコー",
+    "Text": "에코",
+    "Enabled": true
+  },
+  "key5850": {
+    "OriginalText": "でんげきエレナ",
+    "Text": "전격 엘레나",
+    "Enabled": true
+  },
+  "key5851": {
+    "OriginalText": "でんげきのおねえさん",
+    "Text": "전격 언니",
+    "Enabled": true
+  },
+  "key5852": {
+    "OriginalText": "ステラ",
+    "Text": "스텔라",
+    "Enabled": true
+  },
+  "key5853": {
+    "OriginalText": "セイナ",
+    "Text": "세이나",
+    "Enabled": true
+  },
+  "key5854": {
+    "OriginalText": "ターシャ",
+    "Text": "타샤",
+    "Enabled": true
+  },
+  "key5855": {
+    "OriginalText": "ラティス",
+    "Text": "라티스",
+    "Enabled": true
+  },
+  "key5856": {
+    "OriginalText": "リヴィ",
+    "Text": "리비",
+    "Enabled": true
+  },
+  "key5857": {
+    "OriginalText": "サリュー",
+    "Text": "살류",
+    "Enabled": true
+  },
+  "key5858": {
+    "OriginalText": "ネキコ",
+    "Text": "네키코",
+    "Enabled": true
+  },
+  "key5859": {
+    "OriginalText": "ネキミ",
+    "Text": "네키미",
+    "Enabled": true
+  },
+  "key5953": {
+    "OriginalText": "リレイザ",
+    "Text": "리레이자",
+    "Enabled": true
+  },
+  "key5954": {
+    "OriginalText": "フウラ",
+    "Text": "후라",
+    "Enabled": true
+  },
+  "key5955": {
+    "OriginalText": "イザヨイ",
+    "Text": "이자요이",
+    "Enabled": true
+  },
+  "key5956": {
+    "OriginalText": "スレーティー",
+    "Text": "슬레이티",
+    "Enabled": true
+  },
+  "key5957": {
+    "OriginalText": "ブラン",
+    "Text": "블랑",
+    "Enabled": true
+  },
+  "key5958": {
+    "OriginalText": "セフィード",
+    "Text": "세피드",
+    "Enabled": true
+  },
+  "key5959": {
+    "OriginalText": "シャローシュ",
+    "Text": "샤로슈",
+    "Enabled": true
+  },
+  "key5960": {
+    "OriginalText": "フォルティ",
+    "Text": "포르티",
+    "Enabled": true
+  },
+  "key5961": {
+    "OriginalText": "アリティア",
+    "Text": "아리티아",
+    "Enabled": true
+  },
+  "key5962": {
+    "OriginalText": "アンガルダ",
+    "Text": "안가르다",
+    "Enabled": true
+  },
+  "key5963": {
+    "OriginalText": "ファール",
+    "Text": "파르",
+    "Enabled": true
+  },
+  "key5964": {
+    "OriginalText": "イロハ",
+    "Text": "이로하",
+    "Enabled": true
+  },
+  "key5965": {
+    "OriginalText": "ニーザ",
+    "Text": "니자",
+    "Enabled": true
+  },
+  "key5966": {
+    "OriginalText": "ベロニカ",
+    "Text": "베로니카",
+    "Enabled": true
+  },
+  "key5967": {
+    "OriginalText": "リオリナ",
+    "Text": "리오리나",
+    "Enabled": true
+  },
+  "key5968": {
+    "OriginalText": "ローズ",
+    "Text": "로즈",
+    "Enabled": true
+  },
+  "key5969": {
+    "OriginalText": "レコル",
+    "Text": "레콜",
+    "Enabled": true
+  },
+  "key5970": {
+    "OriginalText": "ティーン",
+    "Text": "틴",
+    "Enabled": true
+  },
+  "key5971": {
+    "OriginalText": "シモネ",
+    "Text": "시모네",
+    "Enabled": true
+  },
+  "key5972": {
+    "OriginalText": "カーミル",
+    "Text": "카밀",
+    "Enabled": true
+  },
+  "key5973": {
+    "OriginalText": "ユーリ",
+    "Text": "유리",
+    "Enabled": true
+  },
+  "key5974": {
+    "OriginalText": "ユクリア",
+    "Text": "유크리아",
+    "Enabled": true
+  },
+  "key5975": {
+    "OriginalText": "ハヌート",
+    "Text": "하누트",
+    "Enabled": true
+  },
+  "key5976": {
+    "OriginalText": "ラナ",
+    "Text": "라나",
+    "Enabled": true
+  },
+  "key5977": {
+    "OriginalText": "エステレラ",
+    "Text": "에스테레라",
+    "Enabled": true
+  },
+  "key5978": {
+    "OriginalText": "イッカ",
+    "Text": "잇카",
+    "Enabled": true
+  },
+  "key5979": {
+    "OriginalText": "ジャニス",
+    "Text": "재니스",
+    "Enabled": true
+  },
+  "key5980": {
+    "OriginalText": "テーシャ",
+    "Text": "테샤",
+    "Enabled": true
+  },
+  "key5981": {
+    "OriginalText": "アガスト",
+    "Text": "아가스트",
+    "Enabled": true
+  },
+  "key5982": {
+    "OriginalText": "メディア",
+    "Text": "메디아",
+    "Enabled": true
+  },
+  "key5983": {
+    "OriginalText": "リピエッツ",
+    "Text": "리피에츠",
+    "Enabled": true
+  },
+  "key5984": {
+    "OriginalText": "ティルキス",
+    "Text": "티르키스",
+    "Enabled": true
+  },
+  "key5985": {
+    "OriginalText": "ナズミ",
+    "Text": "나즈미",
+    "Enabled": true
+  },
+  "key5986": {
+    "OriginalText": "レイニー",
+    "Text": "레이니",
+    "Enabled": true
+  },
+  "key5987": {
+    "OriginalText": "キュトラス",
+    "Text": "큐트라스",
+    "Enabled": true
+  },
+  "key5988": {
+    "OriginalText": "スクリア",
+    "Text": "스크리아",
+    "Enabled": true
+  },
+  "key5989": {
+    "OriginalText": "タアリ",
+    "Text": "타아리",
+    "Enabled": true
+  },
+  "key5990": {
+    "OriginalText": "リューナ",
+    "Text": "류나",
+    "Enabled": true
+  },
+  "key5991": {
+    "OriginalText": "トパス",
+    "Text": "토파스",
+    "Enabled": true
+  },
+  "key5992": {
+    "OriginalText": "メリッサ",
+    "Text": "멜리사",
+    "Enabled": true
+  },
+  "key5993": {
+    "OriginalText": "ネオン",
+    "Text": "네온",
+    "Enabled": true
+  },
+  "key5994": {
+    "OriginalText": "サーラル",
+    "Text": "사랄",
+    "Enabled": true
+  },
+  "key5995": {
+    "OriginalText": "フィアロヴィー",
+    "Text": "피아로비",
+    "Enabled": true
+  },
+  "key5996": {
+    "OriginalText": "アニシュ",
+    "Text": "아니슈",
+    "Enabled": true
+  },
+  "key5997": {
+    "OriginalText": "プレイア",
+    "Text": "플레이아",
+    "Enabled": true
+  },
+  "key5998": {
+    "OriginalText": "エラハ",
+    "Text": "에라하",
+    "Enabled": true
+  },
+  "key5999": {
+    "OriginalText": "デンゲキばず～こ",
+    "Text": "전격 바즈코",
+    "Enabled": true
+  },
+  "key6000": {
+    "OriginalText": "スプリットコロナ",
+    "Text": "스플릿 코로나",
+    "Enabled": true
+  },
+  "key6001": {
+    "OriginalText": "ティセリア",
+    "Text": "티세리아",
+    "Enabled": true
+  },
+  "key6002": {
+    "OriginalText": "コウエン",
+    "Text": "코우엔",
+    "Enabled": true
+  },
+  "key6003": {
+    "OriginalText": "リューフィ",
+    "Text": "류피",
+    "Enabled": true
+  },
+  "key6004": {
+    "OriginalText": "テニア",
+    "Text": "테니아",
+    "Enabled": true
+  },
+  "key9999": {
+    "OriginalText": "DLCダミー",
+    "Text": "DLC 더미",
+    "Enabled": true
+  },
+  "key51019": {
+    "OriginalText": "クヴィン",
+    "Text": "쿠빈",
+    "Enabled": true
+  },
+  "key51029": {
+    "OriginalText": "ドーヴァ",
+    "Text": "도바",
+    "Enabled": true
+  },
+  "key51109": {
+    "OriginalText": "チャンド",
+    "Text": "찬도",
+    "Enabled": true
+  },
+  "key51119": {
+    "OriginalText": "ティーズ",
+    "Text": "티즈",
+    "Enabled": true
+  },
+  "key51129": {
+    "OriginalText": "イグナーツ",
+    "Text": "이그나츠",
+    "Enabled": true
+  },
+  "key53019": {
+    "OriginalText": "ヘルヴ",
+    "Text": "헤르브",
+    "Enabled": true
+  },
+  "key53029": {
+    "OriginalText": "シェレグ",
+    "Text": "셰레그",
+    "Enabled": true
+  },
+  "key53039": {
+    "OriginalText": "レン",
+    "Text": "렌",
+    "Enabled": true
+  },
+  "key53049": {
+    "OriginalText": "マックス",
+    "Text": "맥스",
+    "Enabled": true
+  },
+  "key53059": {
+    "OriginalText": "コヴァック",
+    "Text": "코바크",
+    "Enabled": true
+  },
+  "key53069": {
+    "OriginalText": "エイク",
+    "Text": "에이크",
+    "Enabled": true
+  },
+  "key54519": {
+    "OriginalText": "ウインド",
+    "Text": "윈드",
+    "Enabled": true
+  },
+  "key54529": {
+    "OriginalText": "ヨーディス",
+    "Text": "요디스",
+    "Enabled": true
+  },
+  "key56019": {
+    "OriginalText": "シュリノ",
+    "Text": "슈리노",
+    "Enabled": true
+  },
+  "key56029": {
+    "OriginalText": "クラーナ",
+    "Text": "크라나",
+    "Enabled": true
+  },
+  "key56039": {
+    "OriginalText": "ステラ",
+    "Text": "스텔라",
+    "Enabled": true
+  },
+  "key56049": {
+    "OriginalText": "ラール",
+    "Text": "라르",
+    "Enabled": true
+  },
+  "key56059": {
+    "OriginalText": "ジール",
+    "Text": "지르",
+    "Enabled": true
+  },
+  "key58019": {
+    "OriginalText": "アオイ",
+    "Text": "아오이",
+    "Enabled": true
+  },
+  "key58029": {
+    "OriginalText": "シズク",
+    "Text": "시즈쿠",
+    "Enabled": true
+  },
+  "key58039": {
+    "OriginalText": "ミザール",
+    "Text": "미자르",
+    "Enabled": true
+  },
+  "key58049": {
+    "OriginalText": "ヨキア",
+    "Text": "요키아",
+    "Enabled": true
+  },
+  "key59519": {
+    "OriginalText": "クルック",
+    "Text": "크루크",
+    "Enabled": true
+  },
+  "key59529": {
+    "OriginalText": "リラ",
+    "Text": "리라",
+    "Enabled": true
+  },
+  "key5020": {
+    "OriginalText": "リーンベル",
+    "Text": "린벨",
+    "Enabled": true
+  },
+  "key50300": {
+    "OriginalText": "コプト",
+    "Text": "코프토",
+    "Enabled": true
+  },
+  "key5021": {
+    "OriginalText": "フィルディア",
+    "Text": "필디아",
+    "Enabled": true
+  },
+  "key5030": {
+    "OriginalText": "ガーネット",
+    "Text": "가넷",
+    "Enabled": true
+  },
+  "key5031": {
+    "OriginalText": "サンシャウト",
+    "Text": "선샤우트",
+    "Enabled": true
+  }
+}

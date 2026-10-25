@@ -1,2532 +1,2532 @@
 {
   "130000": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "130001": {
     "OriginalText": "エッジ",
-    "Text": "Edge",
+    "Text": "에지",
     "Enabled": true
   },
   "130002": {
     "OriginalText": "アルバエッジ",
-    "Text": "Alva Edge",
+    "Text": "알바 에지",
     "Enabled": true
   },
   "130003": {
     "OriginalText": "ヴィタエッジ",
-    "Text": "Vita Edge",
+    "Text": "비타 에지",
     "Enabled": true
   },
   "130004": {
     "OriginalText": "ネイル",
-    "Text": "Nail",
+    "Text": "네일",
     "Enabled": true
   },
   "130005": {
     "OriginalText": "アルバネイル",
-    "Text": "Alva Nail",
+    "Text": "알바 네일",
     "Enabled": true
   },
   "130006": {
     "OriginalText": "ヴィタネイル",
-    "Text": "Vita Nail",
+    "Text": "비타 네일",
     "Enabled": true
   },
   "130007": {
     "OriginalText": "ピック",
-    "Text": "Pick",
+    "Text": "픽",
     "Enabled": true
   },
   "130008": {
     "OriginalText": "アルバピック",
-    "Text": "Alva Pick",
+    "Text": "알바 픽",
     "Enabled": true
   },
   "130009": {
     "OriginalText": "ヴィタピック",
-    "Text": "Vita Pick",
+    "Text": "비타 픽",
     "Enabled": true
   },
   "130010": {
     "OriginalText": "シザー",
-    "Text": "Scissor",
+    "Text": "시저",
     "Enabled": true
   },
   "130011": {
     "OriginalText": "アルバシザー",
-    "Text": "Alva Scissor",
+    "Text": "알바 시저",
     "Enabled": true
   },
   "130012": {
     "OriginalText": "ヴィタシザー",
-    "Text": "Vita Scissor",
+    "Text": "비타 시저",
     "Enabled": true
   },
   "130013": {
     "OriginalText": "ウェッジ",
-    "Text": "Wedge",
+    "Text": "웨지",
     "Enabled": true
   },
   "130014": {
     "OriginalText": "アルバウェッジ",
-    "Text": "Alva Wedge",
+    "Text": "알바 웨지",
     "Enabled": true
   },
   "130015": {
     "OriginalText": "ヴィタウェッジ",
-    "Text": "Vita Wedge",
+    "Text": "비타 웨지",
     "Enabled": true
   },
   "130016": {
     "OriginalText": "スティール",
-    "Text": "Steel",
+    "Text": "스틸",
     "Enabled": true
   },
   "130017": {
     "OriginalText": "アルバスティール",
-    "Text": "Alva Steel",
+    "Text": "알바 스틸",
     "Enabled": true
   },
   "130018": {
     "OriginalText": "ヴィタスティール",
-    "Text": "Vita Steel",
+    "Text": "비타 스틸",
     "Enabled": true
   },
   "130019": {
     "OriginalText": "リング",
-    "Text": "Ring",
+    "Text": "링",
     "Enabled": true
   },
   "130020": {
     "OriginalText": "アルバリング",
-    "Text": "Alva Ring",
+    "Text": "알바 링",
     "Enabled": true
   },
   "130021": {
     "OriginalText": "ヴィタリング",
-    "Text": "Vita Ring",
+    "Text": "비타 링",
     "Enabled": true
   },
   "130022": {
     "OriginalText": "キクロス",
-    "Text": "Kyklos",
+    "Text": "키크로스",
     "Enabled": true
   },
   "130023": {
     "OriginalText": "アルバキクロス",
-    "Text": "Alva Kyklos",
+    "Text": "알바 키크로스",
     "Enabled": true
   },
   "130024": {
     "OriginalText": "ヴィタキクロス",
-    "Text": "Vita Kyklos",
+    "Text": "비타 키크로스",
     "Enabled": true
   },
   "130025": {
     "OriginalText": "カリツォー",
-    "Text": "Calypso",
+    "Text": "카리초",
     "Enabled": true
   },
   "130026": {
     "OriginalText": "アルバカリツォー",
-    "Text": "Alva Calypso",
+    "Text": "알바 카리초",
     "Enabled": true
   },
   "130027": {
     "OriginalText": "ヴィタカリツォー",
-    "Text": "Vita Calypso",
+    "Text": "비타 카리초",
     "Enabled": true
   },
   "130028": {
     "OriginalText": "カッター",
-    "Text": "Cutter",
+    "Text": "커터",
     "Enabled": true
   },
   "130029": {
     "OriginalText": "アルバカッター",
-    "Text": "Alva Cutter",
+    "Text": "알바 커터",
     "Enabled": true
   },
   "130030": {
     "OriginalText": "ヴィタカッター",
-    "Text": "Vita Cutter",
+    "Text": "비타 커터",
     "Enabled": true
   },
   "130031": {
     "OriginalText": "レイザ",
-    "Text": "Raiser",
+    "Text": "레이자",
     "Enabled": true
   },
   "130032": {
     "OriginalText": "アルバレイザ",
-    "Text": "Alva Raiser",
+    "Text": "알바 레이자",
     "Enabled": true
   },
   "130033": {
     "OriginalText": "ヴィタレイザ",
-    "Text": "Vita Raiser",
+    "Text": "비타 레이자",
     "Enabled": true
   },
   "130034": {
     "OriginalText": "スカルペル",
-    "Text": "Scalpel",
+    "Text": "스칼펠",
     "Enabled": true
   },
   "130035": {
     "OriginalText": "アルバスカルペル",
-    "Text": "Alva Scalpel",
+    "Text": "알바 스칼펠",
     "Enabled": true
   },
   "130036": {
     "OriginalText": "ヴィタスカルペル",
-    "Text": "Vita Scalpel",
+    "Text": "비타 스칼펠",
     "Enabled": true
   },
   "130037": {
     "OriginalText": "シェイプ",
-    "Text": "Shape",
+    "Text": "셰이프",
     "Enabled": true
   },
   "130038": {
     "OriginalText": "アルバシェイプ",
-    "Text": "Alva Shape",
+    "Text": "알바 셰이프",
     "Enabled": true
   },
   "130039": {
     "OriginalText": "ヴィタシェイプ",
-    "Text": "Vita Shape",
+    "Text": "비타 셰이프",
     "Enabled": true
   },
   "130040": {
     "OriginalText": "バレット",
-    "Text": "Barett",
+    "Text": "불릿",
     "Enabled": true
   },
   "130041": {
     "OriginalText": "アルババレット",
-    "Text": "Alva Barett",
+    "Text": "알바 불릿",
     "Enabled": true
   },
   "130042": {
     "OriginalText": "ヴィタバレット",
-    "Text": "Vita Barett",
+    "Text": "비타 불릿",
     "Enabled": true
   },
   "130043": {
     "OriginalText": "シェル",
-    "Text": "Shell",
+    "Text": "셸",
     "Enabled": true
   },
   "130044": {
     "OriginalText": "アルバシェル",
-    "Text": "Alva Shell",
+    "Text": "알바 셸",
     "Enabled": true
   },
   "130045": {
     "OriginalText": "ヴィタシェル",
-    "Text": "Vita Shell",
+    "Text": "비타 셸",
     "Enabled": true
   },
   "130046": {
     "OriginalText": "グランブレードＡ",
-    "Text": "Gran Blade A",
+    "Text": "그란 블레이드 A",
     "Enabled": true
   },
   "130047": {
     "OriginalText": "グランブレードＢ",
-    "Text": "Gran Blade B",
+    "Text": "그란 블레이드 B",
     "Enabled": true
   },
   "130048": {
     "OriginalText": "グランブレードＣ",
-    "Text": "Gran Blade G",
+    "Text": "그란 블레이드 C",
     "Enabled": true
   },
   "130049": {
     "OriginalText": "グランブレードＤ",
-    "Text": "Gran Blade D",
+    "Text": "그란 블레이드 D",
     "Enabled": true
   },
   "130050": {
     "OriginalText": "グランブレードＥ",
-    "Text": "Gran Blade E",
+    "Text": "그란 블레이드 E",
     "Enabled": true
   },
   "130051": {
     "OriginalText": "グランブレードＦ",
-    "Text": "Gran Blade F",
+    "Text": "그란 블레이드 F",
     "Enabled": true
   },
   "130052": {
     "OriginalText": "グランブレードＧ",
-    "Text": "Gran Blade G",
+    "Text": "그란 블레이드 G",
     "Enabled": true
   },
   "130053": {
     "OriginalText": "グランブレードＨ",
-    "Text": "Gran Blade H",
+    "Text": "그란 블레이드 H",
     "Enabled": true
   },
   "130054": {
     "OriginalText": "グランブレードＩ",
-    "Text": "Gran Blade I",
+    "Text": "그란 블레이드 I",
     "Enabled": true
   },
   "130055": {
     "OriginalText": "ケース",
-    "Text": "Case",
+    "Text": "케이스",
     "Enabled": true
   },
   "130056": {
     "OriginalText": "アルバケース",
-    "Text": "Alva Case",
+    "Text": "알바 케이스",
     "Enabled": true
   },
   "130057": {
     "OriginalText": "ヴィタケース",
-    "Text": "Vita Case",
+    "Text": "비타 케이스",
     "Enabled": true
   },
   "130058": {
     "OriginalText": "シース",
-    "Text": "Sheath",
+    "Text": "시스",
     "Enabled": true
   },
   "130059": {
     "OriginalText": "アルバシース",
-    "Text": "Alva Sheath",
+    "Text": "알바 시스",
     "Enabled": true
   },
   "130060": {
     "OriginalText": "ヴィタシース",
-    "Text": "Vita Sheath",
+    "Text": "비타 시스",
     "Enabled": true
   },
   "130061": {
     "OriginalText": "カバー",
-    "Text": "Cover",
+    "Text": "커버",
     "Enabled": true
   },
   "130062": {
     "OriginalText": "アルバカバー",
-    "Text": "Alva Cover",
+    "Text": "알바 커버",
     "Enabled": true
   },
   "130063": {
     "OriginalText": "ヴィタカバー",
-    "Text": "Vita Cover",
+    "Text": "비타 커버",
     "Enabled": true
   },
   "130064": {
     "OriginalText": "ラップ",
-    "Text": "Wrap",
+    "Text": "랩",
     "Enabled": true
   },
   "130065": {
     "OriginalText": "アルバラップ",
-    "Text": "Alva Wrap",
+    "Text": "알바 랩",
     "Enabled": true
   },
   "130066": {
     "OriginalText": "ヴィタラップ",
-    "Text": "Vita Wrap",
+    "Text": "비타 랩",
     "Enabled": true
   },
   "130067": {
     "OriginalText": "スクリーン",
-    "Text": "Screen",
+    "Text": "스크린",
     "Enabled": true
   },
   "130068": {
     "OriginalText": "アルバスクリーン",
-    "Text": "Alva Screen",
+    "Text": "알바 스크린",
     "Enabled": true
   },
   "130069": {
     "OriginalText": "ヴィタスクリーン",
-    "Text": "Vita Screen",
+    "Text": "비타 스크린",
     "Enabled": true
   },
   "130070": {
     "OriginalText": "エンベロール",
-    "Text": "Enveroll",
+    "Text": "엔베롤",
     "Enabled": true
   },
   "130071": {
     "OriginalText": "アルバエンベロール",
-    "Text": "Alva Enveroll",
+    "Text": "알바 엔베롤",
     "Enabled": true
   },
   "130072": {
     "OriginalText": "ヴィタエンベロール",
-    "Text": "Vita Enveroll",
+    "Text": "비타 엔베롤",
     "Enabled": true
   },
   "130073": {
     "OriginalText": "リボン",
-    "Text": "Ribbon",
+    "Text": "리본",
     "Enabled": true
   },
   "130074": {
     "OriginalText": "アルバリボン",
-    "Text": "Alva Ribbon",
+    "Text": "알바 리본",
     "Enabled": true
   },
   "130075": {
     "OriginalText": "ヴィタリボン",
-    "Text": "Vita Ribbon",
+    "Text": "비타 리본",
     "Enabled": true
   },
   "130076": {
     "OriginalText": "バタフライ",
-    "Text": "Butterfly",
+    "Text": "버터플라이",
     "Enabled": true
   },
   "130077": {
     "OriginalText": "アルババタフライ",
-    "Text": "Alva Butterfly",
+    "Text": "알바 버터플라이",
     "Enabled": true
   },
   "130078": {
     "OriginalText": "ヴィタバタフライ",
-    "Text": "Vita Butterfly",
+    "Text": "비타 버터플라이",
     "Enabled": true
   },
   "130079": {
     "OriginalText": "バンド",
-    "Text": "Band",
+    "Text": "밴드",
     "Enabled": true
   },
   "130080": {
     "OriginalText": "アルババンド",
-    "Text": "Alva Band",
+    "Text": "알바 밴드",
     "Enabled": true
   },
   "130081": {
     "OriginalText": "ヴィタバンド",
-    "Text": "Vita Band",
+    "Text": "비타 밴드",
     "Enabled": true
   },
   "130082": {
     "OriginalText": "クリスタ",
-    "Text": "Chrysta",
+    "Text": "크리스타",
     "Enabled": true
   },
   "130083": {
     "OriginalText": "アルバクリスタ",
-    "Text": "Alva Chrysta",
+    "Text": "알바 크리스타",
     "Enabled": true
   },
   "130084": {
     "OriginalText": "ヴィタクリスタ",
-    "Text": "Vita Chrysta",
+    "Text": "비타 크리스타",
     "Enabled": true
   },
   "130085": {
     "OriginalText": "クォーツ",
-    "Text": "Quartz",
+    "Text": "쿼츠",
     "Enabled": true
   },
   "130086": {
     "OriginalText": "アルバクォーツ",
-    "Text": "Alva Quartz",
+    "Text": "알바 쿼츠",
     "Enabled": true
   },
   "130087": {
     "OriginalText": "ヴィタクォーツ",
-    "Text": "Vita Quartz",
+    "Text": "비타 쿼츠",
     "Enabled": true
   },
   "130088": {
     "OriginalText": "プレート",
-    "Text": "Plate",
+    "Text": "플레이트",
     "Enabled": true
   },
   "130089": {
     "OriginalText": "アルバプレート",
-    "Text": "Alva Plate",
+    "Text": "알바 플레이트",
     "Enabled": true
   },
   "130090": {
     "OriginalText": "ヴィタプレート",
-    "Text": "Vita Plate",
+    "Text": "비타 플레이트",
     "Enabled": true
   },
   "130091": {
     "OriginalText": "グリップ",
-    "Text": "Grip",
+    "Text": "그립",
     "Enabled": true
   },
   "130092": {
     "OriginalText": "アルバグリップ",
-    "Text": "Alva Grip",
+    "Text": "알바 그립",
     "Enabled": true
   },
   "130093": {
     "OriginalText": "ヴィタグリップ",
-    "Text": "Vita Grip",
+    "Text": "비타 그립",
     "Enabled": true
   },
   "130094": {
     "OriginalText": "ハンドル",
-    "Text": "Handle",
+    "Text": "핸들",
     "Enabled": true
   },
   "130095": {
     "OriginalText": "アルバハンドル",
-    "Text": "Alva Handle",
+    "Text": "알바 핸들",
     "Enabled": true
   },
   "130096": {
     "OriginalText": "ヴィタハンドル",
-    "Text": "Vita Handle",
+    "Text": "비타 핸들",
     "Enabled": true
   },
   "130097": {
     "OriginalText": "ノヴ",
-    "Text": "Knob",
+    "Text": "노브",
     "Enabled": true
   },
   "130098": {
     "OriginalText": "アルバノヴ",
-    "Text": "Alva Knob",
+    "Text": "알바 노브",
     "Enabled": true
   },
   "130099": {
     "OriginalText": "ヴィタノヴ",
-    "Text": "Vita Knob",
+    "Text": "비타 노브",
     "Enabled": true
   },
   "130100": {
     "OriginalText": "チャネコグリップ",
-    "Text": "Havana Cat Grip",
+    "Text": "갈색 고양이 그립",
     "Enabled": true
   },
   "130101": {
     "OriginalText": "ブチネコグリップ",
-    "Text": "Petit Cat Grip",
+    "Text": "얼룩 고양이 그립",
     "Enabled": true
   },
   "130102": {
     "OriginalText": "シロネコグリップ",
-    "Text": "White Cat Grip",
+    "Text": "흰 고양이 그립",
     "Enabled": true
   },
   "130103": {
     "OriginalText": "サバトラネコグリップ",
-    "Text": "Mackarel Cat Grip",
+    "Text": "고등어 태비 그립",
     "Enabled": true
   },
   "130104": {
     "OriginalText": "ヘッド",
-    "Text": "Head",
+    "Text": "헤드",
     "Enabled": true
   },
   "130105": {
     "OriginalText": "アルバヘッド",
-    "Text": "Alva Head",
+    "Text": "알바 헤드",
     "Enabled": true
   },
   "130106": {
     "OriginalText": "ヴィタヘッド",
-    "Text": "Vita Head",
+    "Text": "비타 헤드",
     "Enabled": true
   },
   "130107": {
     "OriginalText": "リーディング",
-    "Text": "Reading",
+    "Text": "리딩",
     "Enabled": true
   },
   "130108": {
     "OriginalText": "アルバリーディング",
-    "Text": "Alva Reading",
+    "Text": "알바 리딩",
     "Enabled": true
   },
   "130109": {
     "OriginalText": "ヴィタリーディング",
-    "Text": "Vita Reading",
+    "Text": "비타 리딩",
     "Enabled": true
   },
   "130110": {
     "OriginalText": "ファウスト",
-    "Text": "Facts",
+    "Text": "파우스트",
     "Enabled": true
   },
   "130111": {
     "OriginalText": "アルバファウスト",
-    "Text": "Alva Facts",
+    "Text": "알바 파우스트",
     "Enabled": true
   },
   "130112": {
     "OriginalText": "ヴィタファウスト",
-    "Text": "Vita Facts",
+    "Text": "비타 파우스트",
     "Enabled": true
   },
   "130113": {
     "OriginalText": "ダウン",
-    "Text": "Down",
+    "Text": "다운",
     "Enabled": true
   },
   "130114": {
     "OriginalText": "アルバダウン",
-    "Text": "Alva Down",
+    "Text": "알바 다운",
     "Enabled": true
   },
   "130115": {
     "OriginalText": "ヴィタダウン",
-    "Text": "Vita Down",
+    "Text": "비타 다운",
     "Enabled": true
   },
   "130116": {
     "OriginalText": "プレイン",
-    "Text": "Plain",
+    "Text": "플레인",
     "Enabled": true
   },
   "130117": {
     "OriginalText": "アルバプレイン",
-    "Text": "Alva Plain",
+    "Text": "알바 플레인",
     "Enabled": true
   },
   "130118": {
     "OriginalText": "ヴィタプレイン",
-    "Text": "Vita Plain",
+    "Text": "비타 플레인",
     "Enabled": true
   },
   "130119": {
     "OriginalText": "ショウ",
-    "Text": "Shock",
+    "Text": "쇼",
     "Enabled": true
   },
   "130120": {
     "OriginalText": "アルバショウ",
-    "Text": "Alva Shock",
+    "Text": "알바 쇼",
     "Enabled": true
   },
   "130121": {
     "OriginalText": "ヴィタショウ",
-    "Text": "Vita Shock",
+    "Text": "비타 쇼",
     "Enabled": true
   },
   "130122": {
     "OriginalText": "チャネコヘッド",
-    "Text": "Havana Cat Head",
+    "Text": "갈색 고양이 헤드",
     "Enabled": true
   },
   "130123": {
     "OriginalText": "ブチネコヘッド",
-    "Text": "Petit Cat Head",
+    "Text": "얼룩 고양이 헤드",
     "Enabled": true
   },
   "130124": {
     "OriginalText": "シロネコヘッド",
-    "Text": "White Cat Head",
+    "Text": "흰 고양이 헤드",
     "Enabled": true
   },
   "130125": {
     "OriginalText": "サバトラネコヘッド",
-    "Text": "Mackarel Cat Head",
+    "Text": "고등어 태비 헤드",
     "Enabled": true
   },
   "130126": {
     "OriginalText": "ヒルト",
-    "Text": "Hilt",
+    "Text": "힐트",
     "Enabled": true
   },
   "130127": {
     "OriginalText": "アルバヒルト",
-    "Text": "Alva Hilt",
+    "Text": "알바 힐트",
     "Enabled": true
   },
   "130128": {
     "OriginalText": "ヴィタヒルト",
-    "Text": "Vita Hilt",
+    "Text": "비타 힐트",
     "Enabled": true
   },
   "130129": {
     "OriginalText": "ラグ",
-    "Text": "Rug",
+    "Text": "러그",
     "Enabled": true
   },
   "130130": {
     "OriginalText": "アルバラグ",
-    "Text": "Alva Rug",
+    "Text": "알바 러그",
     "Enabled": true
   },
   "130131": {
     "OriginalText": "ヴィタラグ",
-    "Text": "Vita Rug",
+    "Text": "비타 러그",
     "Enabled": true
   },
   "130132": {
     "OriginalText": "シャフト",
-    "Text": "Shaft",
+    "Text": "샤프트",
     "Enabled": true
   },
   "130133": {
     "OriginalText": "アルバシャフト",
-    "Text": "Alva Shaft",
+    "Text": "알바 샤프트",
     "Enabled": true
   },
   "130134": {
     "OriginalText": "ヴィタシャフト",
-    "Text": "Vita Shaft",
+    "Text": "비타 샤프트",
     "Enabled": true
   },
   "130135": {
     "OriginalText": "プラム",
-    "Text": "Plum",
+    "Text": "플럼",
     "Enabled": true
   },
   "130136": {
     "OriginalText": "アルバプラム",
-    "Text": "Alva Plum",
+    "Text": "알바 플럼",
     "Enabled": true
   },
   "130137": {
     "OriginalText": "ヴィタプラム",
-    "Text": "Vita Plum",
+    "Text": "비타 플럼",
     "Enabled": true
   },
   "130138": {
     "OriginalText": "ウィング",
-    "Text": "Wing",
+    "Text": "윙",
     "Enabled": true
   },
   "130139": {
     "OriginalText": "アルバウィング",
-    "Text": "Alva Wing",
+    "Text": "알바 윙",
     "Enabled": true
   },
   "130140": {
     "OriginalText": "ヴィタウィング",
-    "Text": "Vita Wing",
+    "Text": "비타 윙",
     "Enabled": true
   },
   "130141": {
     "OriginalText": "フェザー",
-    "Text": "Feather",
+    "Text": "페더",
     "Enabled": true
   },
   "130142": {
     "OriginalText": "アルバフェザー",
-    "Text": "Alva Feather",
+    "Text": "알바 페더",
     "Enabled": true
   },
   "130143": {
     "OriginalText": "ヴィタフェザー",
-    "Text": "Vita Feather",
+    "Text": "비타 페더",
     "Enabled": true
   },
   "130144": {
     "OriginalText": "プロペラ",
-    "Text": "Propeller",
+    "Text": "프로펠러",
     "Enabled": true
   },
   "130145": {
     "OriginalText": "アルバプロペラ",
-    "Text": "Alva Propeller",
+    "Text": "알바 프로펠러",
     "Enabled": true
   },
   "130146": {
     "OriginalText": "ヴィタプロペラ",
-    "Text": "Vita Propeller",
+    "Text": "비타 프로펠러",
     "Enabled": true
   },
   "130147": {
     "OriginalText": "ファン",
-    "Text": "Fan",
+    "Text": "팬",
     "Enabled": true
   },
   "130148": {
     "OriginalText": "アルバファン",
-    "Text": "Alva Fan",
+    "Text": "알바 팬",
     "Enabled": true
   },
   "130149": {
     "OriginalText": "ヴィタファン",
-    "Text": "Vita Fan",
+    "Text": "비타 팬",
     "Enabled": true
   },
   "130150": {
     "OriginalText": "ヴェイン",
-    "Text": "Vein",
+    "Text": "베인",
     "Enabled": true
   },
   "130151": {
     "OriginalText": "アルバヴェイン",
-    "Text": "Alva Vein",
+    "Text": "알바 베인",
     "Enabled": true
   },
   "130152": {
     "OriginalText": "ヴィタヴェイン",
-    "Text": "Vita Vein",
+    "Text": "비타 베인",
     "Enabled": true
   },
   "130153": {
     "OriginalText": "ブースター",
-    "Text": "Booster",
+    "Text": "부스터",
     "Enabled": true
   },
   "130154": {
     "OriginalText": "アルバブースター",
-    "Text": "Alva Booster",
+    "Text": "알바 부스터",
     "Enabled": true
   },
   "130155": {
     "OriginalText": "ヴィタブースター",
-    "Text": "Vita Booster",
+    "Text": "비타 부스터",
     "Enabled": true
   },
   "130156": {
     "OriginalText": "ターヴィン",
-    "Text": "Turbine",
+    "Text": "터빈",
     "Enabled": true
   },
   "130157": {
     "OriginalText": "アルバターヴィン",
-    "Text": "Alva Turbine",
+    "Text": "알바 터빈",
     "Enabled": true
   },
   "130158": {
     "OriginalText": "ヴィタターヴィン",
-    "Text": "Vita Turbine",
+    "Text": "비타 터빈",
     "Enabled": true
   },
   "130159": {
     "OriginalText": "クロックアップ",
-    "Text": "Clock Up",
+    "Text": "클록 업",
     "Enabled": true
   },
   "130160": {
     "OriginalText": "アルバクロックアップ",
-    "Text": "Alva Clock Up",
+    "Text": "알바 클록 업",
     "Enabled": true
   },
   "130161": {
     "OriginalText": "ヴィタクロックアップ",
-    "Text": "Vita Clock Up",
+    "Text": "비타 클록 업",
     "Enabled": true
   },
   "130162": {
     "OriginalText": "アンプ",
-    "Text": "Amp",
+    "Text": "앰프",
     "Enabled": true
   },
   "130163": {
     "OriginalText": "アルバアンプ",
-    "Text": "Alva Amp",
+    "Text": "알바 앰프",
     "Enabled": true
   },
   "130164": {
     "OriginalText": "ヴィタアンプ",
-    "Text": "Vita Amp",
+    "Text": "비타 앰프",
     "Enabled": true
   },
   "130165": {
     "OriginalText": "フィルター",
-    "Text": "Filter",
+    "Text": "필터",
     "Enabled": true
   },
   "130166": {
     "OriginalText": "アルバフィルター",
-    "Text": "Alva Filter",
+    "Text": "알바 필터",
     "Enabled": true
   },
   "130167": {
     "OriginalText": "ヴィタフィルター",
-    "Text": "Vita Filter",
+    "Text": "비타 필터",
     "Enabled": true
   },
   "130168": {
     "OriginalText": "アクセラレータ",
-    "Text": "Accelerator",
+    "Text": "액셀러레이터",
     "Enabled": true
   },
   "130169": {
     "OriginalText": "アルバアクセラレータ",
-    "Text": "Alva Accelerator",
+    "Text": "알바 액셀러레이터",
     "Enabled": true
   },
   "130170": {
     "OriginalText": "ヴィタアクセラレータ",
-    "Text": "Vita Accelerator",
+    "Text": "비타 액셀러레이터",
     "Enabled": true
   },
   "130171": {
     "OriginalText": "アダプター",
-    "Text": "Adapter",
+    "Text": "어댑터",
     "Enabled": true
   },
   "130172": {
     "OriginalText": "アルバアダプター",
-    "Text": "Alva Adapter",
+    "Text": "알바 어댑터",
     "Enabled": true
   },
   "130173": {
     "OriginalText": "ヴィタアダプター",
-    "Text": "Vita Adapter",
+    "Text": "비타 어댑터",
     "Enabled": true
   },
   "130174": {
     "OriginalText": "ギア",
-    "Text": "Gear",
+    "Text": "기어",
     "Enabled": true
   },
   "130175": {
     "OriginalText": "アルバギア",
-    "Text": "Alva Gear",
+    "Text": "알바 기어",
     "Enabled": true
   },
   "130176": {
     "OriginalText": "ヴィタギア",
-    "Text": "Vita Gear",
+    "Text": "비타 기어",
     "Enabled": true
   },
   "130177": {
     "OriginalText": "モーター",
-    "Text": "Motor",
+    "Text": "모터",
     "Enabled": true
   },
   "130178": {
     "OriginalText": "アルバモーター",
-    "Text": "Alva Motor",
+    "Text": "알바 모터",
     "Enabled": true
   },
   "130179": {
     "OriginalText": "ヴィタモーター",
-    "Text": "Vita Motor",
+    "Text": "비타 모터",
     "Enabled": true
   },
   "130180": {
     "OriginalText": "デヴァイス",
-    "Text": "Device",
+    "Text": "디바이스",
     "Enabled": true
   },
   "130181": {
     "OriginalText": "アルバデヴァイス",
-    "Text": "Alva Device",
+    "Text": "알바 디바이스",
     "Enabled": true
   },
   "130182": {
     "OriginalText": "ヴィタデヴァイス",
-    "Text": "Vita Device",
+    "Text": "비타 디바이스",
     "Enabled": true
   },
   "130183": {
     "OriginalText": "チャネコアダプター",
-    "Text": "Havana Cat Adapter",
+    "Text": "갈색 고양이 어댑터",
     "Enabled": true
   },
   "130184": {
     "OriginalText": "ブチネコアダプター",
-    "Text": "Petit Cat Adapter",
+    "Text": "얼룩 고양이 어댑터",
     "Enabled": true
   },
   "130185": {
     "OriginalText": "シロネコアダプター",
-    "Text": "White Cat Adapter",
+    "Text": "흰 고양이 어댑터",
     "Enabled": true
   },
   "130186": {
     "OriginalText": "サバトラネコアダプター",
-    "Text": "Mackarel Cat Adapter",
+    "Text": "고등어 태비 어댑터",
     "Enabled": true
   },
   "130187": {
     "OriginalText": "エイム",
-    "Text": "Aim",
+    "Text": "에임",
     "Enabled": true
   },
   "130188": {
     "OriginalText": "エクスエイム",
-    "Text": "Ex Aim",
+    "Text": "엑스 에임",
     "Enabled": true
   },
   "130189": {
     "OriginalText": "ターゲット",
-    "Text": "Target",
+    "Text": "타깃",
     "Enabled": true
   },
   "130190": {
     "OriginalText": "エクスターゲット",
-    "Text": "Ex Target",
+    "Text": "엑스 타깃",
     "Enabled": true
   },
   "130191": {
     "OriginalText": "マーカー",
-    "Text": "Marker",
+    "Text": "마커",
     "Enabled": true
   },
   "130192": {
     "OriginalText": "エクスマーカー",
-    "Text": "Ex Marker",
+    "Text": "엑스 마커",
     "Enabled": true
   },
   "130193": {
     "OriginalText": "サイト",
-    "Text": "Site",
+    "Text": "사이트",
     "Enabled": true
   },
   "130194": {
     "OriginalText": "エクスサイト",
-    "Text": "Ex Site",
+    "Text": "엑스 사이트",
     "Enabled": true
   },
   "130195": {
     "OriginalText": "スコープ",
-    "Text": "Scope",
+    "Text": "스코프",
     "Enabled": true
   },
   "130196": {
     "OriginalText": "エクススコープ",
-    "Text": "Ex Scope",
+    "Text": "엑스 스코프",
     "Enabled": true
   },
   "130197": {
     "OriginalText": "ピンポイント",
-    "Text": "Pinpoint",
+    "Text": "핀포인트",
     "Enabled": true
   },
   "130198": {
     "OriginalText": "エクスピンポイント",
-    "Text": "Ex Pinpoint",
+    "Text": "엑스 핀포인트",
     "Enabled": true
   },
   "130199": {
     "OriginalText": "プリシジェン",
-    "Text": "Precision",
+    "Text": "프리시젠",
     "Enabled": true
   },
   "130200": {
     "OriginalText": "エクスプリシジェン",
-    "Text": "Ex Precision",
+    "Text": "엑스 프리시젠",
     "Enabled": true
   },
   "130201": {
     "OriginalText": "サイン",
-    "Text": "Sign",
+    "Text": "사인",
     "Enabled": true
   },
   "130202": {
     "OriginalText": "エクスサイン",
-    "Text": "Ex Sign",
+    "Text": "엑스 사인",
     "Enabled": true
   },
   "130203": {
     "OriginalText": "アプローチ",
-    "Text": "Approach",
+    "Text": "어프로치",
     "Enabled": true
   },
   "130204": {
     "OriginalText": "エクスアプローチ",
-    "Text": "Ex Approach",
+    "Text": "엑스 어프로치",
     "Enabled": true
   },
   "130205": {
     "OriginalText": "炎ジェムⅠ",
-    "Text": "Fire Gem I",
+    "Text": "불 젬 I",
     "Enabled": true
   },
   "130206": {
     "OriginalText": "炎ジェムⅡ",
-    "Text": "Fire Gem II",
+    "Text": "불 젬 II",
     "Enabled": true
   },
   "130207": {
     "OriginalText": "炎ジェムⅢ",
-    "Text": "Fire Gem III",
+    "Text": "불 젬 III",
     "Enabled": true
   },
   "130208": {
     "OriginalText": "劇ジェムⅠ",
-    "Text": "Water Gem I",
-    "Enabled": true
+    "Text": "얼음 젬 I",
+    "Enabled": false
   },
   "130209": {
     "OriginalText": "劇ジェムⅡ",
-    "Text": "Water Gem II",
-    "Enabled": true
+    "Text": "얼음 젬 II",
+    "Enabled": false
   },
   "130210": {
     "OriginalText": "劇ジェムⅢ",
-    "Text": "Water Gem III",
-    "Enabled": true
+    "Text": "얼음 젬 III",
+    "Enabled": false
   },
   "130211": {
     "OriginalText": "雷ジェムⅠ",
-    "Text": "Thunder Gem I",
+    "Text": "번개 젬 I",
     "Enabled": true
   },
   "130212": {
     "OriginalText": "雷ジェムⅡ",
-    "Text": "Thunder Gem II",
+    "Text": "번개 젬 II",
     "Enabled": true
   },
   "130213": {
     "OriginalText": "雷ジェムⅢ",
-    "Text": "Thunder Gem III",
+    "Text": "번개 젬 III",
     "Enabled": true
   },
   "130214": {
     "OriginalText": "風ジェムⅠ",
-    "Text": "Wind Gem I",
+    "Text": "바람 젬 I",
     "Enabled": true
   },
   "130215": {
     "OriginalText": "風ジェムⅡ",
-    "Text": "Wind Gem II",
+    "Text": "바람 젬 II",
     "Enabled": true
   },
   "130216": {
     "OriginalText": "風ジェムⅢ",
-    "Text": "Wind Gem III",
+    "Text": "바람 젬 III",
     "Enabled": true
   },
   "130217": {
     "OriginalText": "光ジェムⅠ",
-    "Text": "Light Gem I",
+    "Text": "빛 젬 I",
     "Enabled": true
   },
   "130218": {
     "OriginalText": "光ジェムⅡ",
-    "Text": "Light Gem II",
+    "Text": "빛 젬 II",
     "Enabled": true
   },
   "130219": {
     "OriginalText": "光ジェムⅢ",
-    "Text": "Light Gem III",
+    "Text": "빛 젬 III",
     "Enabled": true
   },
   "130220": {
     "OriginalText": "闇ジェムⅠ",
-    "Text": "Dark Gem I",
+    "Text": "어둠 젬 I",
     "Enabled": true
   },
   "130221": {
     "OriginalText": "闇ジェムⅡ",
-    "Text": "Dark Gem II",
+    "Text": "어둠 젬 II",
     "Enabled": true
   },
   "130222": {
     "OriginalText": "闇ジェムⅢ",
-    "Text": "Dark Gem III",
+    "Text": "어둠 젬 III",
     "Enabled": true
   },
   "130223": {
     "OriginalText": "フォイエ・エフェクト",
-    "Text": "Foie Attach",
+    "Text": "포이에 이펙트",
     "Enabled": true
   },
   "130224": {
     "OriginalText": "ゾンデ・エフェクト",
-    "Text": "Zonde Attach",
+    "Text": "존데 이펙트",
     "Enabled": true
   },
   "130225": {
     "OriginalText": "バータ・エフェクト",
-    "Text": "Barta Attach",
+    "Text": "바타 이펙트",
     "Enabled": true
   },
   "130226": {
     "OriginalText": "ザン・エフェクト",
-    "Text": "Zan Attach",
+    "Text": "잔 이펙트",
     "Enabled": true
   },
   "130227": {
     "OriginalText": "グランツ・エフェクト",
-    "Text": "Gran Attach",
+    "Text": "그란츠 이펙트",
     "Enabled": true
   },
   "130228": {
     "OriginalText": "メギド・エフェクト",
-    "Text": "Megin Attach",
+    "Text": "메기드 이펙트",
     "Enabled": true
   },
   "130229": {
     "OriginalText": "ラッピー・エフェクト",
-    "Text": "Rappy Attach",
+    "Text": "랍피 이펙트",
     "Enabled": true
   },
   "130230": {
     "OriginalText": "フェザー・エフェクト",
-    "Text": "Feather Attach",
+    "Text": "페더 이펙트",
     "Enabled": true
   },
   "130231": {
     "OriginalText": "フォレスト・エフェクト",
-    "Text": "Forest Attach",
+    "Text": "포레스트 이펙트",
     "Enabled": true
   },
   "130232": {
     "OriginalText": "チャージ・エフェクト",
-    "Text": "Charge Attach",
+    "Text": "차지 이펙트",
     "Enabled": true
   },
   "130233": {
     "OriginalText": "フラワー・エフェクト",
-    "Text": "Flower Attach",
+    "Text": "플라워 이펙트",
     "Enabled": true
   },
   "130234": {
     "OriginalText": "リリース・エフェクト",
-    "Text": "Release Attach",
+    "Text": "릴리스 이펙트",
     "Enabled": true
   },
   "130235": {
     "OriginalText": "炎ジェムⅣ",
-    "Text": "Fire Gem IV",
+    "Text": "불 젬 IV",
     "Enabled": true
   },
   "130236": {
     "OriginalText": "劇ジェムⅣ",
-    "Text": "Water Gem IV",
-    "Enabled": true
+    "Text": "얼음 젬 IV",
+    "Enabled": false
   },
   "130237": {
     "OriginalText": "雷ジェムⅣ",
-    "Text": "Thunder Gem IV",
+    "Text": "번개 젬 IV",
     "Enabled": true
   },
   "130238": {
     "OriginalText": "風ジェムⅣ",
-    "Text": "Wind Gem IV",
+    "Text": "바람 젬 IV",
     "Enabled": true
   },
   "130239": {
     "OriginalText": "光ジェムⅣ",
-    "Text": "Light Gem IV",
+    "Text": "빛 젬 IV",
     "Enabled": true
   },
   "130240": {
     "OriginalText": "闇ジェムⅣ",
-    "Text": "Dark Gem IV",
+    "Text": "어둠 젬 IV",
     "Enabled": true
   },
   "130241": {
     "OriginalText": "ネギアタッチ",
-    "Text": "Spring Onion Attach",
+    "Text": "파 어태치",
     "Enabled": true
   },
   "130242": {
     "OriginalText": "肉アタッチ",
-    "Text": "Meat Attach",
+    "Text": "고기 어태치",
     "Enabled": true
   },
   "130243": {
     "OriginalText": "Sアタッチ",
-    "Text": "S Attach",
+    "Text": "S 어태치",
     "Enabled": true
   },
   "130244": {
     "OriginalText": "Eアタッチ",
-    "Text": "E Attach",
+    "Text": "E 어태치",
     "Enabled": true
   },
   "130245": {
     "OriginalText": "Gアタッチ",
-    "Text": "G Attach",
+    "Text": "G 어태치",
     "Enabled": true
   },
   "130246": {
     "OriginalText": "Aアタッチ",
-    "Text": "A Attach",
+    "Text": "A 어태치",
     "Enabled": true
   },
   "130247": {
     "OriginalText": "赤ぷよ",
-    "Text": "Red Puyo",
+    "Text": "빨강 뿌요",
     "Enabled": true
   },
   "130248": {
     "OriginalText": "青ぷよ",
-    "Text": "Blue Puyo",
+    "Text": "파랑 뿌요",
     "Enabled": true
   },
   "130249": {
     "OriginalText": "緑ぷよ",
-    "Text": "Green Puyo",
+    "Text": "초록 뿌요",
     "Enabled": true
   },
   "130250": {
     "OriginalText": "紫ぷよ",
-    "Text": "Purple Puyo",
+    "Text": "보라 뿌요",
     "Enabled": true
   },
   "130251": {
     "OriginalText": "黄ぷよ",
-    "Text": "Yellow Puyo",
+    "Text": "노랑 뿌요",
     "Enabled": true
   },
   "130252": {
     "OriginalText": "リング",
-    "Text": "Ring",
+    "Text": "링",
     "Enabled": true
   },
   "140000": {
     "OriginalText": "なし の解説文",
-    "Text": "Comment on None",
+    "Text": "'없음'의 설명문",
     "Enabled": true
   },
   "140001": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nブレード形状の基礎的なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n블레이드 형태의 기본 모델.",
+    "Enabled": true
   },
   "140002": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nブレード部分を強化したモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n블레이드 부분을 강화한 모델.",
+    "Enabled": true
   },
   "140003": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nブレード出力を最大化させたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n블레이드 출력을 최대화한 모델.",
+    "Enabled": true
   },
   "140004": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nブレード形状のカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n블레이드 형태의 커스터마이즈 모델.",
+    "Enabled": true
   },
   "140005": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nブレード部分を強化した\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n블레이드 부분을 강화한\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140006": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nブレード出力を最大化させた\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n블레이드 출력을 최대화한\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140007": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nブレード形状の特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n블레이드 형태의 특수 모델.",
+    "Enabled": true
   },
   "140008": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nブレード部分を強化した特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n블레이드 부분을 강화한 특수 모델.",
+    "Enabled": true
   },
   "140009": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nブレード出力を最大化させた\n特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n블레이드 출력을 최대화한\n특수 모델.",
+    "Enabled": true
   },
   "140010": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n幅広の刃を持つ基礎的なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n폭넓은 칼날을 갖춘 기본 모델.",
+    "Enabled": true
   },
   "140011": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n幅広の刃を先端に広げたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n폭넓은 칼날을 끝부분으로 펼친 모델.",
+    "Enabled": true
   },
   "140012": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n幅広の刃の出力を増したモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n폭넓은 칼날의 출력을 높인 모델.",
+    "Enabled": true
   },
   "140013": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n幅広の刃を持つカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n폭넓은 칼날을 갖춘 커스터마이즈 모델.",
+    "Enabled": true
   },
   "140014": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n幅広の刃を先端に広げた\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n폭넓은 칼날을 끝부분으로 펼친\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140015": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n幅広の刃の出力を増した\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n폭넓은 칼날의 출력을 높인\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140016": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n幅広の刃を持つ特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n폭넓은 칼날을 갖춘 특수 모델.",
+    "Enabled": true
   },
   "140017": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n幅広の刃を先端に広げた\n特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n폭넓은 칼날을 끝부분으로 펼친\n특수 모델.",
+    "Enabled": true
   },
   "140018": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n幅広の刃の出力を増した\n特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n폭넓은 칼날의 출력을 높인\n특수 모델.",
+    "Enabled": true
   },
   "140019": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nエネルギーを円状に出力する\n基礎的なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n에너지를 원형으로 출력하는\n기본 모델.",
+    "Enabled": true
   },
   "140020": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n出力を増し二重の円形を持つモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n출력을 높여 이중 원형을 갖춘 모델.",
+    "Enabled": true
   },
   "140021": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n出力を最大化し、三重の円形で強化する\nモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n출력을 최대화하고 삼중 원형으로 강화한\n모델.",
+    "Enabled": true
   },
   "140022": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nエネルギーを円状に出力する\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n에너지를 원형으로 출력하는\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140023": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n出力を増し二重の円形を持つ\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n출력을 높여 이중 원형을 갖춘\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140024": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n出力を最大化し、三重の円形で強化する\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n출력을 최대화하고 삼중 원형으로 강화한\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140025": {
     "OriginalText": "刃先を強化するアタッチパーツ。\nエネルギーを円状に出力する\n特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n에너지를 원형으로 출력하는\n특수 모델.",
+    "Enabled": true
   },
   "140026": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n出力を増し二重の円形を持つ\n特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n출력을 높여 이중 원형을 갖춘\n특수 모델.",
+    "Enabled": true
   },
   "140027": {
     "OriginalText": "刃先を強化するアタッチパーツ。\n出力を最大化し、三重の円形で強化する\n特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼끝을 강화하는 어태치 파츠다.\n출력을 최대화하고 삼중 원형으로 강화한\n특수 모델.",
+    "Enabled": true
   },
   "140028": {
     "OriginalText": "刃を追加するアタッチパーツ。\n軽量小型の刃を追加する基礎的モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n가볍고 작은 칼날을 추가하는 기본 모델.",
+    "Enabled": true
   },
   "140029": {
     "OriginalText": "刃を追加するアタッチパーツ。\n小型の刃を連ね、強化したモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n작은 칼날을 이어 붙여 강화한 모델.",
+    "Enabled": true
   },
   "140030": {
     "OriginalText": "刃を追加するアタッチパーツ。\n小型の刃を重ねて、櫛状の峰を作り\n応用性を高めたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n작은 칼날을 겹쳐 빗살 모양 칼등을 만들고\n활용성을 높인 모델.",
+    "Enabled": true
   },
   "140031": {
     "OriginalText": "刃を追加するアタッチパーツ。\n軽量小型の刃を追加する\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n가볍고 작은 칼날을 추가하는\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140032": {
     "OriginalText": "刃を追加するアタッチパーツ。\n小型の刃を連ね、強化した\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n작은 칼날을 이어 붙여 강화한\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140033": {
     "OriginalText": "刃を追加するアタッチパーツ。\n小型の刃を重ねて、櫛状の峰を作り\n応用性を高めたカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n작은 칼날을 겹쳐 빗살 모양 칼등을 만들고\n활용성을 높인 커스터마이즈 모델.",
+    "Enabled": true
   },
   "140034": {
     "OriginalText": "刃を追加するアタッチパーツ。\n軽量小型の刃を追加する\n特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n가볍고 작은 칼날을 추가하는\n특수 모델.",
+    "Enabled": true
   },
   "140035": {
     "OriginalText": "刃を追加するアタッチパーツ。\n小型の刃を連ね、強化した特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n작은 칼날을 이어 붙여 강화한 특수 모델.",
+    "Enabled": true
   },
   "140036": {
     "OriginalText": "刃を追加するアタッチパーツ。\n小型の刃を重ねて、櫛状の峰を作り\n応用性を高めた特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n작은 칼날을 겹쳐 빗살 모양 칼등을 만들고\n활용성을 높인 특수 모델.",
+    "Enabled": true
   },
   "140037": {
     "OriginalText": "刃を追加するアタッチパーツ。\n扇形状の刃で本体をサポートする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n부채꼴 칼날로 본체를 보조한다.",
+    "Enabled": true
   },
   "140038": {
     "OriginalText": "刃を追加するアタッチパーツ。\n改良された扇形状の刃で\n本体をサポートする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n개량된 부채꼴 칼날로\n본체를 보조한다.",
+    "Enabled": true
   },
   "140039": {
     "OriginalText": "刃を追加するアタッチパーツ。\n大型化した扇形状の刃を追加して、\nさらなる効果上昇が見込まれる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n커다란 부채꼴 칼날을 추가해\n효과가 더욱 높아질 것으로 기대된다.",
+    "Enabled": true
   },
   "140040": {
     "OriginalText": "刃を追加するアタッチパーツ。\n扇形状の刃で本体をサポートする\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n부채꼴 칼날로 본체를 보조하는\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140041": {
     "OriginalText": "刃を追加するアタッチパーツ。\n改良された扇形状の刃で本体をサポート\nするカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n개량된 부채꼴 칼날로 본체를 보조하는\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140042": {
     "OriginalText": "刃を追加するアタッチパーツ。\n大型化した扇形状の刃でさらなる効果\n上昇が見込まれるカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n커다란 부채꼴 칼날로 더욱 높은 효과를\n기대할 수 있는 커스터마이즈 모델.",
+    "Enabled": true
   },
   "140043": {
     "OriginalText": "刃を追加するアタッチパーツ。\n扇形状の刃で本体をサポートする\n特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n부채꼴 칼날로 본체를 보조하는\n특수 모델.",
+    "Enabled": true
   },
   "140044": {
     "OriginalText": "刃を追加するアタッチパーツ。\n改良された扇形状の刃で本体をサポート\nする特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n개량된 부채꼴 칼날로 본체를 보조하는\n특수 모델.",
+    "Enabled": true
   },
   "140045": {
     "OriginalText": "刃を追加するアタッチパーツ。\n大型化した扇形状の刃でさらなる効果\n上昇が見込まれる特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n커다란 부채꼴 칼날로 더욱 높은 효과를\n기대할 수 있는 특수 모델.",
+    "Enabled": true
   },
   "140046": {
     "OriginalText": "刃を追加するアタッチパーツ。\nパラレログラム形状のブレードで本体を\nサポートする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n평행사변형 블레이드로\n본체를 보조한다.",
+    "Enabled": true
   },
   "140047": {
     "OriginalText": "刃を追加するアタッチパーツ。\n３分割されたパラレログラムブレードで\n本体をサポートする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n3개로 나뉜 평행사변형 블레이드로\n본체를 보조한다.",
+    "Enabled": true
   },
   "140048": {
     "OriginalText": "刃を追加するアタッチパーツ。\n凹凸のついたブレードは殺傷力を高める\n効果が期待できる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n울퉁불퉁한 블레이드는 살상력을 높이는\n효과를 기대할 수 있다.",
+    "Enabled": true
   },
   "140049": {
     "OriginalText": "刃を追加するアタッチパーツ。\n刺突形状のブレードで\n本体をサポートする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n찌르기용 블레이드로\n본체를 보조한다.",
+    "Enabled": true
   },
   "140050": {
     "OriginalText": "刃を追加するアタッチパーツ。\n薙刀状のブレードで\n本体をサポートする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n나기나타 형태의 블레이드로\n본체를 보조한다.",
+    "Enabled": true
   },
   "140051": {
     "OriginalText": "刃を追加するアタッチパーツ。\n扇形状のブレードで\n本体をサポートする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n부채꼴 블레이드로\n본체를 보조한다.",
+    "Enabled": true
   },
   "140052": {
     "OriginalText": "刃を追加するアタッチパーツ。\n並列に４個並べたヘキサブレードで\n本体をサポートする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n나란히 놓은 헥사 블레이드 4개로\n본체를 보조한다.",
+    "Enabled": true
   },
   "140053": {
     "OriginalText": "刃を追加するアタッチパーツ。\n大型化した３つのブレードで\n本体をサポートする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "칼날을 추가하는 어태치 파츠다.\n커다란 블레이드 3개로\n본체를 보조한다.",
+    "Enabled": true
   },
   "140054": {
     "OriginalText": "刃を追加するアタッチパーツ。\nとある人洋のワンオフオーダー品が\n量汎化された特殊モデル。",
-    "Text": "",
+    "Text": "칼날을 추가하는 어태치 파츠다.\n어떤 인물의 단 하나뿐인 주문 제작품을\n양산한 특수 모델.",
     "Enabled": false
   },
   "140055": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n外観だけではなく補強の効果も\n兼ねている。",
-    "Text": "",
+    "Text": "손잡이를 장식하는 어태치 파츠다.\n외관을 꾸미는 동시에\n보강 효과도 갖추고 있다.",
     "Enabled": false
   },
   "140056": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n効果の更なる上昇とともに外観の\nクォリティも上げたモデル。",
-    "Text": "",
+    "Text": "손잡이를 장식하는 어태치 파츠다.\n효과를 더욱 높이고 외관의\n품질도 끌어올린 모델.",
     "Enabled": false
   },
   "140057": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n過度に綺羅びやかな伝飾が目につくが、\n効果上昇も保証付きのモデル。",
-    "Text": "",
+    "Text": "손잡이를 장식하는 어태치 파츠다.\n지나치게 화려한 장식이 눈에 띄지만\n효과 상승도 보증하는 모델.",
     "Enabled": false
   },
   "140058": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n外観だけではなく補強の効果も\n兼ねている限定ブラックモデル。",
-    "Text": "",
+    "Text": "손잡이를 장식하는 어태치 파츠다.\n외관을 꾸미는 동시에 보강 효과도\n갖춘 한정 블랙 모델.",
     "Enabled": false
   },
   "140059": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n効果の更なる上昇とともに外観の\nクォリティも上げた限定モデル。",
-    "Text": "",
+    "Text": "손잡이를 장식하는 어태치 파츠다.\n효과를 더욱 높이고 외관의\n품질도 끌어올린 한정 모델.",
     "Enabled": false
   },
   "140060": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n過度に綺羅びやかな伝飾が目につくが、\n効果上昇も保証付きの限定人気モデル。",
-    "Text": "",
+    "Text": "손잡이를 장식하는 어태치 파츠다.\n지나치게 화려한 장식이 눈에 띄지만\n효과 상승도 보증하는 인기 한정 모델.",
     "Enabled": false
   },
   "140061": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n外観だけではなく補強の効果も\n兼ねている特殊コートモデル。",
-    "Text": "",
+    "Text": "손잡이를 장식하는 어태치 파츠다.\n외관을 꾸미는 동시에 보강 효과도\n갖춘 특수 코팅 모델.",
     "Enabled": false
   },
   "140062": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n効果の更なる上昇とともに外観の\nクォリティも上げた特殊コートモデル。",
-    "Text": "",
+    "Text": "손잡이를 장식하는 어태치 파츠다.\n효과를 더욱 높이고 외관의\n품질도 끌어올린 특수 코팅 모델.",
     "Enabled": false
   },
   "140063": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n過度に綺羅びやかな伝飾が目につくが、\n効果上昇も保証付き特殊コートモデル。",
-    "Text": "",
+    "Text": "손잡이를 장식하는 어태치 파츠다.\n지나치게 화려한 장식이 눈에 띄지만\n효과 상승도 보증하는 특수 코팅 모델.",
     "Enabled": false
   },
   "140064": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\nウェーブ形状のデザインは外観と効果を\n両立させる。",
-    "Text": "",
+    "Text": "손잡이를 장식하는 어태치 파츠다.\n물결 형태의 디자인으로 외관과 효과를\n모두 갖췄다.",
     "Enabled": false
   },
   "140065": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n２重のウェーブはデザインよりも効果を\n優先した結果となる。",
-    "Text": "",
+    "Text": "손잡이를 장식하는 어태치 파츠다.\n2중 물결은 디자인보다 효과를\n우선한 결과다.",
     "Enabled": false
   },
   "140066": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n効果を追求したウェーブデザインは\n外観にも個性をもたらす結果になった。",
-    "Text": "",
+    "Text": "손잡이를 장식하는 어태치 파츠다.\n효과를 추구한 물결 디자인 덕분에\n외관에도 개성이 생겼다.",
     "Enabled": false
   },
   "140067": {
     "OriginalText": "柄の伝飾用特殊アタッチパーツ。\nウェーブ形状のデザインは外観と効果を\n両立させる。",
-    "Text": "",
+    "Text": "손잡이 장식용 특수 어태치 파츠다.\n물결 형태의 디자인으로 외관과 효과를\n모두 갖췄다.",
     "Enabled": false
   },
   "140068": {
     "OriginalText": "柄の伝飾用特殊アタッチパーツ。\n２重のウェーブはデザインよりも効果を\n優先した結果となる。",
-    "Text": "",
+    "Text": "손잡이 장식용 특수 어태치 파츠다.\n2중 물결은 디자인보다 효과를\n우선한 결과다.",
     "Enabled": false
   },
   "140069": {
     "OriginalText": "柄の伝飾用特殊アタッチパーツ。\n効果を追求したウェーブデザインは\n外観にも個性をもたらす結果になった。",
-    "Text": "",
+    "Text": "손잡이 장식용 특수 어태치 파츠다.\n효과를 추구한 물결 디자인 덕분에\n외관에도 개성이 생겼다.",
     "Enabled": false
   },
   "140070": {
     "OriginalText": "柄の伝飾用限定アタッチパーツ。\nウェーブ形状のデザインは外観と効果を\n両立させる。",
-    "Text": "",
+    "Text": "손잡이 장식용 한정 어태치 파츠다.\n물결 형태의 디자인으로 외관과 효과를\n모두 갖췄다.",
     "Enabled": false
   },
   "140071": {
     "OriginalText": "柄の伝飾用限定アタッチパーツ。\n２重のウェーブはデザインよりも効果を\n優先した結果となる。",
-    "Text": "",
+    "Text": "손잡이 장식용 한정 어태치 파츠다.\n2중 물결은 디자인보다 효과를\n우선한 결과다.",
     "Enabled": false
   },
   "140072": {
     "OriginalText": "柄の伝飾用限定アタッチパーツ。\n効果を追求したウェーブデザインは\n外観にも個性をもたらす結果になった。",
-    "Text": "",
+    "Text": "손잡이 장식용 한정 어태치 파츠다.\n효과를 추구한 물결 디자인 덕분에\n외관에도 개성이 생겼다.",
     "Enabled": false
   },
   "140073": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\nシンプルなリボン形状で\n可愛らしさがアップ。",
-    "Text": "",
+    "Text": "손잡이를 장식하는 어태치 파츠다.\n단순한 리본 형태로\n귀여움을 더한다.",
     "Enabled": false
   },
   "140074": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n女性的なデザインになるが効果も\nそれなりに期待できる。",
-    "Text": "",
+    "Text": "손잡이를 장식하는 어태치 파츠다.\n여성스러운 디자인이지만 효과도\n그럭저럭 기대할 수 있다.",
     "Enabled": false
   },
   "140075": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n伝飾過多だが効果も\n大きくなったモデル。",
-    "Text": "",
+    "Text": "손잡이를 장식하는 어태치 파츠다.\n장식이 과하지만 효과도\n커진 모델.",
     "Enabled": false
   },
   "140076": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n清楚なブルーのリボン形状で\n深窓の令嬢らしさがアップ。",
-    "Text": "",
+    "Text": "손잡이를 장식하는 어태치 파츠다.\n단아한 파란 리본 형태로\n귀하게 자란 아가씨 같은 느낌을 더한다.",
     "Enabled": false
   },
   "140077": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\nブルーのリボンで女性的なデザインに\nなるが効果もそれなりに期待できる。",
-    "Text": "",
+    "Text": "손잡이를 장식하는 어태치 파츠다.\n파란 리본으로 여성스러운 디자인을\n갖췄지만 효과도 그럭저럭 기대할 수 있다.",
     "Enabled": false
   },
   "140078": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n伝飾過多だが効果も大きくなった\nストライプのリボンが特微的なモデル。",
-    "Text": "",
+    "Text": "손잡이를 장식하는 어태치 파츠다.\n장식이 과하지만 효과도 커졌으며\n줄무늬 리본이 특징인 모델.",
     "Enabled": false
   },
   "140079": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n艶めかしいブラックのリボン形状で\n大人の女性らしさがアップ。",
-    "Text": "",
+    "Text": "손잡이를 장식하는 어태치 파츠다.\n요염한 검은 리본 형태로\n성숙한 여성의 느낌을 더한다.",
     "Enabled": false
   },
   "140080": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\nブラックのリボンで女性的なデザインに\nなるが効果もそれなりに期待できる。",
-    "Text": "",
+    "Text": "손잡이를 장식하는 어태치 파츠다.\n검은 리본으로 여성스러운 디자인을\n갖췄지만 효과도 그럭저럭 기대할 수 있다.",
     "Enabled": false
   },
   "140081": {
     "OriginalText": "柄に伝飾をするアタッチパーツ。\n伝飾過多だが効果も大きくなった\nブラックストライプが特微的なモデル。",
-    "Text": "",
+    "Text": "손잡이를 장식하는 어태치 파츠다.\n장식이 과하지만 효과도 커졌으며\n검은 줄무늬가 특징인 모델.",
     "Enabled": false
   },
   "140082": {
     "OriginalText": "握り部分の強化をする\nアタッチパーツ。\nトライヘキサが本体をサポートする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이 부분을 강화하는\n어태치 파츠다.\n트라이헥사가 본체를 보조한다.",
+    "Enabled": true
   },
   "140083": {
     "OriginalText": "握り部分の強化をする\nアタッチパーツ。\nフィフスヘキサが本体をサポートする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이 부분을 강화하는\n어태치 파츠다.\n피프스헥사가 본체를 보조한다.",
+    "Enabled": true
   },
   "140084": {
     "OriginalText": "握り部分の強化をする\nアタッチパーツ。\nリングヘキサが本体をサポートする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이 부분을 강화하는\n어태치 파츠다.\n링헥사가 본체를 보조한다.",
+    "Enabled": true
   },
   "140085": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\nトライヘキサに力が蓄えられ\n本体をサポートする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이 부분 강화용 어태치 파츠다.\n트라이헥사에 힘이 모여\n본체를 보조한다.",
+    "Enabled": true
   },
   "140086": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\nフィフスヘキサに力が蓄えられ\n本体をサポートする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이 부분 강화용 어태치 파츠다.\n피프스헥사에 힘이 모여\n본체를 보조한다.",
+    "Enabled": true
   },
   "140087": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\nリングヘキサに力が蓄えられ\n本体をサポートする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이 부분 강화용 어태치 파츠다.\n링헥사에 힘이 모여\n본체를 보조한다.",
+    "Enabled": true
   },
   "140088": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n黄金色に染められたトライヘキサが\n本体をサポートする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이 부분 강화용 어태치 파츠다.\n황금색으로 물든 트라이헥사가\n본체를 보조한다.",
+    "Enabled": true
   },
   "140089": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n黄金色に染められたフィフスヘキサが\n本体をサポートする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이 부분 강화용 어태치 파츠다.\n황금색으로 물든 피프스헥사가\n본체를 보조한다.",
+    "Enabled": true
   },
   "140090": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n黄金色に染められたリングヘキサが\n本体をサポートする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이 부분 강화용 어태치 파츠다.\n황금색으로 물든 링헥사가\n본체를 보조한다.",
+    "Enabled": true
   },
   "140091": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\nグリップ力を高めて本来の性能を\n引き出す。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이 부분 강화용 어태치 파츠다.\n그립력을 높여 본래의 성능을\n이끌어낸다.",
+    "Enabled": true
   },
   "140092": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n２重のサポートブレードが本体の性能を\nサポートする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이 부분 강화용 어태치 파츠다.\n2중 보조 블레이드가 본체의 성능을\n뒷받침한다.",
+    "Enabled": true
   },
   "140093": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n全体的に洗練され外観も性能も上昇した\n完成度の高いモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이 부분 강화용 어태치 파츠다.\n전체적으로 세련되고 외관과 성능을 개선한\n완성도 높은 모델.",
+    "Enabled": true
   },
   "140094": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\nグリップ力を高めて本来の性能を\n引き出すカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이 부분 강화용 어태치 파츠다.\n그립력을 높여 본래의 성능을\n이끌어내는 커스터마이즈 모델.",
+    "Enabled": true
   },
   "140095": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n２重のサポートブレードが本体の性能を\nサポートするカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이 부분 강화용 어태치 파츠다.\n2중 보조 블레이드가 본체의 성능을\n뒷받침하는 커스터마이즈 모델.",
+    "Enabled": true
   },
   "140096": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n全体的に洗練され外観も性能も上昇した\n完成度の高いカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이 부분 강화용 어태치 파츠다.\n전체적으로 세련되고 외관과 성능을 개선한\n완성도 높은 커스터마이즈 모델.",
+    "Enabled": true
   },
   "140097": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\nグリップ力を高めて本来の性能を\n引き出す特殊コートモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이 부분 강화용 어태치 파츠다.\n그립력을 높여 본래의 성능을\n이끌어내는 특수 코팅 모델.",
+    "Enabled": true
   },
   "140098": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n２重のサポートブレードが本体の性能を\nサポートする特殊コートモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이 부분 강화용 어태치 파츠다.\n2중 보조 블레이드가 본체의 성능을\n뒷받침하는 특수 코팅 모델.",
+    "Enabled": true
   },
   "140099": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n全体的に洗練され外観も性能も上昇した\n完成度の高い特殊コートモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이 부분 강화용 어태치 파츠다.\n전체적으로 세련되고 외관과 성능을 개선한\n완성도 높은 특수 코팅 모델.",
+    "Enabled": true
   },
   "140100": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n犬派には耐え難い\n踏み絵的チャトライズム伝飾が人気。",
-    "Text": "",
+    "Text": "손잡이 부분 강화용 어태치 파츠다.\n개파에겐 견디기 힘든 신념 시험 같은\n차토라이즘 장식이 인기다.",
     "Enabled": false
   },
   "140101": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n犬派には耐え難い\n踏み絵的ブチリッシュ伝飾が人気。",
-    "Text": "",
+    "Text": "손잡이 부분 강화용 어태치 파츠다.\n개파에겐 견디기 힘든 신념 시험 같은\n부치리시 장식이 인기다.",
     "Enabled": false
   },
   "140102": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n犬派には耐え難い\n踏み絵的純白ましろ伝飾が人気。",
-    "Text": "",
+    "Text": "손잡이 부분 강화용 어태치 파츠다.\n개파에겐 견디기 힘든 신념 시험 같은\n순백 마시로 장식이 인기다.",
     "Enabled": false
   },
   "140103": {
     "OriginalText": "握り部分の強化用アタッチパーツ。\n犬派には耐え難い\n踏み絵的サバトラージュ伝飾が人気。",
-    "Text": "",
+    "Text": "손잡이 부분 강화용 어태치 파츠다.\n개파에겐 견디기 힘든 신념 시험 같은\n사바토라주 장식이 인기다.",
     "Enabled": false
   },
   "140104": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n工事現場的と言われデザイナーが\n撃怒したいわくつきモデル。",
-    "Text": "",
+    "Text": "무기 끝부분 강화용 어태치 파츠다.\n공사 현장 같다는 말에 디자이너가\n격노했다는 사연이 있는 모델.",
     "Enabled": false
   },
   "140105": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\nダブルスパイクで\n本体の性能を引き出す。",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기 끝부분 강화용 어태치 파츠다.\n더블 스파이크로\n본체의 성능을 이끌어낸다.",
+    "Enabled": true
   },
   "140106": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\nトリプルスパイクで本体の性能を更に\n引き出す。",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기 끝부분 강화용 어태치 파츠다.\n트리플 스파이크로 본체의 성능을 더욱\n이끌어낸다.",
+    "Enabled": true
   },
   "140107": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n工事現場的と言われデザイナーが\n撃怒したいわくつきモデルの限定版。",
-    "Text": "",
+    "Text": "무기 끝부분 강화용 어태치 파츠다.\n공사 현장 같다는 말에 디자이너가\n격노했다는 사연이 있는 모델의 한정판.",
     "Enabled": false
   },
   "140108": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n限定ブラックのダブルスパイクで\n本体の性能を引き出す。",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기 끝부분 강화용 어태치 파츠다.\n한정 블랙 더블 스파이크로\n본체의 성능을 이끌어낸다.",
+    "Enabled": true
   },
   "140109": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n限定ブラックのトリプルスパイクで\n本体の性能を更に引き出す。",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기 끝부분 강화용 어태치 파츠다.\n한정 블랙 트리플 스파이크로\n본체의 성능을 더욱 이끌어낸다.",
+    "Enabled": true
   },
   "140110": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n工事現場的と言われデザイナーが\n撃怒したいわくつきモデルの決定版。",
-    "Text": "",
+    "Text": "무기 끝부분 강화용 어태치 파츠다.\n공사 현장 같다는 말에 디자이너가\n격노했다는 사연이 있는 모델의 결정판.",
     "Enabled": false
   },
   "140111": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n限定クリムゾンのダブルスパイクで\n本体の性能を引き出す。",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기 끝부분 강화용 어태치 파츠다.\n한정 크림슨 더블 스파이크로\n본체의 성능을 이끌어낸다.",
+    "Enabled": true
   },
   "140112": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n限定クリムゾンのトリプルスパイクで\n本体の性能を冷限まで引き出す。",
-    "Text": "",
+    "Text": "무기 끝부분 강화용 어태치 파츠다.\n한정 크림슨 트리플 스파이크로\n본체의 성능을 극한까지 이끌어낸다.",
     "Enabled": false
   },
   "140113": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n出力を増幅させるウィングがついた\n基礎的なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기 끝부분 강화용 어태치 파츠다.\n출력을 증폭하는 윙을 장착한\n기본 모델.",
+    "Enabled": true
   },
   "140114": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\nウィングの外郭を強化して出力を\n増幅させたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기 끝부분 강화용 어태치 파츠다.\n윙의 외곽을 강화해 출력을\n증폭한 모델.",
+    "Enabled": true
   },
   "140115": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\nウィングの外郭を最大まで広げて\n出力を増幅させたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기 끝부분 강화용 어태치 파츠다.\n윙의 외곽을 최대한 펼쳐\n출력을 증폭한 모델.",
+    "Enabled": true
   },
   "140116": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n出力を増幅させるウィングがついた\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기 끝부분 강화용 어태치 파츠다.\n출력을 증폭하는 윙을 장착한\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140117": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\nウィングの外郭を強化して出力を\n増幅させたカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기 끝부분 강화용 어태치 파츠다.\n윙의 외곽을 강화해 출력을\n증폭한 커스터마이즈 모델.",
+    "Enabled": true
   },
   "140118": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\nウィングの外郭を最大まで広げて\n出力を増幅させたカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기 끝부분 강화용 어태치 파츠다.\n윙의 외곽을 최대한 펼쳐\n출력을 증폭한 커스터마이즈 모델.",
+    "Enabled": true
   },
   "140119": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n出力を増幅させるウィングがついた\n特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기 끝부분 강화용 어태치 파츠다.\n출력을 증폭하는 윙을 장착한\n특수 모델.",
+    "Enabled": true
   },
   "140120": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\nウィングの外郭を強化して出力を\n増幅させた特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기 끝부분 강화용 어태치 파츠다.\n윙의 외곽을 강화해 출력을\n증폭한 특수 모델.",
+    "Enabled": true
   },
   "140121": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\nウィングの外郭を最大まで広げて\n出力を増幅させた特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기 끝부분 강화용 어태치 파츠다.\n윙의 외곽을 최대한 펼쳐\n출력을 증폭한 특수 모델.",
+    "Enabled": true
   },
   "140122": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n肉球を物した犬派には耐え難い\n踏み絵的チャトライズム伝飾が人気。",
-    "Text": "",
+    "Text": "무기 끝부분 강화용 어태치 파츠다.\n발바닥 젤리를 본떠 개파에겐 견디기 힘든\n신념 시험 같은 차토라이즘 장식이 인기다.",
     "Enabled": false
   },
   "140123": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n肉球を物した犬派には耐え難い\n踏み絵的ブチリッシュ伝飾が人気。",
-    "Text": "",
+    "Text": "무기 끝부분 강화용 어태치 파츠다.\n발바닥 젤리를 본떠 개파에겐 견디기 힘든\n신념 시험 같은 부치리시 장식이 인기다.",
     "Enabled": false
   },
   "140124": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n肉球を物した犬派には耐え難い\n踏み絵的純白ましろ伝飾が人気。",
-    "Text": "",
+    "Text": "무기 끝부분 강화용 어태치 파츠다.\n발바닥 젤리를 본떠 개파에겐 견디기 힘든\n신념 시험 같은 순백 마시로 장식이 인기다.",
     "Enabled": false
   },
   "140125": {
     "OriginalText": "武器の先端強化用アタッチパーツ。\n肉球を物した犬派には耐え難い\n踏み絵的サバトラージュ伝飾が人気。",
-    "Text": "",
+    "Text": "무기 끝부분 강화용 어태치 파츠다.\n발바닥 젤리를 본떠 개파에겐 견디기 힘든\n신념 시험 같은 사바토라주 장식이 인기다.",
     "Enabled": false
   },
   "140126": {
-    "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に軽量素村を用いて\n扱い易くした基礎的なモデル。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に軽量素材を用いて\n扱い易くした基礎的なモデル。",
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n끝부분에 가벼운 소재를 사용해\n다루기 편하게 만든 기본 모델.",
+    "Enabled": true
   },
   "140127": {
-    "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に高強度な軽量素村を用いて\n扱い易くしたモデル。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に高強度な軽量素材を用いて\n扱い易くしたモデル。",
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n끝부분에 강도 높은 경량 소재를 사용해\n다루기 편하게 만든 모델.",
+    "Enabled": true
   },
   "140128": {
-    "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に高強度な超軽量素村を用いて\n扱い易くしたモデル。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に高強度な超軽量素材を用いて\n扱い易くしたモデル。",
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n끝부분에 강도 높은 초경량 소재를 사용해\n다루기 편하게 만든 모델.",
+    "Enabled": true
   },
   "140129": {
-    "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に軽量素村を用いて\n扱い易くしたカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に軽量素材を用いて\n扱い易くしたカスタマイズモデル。",
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n끝부분에 가벼운 소재를 사용해\n다루기 편하게 만든 커스터마이즈 모델.",
+    "Enabled": true
   },
   "140130": {
-    "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に高強度な軽量素村を用いて\n扱い易くしたカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に高強度な軽量素材を用いて\n扱い易くしたカスタマイズモデル。",
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n끝부분에 강도 높은 경량 소재를 사용해\n다루기 편하게 만든 커스터마이즈 모델.",
+    "Enabled": true
   },
   "140131": {
-    "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に高強度な超軽量素村を用いて\n扱い易くしたカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に高強度な超軽量素材を用いて\n扱い易くしたカスタマイズモデル。",
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n끝부분에 강도 높은 초경량 소재를 사용해\n다루기 편하게 만든 커스터마이즈 모델.",
+    "Enabled": true
   },
   "140132": {
-    "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に軽量素村を用いて\n扱い易くした特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に軽量素材を用いて\n扱い易くした特殊モデル。",
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n끝부분에 가벼운 소재를 사용해\n다루기 편하게 만든 특수 모델.",
+    "Enabled": true
   },
   "140133": {
-    "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に高強度な軽量素村を用いて\n扱い易くした特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に高強度な軽量素材を用いて\n扱い易くした特殊モデル。",
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n끝부분에 강도 높은 경량 소재를 사용해\n다루기 편하게 만든 특수 모델.",
+    "Enabled": true
   },
   "140134": {
-    "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に高強度な超軽量素村を用いて\n扱い易くした特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "柄を強化するアタッチパーツ。\n先端部分に高強度な超軽量素材を用いて\n扱い易くした特殊モデル。",
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n끝부분에 강도 높은 초경량 소재를 사용해\n다루기 편하게 만든 특수 모델.",
+    "Enabled": true
   },
   "140135": {
     "OriginalText": "柄を強化するアタッチパーツ。\nエネルギー出力を強化するパネルを\n付与する基礎的なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n에너지 출력을 강화하는 패널을\n추가한 기본 모델.",
+    "Enabled": true
   },
   "140136": {
     "OriginalText": "柄を強化するアタッチパーツ\nパネルを扇状に並べてエネルギー出力を\n高めたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n패널을 부채꼴로 배치해 에너지 출력을\n높인 모델.",
+    "Enabled": true
   },
   "140137": {
     "OriginalText": "柄を強化するアタッチパーツ。\nパネルを二重扇にしてエネルギー出力を\n冷度に高めたモデル。",
-    "Text": "",
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n패널을 이중 부채꼴로 만들어 에너지 출력을\n극도로 높인 모델.",
     "Enabled": false
   },
   "140138": {
     "OriginalText": "柄を強化するアタッチパーツ。\nエネルギー出力を強化するパネルを\n付与するカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n에너지 출력을 강화하는 패널을\n추가한 커스터마이즈 모델.",
+    "Enabled": true
   },
   "140139": {
     "OriginalText": "柄を強化するアタッチパーツ\nパネルを扇状に並べてエネルギー出力を\n高めたカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n패널을 부채꼴로 배치해 에너지 출력을\n높인 커스터마이즈 모델.",
+    "Enabled": true
   },
   "140140": {
     "OriginalText": "柄を強化するアタッチパーツ。\nパネルを二重扇にしてエネルギー出力を\n冷度に高めたカスタマイズモデル。",
-    "Text": "",
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n패널을 이중 부채꼴로 만들어 에너지 출력을\n극도로 높인 커스터마이즈 모델.",
     "Enabled": false
   },
   "140141": {
     "OriginalText": "柄を強化するアタッチパーツ。\nエネルギー出力を強化するパネルを\n付与する特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n에너지 출력을 강화하는 패널을\n추가한 특수 모델.",
+    "Enabled": true
   },
   "140142": {
     "OriginalText": "柄を強化するアタッチパーツ\nパネルを扇状に並べてエネルギー出力を\n高めた特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n패널을 부채꼴로 배치해 에너지 출력을\n높인 특수 모델.",
+    "Enabled": true
   },
   "140143": {
     "OriginalText": "柄を強化するアタッチパーツ。\nパネルを二重扇にしてエネルギー出力を\n冷度に高めた特殊モデル。",
-    "Text": "",
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n패널을 이중 부채꼴로 만들어 에너지 출력을\n극도로 높인 특수 모델.",
     "Enabled": false
   },
   "140144": {
     "OriginalText": "柄を強化するアタッチパーツ。\n機動性を高める軽量ブレードを\nプロペラ形状にした基礎的なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n기동성을 높이는 가벼운 블레이드를\n프로펠러 형태로 만든 기본 모델.",
+    "Enabled": true
   },
   "140145": {
     "OriginalText": "柄を強化するアタッチパーツ。\nプロペラを六角形の外郭で固定して\n安定性を高めたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n프로펠러를 육각형 외곽으로 고정해\n안정성을 높인 모델.",
+    "Enabled": true
   },
   "140146": {
     "OriginalText": "柄を強化するアタッチパーツ。\nプロペラ形状のパーツを二段に重ねて\n応用性を高めたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n프로펠러 형태의 파츠를 두 단으로 겹쳐\n활용성을 높인 모델.",
+    "Enabled": true
   },
   "140147": {
     "OriginalText": "柄を強化するアタッチパーツ。\n機動性を高める軽量ブレードを\nプロペラ形状にしたカスタムモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n기동성을 높이는 가벼운 블레이드를\n프로펠러 형태로 만든 커스텀 모델.",
+    "Enabled": true
   },
   "140148": {
     "OriginalText": "柄を強化するアタッチパーツ。\nプロペラを六角形の外郭で固定して\n安定性を高めたカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n프로펠러를 육각형 외곽으로 고정해\n안정성을 높인 커스터마이즈 모델.",
+    "Enabled": true
   },
   "140149": {
     "OriginalText": "柄を強化するアタッチパーツ。\nプロペラ形状のパーツを二段に重ねて\n応用性を高めたカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n프로펠러 형태의 파츠를 두 단으로 겹쳐\n활용성을 높인 커스터마이즈 모델.",
+    "Enabled": true
   },
   "140150": {
     "OriginalText": "柄を強化するアタッチパーツ。\n機動性を高める軽量ブレードを\nプロペラ形状にした特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n기동성을 높이는 가벼운 블레이드를\n프로펠러 형태로 만든 특수 모델.",
+    "Enabled": true
   },
   "140151": {
     "OriginalText": "柄を強化するアタッチパーツ。\nプロペラを六角形の外郭で固定して\n安定性を高めた特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n프로펠러를 육각형 외곽으로 고정해\n안정성을 높인 특수 모델.",
+    "Enabled": true
   },
   "140152": {
     "OriginalText": "柄を強化するアタッチパーツ。\nプロペラ形状のパーツを二段に重ねて\n応用性を高めた特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손잡이를 강화하는 어태치 파츠다.\n프로펠러 형태의 파츠를 두 단으로 겹쳐\n활용성을 높인 특수 모델.",
+    "Enabled": true
   },
   "140153": {
     "OriginalText": "ブースターアタッチパーツ。\nエネルギー龍達力を増幅する光を放つ\n基礎的なモデル。",
-    "Text": "",
+    "Text": "부스터 어태치 파츠다.\n에너지 전달력을 증폭하는 빛을 내는\n기본 모델.",
     "Enabled": false
   },
   "140154": {
     "OriginalText": "ブースターアタッチパーツ。\n光の屈折率を変える塗伝を施し龍達力を\n強化したモデル。",
-    "Text": "",
+    "Text": "부스터 어태치 파츠다.\n빛의 굴절률을 바꾸는 도장을 해 전달력을\n강화한 모델.",
     "Enabled": false
   },
   "140155": {
     "OriginalText": "ブースターアタッチパーツ。\nエネルギー龍達力を増幅する光を放つ\nカスタマイズモデル。",
-    "Text": "",
+    "Text": "부스터 어태치 파츠다.\n에너지 전달력을 증폭하는 빛을 내는\n커스터마이즈 모델.",
     "Enabled": false
   },
   "140156": {
     "OriginalText": "ブースターアタッチパーツ。\n光の屈折率を変える塗伝を施し龍達力を\n強化したカスタマイズモデル。",
-    "Text": "",
+    "Text": "부스터 어태치 파츠다.\n빛의 굴절률을 바꾸는 도장을 해 전달력을\n강화한 커스터마이즈 모델.",
     "Enabled": false
   },
   "140157": {
     "OriginalText": "ブースターアタッチパーツ。\nエネルギー龍達力を増幅する光を放つ\n特殊モデル。",
-    "Text": "",
+    "Text": "부스터 어태치 파츠다.\n에너지 전달력을 증폭하는 빛을 내는\n특수 모델.",
     "Enabled": false
   },
   "140158": {
     "OriginalText": "ブースターアタッチパーツ。\n光の屈折率を変える塗伝を施し龍達力を\n強化した特殊モデル。",
-    "Text": "",
+    "Text": "부스터 어태치 파츠다.\n빛의 굴절률을 바꾸는 도장을 해 전달력을\n강화한 특수 모델.",
     "Enabled": false
   },
   "140159": {
     "OriginalText": "ブースターアタッチパーツ。\n円筒状の増幅器で粒子を加速させ\n出力に転換する基礎的なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "부스터 어태치 파츠다.\n원통형 증폭기로 입자를 가속해\n출력으로 전환하는 기본 모델.",
+    "Enabled": true
   },
   "140160": {
     "OriginalText": "ブースターアタッチパーツ。\n増幅器を改良して出力への転換率を\n上げたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "부스터 어태치 파츠다.\n증폭기를 개량해 출력으로의 전환율을\n높인 모델.",
+    "Enabled": true
   },
   "140161": {
     "OriginalText": "ブースターアタッチパーツ。\n円筒状の増幅器で粒子を加速させ\n出力に転換するカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "부스터 어태치 파츠다.\n원통형 증폭기로 입자를 가속해\n출력으로 전환하는 커스터마이즈 모델.",
+    "Enabled": true
   },
   "140162": {
     "OriginalText": "ブースターアタッチパーツ。\n増幅器を改良して出力への転換率を\n上げたカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "부스터 어태치 파츠다.\n증폭기를 개량해 출력으로의 전환율을\n높인 커스터마이즈 모델.",
+    "Enabled": true
   },
   "140163": {
     "OriginalText": "ブースターアタッチパーツ。\n円筒状の増幅器で粒子を加速させ\n出力に転換する特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "부스터 어태치 파츠다.\n원통형 증폭기로 입자를 가속해\n출력으로 전환하는 특수 모델.",
+    "Enabled": true
   },
   "140164": {
     "OriginalText": "ブースターアタッチパーツ。\n増幅器を改良して出力への転換率を\n上げた特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "부스터 어태치 파츠다.\n증폭기를 개량해 출력으로의 전환율을\n높인 특수 모델.",
+    "Enabled": true
   },
   "140165": {
     "OriginalText": "ブースターアタッチパーツ。\n接続した本体のエネルギーを円形状に\n循環させ増幅する基礎的なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "부스터 어태치 파츠다.\n연결된 본체의 에너지를 원형으로\n순환시켜 증폭하는 기본 모델.",
+    "Enabled": true
   },
   "140166": {
     "OriginalText": "ブースターアタッチパーツ。\nエネルギー循環時のロスを軽滅して\n増幅力を高めたモデル。",
-    "Text": "",
+    "Text": "부스터 어태치 파츠다.\n에너지 순환 중 손실을 줄여\n증폭력을 높인 모델.",
     "Enabled": false
   },
   "140167": {
     "OriginalText": "ブースターアタッチパーツ。\n接続した本体のエネルギーを円形状に\n循環させ増幅するカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "부스터 어태치 파츠다.\n연결된 본체의 에너지를 원형으로\n순환시켜 증폭하는 커스터마이즈 모델.",
+    "Enabled": true
   },
   "140168": {
     "OriginalText": "ブースターアタッチパーツ。\nエネルギー循環時のロスを軽滅して\n増幅力を高めたカスタマイズモデル。",
-    "Text": "",
+    "Text": "부스터 어태치 파츠다.\n에너지 순환 중 손실을 줄여\n증폭력을 높인 커스터마이즈 모델.",
     "Enabled": false
   },
   "140169": {
     "OriginalText": "ブースターアタッチパーツ。\n接続した本体のエネルギーを円形状に\n循環させ増幅する特殊モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "부스터 어태치 파츠다.\n연결된 본체의 에너지를 원형으로\n순환시켜 증폭하는 특수 모델.",
+    "Enabled": true
   },
   "140170": {
     "OriginalText": "ブースターアタッチパーツ。\nエネルギー循環時のロスを軽滅して\n増幅力を高めた特殊モデル。",
-    "Text": "",
+    "Text": "부스터 어태치 파츠다.\n에너지 순환 중 손실을 줄여\n증폭력을 높인 특수 모델.",
     "Enabled": false
   },
   "140171": {
     "OriginalText": "銃の安定感強化用アタッチパーツ。\nグリップ形状の基礎的なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "총의 안정감을 높이는 어태치 파츠다.\n그립 형태의 기본 모델.",
+    "Enabled": true
   },
   "140172": {
     "OriginalText": "銃の安定感強化用アタッチパーツ。\nグリップ形状を強化したモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "총의 안정감을 높이는 어태치 파츠다.\n그립 형태를 강화한 모델.",
+    "Enabled": true
   },
   "140173": {
     "OriginalText": "銃の安定感強化用アタッチパーツ。\nグリップ形状の基礎的な\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "총의 안정감을 높이는 어태치 파츠다.\n그립 형태의 기본적인\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140174": {
     "OriginalText": "銃の安定感強化用アタッチパーツ。\nグリップ形状を\n強化したカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "총의 안정감을 높이는 어태치 파츠다.\n그립 형태를\n강화한 커스터마이즈 모델.",
+    "Enabled": true
   },
   "140175": {
     "OriginalText": "銃の安定感強化用アタッチパーツ。\nグリップ形状の基礎的な\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "총의 안정감을 높이는 어태치 파츠다.\n그립 형태의 기본적인\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140176": {
     "OriginalText": "銃の安定感強化用アタッチパーツ。\nグリップ形状を強化した\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "총의 안정감을 높이는 어태치 파츠다.\n그립 형태를 강화한\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140177": {
     "OriginalText": "アダプター強化用アタッチパーツ。\nシールド状の基礎的なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "어댑터 강화용 어태치 파츠다.\n실드 형태의 기본 모델.",
+    "Enabled": true
   },
   "140178": {
     "OriginalText": "アダプター強化用アタッチパーツ。\nシールド状の強化型モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "어댑터 강화용 어태치 파츠다.\n실드 형태의 강화형 모델.",
+    "Enabled": true
   },
   "140179": {
     "OriginalText": "アダプター強化用アタッチパーツ。\nシールド状の基礎的な\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "어댑터 강화용 어태치 파츠다.\n실드 형태의 기본적인\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140180": {
     "OriginalText": "アダプター強化用アタッチパーツ。\nシールド状の強化型\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "어댑터 강화용 어태치 파츠다.\n실드 형태의 강화형\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140181": {
     "OriginalText": "アダプター強化用アタッチパーツ。\nシールド状の基礎的な\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "어댑터 강화용 어태치 파츠다.\n실드 형태의 기본적인\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140182": {
     "OriginalText": "アダプター強化用アタッチパーツ。\nシールド状の強化型\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "어댑터 강화용 어태치 파츠다.\n실드 형태의 강화형\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140183": {
     "OriginalText": "武器を強化するアタッチパーツ。\n犬派には耐え難い\n踏み絵的チャトライズム伝飾が人気。",
-    "Text": "",
+    "Text": "무기를 강화하는 어태치 파츠다.\n개파에겐 견디기 힘든 신념 시험 같은\n차토라이즘 장식이 인기다.",
     "Enabled": false
   },
   "140184": {
     "OriginalText": "武器を強化するアタッチパーツ。\n犬派には耐え難い\n踏み絵的ブチリッシュ伝飾が人気。",
-    "Text": "",
+    "Text": "무기를 강화하는 어태치 파츠다.\n개파에겐 견디기 힘든 신념 시험 같은\n부치리시 장식이 인기다.",
     "Enabled": false
   },
   "140185": {
     "OriginalText": "武器を強化するアタッチパーツ。\n犬派には耐え難い\n踏み絵的純白ましろ伝飾が人気。",
-    "Text": "",
+    "Text": "무기를 강화하는 어태치 파츠다.\n개파에겐 견디기 힘든 신념 시험 같은\n순백 마시로 장식이 인기다.",
     "Enabled": false
   },
   "140186": {
     "OriginalText": "武器を強化するアタッチパーツ。\n犬派には耐え難い\n踏み絵的サバトラージュ伝飾が人気。",
-    "Text": "",
+    "Text": "무기를 강화하는 어태치 파츠다.\n개파에겐 견디기 힘든 신념 시험 같은\n사바토라주 장식이 인기다.",
     "Enabled": false
   },
   "140187": {
     "OriginalText": "照準を強化するアタッチパーツ。\nサークル状の基礎的なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "조준을 강화하는 어태치 파츠다.\n원형의 기본 모델.",
+    "Enabled": true
   },
   "140188": {
     "OriginalText": "照準を強化するアタッチパーツ。\nサークル状の強化型モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "조준을 강화하는 어태치 파츠다.\n원형의 강화형 모델.",
+    "Enabled": true
   },
   "140189": {
     "OriginalText": "照準を強化するアタッチパーツ。\nサークル状の基礎的な\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "조준을 강화하는 어태치 파츠다.\n원형의 기본적인\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140190": {
     "OriginalText": "照準を強化するアタッチパーツ。\nサークル状の強化型\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "조준을 강화하는 어태치 파츠다.\n원형의 강화형\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140191": {
     "OriginalText": "照準を強化するアタッチパーツ。\nサークル状の基礎的な\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "조준을 강화하는 어태치 파츠다.\n원형의 기본적인\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140192": {
     "OriginalText": "照準を強化するアタッチパーツ。\nサークル状の強化型\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "조준을 강화하는 어태치 파츠다.\n원형의 강화형\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140193": {
     "OriginalText": "照準を強化するアタッチパーツ。\n長距離スコープ状の基礎的なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "조준을 강화하는 어태치 파츠다.\n장거리 스코프 형태의 기본 모델.",
+    "Enabled": true
   },
   "140194": {
     "OriginalText": "照準を強化するアタッチパーツ。\n長距離スコープ状の強化型モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "조준을 강화하는 어태치 파츠다.\n장거리 스코프 형태의 강화형 모델.",
+    "Enabled": true
   },
   "140195": {
     "OriginalText": "照準を強化するアタッチパーツ。\n長距離スコープ状の基礎的な\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "조준을 강화하는 어태치 파츠다.\n장거리 스코프 형태의 기본적인\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140196": {
     "OriginalText": "照準を強化するアタッチパーツ。\n長距離スコープ状の強化型\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "조준을 강화하는 어태치 파츠다.\n장거리 스코프 형태의 강화형\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140197": {
     "OriginalText": "照準を強化するアタッチパーツ。\n長距離スコープ状の基礎的な\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "조준을 강화하는 어태치 파츠다.\n장거리 스코프 형태의 기본적인\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140198": {
     "OriginalText": "照準を強化するアタッチパーツ。\n長距離スコープ状の強化型\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "조준을 강화하는 어태치 파츠다.\n장거리 스코프 형태의 강화형\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140199": {
     "OriginalText": "照準を強化するアタッチパーツ。\n短距離スコープ状の基礎的なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "조준을 강화하는 어태치 파츠다.\n단거리 스코프 형태의 기본 모델.",
+    "Enabled": true
   },
   "140200": {
     "OriginalText": "照準を強化するアタッチパーツ。\n短距離スコープ状の強化型モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "조준을 강화하는 어태치 파츠다.\n단거리 스코프 형태의 강화형 모델.",
+    "Enabled": true
   },
   "140201": {
     "OriginalText": "照準を強化するアタッチパーツ。\n短距離スコープ状の基礎的な\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "조준을 강화하는 어태치 파츠다.\n단거리 스코프 형태의 기본적인\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140202": {
     "OriginalText": "照準を強化するアタッチパーツ。\n短距離スコープ状の強化型\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "조준을 강화하는 어태치 파츠다.\n단거리 스코프 형태의 강화형\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140203": {
     "OriginalText": "照準を強化するアタッチパーツ。\n短距離スコープ状の基礎的な\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "조준을 강화하는 어태치 파츠다.\n단거리 스코프 형태의 기본적인\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140204": {
     "OriginalText": "照準を強化するアタッチパーツ。\n短距離スコープ状の強化型\nカスタマイズモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "조준을 강화하는 어태치 파츠다.\n단거리 스코프 형태의 강화형\n커스터마이즈 모델.",
+    "Enabled": true
   },
   "140205": {
     "OriginalText": "炎の輝きを秘めるアタッチパーツ\n宝石形状の基礎的なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "불의 빛을 품은 어태치 파츠다.\n보석 형태의 기본 모델.",
+    "Enabled": true
   },
   "140206": {
     "OriginalText": "炎の輝きを秘めるアタッチパーツ\n宝石形状の１段階強化されたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "불의 빛을 품은 어태치 파츠다.\n1단계 강화된 보석 형태의 모델.",
+    "Enabled": true
   },
   "140207": {
     "OriginalText": "炎の輝きを秘めるアタッチパーツ\n宝石形状の２段階強化されたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "불의 빛을 품은 어태치 파츠다.\n2단계 강화된 보석 형태의 모델.",
+    "Enabled": true
   },
   "140208": {
     "OriginalText": "劇の輝きを秘めるアタッチパーツ\n宝石形状の基礎的なモデル。",
-    "Text": "",
+    "Text": "얼음의 빛을 품은 어태치 파츠다.\n보석 형태의 기본 모델.",
     "Enabled": false
   },
   "140209": {
     "OriginalText": "劇の輝きを秘めるアタッチパーツ\n宝石形状の１段階強化されたモデル。",
-    "Text": "",
+    "Text": "얼음의 빛을 품은 어태치 파츠다.\n1단계 강화된 보석 형태의 모델.",
     "Enabled": false
   },
   "140210": {
     "OriginalText": "劇の輝きを秘めるアタッチパーツ\n宝石形状の２段階強化されたモデル。",
-    "Text": "",
+    "Text": "얼음의 빛을 품은 어태치 파츠다.\n2단계 강화된 보석 형태의 모델.",
     "Enabled": false
   },
   "140211": {
     "OriginalText": "雷の輝きを秘めるアタッチパーツ\n宝石形状の基礎的なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "번개의 빛을 품은 어태치 파츠다.\n보석 형태의 기본 모델.",
+    "Enabled": true
   },
   "140212": {
     "OriginalText": "雷の輝きを秘めるアタッチパーツ\n宝石形状の１段階強化されたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "번개의 빛을 품은 어태치 파츠다.\n1단계 강화된 보석 형태의 모델.",
+    "Enabled": true
   },
   "140213": {
     "OriginalText": "雷の輝きを秘めるアタッチパーツ\n宝石形状の２段階強化されたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "번개의 빛을 품은 어태치 파츠다.\n2단계 강화된 보석 형태의 모델.",
+    "Enabled": true
   },
   "140214": {
     "OriginalText": "風の輝きを秘めるアタッチパーツ\n宝石形状の基礎的なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "바람의 빛을 품은 어태치 파츠다.\n보석 형태의 기본 모델.",
+    "Enabled": true
   },
   "140215": {
     "OriginalText": "風の輝きを秘めるアタッチパーツ\n宝石形状の１段階強化されたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "바람의 빛을 품은 어태치 파츠다.\n1단계 강화된 보석 형태의 모델.",
+    "Enabled": true
   },
   "140216": {
     "OriginalText": "風の輝きを秘めるアタッチパーツ\n宝石形状の２段階強化されたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "바람의 빛을 품은 어태치 파츠다.\n2단계 강화된 보석 형태의 모델.",
+    "Enabled": true
   },
   "140217": {
     "OriginalText": "光の輝きを秘めるアタッチパーツ\n宝石形状の基礎的なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "찬란한 빛을 품은 어태치 파츠다.\n보석 형태의 기본 모델.",
+    "Enabled": true
   },
   "140218": {
     "OriginalText": "光の輝きを秘めるアタッチパーツ\n宝石形状の１段階強化されたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "찬란한 빛을 품은 어태치 파츠다.\n1단계 강화된 보석 형태의 모델.",
+    "Enabled": true
   },
   "140219": {
     "OriginalText": "光の輝きを秘めるアタッチパーツ\n宝石形状の２段階強化されたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "찬란한 빛을 품은 어태치 파츠다.\n2단계 강화된 보석 형태의 모델.",
+    "Enabled": true
   },
   "140220": {
     "OriginalText": "深い闇を秘めるアタッチパーツ\n宝石形状の基礎的なモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "깊은 어둠을 품은 어태치 파츠다.\n보석 형태의 기본 모델.",
+    "Enabled": true
   },
   "140221": {
     "OriginalText": "深い闇を秘めるアタッチパーツ\n宝石形状の１段階強化されたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "깊은 어둠을 품은 어태치 파츠다.\n1단계 강화된 보석 형태의 모델.",
+    "Enabled": true
   },
   "140222": {
     "OriginalText": "深い闇を秘めるアタッチパーツ\n宝石形状の２段階強化されたモデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "깊은 어둠을 품은 어태치 파츠다.\n2단계 강화된 보석 형태의 모델.",
+    "Enabled": true
   },
   "140223": {
     "OriginalText": "華やかな火炎表現を付ける\nアタッチパーツ。\n[a 03]エフェクト系アタッチパーツの表示は\n１つのみ（他はステルスになる）[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "화려한 화염 연출을 더하는\n어태치 파츠다.\n[a 03]이펙트 계열 어태치 파츠는\n1개만 표시된다. (나머지는 숨김)[b]",
+    "Enabled": true
   },
   "140224": {
     "OriginalText": "撃しい電撃が迸る表現をつける\nアタッチパーツ。\n[a 03]エフェクト系アタッチパーツの表示は\n１つのみ（他はステルスになる）[b]",
-    "Text": "",
+    "Text": "격렬한 전격이 뻗어나가는 연출을 더하는\n어태치 파츠다.\n[a 03]이펙트 계열 어태치 파츠는\n1개만 표시된다. (나머지는 숨김)[b]",
     "Enabled": false
   },
   "140225": {
     "OriginalText": "鋭い氷気が溢れる表現をつける\nアタッチパーツ。\n[a 03]エフェクト系アタッチパーツの表示は\n１つのみ（他はステルスになる）[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "날카로운 냉기가 넘치는 연출을 더하는\n어태치 파츠다.\n[a 03]이펙트 계열 어태치 파츠는\n1개만 표시된다. (나머지는 숨김)[b]",
+    "Enabled": true
   },
   "140226": {
     "OriginalText": "砂が舞い散る表現をつける\nアタッチパーツ。\n[a 03]エフェクト系アタッチパーツの表示は\n１つのみ（他はステルスになる）[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "모래가 흩날리는 연출을 더하는\n어태치 파츠다.\n[a 03]이펙트 계열 어태치 파츠는\n1개만 표시된다. (나머지는 숨김)[b]",
+    "Enabled": true
   },
   "140227": {
     "OriginalText": "煌めきが舞う表現をつける\nアタッチパーツ。\n[a 03]エフェクト系アタッチパーツの表示は\n１つのみ（他はステルスになる）[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "반짝이는 빛이 춤추는 연출을 더하는\n어태치 파츠다.\n[a 03]이펙트 계열 어태치 파츠는\n1개만 표시된다. (나머지는 숨김)[b]",
+    "Enabled": true
   },
   "140228": {
     "OriginalText": "暗い霧が覆う表現をつける\nアタッチパーツ。\n[a 03]エフェクト系アタッチパーツの表示は\n１つのみ（他はステルスになる）[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "어두운 안개가 뒤덮는 연출을 더하는\n어태치 파츠다.\n[a 03]이펙트 계열 어태치 파츠는\n1개만 표시된다. (나머지는 숨김)[b]",
+    "Enabled": true
   },
   "140229": {
     "OriginalText": "ラッピーの羽が舞う表現をつける\nアタッチパーツ。\n[a 03]エフェクト系アタッチパーツの表示は\n１つのみ（他はステルスになる）[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "랍피의 깃털이 흩날리는 연출을 더하는\n어태치 파츠다.\n[a 03]이펙트 계열 어태치 파츠는\n1개만 표시된다. (나머지는 숨김)[b]",
+    "Enabled": true
   },
   "140230": {
     "OriginalText": "武器に清き白い羽が舞う表現をつける\nビジュアル派向けアタッチパーツ。\n[a 03]エフェクト系アタッチパーツの表示は\n１つのみ（他はステルスになる）[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기에 깨끗한 흰 깃털이 흩날리는 연출을 더하는\n외관 중시파를 위한 어태치 파츠다.\n[a 03]이펙트 계열 어태치 파츠는\n1개만 표시된다. (나머지는 숨김)[b]",
+    "Enabled": true
   },
   "140231": {
     "OriginalText": "若葉が舞い新緑のさわやか表現をつける\n草食派向けアタッチパーツ。\n[a 03]エフェクト系アタッチパーツの表示は\n１つのみ（他はステルスになる）[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "새잎이 흩날리는 산뜻한 신록 연출을 더하는\n초식파를 위한 어태치 파츠다.\n[a 03]이펙트 계열 어태치 파츠는\n1개만 표시된다. (나머지는 숨김)[b]",
+    "Enabled": true
   },
   "140232": {
     "OriginalText": "エネルギーが充填される\n表現をつけるアタッチパーツ。\n[a 03]エフェクト系アタッチパーツの表示は\n１つのみ（他はステルスになる）[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "에너지가 충전되는\n연출을 더하는 어태치 파츠다.\n[a 03]이펙트 계열 어태치 파츠는\n1개만 표시된다. (나머지는 숨김)[b]",
+    "Enabled": true
   },
   "140233": {
     "OriginalText": "花が舞い春を感じる表現をつける\n乙女派向けアタッチパーツ。\n[a 03]エフェクト系アタッチパーツの表示は\n１つのみ（他はステルスになる）[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "꽃이 흩날려 봄을 느끼게 하는 연출을 더하는\n소녀 취향의 어태치 파츠다.\n[a 03]이펙트 계열 어태치 파츠는\n1개만 표시된다. (나머지는 숨김)[b]",
+    "Enabled": true
   },
   "140234": {
     "OriginalText": "破片が舞いワイルド感覚の表現を\nつける暑苦しいアタッチパーツ。\n[a 03]エフェクト系アタッチパーツの表示は\n１つのみ（他はステルスになる）[b]",
-    "Text": "",
-    "Enabled": false
+    "Text": "파편이 흩날리는 와일드한 연출을 더하는\n덥고 답답한 느낌을 주는 어태치 파츠다.\n[a 03]이펙트 계열 어태치 파츠는\n1개만 표시된다. (나머지는 숨김)[b]",
+    "Enabled": true
   },
   "140235": {
     "OriginalText": "炎の輝きを秘めるアタッチパーツ。\n宝石形状の最大強化モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "불의 빛을 품은 어태치 파츠다.\n보석 형태의 최대 강화 모델.",
+    "Enabled": true
   },
   "140236": {
     "OriginalText": "劇の輝きを秘めるアタッチパーツ。\n宝石形状の最大強化モデル。",
-    "Text": "",
+    "Text": "얼음의 빛을 품은 어태치 파츠다.\n보석 형태의 최대 강화 모델.",
     "Enabled": false
   },
   "140237": {
     "OriginalText": "雷の輝きを秘めるアタッチパーツ。\n宝石形状の最大強化モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "번개의 빛을 품은 어태치 파츠다.\n보석 형태의 최대 강화 모델.",
+    "Enabled": true
   },
   "140238": {
     "OriginalText": "風の輝きを秘めるアタッチパーツ。\n宝石形状の最大強化モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "바람의 빛을 품은 어태치 파츠다.\n보석 형태의 최대 강화 모델.",
+    "Enabled": true
   },
   "140239": {
     "OriginalText": "光の輝きを秘めるアタッチパーツ。\n宝石形状の最大強化モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "찬란한 빛을 품은 어태치 파츠다.\n보석 형태의 최대 강화 모델.",
+    "Enabled": true
   },
   "140240": {
     "OriginalText": "深い闇を秘めるアタッチパーツ。\n宝石形状の最大強化モデル。",
-    "Text": "",
-    "Enabled": false
+    "Text": "깊은 어둠을 품은 어태치 파츠다.\n보석 형태의 최대 강화 모델.",
+    "Enabled": true
   },
   "140241": {
     "OriginalText": "デルタ・ヴァリアントの氷蔵庫奥深くに\n放置されていた野菜を焼いた洋。\n塩・たれ・味噌など色んな味付けがある。",
-    "Text": "",
+    "Text": "델타 발리언트 냉장고 깊숙이\n방치된 채소를 구운 것.\n소금, 소스, 된장 등 다양한 양념 맛이 있다.",
     "Enabled": false
   },
   "140242": {
     "OriginalText": "デルタ・ヴァリアントの氷蔵庫奥深くに\n隠されていたお肉を焼いた洋。味付けは\nシンプルに塩。ネギと一緒に食すと美味しい。",
-    "Text": "",
+    "Text": "델타 발리언트 냉장고 깊숙이\n숨겨둔 고기를 구운 것. 양념은 간단히 소금.\n파와 함께 먹으면 맛있다.",
     "Enabled": false
   },
   "140243": {
     "OriginalText": "いつのまにかポケットの中に入っていたもの。\n他にも片割れがありそうだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "어느새 주머니 안에 들어 있던 물건.\n다른 조각도 있을 것 같다.",
+    "Enabled": true
   },
   "140244": {
     "OriginalText": "戦艦内に落ちていたもの。\n１文字だけではないと思う。",
-    "Text": "",
-    "Enabled": false
+    "Text": "전함 안에 떨어져 있던 물건.\n글자가 1개뿐인 것은 아닌 듯하다.",
+    "Enabled": true
   },
   "140245": {
     "OriginalText": "拠点キャンプ内で拾ったもの。\n着陸の際に船外から放り出されたのであろう。\n他にもありそうだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "거점 캠프 안에서 주운 물건.\n착륙할 때 함선 외부에서 튕겨 나온 모양이다.\n다른 것도 있을 것 같다.",
+    "Enabled": true
   },
   "140246": {
     "OriginalText": "クエストゲートに引っかかっていたもの。\nちょっと汚れていたけど気にしない。\n何となく締めにふさわしい文字に感じる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "퀘스트 게이트에 걸려 있던 물건.\n조금 더러웠지만 신경 쓰지 않는다.\n왠지 마무리에 어울리는 글자처럼 느껴진다.",
+    "Enabled": true
   },
   "140247": {
     "OriginalText": "ぷよぷよしていそうなおもちゃ。\nコールドスリープのカプセルの中に入っていた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "말랑말랑할 것 같은 장난감.\n콜드 슬립 캡슐 안에 들어 있었다.",
+    "Enabled": true
   },
   "140248": {
     "OriginalText": "ぷよぷよしていそうなおもちゃ。\n濯の間に狭まれていた。",
-    "Text": "",
+    "Text": "말랑말랑할 것 같은 장난감.\n목욕탕 틈새에 끼어 있었다.",
     "Enabled": false
   },
   "140249": {
     "OriginalText": "ぷよぷよしていそうなおもちゃ。\nボールと間違って拾った。",
-    "Text": "",
-    "Enabled": false
+    "Text": "말랑말랑할 것 같은 장난감.\n공인 줄 알고 주웠다.",
+    "Enabled": true
   },
   "140250": {
     "OriginalText": "ぷよぷよしていそうなおもちゃ。\n部屋の隅に落ちていた。",
-    "Text": "",
-    "Enabled": false
+    "Text": "말랑말랑할 것 같은 장난감.\n방구석에 떨어져 있었다.",
+    "Enabled": true
   },
   "140251": {
     "OriginalText": "ぷよぷよしていそうなおもちゃ。\n触りごこちが今にも消えそうな位に柔らかい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "말랑말랑할 것 같은 장난감.\n금방이라도 사라질 듯할 만큼 촉감이 부드럽다.",
+    "Enabled": true
   },
   "140252": {
     "OriginalText": "黄金のリング。\nいっぱい集めたくなる不思議な輝きがある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "황금 링.\n잔뜩 모으고 싶어지는 신비로운 빛을 낸다.",
+    "Enabled": true
   }
 }

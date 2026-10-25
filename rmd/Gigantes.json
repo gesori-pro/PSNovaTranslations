@@ -1,177 +1,162 @@
 {
-  "670000": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
   "670001": {
     "OriginalText": "アグリオス",
-    "Text": "Agrios",
+    "Text": "아그리오스",
     "Enabled": true
   },
   "670002": {
     "OriginalText": "グレイオス",
-    "Text": "Greios",
+    "Text": "그레이오스",
     "Enabled": true
   },
   "670003": {
     "OriginalText": "アルテイオス",
-    "Text": "Alteios",
+    "Text": "알테이오스",
     "Enabled": true
   },
   "670004": {
     "OriginalText": "ガラティオン",
-    "Text": "Garation",
+    "Text": "갈라티온",
     "Enabled": true
   },
   "670005": {
     "OriginalText": "ギガティオン",
-    "Text": "Gigation",
+    "Text": "기가티온",
     "Enabled": true
   },
   "670006": {
     "OriginalText": "グラヴディオン",
-    "Text": "Gravdion",
+    "Text": "그라브디온",
     "Enabled": true
   },
   "670007": {
     "OriginalText": "エウリュード",
-    "Text": "Eurude",
+    "Text": "에우류드",
     "Enabled": true
   },
   "670008": {
     "OriginalText": "ヴィヴリュード",
-    "Text": "Vivryude",
+    "Text": "비브류드",
     "Enabled": true
   },
   "670009": {
     "OriginalText": "アルキュオネ",
-    "Text": "Alcyone",
+    "Text": "알키오네",
     "Enabled": true
   },
   "670010": {
     "OriginalText": "デェフキュオネ",
-    "Text": "Defcyone",
+    "Text": "데프큐오네",
     "Enabled": true
-  },
-  "680000": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
   },
   "680001": {
     "OriginalText": "アグリカノーネ",
-    "Text": "Agri Cannon",
+    "Text": "아그리카노네",
     "Enabled": true
   },
   "680002": {
     "OriginalText": "エウルスタンプ",
-    "Text": "Eur Stomp",
+    "Text": "에우르스탬프",
     "Enabled": true
   },
   "680003": {
     "OriginalText": "ガラテエーレ",
-    "Text": "Garati Aere",
+    "Text": "갈라테에레",
     "Enabled": true
   },
   "680004": {
     "OriginalText": "アルキインフェアノ",
-    "Text": "Alcy Inferno",
+    "Text": "알키인페아노",
     "Enabled": true
   },
   "680005": {
     "OriginalText": "グレイホルン",
-    "Text": "Grei Horn",
+    "Text": "그레이호른",
     "Enabled": true
   },
   "680006": {
     "OriginalText": "ヴィヴシュラック",
-    "Text": "Viv Shrack",
+    "Text": "비브슐라크",
     "Enabled": true
   },
   "680007": {
     "OriginalText": "ギガテシュトルム",
-    "Text": "Gigati Storm",
+    "Text": "기가테슈투름",
     "Enabled": true
   },
   "680008": {
     "OriginalText": "デェフヴォルカン",
-    "Text": "Def Vulcan",
+    "Text": "데프볼칸",
     "Enabled": true
   },
   "680009": {
     "OriginalText": "アルトカノーネ",
-    "Text": "Alt Cannon",
+    "Text": "알토카노네",
     "Enabled": true
   },
   "680010": {
     "OriginalText": "グラヴシュトルム",
-    "Text": "Grav Storm",
+    "Text": "그라브슈투름",
     "Enabled": true
   },
   "680011": {
     "OriginalText": "イグニッション",
-    "Text": "Ignition",
+    "Text": "이그니션",
     "Enabled": true
-  },
-  "690000": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
   },
   "690001": {
     "OriginalText": "上空に発射したアグリオスの主砲が\n広範囲に降り注ぎ、散開する敵に\n中規物のダメージを与える。",
-    "Text": "Agrios fires its main guns into the sky,\ndoing moderate damage to all enemies in\na wide area.",
-    "Enabled": true
+    "Text": "상공으로 발사한 아그리오스의 주포가\n넓은 범위에 쏟아져 흩어진 적에게\n중간 정도의 데미지를 준다.",
+    "Enabled": false
   },
   "690002": {
     "OriginalText": "践直に賜ね飛ぶエウリュードが着地時に\n衝撃波を発し、周囲の敵をなぎ払い\n大ダメージを与える。",
-    "Text": "Eurude jumps into the air. When hitting\nthe ground, it emits a shockwave that\ngreatly damages enemies.",
-    "Enabled": true
+    "Text": "수직으로 뛰어오른 에우류드가 착지할 때\n충격파로 주변의 적을 쓸어버리고\n큰 데미지를 준다.",
+    "Enabled": false
   },
   "690003": {
     "OriginalText": "ガラティオンからエネルギーが放射され、\n仲間全体に蘇生・HP・状態異常回復と\nパワーアップをもたらす。",
-    "Text": "Garation appears and radiates energy\nwhich heals, revives and powers up the\nentire party.",
+    "Text": "갈라티온이 에너지를 방출하여 모든 동료에게\n소생, HP 회복, 상태이상 회복과\n능력 강화 효과를 준다.",
     "Enabled": true
   },
   "690004": {
     "OriginalText": "アルキュオネの触腕から正面方向に\n特大の火炎弾を発射し、\n標的に大ダメージを与える。",
-    "Text": "Alcyone launches a large fireball in\nfront of it with its tentacles, dealing\na great deal of damage to all targets.",
+    "Text": "알키오네의 촉수에서 정면으로\n특대 화염탄을 발사하여\n표적에 큰 데미지를 준다.",
     "Enabled": true
   },
   "690005": {
     "OriginalText": "グレイオスが前足にため込んだ\n力を周囲に放電させて広い範囲に\n余波攻撃を与える。",
-    "Text": "Greios discharges a shockwave from its\nfront legs, dealing damage to all\nenemies within a wide area.",
+    "Text": "그레이오스가 앞발에 모은 힘을\n주변에 방전하여 넓은 범위에\n여파 공격을 가한다.",
     "Enabled": true
   },
   "690006": {
     "OriginalText": "ヴィヴリュードが両足で上空に\n向かって、多弾頭ミサイルを発射し\n全方位に攻撃する。",
-    "Text": "Vivryude points its guns into the sky,\nfiring multiple missiles in all\ndirections to damage nearby enemies.",
+    "Text": "비브류드가 양발에서 상공을 향해\n다탄두 미사일을 발사하여\n모든 방향을 공격한다.",
     "Enabled": true
   },
   "690007": {
     "OriginalText": "ギガティオンが翼の１０本の\nチェーンソーを大きく振り上げ、\n周辺の敵を切り裂く。",
-    "Text": "Gigation swings its 10 wing chainsaws and\ntears all the enemies around.",
+    "Text": "기가티온이 날개의 체인소 10개를\n크게 치켜들어\n주변의 적을 베어 가른다.",
     "Enabled": true
   },
   "690008": {
     "OriginalText": "デェフキュオネが回転しながら\n周囲に縞幕弾を投下させ、\n敵をブラインド状態にする。",
-    "Text": "Defcyone spins and drops a barrage,\ngiving blind status to the enemies.",
-    "Enabled": true
+    "Text": "데프큐오네가 회전하면서\n주변에 연막탄을 투하하여\n적을 블라인드 상태로 만든다.",
+    "Enabled": false
   },
   "690009": {
     "OriginalText": "上空に発射したアルテイオスの主砲が\n広範囲に降り注ぎ、周辺のエネミーに\n中規物のダメージを与える。",
-    "Text": "Alteios fires its main weapons to the\nsky and pours in a wide area, damaging\nall the enemies around.",
-    "Enabled": true
+    "Text": "상공으로 발사한 알테이오스의 주포가\n넓은 범위에 쏟아져 주변의 에너미에게\n중간 정도의 데미지를 준다.",
+    "Enabled": false
   },
   "690010": {
     "OriginalText": "グラヴディオンが翼の１０本の\nチェーンソーを大きく振り上げ、\n周辺の敵を切り裂く。",
-    "Text": "Gravdion swings its 10 wing chainsaws and\ntears all the enemies around.",
+    "Text": "그라브디온이 날개의 체인소 10개를\n크게 치켜들어\n주변의 적을 베어 가른다.",
     "Enabled": true
   },
   "690011": {
     "OriginalText": "刺した杭を爆発させて、ギガンテスと\nグランリンクするためのスキル。\n杭の数が多いほど大ダメージを与えられる。",
-    "Text": "Detonates Piles attached to Gigantes and\nperforms a Gran Link. More attached\nPiles will deal more damage.",
+    "Text": "박아 넣은 말뚝을 폭발시켜 기간테스와\n그란 링크하기 위한 스킬.\n말뚝이 많을수록 더 큰 데미지를 준다.",
     "Enabled": true
   }
 }

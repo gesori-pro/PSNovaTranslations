@@ -1,4712 +1,4697 @@
 {
-  "30000": {
-    "OriginalText": "---",
-    "Text": "",
-    "Enabled": false
-  },
   "30001": {
     "OriginalText": "ルティナ",
-    "Text": "Lutina",
+    "Text": "루티나",
     "Enabled": true
   },
   "30002": {
     "OriginalText": "セイル",
-    "Text": "Sail",
+    "Text": "세일",
     "Enabled": true
   },
   "30003": {
     "OriginalText": "イズナ",
-    "Text": "Izuna",
+    "Text": "이즈나",
     "Enabled": true
   },
   "30004": {
     "OriginalText": "フィルディア",
-    "Text": "Fildia",
+    "Text": "필디아",
     "Enabled": true
   },
   "30005": {
     "OriginalText": "レイヴァン",
-    "Text": "Raven",
+    "Text": "레이반",
     "Enabled": true
   },
   "30006": {
     "OriginalText": "カリスト",
-    "Text": "Callisto",
+    "Text": "칼리스토",
     "Enabled": true
   },
   "30007": {
     "OriginalText": "キサラ",
-    "Text": "Kisara",
+    "Text": "키사라",
     "Enabled": true
   },
   "30008": {
     "OriginalText": "リーティア",
-    "Text": "Rietheia",
+    "Text": "리티아",
     "Enabled": true
   },
   "30009": {
     "OriginalText": "ヨミ",
-    "Text": "Yomi",
+    "Text": "요미",
     "Enabled": true
   },
   "30010": {
     "OriginalText": "オルクス",
-    "Text": "Orcus",
+    "Text": "오르쿠스",
     "Enabled": true
   },
   "30011": {
     "OriginalText": "ヒュペリオン",
-    "Text": "Hyperion",
+    "Text": "히페리온",
     "Enabled": true
   },
   "30012": {
     "OriginalText": "シャロン",
-    "Text": "Sharon",
+    "Text": "샤론",
     "Enabled": true
   },
   "30013": {
     "OriginalText": "ユノ",
-    "Text": "Juno",
+    "Text": "유노",
     "Enabled": true
   },
   "30014": {
     "OriginalText": "マグナス",
-    "Text": "Magnus",
+    "Text": "마그너스",
     "Enabled": true
   },
   "30019": {
     "OriginalText": "？？？",
-    "Text": "",
-    "Enabled": false
+    "Text": "???",
+    "Enabled": true
   },
   "30020": {
     "OriginalText": "一同",
-    "Text": "Everyone",
+    "Text": "일동",
     "Enabled": true
   },
   "30022": {
     "OriginalText": "ルティナ＆セイル",
-    "Text": "Lutina ＆ Sail",
+    "Text": "루티나 & 세일",
     "Enabled": true
   },
   "30030": {
     "OriginalText": "ガーネット",
-    "Text": "Garnet",
+    "Text": "가넷",
     "Enabled": true
   },
   "30031": {
     "OriginalText": "サンシャウト",
-    "Text": "Sunshout",
+    "Text": "선샤우트",
     "Enabled": true
   },
   "30032": {
     "OriginalText": "グラバー",
-    "Text": "Glover",
+    "Text": "그라버",
     "Enabled": true
   },
   "30033": {
     "OriginalText": "コウエン",
-    "Text": "Cohen",
+    "Text": "코우엔",
     "Enabled": true
   },
   "30034": {
     "OriginalText": "ズック",
-    "Text": "Zukku",
+    "Text": "즈크",
     "Enabled": true
   },
   "30050": {
     "OriginalText": "ブリッジクルー",
-    "Text": "Bridge Crew",
+    "Text": "브리지 승무원",
     "Enabled": true
   },
   "30051": {
     "OriginalText": "先遣隊員",
-    "Text": "Advanced Personnel",
+    "Text": "선발대원",
     "Enabled": true
   },
   "30052": {
     "OriginalText": "男兵土Ａ",
-    "Text": "Soldier A",
-    "Enabled": true
+    "Text": "남자 병사 A",
+    "Enabled": false
   },
   "30053": {
     "OriginalText": "男兵土Ｂ",
-    "Text": "Soldier B",
-    "Enabled": true
+    "Text": "남자 병사 B",
+    "Enabled": false
   },
   "30054": {
     "OriginalText": "男兵土Ｃ",
-    "Text": "Soldier C",
-    "Enabled": true
+    "Text": "남자 병사 C",
+    "Enabled": false
   },
   "30055": {
     "OriginalText": "男兵土Ｄ",
-    "Text": "Soldier D",
-    "Enabled": true
+    "Text": "남자 병사 D",
+    "Enabled": false
   },
   "30056": {
     "OriginalText": "男兵土Ｅ",
-    "Text": "Soldier E",
-    "Enabled": true
+    "Text": "남자 병사 E",
+    "Enabled": false
   },
   "30057": {
     "OriginalText": "女兵土Ａ",
-    "Text": "Soldier F",
-    "Enabled": true
+    "Text": "여자 병사 A",
+    "Enabled": false
   },
   "30058": {
     "OriginalText": "女兵土Ｂ",
-    "Text": "Soldier G",
-    "Enabled": true
+    "Text": "여자 병사 B",
+    "Enabled": false
   },
   "30059": {
     "OriginalText": "古代人の意志",
-    "Text": "Will of The Ancients",
+    "Text": "고대인의 의지",
     "Enabled": true
   },
   "30060": {
     "OriginalText": "ノヴァ",
-    "Text": "Nova",
+    "Text": "노바",
     "Enabled": true
   },
   "30061": {
     "OriginalText": "通信土",
-    "Text": "Comms. Sat",
-    "Enabled": true
+    "Text": "통신사",
+    "Enabled": false
   },
   "35166": {
     "OriginalText": "リョーマ",
-    "Text": "Ryoma",
+    "Text": "료마",
     "Enabled": true
   },
   "35167": {
     "OriginalText": "イルゲート",
-    "Text": "Illgate",
+    "Text": "일게이트",
     "Enabled": true
   },
   "35168": {
     "OriginalText": "ブラック",
-    "Text": "Black",
+    "Text": "블랙",
     "Enabled": true
   },
   "35169": {
     "OriginalText": "ディーヴァス",
-    "Text": "Divas",
+    "Text": "디바스",
     "Enabled": true
   },
   "35170": {
     "OriginalText": "ディーヴァス",
-    "Text": "Divas",
+    "Text": "디바스",
     "Enabled": true
   },
   "35350": {
     "OriginalText": "レーヴァル",
-    "Text": "Rayvar",
+    "Text": "레발",
     "Enabled": true
   },
   "35351": {
     "OriginalText": "アーシェル",
-    "Text": "Ashelle",
+    "Text": "아셸",
     "Enabled": true
   },
   "35353": {
     "OriginalText": "ディレッド",
-    "Text": "Diredd",
+    "Text": "디레드",
     "Enabled": true
   },
   "35354": {
     "OriginalText": "ヴァルメン",
-    "Text": "Varmen",
+    "Text": "발멘",
     "Enabled": true
   },
   "35499": {
     "OriginalText": "デスマスク",
-    "Text": "Death Mask",
+    "Text": "데스마스크",
     "Enabled": true
   },
   "35500": {
     "OriginalText": "セガエイギョーマン",
-    "Text": "Sega Eigyou Man",
+    "Text": "세가 영업맨",
     "Enabled": true
-  },
-  "35501": {
-    "OriginalText": "３Ｚー１０３",
-    "Text": "",
-    "Enabled": false
   },
   "35502": {
     "OriginalText": "ハルライン",
-    "Text": "Halline",
+    "Text": "하르라인",
     "Enabled": true
   },
   "35503": {
     "OriginalText": "セスバルド",
-    "Text": "Sethbard",
+    "Text": "세스발드",
     "Enabled": true
   },
   "35504": {
     "OriginalText": "シショウ",
-    "Text": "Shishou",
+    "Text": "시쇼",
     "Enabled": true
   },
   "35505": {
     "OriginalText": "ヒーベスト",
-    "Text": "Hibest",
+    "Text": "히베스트",
     "Enabled": true
   },
   "35665": {
     "OriginalText": "ファティ",
-    "Text": "Fatih",
+    "Text": "파티",
     "Enabled": true
   },
   "35666": {
     "OriginalText": "キャサリン",
-    "Text": "Catherine",
+    "Text": "캐서린",
     "Enabled": true
   },
   "35667": {
     "OriginalText": "ルーティ",
-    "Text": "Ruthie",
+    "Text": "루티",
     "Enabled": true
   },
   "35668": {
     "OriginalText": "ミリザ",
-    "Text": "Miriza",
+    "Text": "미리자",
     "Enabled": true
   },
   "35669": {
     "OriginalText": "リーア",
-    "Text": "Lea",
+    "Text": "리아",
     "Enabled": true
   },
   "35850": {
     "OriginalText": "でんげきエレナ",
-    "Text": "Dengeki Erena",
+    "Text": "전격 엘레나",
     "Enabled": true
   },
   "35851": {
     "OriginalText": "でんげきのおねえさん",
-    "Text": "Dengeki Sister",
+    "Text": "전격 언니",
     "Enabled": true
   },
   "35852": {
     "OriginalText": "ステラ",
-    "Text": "Stella",
+    "Text": "스텔라",
     "Enabled": true
   },
   "35853": {
     "OriginalText": "セイナ",
-    "Text": "Seina",
+    "Text": "세이나",
     "Enabled": true
   },
   "35854": {
     "OriginalText": "ターシャ",
-    "Text": "Tasha",
+    "Text": "타샤",
     "Enabled": true
   },
   "35855": {
     "OriginalText": "ラティス",
-    "Text": "Lattice",
+    "Text": "라티스",
     "Enabled": true
   },
   "35856": {
     "OriginalText": "リヴィ",
-    "Text": "Rivi",
+    "Text": "리비",
     "Enabled": true
   },
   "35857": {
     "OriginalText": "サリュー",
-    "Text": "Salyu",
+    "Text": "살류",
     "Enabled": true
   },
   "35858": {
     "OriginalText": "ネキコ",
-    "Text": "Nekiko",
+    "Text": "네키코",
     "Enabled": true
   },
   "35859": {
     "OriginalText": "ネキミ",
-    "Text": "Nekimi",
+    "Text": "네키미",
     "Enabled": true
   },
   "35999": {
     "OriginalText": "デンゲキばず～こ",
-    "Text": "Dengeki Bazooko",
+    "Text": "전격 바즈코",
     "Enabled": true
   },
   "36000": {
     "OriginalText": "スプリットコロナ",
-    "Text": "Spirit Corona",
+    "Text": "스플릿 코로나",
     "Enabled": true
   },
   "36001": {
     "OriginalText": "ティセリア",
-    "Text": "Tiseria",
+    "Text": "티세리아",
     "Enabled": true
   },
   "36003": {
     "OriginalText": "リューフィ",
-    "Text": "Ryufie",
+    "Text": "류피",
     "Enabled": true
   },
   "36004": {
     "OriginalText": "テニア",
-    "Text": "Taenia",
+    "Text": "테니아",
     "Enabled": true
   },
   "510000": {
     "OriginalText": "熱血倣",
-    "Text": "Hot-blooded Imitator",
+    "Text": "열혈한",
     "Enabled": true
   },
   "510028": {
     "OriginalText": "格闘系ガール",
-    "Text": "Battling Girl",
+    "Text": "격투계 소녀",
     "Enabled": true
   },
   "510029": {
     "OriginalText": "モノメイト男",
-    "Text": "Monomate Man",
+    "Text": "모노메이트 사나이",
     "Enabled": true
   },
   "510030": {
     "OriginalText": "知られる天才",
-    "Text": "Well Known Prodigy",
+    "Text": "알려진 천재",
     "Enabled": true
   },
   "510031": {
     "OriginalText": "暁紅の英雄",
-    "Text": "Hero of Gyoukou",
+    "Text": "효홍의 영웅",
     "Enabled": true
   },
   "510032": {
     "OriginalText": "あくなき研究者",
-    "Text": "Persistent Researcher",
+    "Text": "끝없이 탐구하는 연구자",
     "Enabled": true
   },
   "510033": {
     "OriginalText": "インカムの女神",
-    "Text": "Goddess of Income",
+    "Text": "헤드셋의 여신",
     "Enabled": true
   },
   "510034": {
     "OriginalText": "天然缶護娘",
-    "Text": "",
+    "Text": "천연 간호 소녀",
     "Enabled": false
   },
   "510035": {
     "OriginalText": "天才発明家",
-    "Text": "",
-    "Enabled": false
+    "Text": "천재 발명가",
+    "Enabled": true
   },
   "510036": {
     "OriginalText": "経歴不明のシェフ",
-    "Text": "Sketchy Chef",
+    "Text": "경력 불명의 셰프",
     "Enabled": true
   },
   "510037": {
     "OriginalText": "仕事が恋人",
-    "Text": "Lover For Hire",
+    "Text": "일이 연인",
     "Enabled": true
   },
   "510038": {
     "OriginalText": "生意気職人",
-    "Text": "Saucy Mechanic",
+    "Text": "건방진 장인",
     "Enabled": true
   },
   "510039": {
     "OriginalText": "歴戦の老兵",
-    "Text": "Old Soldier",
+    "Text": "역전의 노병",
     "Enabled": true
   },
   "510040": {
     "OriginalText": "命運託されし姫",
-    "Text": "",
-    "Enabled": false
+    "Text": "운명을 맡은 공주",
+    "Enabled": true
   },
   "510041": {
     "OriginalText": "時の旅人",
-    "Text": "Time Traveler",
+    "Text": "시간의 여행자",
     "Enabled": true
   },
   "510042": {
-    "OriginalText": "風の戦土",
-    "Text": "Warrior of Wind",
+    "OriginalText": "風の戦士",
+    "Text": "바람의 전사",
     "Enabled": true
   },
   "510043": {
     "OriginalText": "蒼い彗星",
-    "Text": "Blue Comet",
+    "Text": "푸른 혜성",
     "Enabled": true
   },
   "510044": {
     "OriginalText": "一匹狼",
-    "Text": "Lone Wolf",
+    "Text": "외로운 늑대",
     "Enabled": true
   },
   "510045": {
     "OriginalText": "お風呂好き",
-    "Text": "Loves Baths",
+    "Text": "목욕 애호가",
     "Enabled": true
   },
   "510046": {
     "OriginalText": "用心棒",
-    "Text": "Bodyguard",
+    "Text": "경호원",
     "Enabled": true
   },
   "510047": {
     "OriginalText": "ナイスミドル",
-    "Text": "Attractive Man",
+    "Text": "멋진 중년",
     "Enabled": true
   },
   "510048": {
     "OriginalText": "悲源のヒロイン",
-    "Text": "Heroine of Grief",
-    "Enabled": true
+    "Text": "비극의 히로인",
+    "Enabled": false
   },
   "510049": {
     "OriginalText": "狐独のヒーロー",
-    "Text": "Lonesome Hero",
-    "Enabled": true
+    "Text": "고독한 히어로",
+    "Enabled": false
   },
   "510050": {
     "OriginalText": "とっちゃん坊や",
-    "Text": "Daddy's Boy",
+    "Text": "어른아이",
     "Enabled": true
   },
   "510051": {
     "OriginalText": "チョビひげ",
-    "Text": "Small Mustache",
+    "Text": "작은 콧수염",
     "Enabled": true
   },
   "510052": {
     "OriginalText": "メガネ",
-    "Text": "Glasses",
+    "Text": "안경",
     "Enabled": true
   },
   "510053": {
     "OriginalText": "社長",
-    "Text": "Manager",
+    "Text": "사장",
     "Enabled": true
   },
   "510054": {
     "OriginalText": "マシュマロ",
-    "Text": "Marshmallow",
+    "Text": "마시멜로",
     "Enabled": true
   },
   "510055": {
     "OriginalText": "ピザ",
-    "Text": "Pizza",
+    "Text": "피자",
     "Enabled": true
   },
   "510056": {
     "OriginalText": "ジャンボ",
-    "Text": "Jumbo",
+    "Text": "점보",
     "Enabled": true
   },
   "510057": {
     "OriginalText": "リーダー",
-    "Text": "Leader",
+    "Text": "리더",
     "Enabled": true
   },
   "510058": {
     "OriginalText": "サブリーダー",
-    "Text": "Vice Leader",
+    "Text": "부리더",
     "Enabled": true
   },
   "510059": {
     "OriginalText": "チームリーダー",
-    "Text": "Team Leader",
+    "Text": "팀 리더",
     "Enabled": true
   },
   "510060": {
     "OriginalText": "あばれんぼう",
-    "Text": "Wild Child",
+    "Text": "난폭함",
     "Enabled": true
   },
   "510061": {
     "OriginalText": "ベジタリアン",
-    "Text": "Vegetarian",
+    "Text": "채식주의자",
     "Enabled": true
   },
   "510062": {
     "OriginalText": "女たらし",
-    "Text": "Lady-killer",
+    "Text": "바람둥이",
     "Enabled": true
   },
   "510063": {
     "OriginalText": "そっくりさん",
-    "Text": "Look-alike",
+    "Text": "닮은꼴",
     "Enabled": true
   },
   "510064": {
     "OriginalText": "大富豪",
-    "Text": "Multi-millionaire",
+    "Text": "대부호",
     "Enabled": true
   },
   "510065": {
     "OriginalText": "ボンボン",
-    "Text": "Bonbon",
+    "Text": "부잣집 도련님",
     "Enabled": true
   },
   "510066": {
     "OriginalText": "プチブルジョワ",
-    "Text": "",
-    "Enabled": false
+    "Text": "소부르주아",
+    "Enabled": true
   },
   "510067": {
     "OriginalText": "貯金好き",
-    "Text": "Savings Lover",
+    "Text": "저축 애호가",
     "Enabled": true
   },
   "510068": {
     "OriginalText": "フィクサー",
-    "Text": "Fixer",
+    "Text": "막후 실력자",
     "Enabled": true
   },
   "510069": {
     "OriginalText": "叙父貴",
-    "Text": "",
+    "Text": "숙부님",
     "Enabled": false
   },
   "510070": {
     "OriginalText": "女将",
-    "Text": "Mistress",
+    "Text": "여주인",
     "Enabled": true
   },
   "510071": {
     "OriginalText": "王将",
-    "Text": "King",
+    "Text": "왕장",
     "Enabled": true
   },
   "510072": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "510073": {
     "OriginalText": "賞金稼ぎ",
-    "Text": "Bounty Hunter",
+    "Text": "현상금 사냥꾼",
     "Enabled": true
   },
   "510074": {
     "OriginalText": "フレッシュマン",
-    "Text": "Freshman",
+    "Text": "신입",
     "Enabled": true
   },
   "510075": {
     "OriginalText": "仕事大好き",
-    "Text": "Loves Work",
+    "Text": "일이 너무 좋아",
     "Enabled": true
   },
   "510076": {
     "OriginalText": "運動神経抜群",
-    "Text": "Outstanding Reflexes",
+    "Text": "운동 신경 발군",
     "Enabled": true
   },
   "510077": {
     "OriginalText": "子供好き",
-    "Text": "Likes Children",
+    "Text": "아이를 좋아함",
     "Enabled": true
   },
   "510078": {
     "OriginalText": "鉤り性",
-    "Text": "",
+    "Text": "몰두하는 성격",
     "Enabled": false
   },
   "510079": {
     "OriginalText": "タンクトップ",
-    "Text": "Tank Top",
+    "Text": "탱크톱",
     "Enabled": true
   },
   "510080": {
     "OriginalText": "バンダナ",
-    "Text": "Bandana",
+    "Text": "반다나",
     "Enabled": true
   },
   "510081": {
     "OriginalText": "肩パッド",
-    "Text": "Shoulder Pad",
+    "Text": "어깨 패드",
     "Enabled": true
   },
   "510082": {
     "OriginalText": "突撃気質",
-    "Text": "Fighting Spirit",
+    "Text": "돌격 체질",
     "Enabled": true
   },
   "510083": {
     "OriginalText": "プラズマ",
-    "Text": "Plasma",
+    "Text": "플라즈마",
     "Enabled": true
   },
   "510084": {
     "OriginalText": "缶板娘",
-    "Text": "Show Girl",
-    "Enabled": true
+    "Text": "간판 아가씨",
+    "Enabled": false
   },
   "510085": {
     "OriginalText": "魔法使い",
-    "Text": "Magic User",
+    "Text": "마법사",
     "Enabled": true
   },
   "510086": {
     "OriginalText": "スペースデブリ",
-    "Text": "Space Debris",
+    "Text": "우주 쓰레기",
     "Enabled": true
   },
   "510087": {
     "OriginalText": "ダークマター",
-    "Text": "Dark Matter",
+    "Text": "암흑 물질",
     "Enabled": true
   },
   "510088": {
     "OriginalText": "チャンピオン",
-    "Text": "Champion",
+    "Text": "챔피언",
     "Enabled": true
   },
   "510089": {
     "OriginalText": "アークス侍",
-    "Text": "ARKS Samurai",
+    "Text": "아크스 사무라이",
     "Enabled": true
   },
   "510090": {
     "OriginalText": "アークス撫子",
-    "Text": "ARKS Darling",
+    "Text": "아크스 요조숙녀",
     "Enabled": true
   },
   "510091": {
     "OriginalText": "アークスおじさん",
-    "Text": "ARKS Uncle",
+    "Text": "아크스 아저씨",
     "Enabled": true
   },
   "510092": {
     "OriginalText": "永久機関",
-    "Text": "Perpetual Motion Engine",
+    "Text": "영구 기관",
     "Enabled": true
   },
   "510093": {
     "OriginalText": "バトル好き",
-    "Text": "Likes Battles",
+    "Text": "전투 애호가",
     "Enabled": true
   },
   "510094": {
     "OriginalText": "鎧好き",
-    "Text": "Likes Armor",
+    "Text": "갑옷 애호가",
     "Enabled": true
   },
   "510095": {
     "OriginalText": "ロボット好き",
-    "Text": "Likes Robots",
+    "Text": "로봇 애호가",
     "Enabled": true
   },
   "510096": {
     "OriginalText": "陰陽師",
-    "Text": "Exorcist",
+    "Text": "음양사",
     "Enabled": true
   },
   "510097": {
     "OriginalText": "闇の処刑人",
-    "Text": "Dark Executioner",
+    "Text": "어둠의 처형인",
     "Enabled": true
   },
   "510098": {
     "OriginalText": "地元では有名人",
-    "Text": "Famous in Home Town",
+    "Text": "고향의 유명인",
     "Enabled": true
   },
   "510099": {
     "OriginalText": "近所の大学生",
-    "Text": "Neighborhood College Student",
+    "Text": "동네 대학생",
     "Enabled": true
   },
   "510100": {
     "OriginalText": "となりのお姉さん",
-    "Text": "Neighborhood Girl",
+    "Text": "옆집 누나",
     "Enabled": true
   },
   "510101": {
     "OriginalText": "頑固職人",
-    "Text": "Stubborn Worker",
+    "Text": "고집 센 장인",
     "Enabled": true
   },
   "510102": {
     "OriginalText": "ジャッジメント",
-    "Text": "Judgemental",
+    "Text": "저지먼트",
     "Enabled": true
   },
   "510103": {
     "OriginalText": "男爵",
-    "Text": "Baron",
+    "Text": "남작",
     "Enabled": true
   },
   "510104": {
     "OriginalText": "将軍",
-    "Text": "Shogun",
+    "Text": "장군",
     "Enabled": true
   },
   "510105": {
     "OriginalText": "女帝",
-    "Text": "Empress",
+    "Text": "여제",
     "Enabled": true
   },
   "510106": {
     "OriginalText": "姫属性",
-    "Text": "Princess-like",
+    "Text": "공주 속성",
     "Enabled": true
   },
   "510107": {
     "OriginalText": "サブカル好き",
-    "Text": "Likes Subculture",
+    "Text": "서브컬처 애호가",
     "Enabled": true
   },
   "510108": {
     "OriginalText": "ディベーター",
-    "Text": "Debater",
+    "Text": "토론가",
     "Enabled": true
   },
   "510109": {
     "OriginalText": "本職",
-    "Text": "Specialist",
+    "Text": "전문가",
     "Enabled": true
   },
   "510110": {
     "OriginalText": "議長",
-    "Text": "Chairman",
+    "Text": "의장",
     "Enabled": true
   },
   "510111": {
     "OriginalText": "弔人",
-    "Text": "Mourner",
-    "Enabled": true
+    "Text": "여행자",
+    "Enabled": false
   },
   "510112": {
     "OriginalText": "プロデューサー",
-    "Text": "Producer",
+    "Text": "프로듀서",
     "Enabled": true
   },
   "510113": {
     "OriginalText": "美熟女",
-    "Text": "Milf",
+    "Text": "아름다운 중년 여성",
     "Enabled": true
   },
   "510114": {
     "OriginalText": "婦女子",
-    "Text": "Grown Woman",
+    "Text": "부녀자",
     "Enabled": true
   },
   "510115": {
     "OriginalText": "判定勝ち",
-    "Text": "Always Wins",
+    "Text": "판정승",
     "Enabled": true
   },
   "510116": {
     "OriginalText": "日焼けサロン好き",
-    "Text": "Likes Tanning Salons",
+    "Text": "태닝숍 애호가",
     "Enabled": true
   },
   "510117": {
     "OriginalText": "カメラ小僧",
-    "Text": "Camera Boy",
+    "Text": "사진광",
     "Enabled": true
   },
   "510118": {
     "OriginalText": "貴婦人",
-    "Text": "Lady",
+    "Text": "귀부인",
     "Enabled": true
   },
   "510119": {
     "OriginalText": "レタッチャー",
-    "Text": "",
-    "Enabled": false
+    "Text": "리터처",
+    "Enabled": true
   },
   "510120": {
     "OriginalText": "絵師",
-    "Text": "Artist",
+    "Text": "화가",
     "Enabled": true
   },
   "510121": {
     "OriginalText": "熱血倣",
-    "Text": "Hot-blooded",
+    "Text": "열혈한",
     "Enabled": true
   },
   "510122": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "510123": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "510124": {
     "OriginalText": "アークスおねえさん",
-    "Text": "ARKS Sister",
+    "Text": "아크스 언니",
     "Enabled": true
   },
   "510125": {
     "OriginalText": "アルファブロガー",
-    "Text": "Alpha Blogger",
+    "Text": "파워 블로거",
     "Enabled": true
   },
   "510126": {
     "OriginalText": "テレビっ子",
-    "Text": "TV Addict Kid",
+    "Text": "텔레비전 애호가",
     "Enabled": true
   },
   "510127": {
     "OriginalText": "キュレーター",
-    "Text": "Curator",
+    "Text": "큐레이터",
     "Enabled": true
   },
   "510128": {
     "OriginalText": "男大好き",
-    "Text": "Loves Men",
+    "Text": "남자가 너무 좋아",
     "Enabled": true
   },
   "510129": {
     "OriginalText": "薄幸少女",
-    "Text": "Sad Little Girl",
+    "Text": "불행한 소녀",
     "Enabled": true
   },
   "510130": {
     "OriginalText": "深窓の令嬢",
-    "Text": "Secluded Girl",
+    "Text": "온실 속 아가씨",
     "Enabled": true
   },
   "510131": {
     "OriginalText": "無口キャラ",
-    "Text": "Silent Character",
+    "Text": "과묵한 캐릭터",
     "Enabled": true
   },
   "510132": {
     "OriginalText": "素直クール",
-    "Text": "Chill",
+    "Text": "솔직하고 쿨함",
     "Enabled": true
   },
   "510133": {
     "OriginalText": "ツンデレ",
-    "Text": "Tsundere",
+    "Text": "츤데레",
     "Enabled": true
   },
   "510134": {
     "OriginalText": "ブシドー",
-    "Text": "Bushido",
+    "Text": "무사도",
     "Enabled": true
   },
   "510135": {
     "OriginalText": "姉御肌",
-    "Text": "Big Sister Character",
+    "Text": "누님 기질",
     "Enabled": true
   },
   "510136": {
     "OriginalText": "執事風",
-    "Text": "Serious Business",
+    "Text": "집사 스타일",
     "Enabled": true
   },
   "510137": {
     "OriginalText": "子分肌",
-    "Text": "",
-    "Enabled": false
+    "Text": "부하 체질",
+    "Enabled": true
   },
   "510138": {
     "OriginalText": "おっかけファン",
-    "Text": "Groupie",
+    "Text": "열성 팬",
     "Enabled": true
   },
   "510139": {
     "OriginalText": "エスパー",
-    "Text": "Esper",
+    "Text": "초능력자",
     "Enabled": true
   },
   "510140": {
     "OriginalText": "体育会系",
-    "Text": "Sports-minded",
+    "Text": "체육계",
     "Enabled": true
   },
   "510141": {
     "OriginalText": "アークスの生字引",
-    "Text": "ARKS Walking Dictionary",
-    "Enabled": true
+    "Text": "아크스의 걸어 다니는 사전",
+    "Enabled": false
   },
   "510142": {
     "OriginalText": "アークスの知恵麦",
-    "Text": "ARKS Bag of Wisdom",
-    "Enabled": true
+    "Text": "아크스의 지혜 주머니",
+    "Enabled": false
   },
   "510143": {
     "OriginalText": "戦闘狂",
-    "Text": "Crazy Fighter",
+    "Text": "전투광",
     "Enabled": true
   },
   "510144": {
     "OriginalText": "リーサルウェポン",
-    "Text": "Lethal Weapon",
+    "Text": "최종 병기",
     "Enabled": true
   },
   "510145": {
     "OriginalText": "狩人",
-    "Text": "Hunter",
+    "Text": "사냥꾼",
     "Enabled": true
   },
   "510146": {
     "OriginalText": "明朗快活",
-    "Text": "Cheerful",
+    "Text": "명랑쾌활",
     "Enabled": true
   },
   "510147": {
     "OriginalText": "七転八起",
-    "Text": "Never Gives Up",
+    "Text": "칠전팔기",
     "Enabled": true
   },
   "510148": {
     "OriginalText": "一騎当千",
-    "Text": "Mighty Warrior",
+    "Text": "일기당천",
     "Enabled": true
   },
   "510149": {
     "OriginalText": "高嶺之花",
-    "Text": "Unattainable",
+    "Text": "넘볼 수 없는 꽃",
     "Enabled": true
   },
   "510150": {
     "OriginalText": "一所懸命",
-    "Text": "Sticks to Their Guns",
+    "Text": "온 힘을 다함",
     "Enabled": true
   },
   "510151": {
     "OriginalText": "有言実行",
-    "Text": "Makes Good on Promises",
+    "Text": "유언실행",
     "Enabled": true
   },
   "510152": {
     "OriginalText": "文武両道",
-    "Text": "Military Bookworm",
+    "Text": "문무겸비",
     "Enabled": true
   },
   "510153": {
     "OriginalText": "純真無垢",
-    "Text": "Pure",
+    "Text": "순진무구",
     "Enabled": true
   },
   "510154": {
     "OriginalText": "新進気鋭",
-    "Text": "Up-and-coming",
+    "Text": "신진기예",
     "Enabled": true
   },
   "510155": {
     "OriginalText": "頁戦錬磨",
-    "Text": "",
+    "Text": "백전연마",
     "Enabled": false
   },
   "510156": {
     "OriginalText": "質実剛健",
-    "Text": "Sincere",
+    "Text": "질실강건",
     "Enabled": true
   },
   "510157": {
     "OriginalText": "七転八倒",
-    "Text": "Masochist",
+    "Text": "칠전팔도",
     "Enabled": true
   },
   "510158": {
     "OriginalText": "聖人君子",
-    "Text": "Saintly",
+    "Text": "성인군자",
     "Enabled": true
   },
   "510159": {
     "OriginalText": "猪突猛進",
-    "Text": "Reckless",
+    "Text": "저돌맹진",
     "Enabled": true
   },
   "510160": {
     "OriginalText": "氷静沈着",
-    "Text": "Level Headed",
-    "Enabled": true
+    "Text": "냉정침착",
+    "Enabled": false
   },
   "510161": {
     "OriginalText": "快刀乱麻",
-    "Text": "Problem Solver",
+    "Text": "쾌도난마",
     "Enabled": true
   },
   "510162": {
     "OriginalText": "完全無欠",
-    "Text": "Completely Flawless",
+    "Text": "완전무결",
     "Enabled": true
   },
   "510163": {
     "OriginalText": "鑽動不審",
-    "Text": "",
+    "Text": "수상한 거동",
     "Enabled": false
   },
   "510164": {
     "OriginalText": "才色兼備",
-    "Text": "Witty and Pretty",
+    "Text": "재색겸비",
     "Enabled": true
   },
   "510165": {
     "OriginalText": "自由殿達",
-    "Text": "Free and Easy",
-    "Enabled": true
+    "Text": "자유활달",
+    "Enabled": false
   },
   "510166": {
     "OriginalText": "純情可憐",
-    "Text": "Pure and Beautiful",
+    "Text": "순정가련",
     "Enabled": true
   },
   "510167": {
     "OriginalText": "初志貴徹",
-    "Text": "",
+    "Text": "초지관철",
     "Enabled": false
   },
   "510168": {
     "OriginalText": "神出鬼没",
-    "Text": "Elusive",
+    "Text": "신출귀몰",
     "Enabled": true
   },
   "510169": {
     "OriginalText": "正々堂々",
-    "Text": "Fair and Square",
+    "Text": "정정당당",
     "Enabled": true
   },
   "510170": {
     "OriginalText": "清廉潔白",
-    "Text": "Upright",
+    "Text": "청렴결백",
     "Enabled": true
   },
   "510171": {
     "OriginalText": "大頬不敵",
-    "Text": "Daredevil",
-    "Enabled": true
+    "Text": "대담무쌍",
+    "Enabled": false
   },
   "510172": {
     "OriginalText": "天下無双",
-    "Text": "Unequaled",
+    "Text": "천하무쌍",
     "Enabled": true
   },
   "510173": {
     "OriginalText": "難攻不落",
-    "Text": "Impregnable",
+    "Text": "난공불락",
     "Enabled": true
   },
   "510174": {
     "OriginalText": "博識多才",
-    "Text": "Eccentric Learner",
+    "Text": "박식다재",
     "Enabled": true
   },
   "510175": {
     "OriginalText": "飼目秀魅",
-    "Text": "Handsome",
-    "Enabled": true
+    "Text": "수려한 용모",
+    "Enabled": false
   },
   "510176": {
     "OriginalText": "粉骨砕身",
-    "Text": "",
-    "Enabled": false
+    "Text": "분골쇄신",
+    "Enabled": true
   },
   "510177": {
     "OriginalText": "勇猛果敢",
-    "Text": "Dauntless",
+    "Text": "용맹과감",
     "Enabled": true
   },
   "510178": {
     "OriginalText": "暴走超特急",
-    "Text": "",
-    "Enabled": false
+    "Text": "폭주 초특급",
+    "Enabled": true
   },
   "510179": {
     "OriginalText": "鉄面皮デカ",
-    "Text": "Gumshoe",
+    "Text": "철면피 형사",
     "Enabled": true
   },
   "510180": {
     "OriginalText": "黙な証人",
-    "Text": "Silent Witness",
-    "Enabled": true
+    "Text": "과묵한 증인",
+    "Enabled": false
   },
   "510181": {
     "OriginalText": "隠れた英雄",
-    "Text": "",
-    "Enabled": false
+    "Text": "숨은 영웅",
+    "Enabled": true
   },
   "510182": {
     "OriginalText": "眠れる子（仮）",
-    "Text": "Sleepy Kid (Temp.)",
-    "Enabled": true
+    "Text": "잠자는 사자(임시)",
+    "Enabled": false
   },
   "520000": {
     "OriginalText": "テキスト不要箇所\nこれが出たらパラメーター担当者に報告",
-    "Text": "Invalid text.\nPlease report this if it appears.",
+    "Text": "텍스트가 필요 없는 곳\n이 문구가 나오면 파라미터 담당자에게 보고",
     "Enabled": true
   },
   "520001": {
     "OriginalText": "見習いアークス",
-    "Text": "ARKS Trainee",
+    "Text": "견습 아크스",
     "Enabled": true
   },
   "520002": {
     "OriginalText": "一般アークス",
-    "Text": "Common ARKS",
+    "Text": "일반 아크스",
     "Enabled": true
   },
   "520003": {
     "OriginalText": "熟練アークス",
-    "Text": "Experienced ARKS",
+    "Text": "숙련 아크스",
     "Enabled": true
   },
   "520004": {
     "OriginalText": "エリートアークス",
-    "Text": "Elite ARKS",
+    "Text": "엘리트 아크스",
     "Enabled": true
   },
   "520005": {
     "OriginalText": "レジェンドアークス",
-    "Text": "Legendary ARKS",
+    "Text": "레전드 아크스",
     "Enabled": true
   },
   "520006": {
     "OriginalText": "暁紅のアークス",
-    "Text": "Crimson Dawn of ARKS",
+    "Text": "효홍의 아크스",
     "Enabled": true
   },
   "520007": {
     "OriginalText": "エース候補",
-    "Text": "Ace Candidate",
+    "Text": "에이스 후보",
     "Enabled": true
   },
   "520008": {
     "OriginalText": "リーダー気質",
-    "Text": "Natural Leader",
+    "Text": "리더 체질",
     "Enabled": true
   },
   "520009": {
     "OriginalText": "ブリッジクルー",
-    "Text": "Bridge Crew",
+    "Text": "브리지 크루",
     "Enabled": true
   },
   "520010": {
     "OriginalText": "サポートスタッフ",
-    "Text": "Support Staff",
+    "Text": "지원 스태프",
     "Enabled": true
   },
   "520011": {
     "OriginalText": "好戦的",
-    "Text": "Aggressive",
+    "Text": "호전적",
     "Enabled": true
   },
   "520012": {
     "OriginalText": "平和主義",
-    "Text": "Pacifist",
+    "Text": "평화주의",
     "Enabled": true
   },
   "520013": {
     "OriginalText": "影の実力者",
-    "Text": "Obscure Kingpin",
+    "Text": "숨은 실력자",
     "Enabled": true
   },
   "520015": {
     "OriginalText": "ピンチに強い",
-    "Text": "Strong During a Bind",
+    "Text": "위기에 강함",
     "Enabled": true
   },
   "520016": {
     "OriginalText": "火事場の馬鹿力",
-    "Text": "Fight-or-flight Response",
+    "Text": "위기 속 괴력",
     "Enabled": true
   },
   "520017": {
     "OriginalText": "ポーカーフェイス",
-    "Text": "Poker Face",
+    "Text": "포커페이스",
     "Enabled": true
   },
   "520018": {
     "OriginalText": "ド根性",
-    "Text": "Brave",
+    "Text": "악착같은 근성",
     "Enabled": true
   },
   "520019": {
     "OriginalText": "逆境に弱い",
-    "Text": "Poor in Adversity",
+    "Text": "역경에 약함",
     "Enabled": true
   },
   "520020": {
     "OriginalText": "テンパリスト",
-    "Text": "",
-    "Enabled": false
+    "Text": "허둥지둥",
+    "Enabled": true
   },
   "520021": {
     "OriginalText": "短気",
-    "Text": "Short Tempered",
+    "Text": "성급함",
     "Enabled": true
   },
   "520022": {
     "OriginalText": "泣きβ",
-    "Text": "Crybaby",
-    "Enabled": true
+    "Text": "울보",
+    "Enabled": false
   },
   "520023": {
     "OriginalText": "スロースターター",
-    "Text": "Slow Starter",
+    "Text": "슬로우 스타터",
     "Enabled": true
   },
   "520024": {
     "OriginalText": "ヒーロー気取り",
-    "Text": "Wannabe Hero",
+    "Text": "히어로 행세",
     "Enabled": true
   },
   "520025": {
     "OriginalText": "常に寝不足",
-    "Text": "Sleep Deprived",
+    "Text": "항상 수면 부족",
     "Enabled": true
   },
   "520026": {
     "OriginalText": "持久力に難あり",
-    "Text": "",
-    "Enabled": false
+    "Text": "부족한 지구력",
+    "Enabled": true
   },
   "520027": {
     "OriginalText": "人気者",
-    "Text": "Popular",
+    "Text": "인기인",
     "Enabled": true
   },
   "520028": {
     "OriginalText": "友情に熱い",
-    "Text": "",
-    "Enabled": false
+    "Text": "우정에 뜨거움",
+    "Enabled": true
   },
   "520029": {
     "OriginalText": "ツンデレ",
-    "Text": "Tsundere",
+    "Text": "츤데레",
     "Enabled": true
   },
   "520030": {
     "OriginalText": "人見知り",
-    "Text": "Shy",
+    "Text": "낯가림",
     "Enabled": true
   },
   "520031": {
     "OriginalText": "ロンリーウルフ",
-    "Text": "Lone Wolf",
+    "Text": "외로운 늑대",
     "Enabled": true
   },
   "520032": {
     "OriginalText": "努力家",
-    "Text": "Hard Worker",
+    "Text": "노력가",
     "Enabled": true
   },
   "520033": {
     "OriginalText": "頑張り屋",
-    "Text": "Persistent",
+    "Text": "열심히 하는 성격",
     "Enabled": true
   },
   "520035": {
     "OriginalText": "目立ちたがり",
-    "Text": "Show-off",
+    "Text": "눈에 띄고 싶어함",
     "Enabled": true
   },
   "520036": {
     "OriginalText": "影が薄い",
-    "Text": "Overshadowed",
+    "Text": "희미한 존재감",
     "Enabled": true
   },
   "520037": {
     "OriginalText": "自分勝手",
-    "Text": "Egocentric",
+    "Text": "제멋대로",
     "Enabled": true
   },
   "520038": {
     "OriginalText": "団体行動が苦手",
-    "Text": "Poor During Group Activities",
+    "Text": "단체 행동에 서툼",
     "Enabled": true
   },
   "520041": {
     "OriginalText": "ダーカー嫌い",
-    "Text": "Darker Exterminator",
+    "Text": "다커를 싫어함",
     "Enabled": true
   },
   "520042": {
     "OriginalText": "動洋博土",
-    "Text": "",
+    "Text": "동물 박사",
     "Enabled": false
   },
   "520045": {
     "OriginalText": "兵器マニア",
-    "Text": "Weapon Maniac",
+    "Text": "병기 마니아",
     "Enabled": true
   },
   "520046": {
     "OriginalText": "男好き",
-    "Text": "Prefers Men",
+    "Text": "남자를 좋아함",
     "Enabled": true
   },
   "520047": {
     "OriginalText": "女好き",
-    "Text": "Prefers Women",
+    "Text": "여자를 좋아함",
     "Enabled": true
   },
   "520048": {
     "OriginalText": "ヒューマン好き",
-    "Text": "Prefers Humans",
+    "Text": "휴먼 좋아",
     "Enabled": true
   },
   "520049": {
     "OriginalText": "ヒューマン苦手",
-    "Text": "Dislikes Humans",
+    "Text": "휴먼을 어려워함",
     "Enabled": true
   },
   "520050": {
     "OriginalText": "ニューマン好き",
-    "Text": "Prefers Newmans",
+    "Text": "뉴먼 좋아",
     "Enabled": true
   },
   "520051": {
     "OriginalText": "ニューマン苦手",
-    "Text": "Dislikes Newmans",
+    "Text": "뉴먼을 어려워함",
     "Enabled": true
   },
   "520052": {
     "OriginalText": "キャスト好き",
-    "Text": "Prefers Casts",
+    "Text": "캐스트 좋아",
     "Enabled": true
   },
   "520053": {
     "OriginalText": "キャスト苦手",
-    "Text": "Dislikes Casts",
+    "Text": "캐스트를 어려워함",
     "Enabled": true
   },
   "520054": {
     "OriginalText": "ハンター好き",
-    "Text": "Prefers Hunters",
+    "Text": "헌터를 좋아함",
     "Enabled": true
   },
   "520055": {
     "OriginalText": "フォース好き",
-    "Text": "Prefers Forces",
+    "Text": "포스를 좋아함",
     "Enabled": true
   },
   "520056": {
     "OriginalText": "レンジャー好き",
-    "Text": "Prefers Rangers",
+    "Text": "레인저를 좋아함",
     "Enabled": true
   },
   "520057": {
     "OriginalText": "バスター好き",
-    "Text": "Prefers Busters",
+    "Text": "버스터를 좋아함",
     "Enabled": true
   },
   "520061": {
     "OriginalText": "熱血倣",
-    "Text": "Hot-blooded",
+    "Text": "열혈한",
     "Enabled": true
   },
   "520062": {
     "OriginalText": "いくじなし",
-    "Text": "Cowardly",
+    "Text": "겁쟁이",
     "Enabled": true
   },
   "520063": {
     "OriginalText": "氷静",
-    "Text": "Calm",
-    "Enabled": true
+    "Text": "냉정함",
+    "Enabled": false
   },
   "520064": {
     "OriginalText": "優柔不断",
-    "Text": "Indecisive",
+    "Text": "우유부단",
     "Enabled": true
   },
   "520065": {
     "OriginalText": "話し上手",
-    "Text": "Smooth Talker",
+    "Text": "말솜씨가 좋음",
     "Enabled": true
   },
   "520066": {
     "OriginalText": "口下手",
-    "Text": "Tongue-tied",
+    "Text": "말주변이 없음",
     "Enabled": true
   },
   "520067": {
     "OriginalText": "打たれ強い",
-    "Text": "Can Take a Hit",
+    "Text": "맷집이 좋음",
     "Enabled": true
   },
   "520068": {
     "OriginalText": "ケガが多い",
-    "Text": "Easily Hurt",
+    "Text": "부상이 잦음",
     "Enabled": true
   },
   "520069": {
     "OriginalText": "反射神経抜群",
-    "Text": "Outstanding Reflexes",
+    "Text": "반사 신경 발군",
     "Enabled": true
   },
   "520070": {
     "OriginalText": "リズム感がない",
-    "Text": "No Sense of Rhythm",
+    "Text": "리듬감이 없음",
     "Enabled": true
   },
   "520071": {
     "OriginalText": "不屈の精神",
-    "Text": "Fortitude",
+    "Text": "불굴의 정신",
     "Enabled": true
   },
   "520072": {
     "OriginalText": "落ち込みやすい",
-    "Text": "",
-    "Enabled": false
+    "Text": "쉽게 의기소침해짐",
+    "Enabled": true
   },
   "520073": {
     "OriginalText": "打撃自慢",
-    "Text": "Striking Pride",
+    "Text": "타격에 자신 있음",
     "Enabled": true
   },
   "520074": {
     "OriginalText": "射撃王",
-    "Text": "Shooting King",
+    "Text": "사격왕",
     "Enabled": true
   },
   "520075": {
     "OriginalText": "法撃マスター",
-    "Text": "Tech Master",
+    "Text": "법격 마스터",
     "Enabled": true
   },
   "520081": {
     "OriginalText": "戦闘タイプ:攻撃",
-    "Text": "Role: Offense",
+    "Text": "전투 유형: 공격",
     "Enabled": true
   },
   "520082": {
     "OriginalText": "戦闘タイプ:支援",
-    "Text": "Role: Support",
+    "Text": "전투 유형: 지원",
     "Enabled": true
   },
   "520083": {
     "OriginalText": "戦闘タイプ:攻撃+回復",
-    "Text": "Role: Offense+Recovery",
+    "Text": "전투 유형: 공격+회복",
     "Enabled": true
   },
   "520084": {
     "OriginalText": "戦闘タイプ:支援+回復",
-    "Text": "Role: Support+Recovery",
+    "Text": "전투 유형: 지원+회복",
     "Enabled": true
   },
   "520085": {
     "OriginalText": "炎属性",
-    "Text": "Fire Attribute",
+    "Text": "염속성",
     "Enabled": true
   },
   "520086": {
-    "OriginalText": "劇属性",
-    "Text": "Ice Attribute",
+    "OriginalText": "氷属性",
+    "Text": "빙속성",
     "Enabled": true
   },
   "520087": {
     "OriginalText": "雷属性",
-    "Text": "Lightning Attribute",
+    "Text": "뇌속성",
     "Enabled": true
   },
   "520088": {
     "OriginalText": "風属性",
-    "Text": "Wind Attribute",
+    "Text": "풍속성",
     "Enabled": true
   },
   "520089": {
     "OriginalText": "光属性",
-    "Text": "Light Attribute",
+    "Text": "광속성",
     "Enabled": true
   },
   "520090": {
     "OriginalText": "闇属性",
-    "Text": "Dark Attribute",
+    "Text": "암속성",
     "Enabled": true
   },
   "520091": {
     "OriginalText": "仲間思い",
-    "Text": "Sentimental Person",
+    "Text": "동료를 아끼는 마음",
     "Enabled": true
   },
   "520092": {
     "OriginalText": "不倒",
-    "Text": "Unyielding",
+    "Text": "쓰러지지 않음",
     "Enabled": true
   },
   "520093": {
     "OriginalText": "天才肌",
-    "Text": "Prodigy",
+    "Text": "천재 체질",
     "Enabled": true
   },
   "520094": {
     "OriginalText": "探究心",
-    "Text": "Inquiring Mind",
+    "Text": "탐구심",
     "Enabled": true
   },
   "520095": {
     "OriginalText": "堅洋",
-    "Text": "Strait-laced Person",
-    "Enabled": true
+    "Text": "고지식함",
+    "Enabled": false
   },
   "520096": {
     "OriginalText": "やんちゃ坊主",
-    "Text": "",
-    "Enabled": false
+    "Text": "장난꾸러기",
+    "Enabled": true
   },
   "520097": {
     "OriginalText": "戦闘巧者",
-    "Text": "",
-    "Enabled": false
+    "Text": "전투의 달인",
+    "Enabled": true
   },
   "520098": {
     "OriginalText": "職人の手捌き",
-    "Text": "",
-    "Enabled": false
+    "Text": "장인의 손놀림",
+    "Enabled": true
   },
   "520099": {
     "OriginalText": "ロマンチスト",
-    "Text": "Romanticist",
+    "Text": "낭만주의자",
     "Enabled": true
   },
   "520100": {
     "OriginalText": "ファントムアークス",
-    "Text": "Phantom ARKS",
+    "Text": "팬텀 아크스",
     "Enabled": true
   },
   "520101": {
     "OriginalText": "アークスオブアークス",
-    "Text": "ARKS of ARKS",
+    "Text": "아크스 오브 아크스",
     "Enabled": true
   },
   "520102": {
     "OriginalText": "医学知識",
-    "Text": "Medical Knowledge",
+    "Text": "의학 지식",
     "Enabled": true
   },
   "520103": {
     "OriginalText": "Ｓ属性",
-    "Text": "S Element",
+    "Text": "S 속성",
     "Enabled": true
   },
   "520104": {
     "OriginalText": "箱入り娘",
-    "Text": "",
-    "Enabled": false
+    "Text": "곱게 자란 아가씨",
+    "Enabled": true
   },
   "520105": {
     "OriginalText": "デカチョウ",
-    "Text": "",
-    "Enabled": false
+    "Text": "형사 반장",
+    "Enabled": true
   },
   "520106": {
     "OriginalText": "コスト削滅班長",
-    "Text": "",
-    "Enabled": false
+    "Text": "비용 절감 반장",
+    "Enabled": true
   },
   "520107": {
     "OriginalText": "コスト削滅係長",
-    "Text": "",
+    "Text": "비용 절감 계장",
     "Enabled": false
   },
   "520108": {
     "OriginalText": "コスト削滅部長",
-    "Text": "",
+    "Text": "비용 절감 부장",
     "Enabled": false
   },
   "520109": {
     "OriginalText": "コスト削滅社長",
-    "Text": "",
+    "Text": "비용 절감 사장",
     "Enabled": false
   },
   "520110": {
     "OriginalText": "コスト削滅大統領",
-    "Text": "",
+    "Text": "비용 절감 대통령",
     "Enabled": false
   },
   "520116": {
     "OriginalText": "節約レシピ好き",
-    "Text": "",
-    "Enabled": false
+    "Text": "절약 레시피 애호가",
+    "Enabled": true
   },
   "520117": {
     "OriginalText": "節約レシピマニア",
-    "Text": "",
-    "Enabled": false
+    "Text": "절약 레시피 마니아",
+    "Enabled": true
   },
   "520118": {
     "OriginalText": "節約レシピマイスター",
-    "Text": "",
-    "Enabled": false
+    "Text": "절약 레시피 마이스터",
+    "Enabled": true
   },
   "520125": {
     "OriginalText": "見習い鍛冶職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "견습 대장장이",
+    "Enabled": true
   },
   "520126": {
     "OriginalText": "駆け出し鍛冶職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "초보 대장장이",
+    "Enabled": true
   },
   "520127": {
     "OriginalText": "いっぱしの鍛冶職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "어엿한 대장장이",
+    "Enabled": true
   },
   "520128": {
     "OriginalText": "噂の鍛冶職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "소문난 대장장이",
+    "Enabled": true
   },
   "520129": {
     "OriginalText": "匠の鍛冶職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "달인 대장장이",
+    "Enabled": true
   },
   "520130": {
     "OriginalText": "龍説の鍛冶職人",
-    "Text": "",
+    "Text": "전설의 대장장이",
     "Enabled": false
   },
   "520135": {
     "OriginalText": "丘の防具職人",
-    "Text": "",
+    "Text": "녹슨 방어구 장인",
     "Enabled": false
   },
   "520136": {
     "OriginalText": "鉄の防具職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "철의 방어구 장인",
+    "Enabled": true
   },
   "520137": {
     "OriginalText": "銅の防具職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "동의 방어구 장인",
+    "Enabled": true
   },
   "520138": {
     "OriginalText": "銀の防具職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "은의 방어구 장인",
+    "Enabled": true
   },
   "520139": {
     "OriginalText": "金の防具職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "금의 방어구 장인",
+    "Enabled": true
   },
   "520140": {
     "OriginalText": "ダイヤモンドの防具職人",
-    "Text": "Armor Craftsman of Diamond",
+    "Text": "다이아몬드의 방어구 장인",
     "Enabled": true
   },
   "520147": {
     "OriginalText": "肢人見習い",
-    "Text": "",
+    "Text": "견습 상인",
     "Enabled": false
   },
   "520148": {
     "OriginalText": "肢売上手",
-    "Text": "",
+    "Text": "장사에 능숙함",
     "Enabled": false
   },
   "520149": {
     "OriginalText": "注目株の肢人",
-    "Text": "",
+    "Text": "주목받는 상인",
     "Enabled": false
   },
   "520150": {
     "OriginalText": "肢売の神様",
-    "Text": "",
+    "Text": "장사의 신",
     "Enabled": false
   },
   "520155": {
     "OriginalText": "仮貸い担当",
-    "Text": "",
+    "Text": "가봉 담당",
     "Enabled": false
   },
   "520156": {
     "OriginalText": "裁貸上手",
-    "Text": "",
+    "Text": "재봉에 능숙함",
     "Enabled": false
   },
   "520157": {
     "OriginalText": "ミシンの使い手",
-    "Text": "",
-    "Enabled": false
+    "Text": "재봉틀의 달인",
+    "Enabled": true
   },
   "520158": {
     "OriginalText": "ひとかどのデザイナー",
-    "Text": "Full-fledged Designer",
+    "Text": "어엿한 디자이너",
     "Enabled": true
   },
   "520159": {
     "OriginalText": "期待の新星デザイナー",
-    "Text": "",
-    "Enabled": false
+    "Text": "기대되는 신예 디자이너",
+    "Enabled": true
   },
   "520160": {
     "OriginalText": "トップデザイナー",
-    "Text": "Top Designer",
+    "Text": "최고의 디자이너",
     "Enabled": true
   },
   "520161": {
     "OriginalText": "おしゃれ泥棒",
-    "Text": "",
-    "Enabled": false
+    "Text": "패션 도둑",
+    "Enabled": true
   },
   "520162": {
     "OriginalText": "おしゃれ大泥棒",
-    "Text": "",
-    "Enabled": false
+    "Text": "패션 대도",
+    "Enabled": true
   },
   "520163": {
     "OriginalText": "おしゃれ怪盗",
-    "Text": "",
-    "Enabled": false
+    "Text": "패션 괴도",
+    "Enabled": true
   },
   "520164": {
     "OriginalText": "グラン予報土",
-    "Text": "",
+    "Text": "그란 예보사",
     "Enabled": false
   },
   "520165": {
     "OriginalText": "上級グラン予報土",
-    "Text": "",
+    "Text": "상급 그란 예보사",
     "Enabled": false
   },
   "520167": {
     "OriginalText": "ダウジンガー",
-    "Text": "",
-    "Enabled": false
+    "Text": "다우저",
+    "Enabled": true
   },
   "520168": {
     "OriginalText": "ラッキライザー",
-    "Text": "Lucky Rise",
+    "Text": "럭키라이저",
     "Enabled": true
   },
   "520169": {
     "OriginalText": "野生の勘",
-    "Text": "",
-    "Enabled": false
+    "Text": "야생의 감",
+    "Enabled": true
   },
   "520170": {
     "OriginalText": "BURST：経験値UP",
-    "Text": "BURST: EXP UP",
+    "Text": "BURST: 경험치 UP",
     "Enabled": true
   },
   "520171": {
     "OriginalText": "BURST：アイテム",
-    "Text": "BURST: Item",
+    "Text": "BURST: 아이템",
     "Enabled": true
   },
   "520172": {
     "OriginalText": "BURST：レアエネミー",
-    "Text": "BURST: Rare Enemy",
+    "Text": "BURST: 레어 에너미",
     "Enabled": true
   },
   "520173": {
     "OriginalText": "BURST：レアドロップ",
-    "Text": "BURST: Rare Drop",
+    "Text": "BURST: 레어 드랍",
     "Enabled": true
   },
   "520176": {
     "OriginalText": "BURST：ワンモア",
-    "Text": "BURST: One More",
+    "Text": "BURST: 원 모어",
     "Enabled": true
   },
   "520177": {
     "OriginalText": "BURST：ガッツ",
-    "Text": "BURST: Guts",
+    "Text": "BURST: 근성",
     "Enabled": true
   },
   "520178": {
     "OriginalText": "BURST：ダメージカット",
-    "Text": "BURST: Damage Cut",
+    "Text": "BURST: 데미지 컷",
     "Enabled": true
   },
   "520179": {
     "OriginalText": "BURST：コンバージョン",
-    "Text": "BURST: Conversion",
+    "Text": "BURST: 컨버전",
     "Enabled": true
   },
   "520180": {
     "OriginalText": "BURST：クリティカル",
-    "Text": "BURST: Critical",
+    "Text": "BURST: 크리티컬",
     "Enabled": true
   },
   "520181": {
     "OriginalText": "BURST：モータルブロウ",
-    "Text": "BURST: Mortal Blow",
+    "Text": "BURST: 모탈 블로",
     "Enabled": true
   },
   "520182": {
     "OriginalText": "博愛",
-    "Text": "",
-    "Enabled": false
+    "Text": "박애",
+    "Enabled": true
   },
   "520183": {
     "OriginalText": "注意深い",
-    "Text": "",
-    "Enabled": false
+    "Text": "주의 깊음",
+    "Enabled": true
   },
   "520184": {
     "OriginalText": "現実的",
-    "Text": "",
-    "Enabled": false
+    "Text": "현실적",
+    "Enabled": true
   },
   "520185": {
     "OriginalText": "死神",
-    "Text": "Grim Reaper",
+    "Text": "사신",
     "Enabled": true
   },
   "520186": {
     "OriginalText": "コア工作土",
-    "Text": "Core Worker",
-    "Enabled": true
+    "Text": "코어 공작사",
+    "Enabled": false
   },
   "520187": {
     "OriginalText": "コア造土",
-    "Text": "Core Builder",
+    "Text": "코어 주조사",
     "Enabled": true
   },
   "520188": {
     "OriginalText": "コア精錬土",
-    "Text": "Core Smelter",
-    "Enabled": true
+    "Text": "코어 제련사",
+    "Enabled": false
   },
   "520189": {
     "OriginalText": "武器進化の名工",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기 진화의 명장",
+    "Enabled": true
   },
   "520190": {
     "OriginalText": "精錬所チーフ",
-    "Text": "",
-    "Enabled": false
+    "Text": "제련소 주임",
+    "Enabled": true
   },
   "520201": {
     "OriginalText": "攻撃力アップ+1",
-    "Text": "ATK Up +1",
+    "Text": "공격력 업+1",
     "Enabled": true
   },
   "520202": {
     "OriginalText": "攻撃力アップ+2",
-    "Text": "ATK Up +2",
+    "Text": "공격력 업+2",
     "Enabled": true
   },
   "520203": {
     "OriginalText": "攻撃力アップ+3",
-    "Text": "ATK Up +3",
+    "Text": "공격력 업+3",
     "Enabled": true
   },
   "520204": {
     "OriginalText": "攻撃力アップ+4",
-    "Text": "ATK Up +4",
+    "Text": "공격력 업+4",
     "Enabled": true
   },
   "520205": {
     "OriginalText": "攻撃力アップ+5",
-    "Text": "ATK Up +5",
+    "Text": "공격력 업+5",
     "Enabled": true
   },
   "520206": {
     "OriginalText": "防御力アップ+1",
-    "Text": "DEF Up +1",
+    "Text": "방어력 업+1",
     "Enabled": true
   },
   "520207": {
     "OriginalText": "防御力アップ+2",
-    "Text": "DEF Up +2",
+    "Text": "방어력 업+2",
     "Enabled": true
   },
   "520208": {
     "OriginalText": "防御力アップ+3",
-    "Text": "DEF Up +3",
+    "Text": "방어력 업+3",
     "Enabled": true
   },
   "520209": {
     "OriginalText": "防御力アップ+4",
-    "Text": "DEF Up +4",
+    "Text": "방어력 업+4",
     "Enabled": true
   },
   "520210": {
     "OriginalText": "防御力アップ+5",
-    "Text": "DEF Up +5",
+    "Text": "방어력 업+5",
     "Enabled": true
   },
   "520211": {
     "OriginalText": "アイテム効果アップ+1",
-    "Text": "Item Effect Up +1",
+    "Text": "아이템 효과 업+1",
     "Enabled": true
   },
   "520212": {
     "OriginalText": "アイテム効果アップ+2",
-    "Text": "Item Effect Up +2",
+    "Text": "아이템 효과 업+2",
     "Enabled": true
   },
   "520213": {
     "OriginalText": "アイテム効果アップ+3",
-    "Text": "Item Effect Up +3",
+    "Text": "아이템 효과 업+3",
     "Enabled": true
   },
   "520214": {
     "OriginalText": "アイテム効果アップ+4",
-    "Text": "Item Effect Up +4",
+    "Text": "아이템 효과 업+4",
     "Enabled": true
   },
   "520215": {
     "OriginalText": "アイテム効果アップ+5",
-    "Text": "Item Effect Up +5",
+    "Text": "아이템 효과 업+5",
     "Enabled": true
   },
   "520216": {
     "OriginalText": "Gブースターランク1適応地路",
-    "Text": "",
+    "Text": "G 부스터 랭크 1 적용 지역",
     "Enabled": false
   },
   "520217": {
     "OriginalText": "Gブースターランク2適応地路",
-    "Text": "",
+    "Text": "G 부스터 랭크 2 적용 지역",
     "Enabled": false
   },
   "520218": {
     "OriginalText": "Gブースターランク3適応地路",
-    "Text": "",
+    "Text": "G 부스터 랭크 3 적용 지역",
     "Enabled": false
   },
   "520219": {
     "OriginalText": "Gブースターランク4適応地路",
-    "Text": "",
+    "Text": "G 부스터 랭크 4 적용 지역",
     "Enabled": false
   },
   "520220": {
     "OriginalText": "Gブースターランク5適応地路",
-    "Text": "",
+    "Text": "G 부스터 랭크 5 적용 지역",
     "Enabled": false
   },
   "520221": {
     "OriginalText": "Gブースター支援効果+0",
-    "Text": "",
-    "Enabled": false
+    "Text": "G 부스터 지원 효과+0",
+    "Enabled": true
   },
   "520222": {
     "OriginalText": "Gブースター支援効果+1",
-    "Text": "",
-    "Enabled": false
+    "Text": "G 부스터 지원 효과+1",
+    "Enabled": true
   },
   "520223": {
     "OriginalText": "Gブースター支援効果+2",
-    "Text": "",
-    "Enabled": false
+    "Text": "G 부스터 지원 효과+2",
+    "Enabled": true
   },
   "520224": {
     "OriginalText": "Gブースター支援効果+3",
-    "Text": "",
-    "Enabled": false
+    "Text": "G 부스터 지원 효과+3",
+    "Enabled": true
   },
   "520225": {
     "OriginalText": "Gブースター支援効果+4",
-    "Text": "",
-    "Enabled": false
+    "Text": "G 부스터 지원 효과+4",
+    "Enabled": true
   },
   "520226": {
     "OriginalText": "Gブースター支援効果+5",
-    "Text": "",
-    "Enabled": false
+    "Text": "G 부스터 지원 효과+5",
+    "Enabled": true
   },
   "520227": {
     "OriginalText": "Gブースター支援効果+6",
-    "Text": "",
-    "Enabled": false
+    "Text": "G 부스터 지원 효과+6",
+    "Enabled": true
   },
   "520228": {
     "OriginalText": "Gブースター支援効果+7",
-    "Text": "",
-    "Enabled": false
+    "Text": "G 부스터 지원 효과+7",
+    "Enabled": true
   },
   "520229": {
     "OriginalText": "Gブースター支援効果+8",
-    "Text": "",
-    "Enabled": false
+    "Text": "G 부스터 지원 효과+8",
+    "Enabled": true
   },
   "520230": {
     "OriginalText": "Gブースター支援効果+9",
-    "Text": "",
-    "Enabled": false
+    "Text": "G 부스터 지원 효과+9",
+    "Enabled": true
   },
   "520231": {
     "OriginalText": "Gブースター支援効果+10",
-    "Text": "",
-    "Enabled": false
+    "Text": "G 부스터 지원 효과+10",
+    "Enabled": true
   },
   "520232": {
     "OriginalText": "I探索伝置ランク1適応地路",
-    "Text": "",
+    "Text": "I 탐색 장치 랭크 1 적용 지역",
     "Enabled": false
   },
   "520233": {
     "OriginalText": "I探索伝置ランク2適応地路",
-    "Text": "",
+    "Text": "I 탐색 장치 랭크 2 적용 지역",
     "Enabled": false
   },
   "520234": {
     "OriginalText": "I探索伝置ランク3適応地路",
-    "Text": "",
+    "Text": "I 탐색 장치 랭크 3 적용 지역",
     "Enabled": false
   },
   "520235": {
     "OriginalText": "I探索伝置ランク4適応地路",
-    "Text": "",
+    "Text": "I 탐색 장치 랭크 4 적용 지역",
     "Enabled": false
   },
   "520236": {
     "OriginalText": "I探索伝置ランク5適応地路",
-    "Text": "",
+    "Text": "I 탐색 장치 랭크 5 적용 지역",
     "Enabled": false
   },
   "520237": {
     "OriginalText": "アイテムドロップUP+0",
-    "Text": "Item Drop Up +0",
+    "Text": "아이템 드랍 UP+0",
     "Enabled": true
   },
   "520238": {
     "OriginalText": "アイテムドロップUP+1",
-    "Text": "Item Drop Up +1",
+    "Text": "아이템 드랍 UP+1",
     "Enabled": true
   },
   "520239": {
     "OriginalText": "アイテムドロップUP+2",
-    "Text": "Item Drop Up +2",
+    "Text": "아이템 드랍 UP+2",
     "Enabled": true
   },
   "520240": {
     "OriginalText": "アイテムドロップUP+3",
-    "Text": "Item Drop Up +3",
+    "Text": "아이템 드랍 UP+3",
     "Enabled": true
   },
   "520241": {
     "OriginalText": "アイテムドロップUP+4",
-    "Text": "Item Drop Up +4",
+    "Text": "아이템 드랍 UP+4",
     "Enabled": true
   },
   "520242": {
     "OriginalText": "アイテムドロップUP+5",
-    "Text": "Item Drop Up +5",
+    "Text": "아이템 드랍 UP+5",
     "Enabled": true
   },
   "520243": {
     "OriginalText": "レアアイテムドロップUP+0",
-    "Text": "Rare Item Drop Up +0",
+    "Text": "레어 아이템 드랍 UP+0",
     "Enabled": true
   },
   "520244": {
     "OriginalText": "レアアイテムドロップUP+1",
-    "Text": "Rare Item Drop Up +1",
+    "Text": "레어 아이템 드랍 UP+1",
     "Enabled": true
   },
   "520245": {
     "OriginalText": "レアアイテムドロップUP+2",
-    "Text": "Rare Item Drop Up +2",
+    "Text": "레어 아이템 드랍 UP+2",
     "Enabled": true
   },
   "520246": {
     "OriginalText": "レアアイテムドロップUP+3",
-    "Text": "Rare Item Drop Up +3",
+    "Text": "레어 아이템 드랍 UP+3",
     "Enabled": true
   },
   "520247": {
     "OriginalText": "レアアイテムドロップUP+4",
-    "Text": "Rare Item Drop Up +4",
+    "Text": "레어 아이템 드랍 UP+4",
     "Enabled": true
   },
   "520248": {
     "OriginalText": "レアアイテムドロップUP+5",
-    "Text": "Rare Item Drop Up +5",
+    "Text": "레어 아이템 드랍 UP+5",
     "Enabled": true
   },
   "520249": {
     "OriginalText": "Eレーダーランク1適応地路",
-    "Text": "",
+    "Text": "E 레이더 랭크 1 적용 지역",
     "Enabled": false
   },
   "520250": {
     "OriginalText": "Eレーダーランク2適応地路",
-    "Text": "",
+    "Text": "E 레이더 랭크 2 적용 지역",
     "Enabled": false
   },
   "520251": {
     "OriginalText": "Eレーダーランク3適応地路",
-    "Text": "",
+    "Text": "E 레이더 랭크 3 적용 지역",
     "Enabled": false
   },
   "520252": {
     "OriginalText": "Eレーダーランク4適応地路",
-    "Text": "",
+    "Text": "E 레이더 랭크 4 적용 지역",
     "Enabled": false
   },
   "520253": {
     "OriginalText": "Eレーダーランク5適応地路",
-    "Text": "",
+    "Text": "E 레이더 랭크 5 적용 지역",
     "Enabled": false
   },
   "520254": {
     "OriginalText": "Eレーダー支援効果+0",
-    "Text": "",
-    "Enabled": false
+    "Text": "E 레이더 지원 효과+0",
+    "Enabled": true
   },
   "520255": {
     "OriginalText": "Eレーダー支援効果+1",
-    "Text": "",
-    "Enabled": false
+    "Text": "E 레이더 지원 효과+1",
+    "Enabled": true
   },
   "520256": {
     "OriginalText": "Eレーダー支援効果+2",
-    "Text": "",
-    "Enabled": false
+    "Text": "E 레이더 지원 효과+2",
+    "Enabled": true
   },
   "520257": {
     "OriginalText": "Eレーダー支援効果+3",
-    "Text": "",
-    "Enabled": false
+    "Text": "E 레이더 지원 효과+3",
+    "Enabled": true
   },
   "520258": {
     "OriginalText": "Eレーダー支援効果+4",
-    "Text": "",
-    "Enabled": false
+    "Text": "E 레이더 지원 효과+4",
+    "Enabled": true
   },
   "520259": {
     "OriginalText": "Eレーダー支援効果+5",
-    "Text": "",
-    "Enabled": false
+    "Text": "E 레이더 지원 효과+5",
+    "Enabled": true
   },
   "520260": {
     "OriginalText": "B観測伝置支援効果+0",
-    "Text": "",
-    "Enabled": false
-  },
-  "520261": {
-    "OriginalText": "",
-    "Text": "",
+    "Text": "B 관측 장치 지원 효과+0",
     "Enabled": false
   },
   "520301": {
     "OriginalText": "衝撃の鍛冶職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "충격의 대장장이",
+    "Enabled": true
   },
   "520302": {
     "OriginalText": "稀代の鍛冶職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "희대의 대장장이",
+    "Enabled": true
   },
   "520303": {
     "OriginalText": "奇跡の鍛冶職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "기적의 대장장이",
+    "Enabled": true
   },
   "520304": {
     "OriginalText": "終末の鍛冶職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "종말의 대장장이",
+    "Enabled": true
   },
   "520305": {
     "OriginalText": "地獄の鍛冶職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "지옥의 대장장이",
+    "Enabled": true
   },
   "520311": {
     "OriginalText": "プラチナの防具職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "백금의 방어구 장인",
+    "Enabled": true
   },
   "520312": {
     "OriginalText": "世界の防具職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "세계의 방어구 장인",
+    "Enabled": true
   },
   "520313": {
     "OriginalText": "太陽の防具職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "태양의 방어구 장인",
+    "Enabled": true
   },
   "520314": {
     "OriginalText": "銀河の防具職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "은하의 방어구 장인",
+    "Enabled": true
   },
   "520315": {
     "OriginalText": "宇宙の防具職人",
-    "Text": "",
-    "Enabled": false
+    "Text": "우주의 방어구 장인",
+    "Enabled": true
   },
   "530000": {
     "OriginalText": "お役にたてるように頑張りますね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "도움이 될 수 있도록 열심히 할게요.",
+    "Enabled": true
   },
   "530001": {
     "OriginalText": "[ruby]相棒[/ruby]の回復役はあたしなんだから\nいつでも呼んでよね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "파트너의 회복은 내가 맡고 있잖아.\n언제든 불러 줘!",
+    "Enabled": true
   },
   "530002": {
     "OriginalText": "へへっ、どんな任務でもオレに\n任せろってんだ！",
-    "Text": "Hah, I'll help in any mission,\njust leave it to me!",
+    "Text": "헤헤, 어떤 임무든 나한테\n맡기라니까!",
     "Enabled": true
   },
   "530003": {
     "OriginalText": "わたしの力がお役に立てるのでしたら、\n精一杯頑張ります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "제 힘이 도움이 된다면,\n온 힘을 다하겠습니다.",
+    "Enabled": true
   },
   "530005": {
     "OriginalText": "おっしゃーオレも戦場に出るぜ！！\nお前連れてけよー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "좋았어! 나도 전장에 나간다!!\n너, 나 좀 데려가라!",
+    "Enabled": true
   },
   "530006": {
     "OriginalText": "私の力が必要ですか？\n君の頼みならば断りませんよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "제 힘이 필요하신가요?\n당신의 부탁이라면 거절하지 않겠습니다.",
+    "Enabled": true
   },
   "530009": {
     "OriginalText": "仕事か？\n別に同行するのは構わない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "일인가?\n함께 가는 건 상관없다.",
+    "Enabled": true
   },
   "530010": {
     "OriginalText": "てきぱき働きなさい。\n時間には限りがあるのよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "부지런히 일하렴.\n시간은 한정되어 있어.",
+    "Enabled": true
   },
   "530011": {
     "OriginalText": "皆さん、このような環境です。\n怪我、病気に気を付けてくださいね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여러분, 이런 환경이니\n부상이나 질병에 주의하세요.",
+    "Enabled": true
   },
   "530012": {
     "OriginalText": "アークスに年齢は関係ねぇだろ。\nオレだって戦えるところを見せてやるよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "아크스에게 나이는 상관없잖아.\n나도 싸울 수 있다는 걸 보여 주겠어!",
+    "Enabled": true
   },
   "530013": {
     "OriginalText": "俺の出番ってヤツか？\nまっ、いつでも呼んでくれや。",
-    "Text": "",
-    "Enabled": false
+    "Text": "내 차례란 건가?\n뭐, 언제든 불러 줘.",
+    "Enabled": true
   },
   "530014": {
     "OriginalText": "こう見えて意外とやるのですよ、[ruby わたくし]私[/ruby]は。\n一度ご賞味あれ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "이래 보여도 의외로 꽤 한답니다, 제가.\n한번 맛보시지요!",
+    "Enabled": true
   },
   "530015": {
     "OriginalText": "お役に立てることがあるならば、\nいつでも声をかけてくださいね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "제가 도움이 될 일이 있다면,\n언제든 말씀해 주세요.",
+    "Enabled": true
   },
   "530018": {
     "OriginalText": "泣き言を言っても始まらない。\nオレ達は戦い抜く。ただそれだけだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "푸념해 봐야 소용없어.\n우린 끝까지 싸운다. 그뿐이야.",
+    "Enabled": true
   },
   "530019": {
     "OriginalText": "起こしていただけて光栄です！\nお役に立てるよう努力します！",
-    "Text": "",
-    "Enabled": false
+    "Text": "깨워 주셔서 영광입니다!\n도움이 되도록 노력하겠습니다!",
+    "Enabled": true
   },
   "530020": {
     "OriginalText": "さすがにこんな特異な環境は体験したことないな。\nまっ、やれるだけやってみるしかないね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "이렇게 특이한 환경은 나도 처음이네.\n뭐, 할 수 있는 데까지 해 봐야지.",
+    "Enabled": true
   },
   "530021": {
     "OriginalText": "どんな状況でもアークスなら\nやることは一つってもんだろ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "어떤 상황이든 아크스라면\n할 일은 하나뿐이잖아!",
+    "Enabled": true
   },
   "530022": {
     "OriginalText": "さすがにこの状況は\nなかなか驚いちゃうね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "이 상황은 아무래도\n꽤 놀랍긴 하네.",
+    "Enabled": true
   },
   "530023": {
     "OriginalText": "ここならば、新しいモンスターの\n研究がはかどりそうだわ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "여기라면 새로운 몬스터\n연구가 잘될 것 같아!",
+    "Enabled": true
   },
   "530024": {
     "OriginalText": "僕にしか出来ないことも、きっとあると思います。",
-    "Text": "",
-    "Enabled": false
+    "Text": "저만 할 수 있는 일도 분명 있을 거예요.",
+    "Enabled": true
   },
   "530025": {
     "OriginalText": "皆さんのお役に立てるように\n誠心誠意頑張ります！",
-    "Text": "",
-    "Enabled": false
+    "Text": "여러분께 도움이 될 수 있도록\n성심성의껏 노력하겠습니다!",
+    "Enabled": true
   },
   "530026": {
     "OriginalText": "ボクでお役に立てるか分かりませんが\n精いっぱい頑張ります！",
-    "Text": "",
-    "Enabled": false
+    "Text": "제가 도움이 될지는 모르겠지만\n온 힘을 다하겠습니다!",
+    "Enabled": true
   },
   "530027": {
     "OriginalText": "後方支援が必要ならば声をかけい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "후방 지원이 필요하면 부르게!",
+    "Enabled": true
   },
   "530028": {
     "OriginalText": "よっしゃ、盛り上げてやるぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "좋았어, 분위기 좀 띄워 보자!",
+    "Enabled": true
   },
   "530029": {
     "OriginalText": "パルチザンじゃ負けないからな！\nいつでも見せてやるぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "파르티잔이라면 안 진다고!\n언제든 보여 주겠어!",
+    "Enabled": true
   },
   "530030": {
     "OriginalText": "外はエネミーがあふれている。\nオレが殲滅して来てやろう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "밖에는 에너미가 넘쳐흐르는군.\n내가 섬멸하고 오겠다.",
+    "Enabled": true
   },
   "530031": {
     "OriginalText": "ここならボクの力を試せそうだね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여기라면 내 힘을 시험할 수 있겠네.",
+    "Enabled": true
   },
   "530032": {
     "OriginalText": "共に力を合わせましょう！",
-    "Text": "",
-    "Enabled": false
+    "Text": "함께 힘을 모읍시다!",
+    "Enabled": true
   },
   "530033": {
     "OriginalText": "私の力を欲しますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "제 힘을 원하십니까?",
+    "Enabled": true
   },
   "530034": {
     "OriginalText": "ボクを選ぶとはお目が高いですね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "저를 고르시다니 안목이 높으시군요.",
+    "Enabled": true
   },
   "530035": {
     "OriginalText": "頼られたら、断れねえのが人情ってもんだよな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "도움을 청해 오면 거절 못 하는 게 인지상정이지.",
+    "Enabled": true
   },
   "530036": {
     "OriginalText": "泣き言を言っても始まらない。\nオレ達は戦い抜く。ただそれだけだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "푸념해 봐야 소용없어.\n우린 끝까지 싸운다. 그뿐이야.",
+    "Enabled": true
   },
   "530037": {
     "OriginalText": "ボクのこと、頼ってくれるんですか？\n嬉しいです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "저를 믿고 의지해 주시는 건가요?\n기뻐요!",
+    "Enabled": true
   },
   "530038": {
     "OriginalText": "オレは戦いでも拠点でも役に立つぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "난 전투에서도 거점에서도 도움이 된다고!",
+    "Enabled": true
   },
   "530039": {
     "OriginalText": "うーん、やっぱり寝起きは肩がこっていけねえな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "으음, 역시 자고 일어나면 어깨가 뻐근해서 탈이네.",
+    "Enabled": true
   },
   "530040": {
     "OriginalText": "ここなら、未知のエネミーちゃんに\n出会えそうね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여기라면 처음 보는 귀여운 에너미를\n만날 수 있겠네.",
+    "Enabled": true
   },
   "530041": {
     "OriginalText": "あの……、こんな僕でもお役に立てるでしょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "저기…, 이런 저라도 도움이 될까요?",
+    "Enabled": true
   },
   "530042": {
     "OriginalText": "戦闘に出るよりは\n書類仕事の方が得意です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "전투에 나가는 것보다는\n서류 작업이 더 자신 있어요.",
+    "Enabled": true
   },
   "530043": {
     "OriginalText": "任されたことはきっちりこなします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "맡은 일은 확실히 해내겠습니다.",
+    "Enabled": true
   },
   "530044": {
     "OriginalText": "私に戦わせる前にまずはあなたの\n実力を見せて欲しいところですね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "저를 싸우게 하시기 전에 우선 당신의\n실력을 보여 주셨으면 하는군요.",
+    "Enabled": true
   },
   "530045": {
     "OriginalText": "武器の強化なら\nオレに任せてくれよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기 강화라면\n내게 맡겨 줘!",
+    "Enabled": true
   },
   "530046": {
     "OriginalText": "まぁ、そろそろ真面目にやるとするか。",
-    "Text": "",
-    "Enabled": false
+    "Text": "뭐, 슬슬 진지하게 해 볼까.",
+    "Enabled": true
   },
   "530047": {
     "OriginalText": "万全な準備があれば、\n何も恐れることはない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "준비가 완벽하다면,\n두려울 것은 없다.",
+    "Enabled": true
   },
   "530048": {
     "OriginalText": "不安は尽きませんが、\nボクなりに頑張ります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "걱정은 끝이 없지만,\n제 나름대로 노력하겠습니다.",
+    "Enabled": true
   },
   "530049": {
     "OriginalText": "オレの実力をご覧あれってな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "내 실력을 잘 보시라, 이거지.",
+    "Enabled": true
   },
   "530050": {
     "OriginalText": "この戦場なら、オレを本気にさせてくれそうや。",
-    "Text": "",
-    "Enabled": false
+    "Text": "이런 전장이면 나도 진심으로 해 볼 만하겠네.",
+    "Enabled": true
   },
   "530051": {
     "OriginalText": "やさしいところが取り柄だって、\n母によく言われます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "상냥한 게 제 장점이라고\n어머니께서 자주 말씀하세요.",
+    "Enabled": true
   },
   "530052": {
     "OriginalText": "戦いがオレを待っている……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "전투가 나를 기다린다…",
+    "Enabled": true
   },
   "530053": {
     "OriginalText": "さっさと戦場に向かうぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "얼른 전장으로 가자!",
+    "Enabled": true
   },
   "530054": {
     "OriginalText": "戦闘は少し不得手でして……、\n書類仕事の方がお役に立てるかと思います。",
-    "Text": "",
-    "Enabled": false
+    "Text": "전투는 조금 서툴러서요…,\n서류 작업 쪽이 더 도움이 될 것 같습니다.",
+    "Enabled": true
   },
   "530055": {
     "OriginalText": "面白そうな戦場だね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "재미있어 보이는 전장이네.",
+    "Enabled": true
   },
   "530056": {
     "OriginalText": "おしゃああああ！\nやるぜーーー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "좋아아아아!\n해 보자아아!",
+    "Enabled": true
   },
   "530057": {
     "OriginalText": "ふふ、僕に頼ってもらって\nかまいませんよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "후후, 저한테 의지하셔도\n괜찮습니다.",
+    "Enabled": true
   },
   "530058": {
     "OriginalText": "余がいれば、万事解決じゃー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "짐이 있으면 만사가 해결되느니라!",
+    "Enabled": true
   },
   "530059": {
     "OriginalText": "とりあえず、ぱーっとやって\nダーカーなんて蹴散らしてやろうや。",
-    "Text": "",
-    "Enabled": false
+    "Text": "일단 화끈하게 한바탕 벌여서\n다커 따위는 쓸어버리자고.",
+    "Enabled": true
   },
   "530060": {
     "OriginalText": "仕事と休憩のバランスは大事だよね、うん。",
-    "Text": "",
-    "Enabled": false
+    "Text": "일과 휴식의 균형은 중요하지, 응.",
+    "Enabled": true
   },
   "530061": {
     "OriginalText": "力を尽くそう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "힘을 다하겠다.",
+    "Enabled": true
   },
   "530062": {
     "OriginalText": "これは面白い状況だね、\n気に入ったよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "이거 재미있는 상황이군.\n마음에 들어.",
+    "Enabled": true
   },
   "530063": {
     "OriginalText": "オラクルにいる時と違い、\n人員に限りがあります。\n適村適所を心がけましょう。",
-    "Text": "",
+    "Text": "오라클에 있을 때와 달리\n인원이 한정되어 있습니다.\n적재적소에 배치하도록 합시다.",
     "Enabled": false
   },
   "530064": {
     "OriginalText": "心配しなくても若い奴の足は引っ張らねえよ。\nまぁ見てなって。",
-    "Text": "",
-    "Enabled": false
+    "Text": "걱정 마, 젊은 녀석들 발목은 안 잡아.\n뭐, 두고 보라고.",
+    "Enabled": true
   },
   "530065": {
     "OriginalText": "さっさとしないと、置いていくぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "서두르지 않으면 두고 간다!",
+    "Enabled": true
   },
   "530066": {
     "OriginalText": "獲洋が大きいほど\n狩り甲斐があるってものだ。",
-    "Text": "",
+    "Text": "사냥감이 클수록\n사냥할 보람도 있는 법이지.",
     "Enabled": false
   },
   "530067": {
     "OriginalText": "ボクも皆さんのお役に立てるでしょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "저도 여러분께 도움이 될 수 있을까요?",
+    "Enabled": true
   },
   "530068": {
     "OriginalText": "あの、ボク皆さんのお役に\n立てますか……？",
-    "Text": "",
-    "Enabled": false
+    "Text": "저기, 저도 여러분께\n도움이 될까요…?",
+    "Enabled": true
   },
   "530069": {
     "OriginalText": "やっと、出番か。\n待ってたよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "드디어 내 차례구나.\n기다렸어!",
+    "Enabled": true
   },
   "530070": {
     "OriginalText": "私好みのかっこいい男の子と\n任務に出たいわ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "내 취향에 맞는 멋진 남자애랑\n임무에 나가고 싶어!",
+    "Enabled": true
   },
   "530071": {
     "OriginalText": "爺やの姿が見えんのだが、\nどこじゃ、爺や～、かくれんぼか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "할아범이 보이지 않는구나.\n어디 있느냐, 할아범아~. 숨바꼭질이냐?",
+    "Enabled": true
   },
   "530072": {
     "OriginalText": "趣味はもちろん、ダーカーをブッ叩くことだ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "취미야 당연히 다커를 때려잡는 거지!",
+    "Enabled": true
   },
   "530073": {
     "OriginalText": "誰が老体じゃ！\nワシはまだまだ現役じゃ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "누가 늙었다는 게냐!\n난 아직 현역이다!",
+    "Enabled": true
   },
   "530074": {
     "OriginalText": "もっと早く起こしてほしかったな。\n２～３人分の働きは余裕でこなすよ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "좀 더 일찍 깨워 줬으면 좋았을 텐데.\n2~3명 몫은 거뜬히 해내거든?",
+    "Enabled": true
   },
   "530075": {
     "OriginalText": "オレ、結構強いぜ！\n戦ってみるか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "나 꽤 강하다고!\n한번 싸워 볼래?",
+    "Enabled": true
   },
   "530076": {
     "OriginalText": "とりあえず、君の指示に従うよ、\nとりあえずはね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "일단은 네 지시에 따를게.\n일단은 말이야.",
+    "Enabled": true
   },
   "530077": {
     "OriginalText": "日々の積み重ねが\n己が糧になるのだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "하루하루 쌓은 노력이\n자신의 양식이 되는 법이다.",
+    "Enabled": true
   },
   "530078": {
     "OriginalText": "ん～、任務？\nもうちょっと休んでからいくよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "으음, 임무?\n좀 더 쉬었다 갈게.",
+    "Enabled": true
   },
   "530079": {
     "OriginalText": "共に戦って戦って、戦いぬいてやろうぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "함께 싸우고 또 싸워서, 끝까지 싸워 보자고!",
+    "Enabled": true
   },
   "530080": {
     "OriginalText": "いいでしょう。\n私が出ますので、皆さんは休んでいいですよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "좋습니다.\n제가 나갈 테니 여러분은 쉬셔도 됩니다.",
+    "Enabled": true
   },
   "530081": {
     "OriginalText": "そんなにオレの力が見たいのか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "그렇게 내 힘이 보고 싶냐?",
+    "Enabled": true
   },
   "530082": {
     "OriginalText": "……あれ？ なんでオレ、ここにいるんだ？\nまあいいか。細かいこと考えるより、\nちょっと体を動かしてーな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "…어라? 난 왜 여기 있지?\n뭐, 됐어. 복잡하게 생각하기보다는\n몸이나 좀 움직이고 싶네.",
+    "Enabled": true
   },
   "530083": {
     "OriginalText": "このセカイをオレがかえてやる！\nオレがオマエにホントの「ミライ」をみせてやるよ。\nだから、ついてこい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "이 세상은 내가 바꿔 주겠어!\n네게 진짜 '미래'를 보여 주마.\n그러니 따라와!",
+    "Enabled": true
   },
   "530084": {
     "OriginalText": "それなりに修羅場はくぐってきたつもりだ。\n頼りにしてくれていい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "나름 험한 꼴은 겪어 봤다고 생각한다.\n믿고 의지해도 좋다.",
+    "Enabled": true
   },
   "530085": {
     "OriginalText": "宇宙が呼んでいる。\nこの世の悪を倒せと、オレを呼んでいるんだ！\nわかるだろう、お前にだって？",
-    "Text": "",
-    "Enabled": false
+    "Text": "우주가 부르고 있어.\n세상의 악을 쓰러뜨리라며 날 부르고 있다고!\n너도 이해할 수 있지?",
+    "Enabled": true
   },
   "530086": {
     "OriginalText": "おっさんには、おっさんにしか出来ねえ\n戦い方があるんだぜ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "아저씨한텐 아저씨만 할 수 있는\n싸움법이 있거든?",
+    "Enabled": true
   },
   "530087": {
     "OriginalText": "どんな任務でも、問題ない。\nいくぞ。油断するなよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "어떤 임무든 문제없다.\n간다. 방심하지 마라.",
+    "Enabled": true
   },
   "530088": {
     "OriginalText": "フォローは任せろ。\n後方から確実に狙い撃つ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "엄호는 맡겨라.\n후방에서 확실히 저격하겠다.",
+    "Enabled": true
   },
   "530089": {
     "OriginalText": "ほれ、はよワシを戦場へ案内せんかい！\n準備万端、ヤル気マンマンじゃて～！",
-    "Text": "",
-    "Enabled": false
+    "Text": "자, 얼른 나를 전장으로 안내하지 않고 뭘 하느냐!\n준비도 만전이고 의욕도 넘친다!",
+    "Enabled": true
   },
   "530090": {
     "OriginalText": "空虚な夢など見ないことです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "헛된 꿈 같은 건 꾸지 마세요.",
+    "Enabled": true
   },
   "530091": {
     "OriginalText": "いきなり起こされても困っちゃうよなぁ……",
-    "Text": "",
-    "Enabled": false
+    "Text": "갑자기 깨우면 나도 곤란한데…",
+    "Enabled": true
   },
   "530092": {
     "OriginalText": "どこ？ どこだよ原生種は？\nオレがすぐにひねってやるぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "어디? 원생종은 어디 있냐?\n내가 당장 손봐 주지!",
+    "Enabled": true
   },
   "530093": {
     "OriginalText": "なんだか、つまんなトコで起こされたみたいだね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "어째 시시한 곳에서 깨어난 것 같네.",
+    "Enabled": true
   },
   "530094": {
     "OriginalText": "運が悪かったね……",
-    "Text": "",
-    "Enabled": false
+    "Text": "운이 나빴네…",
+    "Enabled": true
   },
   "530095": {
     "OriginalText": "なーんかパッとしないねー。\nいや、別に君のこと言ったんじゃないよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "어째 영 별로네.\n아니, 딱히 널 두고 한 말은 아니야.",
+    "Enabled": true
   },
   "530096": {
     "OriginalText": "真面目なだけが取り柄のつまらない者ですが\nよろしくお願いいたします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "성실한 것만이 장점인 재미없는 사람이지만\n잘 부탁드립니다.",
+    "Enabled": true
   },
   "530097": {
     "OriginalText": "まずは己を知りましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "먼저 자신을 알아봅시다.",
+    "Enabled": true
   },
   "530098": {
     "OriginalText": "出来ることは限られるかもしれませんが、\n足りない部分は努力で補います。",
-    "Text": "",
-    "Enabled": false
+    "Text": "제가 할 수 있는 일은 한정되어 있겠지만,\n부족한 부분은 노력으로 채우겠습니다.",
+    "Enabled": true
   },
   "530099": {
     "OriginalText": "断っておくけど実地経験ゼロなんで。\n行けばなんとかなるって聞いてきたんだけどー。",
-    "Text": "",
-    "Enabled": false
+    "Text": "미리 말하는데 현장 경험은 전혀 없거든.\n가면 어떻게든 된다고 듣고 온 건데.",
+    "Enabled": true
   },
   "530100": {
     "OriginalText": "某、この地に死に場所を求めて参った。",
-    "Text": "",
-    "Enabled": false
+    "Text": "소인은 이 땅에서 죽을 자리를 찾으러 왔소.",
+    "Enabled": true
   },
   "530101": {
     "OriginalText": "最後に生き残るのは、命知らずな奴じゃない。\n臆病な奴なんだぜ……",
-    "Text": "",
-    "Enabled": false
+    "Text": "마지막에 살아남는 건 겁 없는 놈이 아니야.\n겁쟁이인 놈이지…",
+    "Enabled": true
   },
   "530102": {
     "OriginalText": "余のサポートを申し付ける。ん？ 逆じゃな。\n余がそこもとのサポートをせねばならぬのか。\n本当は真っ平ごめんじゃが。",
-    "Text": "",
-    "Enabled": false
+    "Text": "짐을 보좌하도록 하라. 응? 반대였구나.\n짐이 그대를 보좌해야 한다는 말인가.\n사실은 질색이다만.",
+    "Enabled": true
   },
   "530103": {
     "OriginalText": "戦うしかねぇだろ？ 戦うしか。",
-    "Text": "",
-    "Enabled": false
+    "Text": "싸울 수밖에 없잖아? 싸울 수밖에.",
+    "Enabled": true
   },
   "530104": {
     "OriginalText": "オレはオレのやりたいようにするぜ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "난 내가 하고 싶은 대로 할 거야.",
+    "Enabled": true
   },
   "530105": {
     "OriginalText": "いろいろ大変そうだけど\nやるしかないよね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "이래저래 힘들어 보이지만\n할 수밖에 없겠지.",
+    "Enabled": true
   },
   "530106": {
     "OriginalText": "まっ、期待似上の働きはするで！",
-    "Text": "",
+    "Text": "뭐, 기대 이상으로 일해 줄게!",
     "Enabled": false
   },
   "530107": {
     "OriginalText": "皆、私に続け！",
-    "Text": "",
-    "Enabled": false
+    "Text": "모두 나를 따르라!",
+    "Enabled": true
   },
   "530108": {
     "OriginalText": "皆の者、突撃だー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "모두들, 돌격이다!",
+    "Enabled": true
   },
   "530109": {
     "OriginalText": "オレが作った防具を試してくれないか？！",
-    "Text": "",
-    "Enabled": false
+    "Text": "내가 만든 방어구를 시험해 보지 않을래?!",
+    "Enabled": true
   },
   "530110": {
     "OriginalText": "皆さんのサポート役として頑張ります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여러분을 지원하는 역할로 힘쓰겠습니다.",
+    "Enabled": true
   },
   "530111": {
     "OriginalText": "皆のサポート役として力になろう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "모두를 지원하는 역할로 힘이 되겠다.",
+    "Enabled": true
   },
   "530112": {
     "OriginalText": "このような状況ですから\n協力することは構いませんよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "이런 상황이니\n협력하는 건 상관없습니다.",
+    "Enabled": true
   },
   "530113": {
     "OriginalText": "欲するものがあるならば、申してみよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "원하는 것이 있다면 말해 보거라.",
+    "Enabled": true
   },
   "530114": {
     "OriginalText": "オレは、自由に戦いたいんでね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "난 자유롭게 싸우고 싶거든.",
+    "Enabled": true
   },
   "530115": {
     "OriginalText": "未開の地か……。\n興味深いな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "미개척지라…\n흥미롭군!",
+    "Enabled": true
   },
   "530116": {
     "OriginalText": "なんじゃここは、未知の惑星か？\nそれなら探索しようぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "뭐냐, 여긴 미지의 행성이냐?\n그럼 탐색해 보자꾸나!",
+    "Enabled": true
   },
   "530117": {
     "OriginalText": "新しい任地に降り立つたびに\n新たなパートナーとの出会いを\n期待してしまいます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "새로운 임지에 내려설 때마다\n새로운 파트너와 만날 수 있을까\n기대하게 됩니다.",
+    "Enabled": true
   },
   "530118": {
     "OriginalText": "全てワシに任せておけばよい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "전부 나에게 맡겨 두면 된다.",
+    "Enabled": true
   },
   "530119": {
     "OriginalText": "食う寝る着るの充実なくしては、\nクルーの土気は下がるばかりだろう。",
-    "Text": "",
+    "Text": "먹고 자고 입는 것이 충실하지 않으면,\n크루의 사기는 떨어지기만 할 것이다.",
     "Enabled": false
   },
   "530120": {
     "OriginalText": "えっと、ボクは何をしましょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "저기, 저는 무엇을 하면 될까요?",
+    "Enabled": true
   },
   "530121": {
     "OriginalText": "おっしゃーいっくぜー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "좋았어, 가자!",
+    "Enabled": true
   },
   "530122": {
     "OriginalText": "何なりとお申し付けください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "무엇이든 분부하십시오.",
+    "Enabled": true
   },
   "530123": {
     "OriginalText": "ん、ボクの出番？",
-    "Text": "",
-    "Enabled": false
+    "Text": "응, 내 차례야?",
+    "Enabled": true
   },
   "530124": {
     "OriginalText": "戦場がワシを呼んでいるって\nヤツじゃな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "전장이 나를 부른다,\n뭐 그런 게지.",
+    "Enabled": true
   },
   "530125": {
     "OriginalText": "目覚めにひと暴れしたいもんやな。\n付き合ってくれるか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "깨어났으니 한바탕 날뛰고 싶네.\n같이 가 줄래?",
+    "Enabled": true
   },
   "530126": {
     "OriginalText": "クラスには誰しも向き不向きがあります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "누구나 맞는 클래스와 안 맞는 클래스가 있지요.",
+    "Enabled": true
   },
   "530127": {
     "OriginalText": "そろそろクラスチェンジもいいかな、\nなんて考えてるんだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "슬슬 클래스 체인지를 해도 괜찮을까,\n그런 생각을 하고 있어.",
+    "Enabled": true
   },
   "530128": {
     "OriginalText": "おらおら、さっさといくぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "자자, 얼른 가자고!",
+    "Enabled": true
   },
   "530129": {
     "OriginalText": "オレを戦場に出すというのか……。\nなかなかの英断だ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "나를 전장에 내보낸다는 건가…\n제법 대담한 결정이군.",
+    "Enabled": true
   },
   "530130": {
     "OriginalText": "やることは多そうだが、\nさて、何から手を付けたものか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "할 일은 많아 보이는데,\n자, 무엇부터 손대야 할까?",
+    "Enabled": true
   },
   "530131": {
     "OriginalText": "ボクでも役に立てることがあるならば\nお気軽にお声掛けください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "저라도 도움이 될 일이 있다면\n부담 없이 말씀해 주세요.",
+    "Enabled": true
   },
   "530132": {
     "OriginalText": "泣き言は死んでから言え！",
-    "Text": "",
-    "Enabled": false
+    "Text": "푸념은 죽고 나서 해라!",
+    "Enabled": true
   },
   "530133": {
     "OriginalText": "本当の法撃の力を見せて差し上げます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "진정한 법격의 힘을 보여 드리겠습니다.",
+    "Enabled": true
   },
   "530134": {
     "OriginalText": "荒野にガンマンなんて\nなかなか絵になるロケ地だね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "황야의 총잡이라니\n제법 그림이 되는 촬영지네.",
+    "Enabled": true
   },
   "530135": {
     "OriginalText": "この拠点には足りないものは\nヒーローだ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "이 거점에 부족한 건\n히어로야!",
+    "Enabled": true
   },
   "530136": {
     "OriginalText": "久しぶりの現場で心が躍るわ。\nほな、よろしくな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "오랜만에 현장에 나오니 가슴이 뛰네.\n그럼 잘 부탁해!",
+    "Enabled": true
   },
   "530137": {
     "OriginalText": "ピッピーピピ、ピピピピー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "삣삐-삐삐, 삐삐삐삐-!",
+    "Enabled": true
   },
   "530138": {
     "OriginalText": "お前にも、闇を見せてやろうか……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "너에게도 어둠을 보여 주랴…",
+    "Enabled": true
   },
   "530139": {
     "OriginalText": "共に戦おうじゃないか！",
-    "Text": "",
-    "Enabled": false
+    "Text": "함께 싸워 보지 않겠나!",
+    "Enabled": true
   },
   "530140": {
     "OriginalText": "キミのお手並み拝見ってとこかな？",
-    "Text": "",
-    "Enabled": false
+    "Text": "어디, 네 솜씨 좀 볼까?",
+    "Enabled": true
   },
   "530141": {
     "OriginalText": "また、コールドスリープさせられんよう、\nぼちぼち頑張るか。",
-    "Text": "",
-    "Enabled": false
+    "Text": "다시 콜드 슬립을 당하지 않도록\n적당히 힘 좀 써 볼까.",
+    "Enabled": true
   },
   "530142": {
     "OriginalText": "えっと、僕はここにいても\nいいのでしょうか……？\nとにかく頑張ります！",
-    "Text": "",
-    "Enabled": false
+    "Text": "저기, 제가 여기 있어도\n괜찮을까요…?\n아무튼 열심히 하겠습니다!",
+    "Enabled": true
   },
   "530143": {
     "OriginalText": "状況を打破するために\nオレの力が必要ってか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "이 상황을 타개하려면\n내 힘이 필요하다는 거냐?",
+    "Enabled": true
   },
   "530144": {
     "OriginalText": "どいつもこいつもオレばっか頼りやがって。\nちっ、しかたねえな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "이놈이고 저놈이고 나한테만 기대는군.\n쳇, 어쩔 수 없지.",
+    "Enabled": true
   },
   "530145": {
     "OriginalText": "その胸に正義があれば\n負けることはない！",
-    "Text": "",
-    "Enabled": false
+    "Text": "가슴에 정의가 있다면\n지는 일은 없다!",
+    "Enabled": true
   },
   "530146": {
     "OriginalText": "よっ！ アンタ、おれの相棒になってくれるのか？\nま、よろしくな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "여어! 당신이 내 파트너가 되어 주는 건가?\n뭐, 잘 부탁해!",
+    "Enabled": true
   },
   "530147": {
     "OriginalText": "言っとくけど、オレ強いんだぜ？\n見た目で判断するなよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "미리 말해 두는데, 나 강하거든?\n겉모습만 보고 판단하지 마!",
+    "Enabled": true
   },
   "530148": {
     "OriginalText": "先陣を切るのは、オレだ。\n他の奴らに譲る気はねえよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "선두에 나서는 건 나다.\n다른 녀석들에게 양보할 생각은 없어.",
+    "Enabled": true
   },
   "530149": {
     "OriginalText": "ここまで、夢で見た通りの展開だ……\nさあ、案内してもらおうか。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여기까지는 꿈에서 본 그대로군…\n자, 안내해 주겠나.",
+    "Enabled": true
   },
   "530150": {
     "OriginalText": "けっ、\nオレに逆らうヤツはみんなバラバラにしてやるぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "쳇,\n내게 거스르는 놈들은 죄다 박살 내 주겠어!",
+    "Enabled": true
   },
   "530151": {
     "OriginalText": "なんや、オレの出番かいな？\nおーっし、ぎょーさん稼いで\nたんまり仕送りしたるさかい、まっとれよ、オカン！",
-    "Text": "",
-    "Enabled": false
+    "Text": "뭐야, 내 차례인 거냐?\n좋았어, 잔뜩 벌어서\n돈 듬뿍 부쳐 줄 테니 기다려, 엄마!",
+    "Enabled": true
   },
   "530152": {
     "OriginalText": "もう少しシャキっとしなきゃって\n自分でも思うんだけどね……",
-    "Text": "",
-    "Enabled": false
+    "Text": "좀 더 정신을 차려야겠다고\n나도 생각은 하는데…",
+    "Enabled": true
   },
   "530153": {
     "OriginalText": "辺境の惑星をいくつも生き延びたワシには\nこの程度の惑星はビビるに値せんぞい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "변경의 행성 여럿에서 살아남은 나에게\n이 정도 행성은 겁낼 거리도 못 된다네!",
+    "Enabled": true
   },
   "530154": {
     "OriginalText": "とてもいい気分です。\nきっと、あなたと会えたからですね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "정말 기분이 좋네요.\n분명 당신을 만났기 때문이겠죠!",
+    "Enabled": true
   },
   "530155": {
     "OriginalText": "ゆるーく探索にでも出てみよっかな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "느긋하게 탐색이라도 나가 볼까.",
+    "Enabled": true
   },
   "530156": {
     "OriginalText": "もうかりまっか？\nオレの方はまあ、ぼちぼちでんな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "장사는 잘되나?\n내 쪽은 뭐, 그럭저럭이지.",
+    "Enabled": true
   },
   "530157": {
     "OriginalText": "俺にふさわしい絶望の舞台が用意されてるな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "나에게 걸맞은 절망의 무대가 준비되어 있군.",
+    "Enabled": true
   },
   "530158": {
     "OriginalText": "おぬしら、ワシの第３の眼が開く瞬間の\n生き証人になってもらおうかいの！",
-    "Text": "",
-    "Enabled": false
+    "Text": "자네들, 내 제3의 눈이 열리는 순간을\n지켜볼 산증인이 되어 주겠나!",
+    "Enabled": true
   },
   "530159": {
     "OriginalText": "さくっと戦場に出てみたいな。\nツインマシンガンならいつでも教えるぜ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "가볍게 전장에 나가 보고 싶네.\n트윈 머신 건이라면 언제든 가르쳐 줄게?",
+    "Enabled": true
   },
   "530160": {
     "OriginalText": "やっぱり俺の力が必要ってことだろ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "역시 내 힘이 필요하단 거잖아!",
+    "Enabled": true
   },
   "530161": {
     "OriginalText": "まぁ、このくらいの状況\n僕が何とかしてあげるよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "뭐, 이 정도 상황은\n내가 어떻게든 해 줄게.",
+    "Enabled": true
   },
   "530162": {
     "OriginalText": "オレの活躍ちゃんと見てくれよな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "내 활약 제대로 봐 줘!",
+    "Enabled": true
   },
   "530163": {
     "OriginalText": "なにゆえ我らは戦わねばならぬのか……\nそこにダーカーがいるからと心得たり！",
-    "Text": "",
-    "Enabled": false
+    "Text": "어째서 우리는 싸워야 하는가…\n그곳에 다커가 있기 때문이라 깨달았노라!",
+    "Enabled": true
   },
   "530164": {
     "OriginalText": "ボクって結構役に立つと思うんだよね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "난 꽤 도움이 될 거라고 생각해.",
+    "Enabled": true
   },
   "530165": {
     "OriginalText": "困難な状況ほど腕が鳴るってな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "어려울수록 실력을 발휘하고 싶어지는 법이지.",
+    "Enabled": true
   },
   "530166": {
     "OriginalText": "まっ、そんな固い顔するなよ。\n気楽にいこうぜ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "뭐, 그렇게 굳은 표정 짓지 마.\n편하게 가자고.",
+    "Enabled": true
   },
   "530167": {
     "OriginalText": "オレに任せておけば問題はない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "나에게 맡겨 두면 문제없다.",
+    "Enabled": true
   },
   "530168": {
     "OriginalText": "まだまだ力不足だと思いますが\n精いっぱい頑張ります！",
-    "Text": "",
-    "Enabled": false
+    "Text": "아직 많이 부족하다고 생각하지만\n온 힘을 다하겠습니다!",
+    "Enabled": true
   },
   "530169": {
     "OriginalText": "起こしていただけて光栄ですね。\n最善を尽くしましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "깨워 주시다니 영광이군요.\n최선을 다하겠습니다.",
+    "Enabled": true
   },
   "530170": {
     "OriginalText": "余のサポートを申し付けるぞ。\n光栄じゃろう！",
-    "Text": "",
-    "Enabled": false
+    "Text": "짐을 보좌하도록 하라.\n영광스럽지 않느냐!",
+    "Enabled": true
   },
   "530171": {
     "OriginalText": "かわいい女の子のためなら\n働いてもいいかな、なんてね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "귀여운 여자아이를 위해서라면\n일해도 괜찮을까, 뭐 그런 거지.",
+    "Enabled": true
   },
   "530172": {
     "OriginalText": "肢才には覚えがあるぜ。",
-    "Text": "",
+    "Text": "장사 재능은 자신 있다고.",
     "Enabled": false
   },
   "530173": {
     "OriginalText": "えっと、ご指導よろしくお願いします！",
-    "Text": "",
-    "Enabled": false
+    "Text": "저기, 잘 지도해 주세요!",
+    "Enabled": true
   },
   "530174": {
     "OriginalText": "狩りなら今すぐ出掛けてもいいぜ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "사냥이라면 지금 바로 나가도 좋아?",
+    "Enabled": true
   },
   "530175": {
     "OriginalText": "へへっ、ここなら暴れがいがありそうだ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "헤헤, 여기라면 날뛸 보람이 있겠는데!",
+    "Enabled": true
   },
   "530176": {
     "OriginalText": "いくつになろうと、新しいことへの\n興味を忘れてはいかんのだぞ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "나이가 아무리 들어도 새로운 것에 대한\n관심을 잊어서는 안 된다.",
+    "Enabled": true
   },
   "530177": {
     "OriginalText": "まっとりあえずよろしく！",
-    "Text": "",
-    "Enabled": false
+    "Text": "뭐, 일단 잘 부탁해!",
+    "Enabled": true
   },
   "530178": {
     "OriginalText": "どんな状況でも実力を発揮できてこそ\nいいアークスってもんだろ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "어떤 상황에서도 실력을 발휘해야\n좋은 아크스라고 할 수 있지.",
+    "Enabled": true
   },
   "530179": {
     "OriginalText": "オレの出番のようだ。\nふん、仕方ない。手を貸してやろう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "내 차례인가 보군.\n흥, 어쩔 수 없지. 도와주겠다.",
+    "Enabled": true
   },
   "530180": {
     "OriginalText": "はじめまして！\nよろしくお願いします！",
-    "Text": "",
-    "Enabled": false
+    "Text": "처음 뵙겠습니다!\n잘 부탁드립니다!",
+    "Enabled": true
   },
   "530181": {
     "OriginalText": "このような状況だからこそ\nまずは深呼吸で落ち着くことが大切ですよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "이런 상황일수록 우선\n심호흡으로 마음을 가라앉히는 게 중요합니다.",
+    "Enabled": true
   },
   "530182": {
     "OriginalText": "色々めんどーなことが\n起きてるみたいだが、\nまぁ何とかしてやるよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "이래저래 귀찮은 일이\n벌어진 모양인데,\n뭐, 어떻게든 해 줄게!",
+    "Enabled": true
   },
   "530183": {
     "OriginalText": "戦場に出ないと、コールドスリープから\n目覚めても起きた気分がしないよな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "전장에 안 나가면 콜드 슬립에서\n깨어나도 깬 기분이 안 든단 말이지!",
+    "Enabled": true
   },
   "530184": {
     "OriginalText": "武器は確かな腕にこそ馴染むものですね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기는 확실한 실력을 갖춘 손에 익는 법이지요.",
+    "Enabled": true
   },
   "530185": {
     "OriginalText": "どんなかわいいエネミーちゃんと\n出会えるか楽しみだわ～！",
-    "Text": "",
-    "Enabled": false
+    "Text": "어떤 귀여운 에너미를\n만날 수 있을지 기대되네~!",
+    "Enabled": true
   },
   "530186": {
     "OriginalText": "まぁ、のんびりいこうや。",
-    "Text": "",
-    "Enabled": false
+    "Text": "뭐, 느긋하게 가자고.",
+    "Enabled": true
   },
   "530187": {
     "OriginalText": "僕だってやれるんだ……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "나도 할 수 있어…!",
+    "Enabled": true
   },
   "530188": {
     "OriginalText": "では、参る！",
-    "Text": "",
-    "Enabled": false
+    "Text": "그럼, 간다!",
+    "Enabled": true
   },
   "530189": {
     "OriginalText": "急いでも損するだけだよ。\nゆっくり頑張ろうか。",
-    "Text": "",
-    "Enabled": false
+    "Text": "서둘러 봐야 손해일 뿐이야.\n천천히 힘내 볼까.",
+    "Enabled": true
   },
   "530190": {
     "OriginalText": "経験に勝る武器はない。\nそれは戦場にしか落ちていない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "경험보다 뛰어난 무기는 없다.\n그것은 전장에서만 얻을 수 있다.",
+    "Enabled": true
   },
   "530191": {
     "OriginalText": "ライフルを持ってると\nテンション上がってまうわ～。",
-    "Text": "",
-    "Enabled": false
+    "Text": "라이플을 들고 있으면\n신이 난단 말이야~.",
+    "Enabled": true
   },
   "530192": {
     "OriginalText": "いきなり仕事か？\nまっ、やってやるさ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "다짜고짜 일인가?\n뭐, 해 주지!",
+    "Enabled": true
   },
   "530193": {
     "OriginalText": "コスチューム製作にも、法撃にも\n繊細なセンスってものが必要なんだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "코스튬 제작에도 법격에도\n섬세한 감각이 필요하거든.",
+    "Enabled": true
   },
   "530194": {
     "OriginalText": "皆の者、我に続けー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "모두들, 나를 따르라!",
+    "Enabled": true
   },
   "530195": {
     "OriginalText": "どうじゃ、このコスチューム、\nとげとげでかっこいーじゃろ！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "어떠냐, 이 코스튬.\n뾰족뾰족해서 멋지지 않으냐!?",
+    "Enabled": true
   },
   "530196": {
     "OriginalText": "キミの采配で僕の力を\n発揮させられるかな？",
-    "Text": "",
-    "Enabled": false
+    "Text": "네 지휘로 내 힘을\n발휘하게 할 수 있을까?",
+    "Enabled": true
   },
   "530197": {
     "OriginalText": "なかなかおもしろそうな新兵器だ。\n使うのが楽しみだよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "제법 재미있어 보이는 신병기군.\n써 보는 게 기대되네.",
+    "Enabled": true
   },
   "530198": {
     "OriginalText": "ヒュペリオンさんみたいな\n戦う料理人っていうのもいいですよね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "히페리온 씨처럼\n싸우는 요리사가 되는 것도 좋겠죠.",
+    "Enabled": true
   },
   "530199": {
     "OriginalText": "状況が悪ければ悪いほど\n燃えるってもんだろ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "상황이 나쁠수록\n불타오르는 법이잖아?",
+    "Enabled": true
   },
   "530200": {
     "OriginalText": "オレを起こそうってのか……？\nその度胸だけは評価してやる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "나를 깨우겠다는 건가…?\n그 배짱만은 인정해 주지.",
+    "Enabled": true
   },
   "530201": {
     "OriginalText": "生きて還る姿をイメージしましょう。\nすべてはそこから始まるはずです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "살아서 돌아오는 모습을 떠올려 봅시다.\n모든 것은 거기서 시작될 겁니다.",
+    "Enabled": true
   },
   "530202": {
     "OriginalText": "そんなに急かすなよ。\n真打ってのは遅れて登場するもんだろ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "그렇게 재촉하지 마.\n주인공은 늦게 등장하는 법이잖아?",
+    "Enabled": true
   },
   "530203": {
     "OriginalText": "新武器の使い心地を確かめてみます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "새 무기의 사용감을 확인해 보겠습니다.",
+    "Enabled": true
   },
   "530204": {
     "OriginalText": "この部隊はいい男が多くて\n目の保養になるわ～。",
-    "Text": "",
-    "Enabled": false
+    "Text": "이 부대엔 멋진 남자가 많아서\n눈이 즐겁네~.",
+    "Enabled": true
   },
   "530205": {
     "OriginalText": "心技体、全てが揃ってこそ\n良い仕事ができるものぞ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "마음과 기술, 몸이 모두 갖추어져야\n제대로 일을 할 수 있는 법이다.",
+    "Enabled": true
   },
   "530206": {
     "OriginalText": "フフ……「黒下」とも呼ばれる吾堰の力\n存分に見せてやろう！\n……言っておくが、敵ではないぞ",
-    "Text": "",
+    "Text": "후후... '검은 각하'라 불리는 나의 힘을\n마음껏 보여 주마!\n...미리 말해 두지만, 적은 아니다.",
     "Enabled": false
   },
   "530207": {
     "OriginalText": "『セガエイギョーマン』っす！\nよろしくっす！",
-    "Text": "",
-    "Enabled": false
+    "Text": "'세가 영업맨'입니다!\n잘 부탁드려요!",
+    "Enabled": true
   },
   "530208": {
     "OriginalText": "オマエガヒツヨウトスルナラバ。\nオマエノタタカイノ、チカラニナロウ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "네가 필요로 한다면.\n너의 싸움에 힘이 되겠다.",
+    "Enabled": true
   },
   "530209": {
     "OriginalText": "我が名は『ハルライン』。\n推して参る！",
-    "Text": "",
-    "Enabled": false
+    "Text": "내 이름은 '하르라인'.\n나아가겠다!",
+    "Enabled": true
   },
   "530210": {
     "OriginalText": "噂は聞いてるぞ。お前、強いんだろ？\n期待してるぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "소문은 들었어. 너, 강하다며?\n기대하고 있다고!",
+    "Enabled": true
   },
   "530211": {
-    "OriginalText": "言葉はいらぬ。\n戦土は、ただ挙で語ればよい。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "言葉はいらぬ。\n戦士は、ただ拳で語ればよい。",
+    "Text": "말은 필요 없다.\n전사는 오직 주먹으로 말하면 된다.",
+    "Enabled": true
   },
   "530212": {
     "OriginalText": "オレを起こさねばならぬほど、\n事態は切迫している……そういうことか。\nククク……面白い。",
-    "Text": "",
-    "Enabled": false
+    "Text": "나를 깨워야 할 만큼\n사태가 절박하다… 그런 뜻인가.\n크크크… 재미있군.",
+    "Enabled": true
   },
   "530213": {
     "OriginalText": "私に過大な期待をかけられても困りますが……",
-    "Text": "",
-    "Enabled": false
+    "Text": "저에게 지나친 기대를 하셔도 곤란합니다만…",
+    "Enabled": true
   },
   "530214": {
     "OriginalText": "おいおい、一番元気なこのオレを\n一番に起こしてくれなきゃ困るなぁ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "이봐, 가장 활기찬 이 몸을\n가장 먼저 깨워 줘야 하는 거 아냐!",
+    "Enabled": true
   },
   "530215": {
     "OriginalText": "実はつまんねぇモンだぜ。\nアークスなんて生き方はよ……",
-    "Text": "",
-    "Enabled": false
+    "Text": "사실은 시시한 거야.\n아크스로 살아간다는 건 말이지…",
+    "Enabled": true
   },
   "530216": {
     "OriginalText": "まだまだ問題が山積しているようですね。\n一つ一つ確実に潰していきましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "아직도 문제가 산더미인 모양이군요.\n하나하나 확실하게 해결합시다.",
+    "Enabled": true
   },
   "530217": {
     "OriginalText": "ああーっ！ もうジッとしてるのはたくさんだ！\n早く出撃しようぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "아아! 가만히 있는 건 이제 지긋지긋해!\n빨리 출격하자고!",
+    "Enabled": true
   },
   "530218": {
     "OriginalText": "起こしたのが私みたいな子で……\n問題なかったんでしょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "저 같은 아이를 깨우셨는데…\n괜찮으셨던 걸까요?",
+    "Enabled": true
   },
   "530219": {
     "OriginalText": "誰がこの私を指導してくれるのかしら？",
-    "Text": "",
-    "Enabled": false
+    "Text": "누가 이 몸을 지도해 줄까?",
+    "Enabled": true
   },
   "530220": {
     "OriginalText": "こんな壊れた[ruby ふね]艦[/ruby]で大丈夫なの？",
-    "Text": "",
-    "Enabled": false
+    "Text": "이렇게 망가진 함선으로 괜찮겠어?",
+    "Enabled": true
   },
   "530221": {
     "OriginalText": "なんだか大変そうだけど、ワクワクするね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "어째 힘들어 보이지만 두근거리네!",
+    "Enabled": true
   },
   "530222": {
     "OriginalText": "日頃の鍛錬を生かせる機会をようやく得られて、\n戦場に出るのがとても楽しみよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "평소의 단련을 살릴 기회를 드디어 얻었으니,\n전장에 나가는 게 정말 기대돼.",
+    "Enabled": true
   },
   "530223": {
     "OriginalText": "やっほー！ フォースとしてはまだまだだけど、\n元気なら負けないよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "안녕! 포스로서는 아직 부족하지만,\n활기만큼은 지지 않아!",
+    "Enabled": true
   },
   "530224": {
     "OriginalText": "アサルトライフルしかできないけど\n頑張るよっ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "어설트 라이플밖에 못 쓰지만\n열심히 할게!",
+    "Enabled": true
   },
   "530225": {
     "OriginalText": "なんだか面倒なことになっているようね。\nまぁ、その方が面白いってもんね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "어째 귀찮은 일이 벌어진 것 같네.\n뭐, 그 편이 재미있긴 하지.",
+    "Enabled": true
   },
   "530226": {
     "OriginalText": "こんな状況だし、手龍ってあげるよ。\nあんただけじゃ心配だからね。",
-    "Text": "",
+    "Text": "이런 상황이니 도와줄게.\n너 혼자서는 걱정되니까.",
     "Enabled": false
   },
   "530227": {
     "OriginalText": "可能な限り助力します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "가능한 한 돕겠습니다.",
+    "Enabled": true
   },
   "530228": {
     "OriginalText": "ふふ、よろしくね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "후후, 잘 부탁해.",
+    "Enabled": true
   },
   "530229": {
     "OriginalText": "一緒に頑張ろうぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "함께 힘내 보자!",
+    "Enabled": true
   },
   "530230": {
     "OriginalText": "このような状況下だからこそ\n見えてくるものがある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "이런 상황이기에 비로소\n보이는 것도 있다.",
+    "Enabled": true
   },
   "530231": {
     "OriginalText": "私の力をそこで見ているといいわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "거기서 내 힘을 지켜보도록 해.",
+    "Enabled": true
   },
   "530232": {
     "OriginalText": "ロッド大好き！ 任務大好き！ みんな大好き！\n出撃を楽しみにしてるね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "로드가 좋아! 임무도 좋아! 모두가 좋아!\n출격을 기대하고 있을게!",
+    "Enabled": true
   },
   "530233": {
     "OriginalText": "私は私の役目を果たすだけです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "저는 제 역할을 다할 뿐입니다.",
+    "Enabled": true
   },
   "530234": {
     "OriginalText": "こんな状況で何ができる分かりませんが、\n私なりに頑張ります。",
-    "Text": "",
+    "Text": "이런 상황에서 무엇을 할 수 있을지 모르겠지만,\n제 나름대로 힘쓰겠습니다.",
     "Enabled": false
   },
   "530235": {
     "OriginalText": "後方支援に徹したいけど\n戦う者を見ていると暴れたくなってしまう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "후방 지원에 전념하고 싶은데\n싸우는 사람을 보면 날뛰고 싶어져.",
+    "Enabled": true
   },
   "530236": {
     "OriginalText": "悩んでもしょうがないよ！\n一緒にガンバロ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "고민해 봐야 소용없어!\n같이 힘내자!",
+    "Enabled": true
   },
   "530237": {
     "OriginalText": "戦闘に参加したら、\nせっかくのおにゅーの海服が汚れちゃうわ。",
-    "Text": "",
+    "Text": "전투에 참가하면\n모처럼 새로 마련한 양복이 더러워지잖아.",
     "Enabled": false
   },
   "530238": {
     "OriginalText": "後方支援をメインに協力させて\nいただければと思います。",
-    "Text": "",
-    "Enabled": false
+    "Text": "후방 지원을 중심으로\n협력할 수 있으면 좋겠습니다.",
+    "Enabled": true
   },
   "530239": {
     "OriginalText": "いつでも元気いっぱいです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "언제나 활기차답니다!",
+    "Enabled": true
   },
   "530240": {
-    "OriginalText": "私の戦闘経験を参考にして作った\n防具を伝備してみないか？",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "私の戦闘経験を参考にして作った\n防具を装備してみないか？",
+    "Text": "내 전투 경험을 바탕으로 만든\n방어구를 장비해 보지 않겠나?",
+    "Enabled": true
   },
   "530241": {
     "OriginalText": "こう見えても、手先は器用な方なんだ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "이래 보여도 손재주는 좋은 편이야!",
+    "Enabled": true
   },
   "530242": {
     "OriginalText": "ほらっ、さっさとしないと置いてくよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "자, 서두르지 않으면 두고 간다!",
+    "Enabled": true
   },
   "530243": {
     "OriginalText": "地表での生活なんて斬新！",
-    "Text": "",
-    "Enabled": false
+    "Text": "지표에서 생활하다니 신선하네!",
+    "Enabled": true
   },
   "530244": {
     "OriginalText": "過ぎたことで悩んでも仕方ない。\n今は前に進むだけだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "지나간 일로 고민해 봐야 소용없다.\n지금은 앞으로 나아갈 뿐이야.",
+    "Enabled": true
   },
   "530245": {
     "OriginalText": "細かい作業は得意よ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "세밀한 작업은 자신 있어.",
+    "Enabled": true
   },
   "530246": {
     "OriginalText": "状況を知れば知るほど、考えることは多いですが\nやるべきことをやっていきましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "상황을 알수록 생각할 일이 많아지지만\n해야 할 일을 해 나갑시다.",
+    "Enabled": true
   },
   "530247": {
     "OriginalText": "調子はどお？ 元気出さなきゃダメだよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "상태는 어때? 기운을 내야지!",
+    "Enabled": true
   },
   "530248": {
     "OriginalText": "派手に敵を蹴散らしてあげるわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "화려하게 적을 쓸어버려 줄게.",
+    "Enabled": true
   },
   "530249": {
     "OriginalText": "まずは状況の整理が肝要だ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "우선 상황을 정리하는 게 중요하다.",
+    "Enabled": true
   },
   "530250": {
     "OriginalText": "戦闘も大事ですけど、後方支援をもっと\n充実させたいと思っています。",
-    "Text": "",
-    "Enabled": false
+    "Text": "전투도 중요하지만, 후방 지원을 더욱\n충실하게 하고 싶습니다.",
+    "Enabled": true
   },
   "530251": {
     "OriginalText": "下を向いている暇はないぞ。\n己がなすべきことを成せ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "고개 숙이고 있을 틈은 없다.\n자신이 해야 할 일을 해라.",
+    "Enabled": true
   },
   "530252": {
     "OriginalText": "拠点でみんなの活躍を\n見守らせてもらうわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "거점에서 모두의 활약을\n지켜볼게.",
+    "Enabled": true
   },
   "530253": {
     "OriginalText": "フフ、一緒にダーカーを狩りに\nいきましょー。",
-    "Text": "",
-    "Enabled": false
+    "Text": "후후, 함께 다커를 사냥하러\n가자.",
+    "Enabled": true
   },
   "530254": {
     "OriginalText": "まだまだ、苦手なことが多いですが\nご指導よろしくお願いします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "아직 서투른 일이 많지만\n잘 지도해 주시기 바랍니다.",
+    "Enabled": true
   },
   "530255": {
     "OriginalText": "何か手龍えることはありますか？\n遠慮しなくていいですよ！",
-    "Text": "",
+    "Text": "제가 도울 일이 있을까요?\n사양하지 않으셔도 돼요!",
     "Enabled": false
   },
   "530256": {
     "OriginalText": "強き力は強き精神に宿るものだぞ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "강한 힘은 강한 정신에 깃드는 법이다.",
+    "Enabled": true
   },
   "530257": {
     "OriginalText": "争いは好みませんが\nこの拠点を守るためなら力を貸しましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "다툼은 좋아하지 않지만\n이 거점을 지키기 위해서라면 힘을 빌려드리죠.",
+    "Enabled": true
   },
   "530258": {
     "OriginalText": "戦闘に関することは私に任せておきなさい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "전투에 관한 일은 내게 맡겨 둬.",
+    "Enabled": true
   },
   "530259": {
     "OriginalText": "食は全ての根幹ですよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "음식은 모든 것의 근간이지요.",
+    "Enabled": true
   },
   "530260": {
     "OriginalText": "難しいことは後回しにして\nまず現場の状況を見せてもらおうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "어려운 일은 뒤로 미루고\n우선 현장 상황부터 보여 주겠나?",
+    "Enabled": true
   },
   "530261": {
     "OriginalText": "フォトンをまるで感じない……\nどうなっているのかしら、ここは？",
-    "Text": "",
-    "Enabled": false
+    "Text": "포톤이 전혀 느껴지지 않아…\n여긴 대체 어떻게 된 걸까?",
+    "Enabled": true
   },
   "530262": {
     "OriginalText": "ここから先はキルノに任せなさい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "이제부터는 키르노에게 맡겨!",
+    "Enabled": true
   },
   "530263": {
     "OriginalText": "カナ、みんなの力になれますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "카나도 모두에게 도움이 될까요?",
+    "Enabled": true
   },
   "530264": {
     "OriginalText": "……あ、あの。\n前が見え、ないです……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "…저, 저기.\n앞이 안, 보여요…",
+    "Enabled": true
   },
   "530265": {
     "OriginalText": "私のツインマシンガン、丘びついていないかしら？\n早く確かめに出たいわね。",
-    "Text": "",
+    "Text": "내 트윈 머신 건, 녹슬지는 않았을까?\n얼른 나가서 확인하고 싶네.",
     "Enabled": false
   },
   "530266": {
     "OriginalText": "どんなに大きな敵も\n私の前にひれ伏せさせてあげるわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "아무리 큰 적이라도\n내 앞에 무릎 꿇게 해 주겠어.",
+    "Enabled": true
   },
   "530267": {
     "OriginalText": "まずは拠点にフィーリンちゃんの\nライブ会場を作らなきゃね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "우선 거점에 피린의\n공연장부터 만들어야겠네!",
+    "Enabled": true
   },
   "530268": {
     "OriginalText": "とりあえず、お茶でも飲みながら\n状況の説明をお願いできるかしら？",
-    "Text": "",
-    "Enabled": false
+    "Text": "일단 차라도 마시면서\n상황을 설명해 줄 수 있을까?",
+    "Enabled": true
   },
   "530269": {
     "OriginalText": "あんまり見つめられると\n照れちゃうよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "너무 빤히 바라보면\n부끄럽잖아.",
+    "Enabled": true
   },
   "530270": {
     "OriginalText": "話はまだ少ししか聞いていないけど、\n私に出来ることはいろいろありそうね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "아직 이야기를 조금밖에 못 들었지만,\n내가 할 수 있는 일이 많을 것 같네.",
+    "Enabled": true
   },
   "530271": {
     "OriginalText": "あなたが、わたしのマスター？",
-    "Text": "",
-    "Enabled": false
+    "Text": "당신이 나의 마스터인가요?",
+    "Enabled": true
   },
   "530272": {
     "OriginalText": "ふわぁ～、ちょっとお休みしすぎちゃったな……\nエース目指して、頑張らなくちゃ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "하아암~, 너무 오래 쉬어 버렸네…\n에이스가 되려면 힘내야지!",
+    "Enabled": true
   },
   "530273": {
     "OriginalText": "お前は、この厳しい環境を楽しめるか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "너는 이 혹독한 환경을 즐길 수 있나?",
+    "Enabled": true
   },
   "530274": {
     "OriginalText": "何か手龍えることない？\nどんと任せてよ！",
-    "Text": "",
+    "Text": "도와줄 일 없어?\n척척 맡겨 줘!",
     "Enabled": false
   },
   "530275": {
     "OriginalText": "オレもお前達と一緒に\n暴れたいぜー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "나도 너희들과 함께\n날뛰고 싶다고!",
+    "Enabled": true
   },
   "530276": {
     "OriginalText": "ふう、何この空気……？\nみんなよくこんなとこで仕事できるわね。\nまずは環境の改善が必要ね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "후, 뭐야, 이 공기는…?\n다들 이런 곳에서 용케 일하네.\n우선 환경부터 개선해야겠어.",
+    "Enabled": true
   },
   "530277": {
     "OriginalText": "あなたの下で働けることを\n嬉しく思います。",
-    "Text": "",
-    "Enabled": false
+    "Text": "당신 밑에서 일할 수 있어\n기쁩니다.",
+    "Enabled": true
   },
   "530278": {
     "OriginalText": "戦うときは戦う、休む時は休む。\n仕事ができるやつは切り替えがうまいんだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "싸울 때는 싸우고 쉴 때는 쉰다.\n일 잘하는 사람은 그 구분이 확실해.",
+    "Enabled": true
   },
   "530279": {
     "OriginalText": "まだまだ勉強中だから\nここでの経験はすっごく役に立つと思うんだ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "아직 공부하는 중이니\n여기서의 경험은 정말 도움이 될 거야!",
+    "Enabled": true
   },
   "530280": {
     "OriginalText": "女は度胸、\n気合入れていきますよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "여자는 배짱이지.\n기합 넣고 가겠습니다!",
+    "Enabled": true
   },
   "530281": {
     "OriginalText": "いい眼をしているな。\nお前となら、互いに刺撃し合える\nいい関係になれそうだ。",
-    "Text": "",
+    "Text": "좋은 눈을 가졌군.\n너와 함께라면 서로 자극을 주고받는\n좋은 관계가 될 수 있겠어.",
     "Enabled": false
   },
   "530282": {
     "OriginalText": "私、すっごく強いよ？\nねえ、見たい？ 見たいよね？",
-    "Text": "",
-    "Enabled": false
+    "Text": "나, 정말 강하거든?\n있지, 보고 싶어? 보고 싶지?",
+    "Enabled": true
   },
   "530283": {
     "OriginalText": "ええっと、スリーサイズは上から\n１０２、１１０、１０８やったかなぁ？\nふふ、「ピッツァ」が好きなんですわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "으음, 스리 사이즈는 위에서부터\n102, 110, 108이었던가?\n후후, '피자'를 좋아하거든.",
+    "Enabled": true
   },
   "530284": {
     "OriginalText": "どんな任務も楽勝よ。\nあなた、足手まといになんないでよ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "어떤 임무든 식은 죽 먹기야.\n너, 발목 잡지 마.",
+    "Enabled": true
   },
   "530285": {
     "OriginalText": "雷の攻撃が得意なの。\n吸引力が私の跡力よ！",
-    "Text": "",
+    "Text": "뇌속성 공격이 자신 있어.\n끌어당기는 힘이 내 매력이지!",
     "Enabled": false
   },
   "530286": {
     "OriginalText": "後ろのことはお姉さんに任せなさいって。\nさあ、頑張っていこーっ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "뒤쪽 일은 언니한테 맡겨 둬.\n자, 힘내서 가자!",
+    "Enabled": true
   },
   "530287": {
     "OriginalText": "私、のんびり屋さんなので\nボーっとしてたら叱ってくださいね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "제가 느긋한 성격이라\n멍하니 있으면 혼내 주세요.",
+    "Enabled": true
   },
   "530288": {
     "OriginalText": "どうかしたの？\nなんだか元気ないんじゃない？",
-    "Text": "",
-    "Enabled": false
+    "Text": "무슨 일 있어?\n어째 기운이 없어 보이네?",
+    "Enabled": true
   },
   "530289": {
     "OriginalText": "仲良しさんになろうね？",
-    "Text": "",
-    "Enabled": false
+    "Text": "우리 친하게 지내자?",
+    "Enabled": true
   },
   "530290": {
     "OriginalText": "いつまで私をここに放っておくつもりかしら？",
-    "Text": "",
-    "Enabled": false
+    "Text": "언제까지 나를 여기 방치할 생각이야?",
+    "Enabled": true
   },
   "530291": {
     "OriginalText": "信頼できる仲間に出会えて嬉しいわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "믿을 수 있는 동료를 만나서 기뻐.",
+    "Enabled": true
   },
   "530292": {
     "OriginalText": "健康状態は、問題ないと思います。",
-    "Text": "",
-    "Enabled": false
+    "Text": "건강 상태에는 문제가 없다고 생각합니다.",
+    "Enabled": true
   },
   "530293": {
     "OriginalText": "状況を整理して、１つずつ問題を片付けましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "상황을 정리하고 문제를 1개씩 해결합시다.",
+    "Enabled": true
   },
   "530294": {
     "OriginalText": "友達からは癒し系だって言われるので、\n先堰たちを癒してあげたいですね。",
-    "Text": "",
+    "Text": "친구들이 저를 힐링 담당이라고 하니,\n선배님들을 힐링해 드리고 싶네요.",
     "Enabled": false
   },
   "530295": {
     "OriginalText": "みんなで力を合わせれば、\nどんな難題もきっと解決できるはずです",
-    "Text": "",
-    "Enabled": false
+    "Text": "모두가 힘을 합치면\n어떤 어려운 문제도 해결할 수 있을 겁니다.",
+    "Enabled": true
   },
   "530296": {
     "OriginalText": "どう生きるべきか、悩んでいましたが、\n目が覚めても答えは見つかりませんでした。",
-    "Text": "",
-    "Enabled": false
+    "Text": "어떻게 살아야 할지 고민했는데,\n잠에서 깨어나도 답은 찾지 못했습니다.",
+    "Enabled": true
   },
   "530297": {
     "OriginalText": "今すぐ戦場へ出かけてもいいのよ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "지금 바로 전장에 나가도 괜찮아?",
+    "Enabled": true
   },
   "530298": {
     "OriginalText": "パルチザンしか能のないダメな子です……",
-    "Text": "",
-    "Enabled": false
+    "Text": "파르티잔밖에 못 쓰는 못난 아이예요…",
+    "Enabled": true
   },
   "530299": {
     "OriginalText": "戦闘で片がつくことでしたら\n私に任せてください。",
-    "Text": "",
-    "Enabled": false
+    "Text": "전투로 해결할 수 있는 일이라면\n제게 맡겨 주세요.",
+    "Enabled": true
   },
   "530300": {
     "OriginalText": "実戦経験は不足気味かもしれないが、\n足りない部分は理論で補う。それが私のやり方だ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "실전 경험은 조금 부족할지 모르지만,\n부족한 부분은 이론으로 메운다. 그게 내 방식이야.",
+    "Enabled": true
   },
   "530301": {
     "OriginalText": "少し静かにしてくださるかしら？\n私、寝覚めが悪くて疲れていますの……",
-    "Text": "",
-    "Enabled": false
+    "Text": "조금 조용히 해 주시겠어요?\n전 잠에서 개운하게 못 깨어나서 피곤해요…",
+    "Enabled": true
   },
   "530302": {
     "OriginalText": "ずいぶん辺鄙なところねえ。\nまぁ、どんなところであろうと\n私が何とかしてあげるわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "꽤 외진 곳이네.\n뭐, 어떤 곳이든\n내가 어떻게든 해 줄게.",
+    "Enabled": true
   },
   "530303": {
     "OriginalText": "ノッコだよ～！\nソード絶杓練習中、パートナー絶杓集集中だよ～！",
-    "Text": "",
+    "Text": "놋코야~!\n소드 맹연습 중, 파트너도 열심히 모집 중이야~!",
     "Enabled": false
   },
   "530304": {
     "OriginalText": "まさかこんな状況とはな。\n忙しくなりそうだ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "설마 이런 상황일 줄이야.\n바빠지겠군!",
+    "Enabled": true
   },
   "530305": {
     "OriginalText": "さぁ、力を合わせて行こうか。",
-    "Text": "",
-    "Enabled": false
+    "Text": "자, 힘을 합쳐서 가 볼까.",
+    "Enabled": true
   },
   "530306": {
     "OriginalText": "自動メンテナンス、完了。",
-    "Text": "",
-    "Enabled": false
+    "Text": "자동 정비, 완료.",
+    "Enabled": true
   },
   "530307": {
     "OriginalText": "おっはよーー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "좋은 아침!",
+    "Enabled": true
   },
   "530308": {
     "OriginalText": "さあて、何から始めようかしら？\n忙しくなりそうね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "자, 무엇부터 시작할까?\n바빠지겠네.",
+    "Enabled": true
   },
   "530309": {
     "OriginalText": "こんな茶色ばっかりの場所じゃ滅入っちゃう。\n空くらいカラッと晴れてて欲しいものね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "온통 갈색뿐인 곳이라니 우울해져.\n하늘만이라도 쾌청했으면 좋겠는데.",
+    "Enabled": true
   },
   "530310": {
     "OriginalText": "色んなものを\n自分たちで作るのも新鮮だね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여러 가지를\n우리 손으로 만드는 것도 신선하네.",
+    "Enabled": true
   },
   "530311": {
     "OriginalText": "不思議な惑星ですね。\n興味がわきます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "신기한 행성이군요.\n흥미가 생깁니다.",
+    "Enabled": true
   },
   "530312": {
     "OriginalText": "新武器パイル……。\n使うのが楽しみね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "신무기 파일…\n써 보는 게 기대되네.",
+    "Enabled": true
   },
   "530313": {
     "OriginalText": "ご助力いたします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "도와드리겠습니다.",
+    "Enabled": true
   },
   "530314": {
     "OriginalText": "新武器だってお手の洋だよ！",
-    "Text": "",
+    "Text": "새 무기라도 능숙하게 다룰 수 있어!",
     "Enabled": false
   },
   "530315": {
     "OriginalText": "武器はちゃんとメンテナンス\nしなきゃダメだよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기는 제대로 정비해야\n하는 거야!",
+    "Enabled": true
   },
   "530316": {
     "OriginalText": "これもまた、サダメというものか……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "이것도 운명이라는 것인가…",
+    "Enabled": true
   },
   "530317": {
     "OriginalText": "みんな期待に応えられるように\n頑張ります。",
-    "Text": "",
+    "Text": "모두의 기대에 부응할 수 있도록\n열심히 하겠습니다.",
     "Enabled": false
   },
   "530318": {
     "OriginalText": "私が役に立てることがあるのなら……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "제가 도움이 될 일이 있다면…",
+    "Enabled": true
   },
   "530319": {
     "OriginalText": "ともだち、いっぱい。\n……うれしい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "친구, 많아.\n…기뻐.",
+    "Enabled": true
   },
   "530320": {
     "OriginalText": "おはよー！\n寝起きでも元気いっぱいだよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "좋은 아침!\n자고 일어나도 활기가 넘친다고!",
+    "Enabled": true
   },
   "530321": {
     "OriginalText": "私は死なん。だからお前も死ぬな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "나는 죽지 않는다. 그러니 너도 죽지 마라.",
+    "Enabled": true
   },
   "530322": {
     "OriginalText": "新しい武器も楽しそうね。\n早く使いたくてうずうずしちゃう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "새 무기도 재미있어 보이네.\n빨리 쓰고 싶어서 근질거려.",
+    "Enabled": true
   },
   "530323": {
     "OriginalText": "どんな状況でも\nみんな一緒なら大丈夫だよね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "어떤 상황이든\n모두 함께라면 괜찮겠지!",
+    "Enabled": true
   },
   "530324": {
     "OriginalText": "これでもお裁貸が得意なんだよ。",
-    "Text": "",
+    "Text": "이래 보여도 바느질은 잘한다고.",
     "Enabled": false
   },
   "530325": {
     "OriginalText": "あなたの采配には期待しているよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "당신의 지휘를 기대하고 있어.",
+    "Enabled": true
   },
   "530326": {
     "OriginalText": "艦長のお手並み拝見といこうか。",
-    "Text": "",
-    "Enabled": false
+    "Text": "그럼 함장의 솜씨를 지켜보도록 할까.",
+    "Enabled": true
   },
   "530327": {
     "OriginalText": "せいいっぱい、がんばります！",
-    "Text": "",
-    "Enabled": false
+    "Text": "온 힘을 다해 열심히 하겠습니다!",
+    "Enabled": true
   },
   "530328": {
     "OriginalText": "コールドスリープで眠ってる間に\n服にしわがついちゃったよ～！",
-    "Text": "",
-    "Enabled": false
+    "Text": "콜드 슬립으로 잠든 사이에\n옷이 구겨졌잖아~!",
+    "Enabled": true
   },
   "530329": {
     "OriginalText": "立て直していきましょう。\nうちにもプランがあります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "상황을 수습해 나가죠.\n제게도 계획이 있어요.",
+    "Enabled": true
   },
   "530330": {
     "OriginalText": "アークスたる者、仕事とはすべからく\n合理的に進めるものよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "아크스라면 일은 마땅히\n합리적으로 처리해야 하는 법이야.",
+    "Enabled": true
   },
   "530331": {
     "OriginalText": "大変な状況ですが\n一緒に頑張りましょう！",
-    "Text": "",
-    "Enabled": false
+    "Text": "어려운 상황이지만\n함께 힘내요!",
+    "Enabled": true
   },
   "530332": {
     "OriginalText": "状況に応じて、防具を変えれば\n怖いものはないな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "상황에 맞게 방어구를 바꾸면\n두려울 건 없지.",
+    "Enabled": true
   },
   "530333": {
     "OriginalText": "どんな荒野の中でも指先まで美しく\nありたいものだな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "어떤 황야에서든 손끝까지 아름답게\n가꾸고 싶은 법이지.",
+    "Enabled": true
   },
   "530334": {
     "OriginalText": "ずっと眠ってたから\n身体がなまってそうね。\n訓練に付き合ってくれない？",
-    "Text": "",
-    "Enabled": false
+    "Text": "계속 잠들어 있었으니\n몸이 둔해졌을 것 같네.\n훈련 좀 같이 해 줄래?",
+    "Enabled": true
   },
   "530335": {
     "OriginalText": "こんにちは！ 頑張って、みんなに好かれる\n立派なアークスになりたいです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "안녕하세요! 열심히 해서 모두에게 사랑받는\n훌륭한 아크스가 되고 싶어요.",
+    "Enabled": true
   },
   "530336": {
     "OriginalText": "とにもかくにも\nまずはとつげきですー！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "아무튼 간에\n일단 돌격이에요~!!",
+    "Enabled": true
   },
   "530337": {
     "OriginalText": "ふふ、私の戦場はどこかしら？",
-    "Text": "",
-    "Enabled": false
+    "Text": "후후, 내가 싸울 전장은 어디일까?",
+    "Enabled": true
   },
   "530338": {
     "OriginalText": "アークスだから戦わなくてはならないなんて\nそのような決まりなどないはずです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "아크스라고 꼭 싸워야 한다니,\n그런 규칙은 없을 텐데요.",
+    "Enabled": true
   },
   "530339": {
     "OriginalText": "手先は、結構器用やし、\nみんなの役にも立てると思うわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "손재주는 꽤 좋은 편이니,\n다들 도울 수 있을 것 같아.",
+    "Enabled": true
   },
   "530340": {
     "OriginalText": "ほらっ、気合入れてくわよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "자, 기운 내서 가자!",
+    "Enabled": true
   },
   "530341": {
     "OriginalText": "軽はずみな行動は慎まなければ\nなりませんね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "경솔하게 행동하지 않도록\n조심해야겠군요.",
+    "Enabled": true
   },
   "530342": {
     "OriginalText": "一緒に頑張りましょうね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "함께 힘내요!",
+    "Enabled": true
   },
   "530343": {
     "OriginalText": "お前が望むなら、\n助力は憎しまん。",
-    "Text": "",
+    "Text": "네가 원한다면,\n아낌없이 도와주마.",
     "Enabled": false
   },
   "530344": {
     "OriginalText": "やっとあたしの出番？\nロッドじゃ負けないから、期待していいよ～！",
-    "Text": "",
-    "Enabled": false
+    "Text": "드디어 내 차례야?\n로드라면 지지 않으니까 기대해도 좋아~!",
+    "Enabled": true
   },
   "530345": {
     "OriginalText": "まずまずの目覚めだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "그럭저럭 괜찮게 깨어났군.",
+    "Enabled": true
   },
   "530346": {
     "OriginalText": "よろしくね！ ほら、早く行こう！\nあたしがついていってあげるから、\n準備しなさい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "잘 부탁해! 자, 빨리 가자!\n내가 따라가 줄 테니까,\n준비해!",
+    "Enabled": true
   },
   "530347": {
     "OriginalText": "妹の私は冒険をサポートしたいと思います！\n電撃オンラインもよろしくお願いします☆",
-    "Text": "",
-    "Enabled": false
+    "Text": "동생인 저는 모험을 도와드릴게요!\n전격 온라인도 잘 부탁드려요*",
+    "Enabled": true
   },
   "530348": {
     "OriginalText": "回復は姉のあたしにまかせて。\n攻略に困ったら電プレを読んでね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "회복은 언니인 나한테 맡겨.\n공략이 막히면 전격 플레이스테이션을 읽어 봐!",
+    "Enabled": true
   },
   "530349": {
     "OriginalText": "ダイスキなあなたのためなら、\nなんでもやるよー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "정말 좋아하는 널 위해서라면\n뭐든 할게~!",
+    "Enabled": true
   },
   "530350": {
     "OriginalText": "あなた、見るからに平凡そうだけど\n私の背中を任せられるほど、強いのかしら？",
-    "Text": "",
-    "Enabled": false
+    "Text": "너, 딱 봐도 평범해 보이는데,\n내 등을 맡길 만큼 강한 거야?",
+    "Enabled": true
   },
   "530351": {
     "OriginalText": "あんた、いい目をしてるじゃないか？\nあたしと組まないか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "너, 눈빛이 제법 좋은데?\n나랑 한 팀이 되지 않을래?",
+    "Enabled": true
   },
   "530352": {
     "OriginalText": "身体の大きさと強さは比例しないことを\n教えてやろう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "덩치와 강함은 비례하지 않는다는 걸\n가르쳐 주지.",
+    "Enabled": true
   },
   "530353": {
     "OriginalText": "我が槍の前に敵は無い。\n苦戦しているようなら、私を呼べばいい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "내 창 앞에 적수는 없다.\n고전하고 있다면 나를 불러라.",
+    "Enabled": true
   },
   "530354": {
     "OriginalText": "ほらほら、もっと気合いを入れなさいよね！\n回復くらいなら私がしてあげるから。",
-    "Text": "",
-    "Enabled": false
+    "Text": "자자, 좀 더 기운을 내라고!\n회복 정도는 내가 해 줄 테니까.",
+    "Enabled": true
   },
   "530355": {
     "OriginalText": "回復のサポートは私に任せて！\n毎木日発売の\nファミ通もよろしくネ！！",
-    "Text": "",
+    "Text": "회복 지원은 내게 맡겨!\n매주 목요일에 나오는\n주간 패미통도 잘 부탁해!!",
     "Enabled": false
   },
   "530356": {
     "OriginalText": "食堂に配置してくれたら、\n美味しいご咲作っちゃうヨ！\nあっ、毎木日発売のファミ通もよろしく★",
-    "Text": "",
+    "Text": "식당에 배치해 주면,\n맛있는 밥을 만들어 줄게!\n아, 매주 목요일 발매인 주간 패미통도 부탁해★",
     "Enabled": false
   },
   "530357": {
     "OriginalText": "ねえ、暴れていい？\n今すぐここで、暴れていい？",
-    "Text": "",
-    "Enabled": false
+    "Text": "있지, 날뛰어도 돼?\n지금 여기서 바로 날뛰어도 돼?",
+    "Enabled": true
   },
   "530358": {
     "OriginalText": "せーの……\nよっろしく～！",
-    "Text": "",
-    "Enabled": false
+    "Text": "하나, 둘…\n잘 부탁해~!",
+    "Enabled": true
   },
   "530359": {
     "OriginalText": "惑星探索に、興味があります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "행성 탐사에 관심이 있습니다.",
+    "Enabled": true
   },
   "530360": {
     "OriginalText": "さすらいのウォンド使い、\nリレイザさんの登場だよーっ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "떠돌이 완드 사용자,\n리레이자 님의 등장이야~!",
+    "Enabled": true
   },
   "530361": {
     "OriginalText": "あっ、あの……、頑張ります！",
-    "Text": "",
-    "Enabled": false
+    "Text": "아, 저기…, 열심히 하겠습니다!",
+    "Enabled": true
   },
   "530362": {
     "OriginalText": "私の力を借りたいのかしら？",
-    "Text": "",
-    "Enabled": false
+    "Text": "내 힘을 빌리고 싶은 거야?",
+    "Enabled": true
   },
   "530363": {
     "OriginalText": "任されたことはきっちりこなすよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "맡은 일은 확실히 해낼게!",
+    "Enabled": true
   },
   "530364": {
     "OriginalText": "一緒に戦えば、色々分かることもあると思うわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "함께 싸우면 여러 가지를 알 수 있을 것 같아.",
+    "Enabled": true
   },
   "530365": {
     "OriginalText": "お前の力を試させてもらおうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "네 힘을 시험해 보도록 할까?",
+    "Enabled": true
   },
   "530366": {
     "OriginalText": "新人だからって、\n何もできない訳じゃないんだからね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "신참이라고 해서\n아무것도 못 하는 건 아니거든!",
+    "Enabled": true
   },
   "530367": {
     "OriginalText": "何でもワシに相談するがいい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "무슨 일이든 나에게 상의하거라.",
+    "Enabled": true
   },
   "530368": {
     "OriginalText": "危険、探知。\nすぐに対処する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "위험, 탐지.\n즉시 대처한다.",
+    "Enabled": true
   },
   "530369": {
     "OriginalText": "祟分長く眠っていたので\n早く武器を手にしたいですね。",
-    "Text": "",
+    "Text": "꽤 오래 잠들어 있었으니\n어서 무기를 손에 쥐고 싶군요.",
     "Enabled": false
   },
   "530370": {
     "OriginalText": "任務は正確、かつ速やかにが基本です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "임무는 정확하고 신속히 수행하는 게 기본입니다.",
+    "Enabled": true
   },
   "530371": {
     "OriginalText": "探索がんばろー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "탐사 힘내자~!",
+    "Enabled": true
   },
   "530372": {
     "OriginalText": "人手は足りてます？\n何なりと申しつけてくれやす。",
-    "Text": "",
-    "Enabled": false
+    "Text": "일손은 충분한가요?\n무슨 일이든 말씀해 주세요.",
+    "Enabled": true
   },
   "530373": {
     "OriginalText": "心配しなくてもやるべきことはやるわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "걱정 안 해도 할 일은 할 거야.",
+    "Enabled": true
   },
   "530374": {
     "OriginalText": "洋資が不足しているようですね。\nでも、ないものは作るまでです。",
-    "Text": "",
+    "Text": "물자가 부족한 것 같군요.\n하지만 없는 건 만들면 됩니다.",
     "Enabled": false
   },
   "530375": {
     "OriginalText": "勝手な行動も、ある程度は推均するぞ。",
-    "Text": "",
+    "Text": "어느 정도는 독자적인 행동도 권장한다.",
     "Enabled": false
   },
   "530376": {
     "OriginalText": "レンジャーは元気が一番！ だよねっ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "레인저는 활력이 최고! 그렇지?",
+    "Enabled": true
   },
   "530377": {
     "OriginalText": "アイテムに関して\n多少の知識があるわ……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "아이템에 관해서는\n조금 알고 있어…",
+    "Enabled": true
   },
   "530378": {
     "OriginalText": "私の力が皆さんのお役に立てるならば……",
-    "Text": "",
-    "Enabled": false
+    "Text": "제 힘이 여러분께 도움이 될 수 있다면…",
+    "Enabled": true
   },
   "530379": {
     "OriginalText": "な、なんかガッカリしてない！？\nこれでもキャリアは長いんだからねっ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "뭐, 뭔가 실망한 거 아니야!?\n이래 봬도 경력은 길다고!",
+    "Enabled": true
   },
   "530380": {
     "OriginalText": "ほらっ、早く任務に向かうわよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "자, 빨리 임무에 나서자!",
+    "Enabled": true
   },
   "530381": {
     "OriginalText": "共に戦いぬきましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "함께 끝까지 싸웁시다.",
+    "Enabled": true
   },
   "530382": {
     "OriginalText": "私の力をどんどん役立てて。",
-    "Text": "",
-    "Enabled": false
+    "Text": "내 힘을 마음껏 활용해 줘.",
+    "Enabled": true
   },
   "530383": {
     "OriginalText": "いい武器で戦うのって、気持ちいいよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "좋은 무기로 싸우면 기분이 좋아.",
+    "Enabled": true
   },
   "530384": {
     "OriginalText": "鍛冶の道具を持ってると落ち着くんです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "대장장이 도구를 쥐고 있으면 마음이 놓여요.",
+    "Enabled": true
   },
   "530385": {
     "OriginalText": "あなたに、期待してる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "당신에게 기대하고 있어.",
+    "Enabled": true
   },
   "530386": {
     "OriginalText": "みんな、戦い疲れているんじゃない？\n私が代わりをしてあげるから\n一休みしてはどう？",
-    "Text": "",
-    "Enabled": false
+    "Text": "다들 싸우느라 지치지 않았어?\n내가 대신할 테니까\n잠깐 쉬는 게 어때?",
+    "Enabled": true
   },
   "530387": {
     "OriginalText": "ふわわ、眠りすぎて法撃の使い方、\n忘れちゃいそうだ。\n早く身体を動かさないとな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "하아암, 너무 많이 자서 법격 쓰는 법을\n잊어버릴 것 같네.\n얼른 몸을 움직여야겠어.",
+    "Enabled": true
   },
   "530388": {
     "OriginalText": "私と一緒に頑張ってくれる？",
-    "Text": "",
-    "Enabled": false
+    "Text": "나랑 같이 힘내 줄래?",
+    "Enabled": true
   },
   "530389": {
     "OriginalText": "よろ、しく……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "잘, 부탁…해.",
+    "Enabled": true
   },
   "530390": {
     "OriginalText": "長ってのは、後ろで\nどっしり構えてればいいんだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "대장이란 건 뒤에서\n든든하게 버티고 있으면 되는 거야.",
+    "Enabled": true
   },
   "530391": {
     "OriginalText": "法撃の練習中なので\nご指導お願いします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "법격을 연습하고 있으니\n지도 부탁드려요.",
+    "Enabled": true
   },
   "530392": {
     "OriginalText": "おっはよーー！！\nさぁ、がんばっちゃうよー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "좋은 아침~~!!\n자, 열심히 해 볼게~!",
+    "Enabled": true
   },
   "530393": {
     "OriginalText": "この荒野にあって\nこの拠点は暖かい光を放っているわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "이 황야에서도\n이 거점은 따뜻한 빛을 내뿜고 있어.",
+    "Enabled": true
   },
   "530394": {
     "OriginalText": "石橋を叩いて渡る心を忘れるな。\n近頃は根こそぎ吹っ飛ばせば早い\nという者が多すぎる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "돌다리도 두들겨 보고 건너는 마음을 잊지 마라.\n요즘은 통째로 날려 버리면 빠르다고\n말하는 녀석들이 너무 많아.",
+    "Enabled": true
   },
   "530395": {
     "OriginalText": "ん～、眠気覚ましに\n戦闘にでも行ってこようかな？",
-    "Text": "",
-    "Enabled": false
+    "Text": "음~, 잠 좀 깨게\n전투라도 다녀올까?",
+    "Enabled": true
   },
   "530396": {
     "OriginalText": "あなたのお力になれること\n嬉しく思います。",
-    "Text": "",
-    "Enabled": false
+    "Text": "당신께 힘이 되어 드릴 수 있어\n기쁘게 생각합니다.",
+    "Enabled": true
   },
   "530397": {
     "OriginalText": "こんな環境はじめてだけど\nちゃんとしなきゃ……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "이런 환경은 처음이지만\n제대로 해야 해…!",
+    "Enabled": true
   },
   "530398": {
     "OriginalText": "適村適所を考えて、\n人員を配置するのよ。",
-    "Text": "",
+    "Text": "적재적소를 생각해서,\n인원을 배치하는 거야.",
     "Enabled": false
   },
   "530399": {
     "OriginalText": "私に何をしてほしい？",
-    "Text": "",
-    "Enabled": false
+    "Text": "내가 뭘 해 줬으면 해?",
+    "Enabled": true
   },
   "530400": {
     "OriginalText": "ヨミが世話になっていると聞いた。\nあいつはちゃんとやっているだろうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "요미가 신세를 지고 있다고 들었다.\n그 녀석은 잘하고 있나?",
+    "Enabled": true
   },
   "530401": {
     "OriginalText": "ははは、何でも私に任せておけばいいさね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "하하하, 뭐든 나한테 맡겨 두면 돼!",
+    "Enabled": true
   },
   "530402": {
     "OriginalText": "みんな、疲れてない？\n正直に言っていいんだからね！\nあとは私に任せといて！",
-    "Text": "",
-    "Enabled": false
+    "Text": "다들 피곤하지 않아?\n솔직히 말해도 되니까!\n나머지는 나한테 맡겨 둬!",
+    "Enabled": true
   },
   "530403": {
     "OriginalText": "ねぇ、わたしを早く戦場に連れて行って！",
-    "Text": "",
-    "Enabled": false
+    "Text": "있지, 나를 빨리 전장으로 데려가 줘!",
+    "Enabled": true
   },
   "530404": {
     "OriginalText": "私の底力、見せてあげる！",
-    "Text": "",
-    "Enabled": false
+    "Text": "내 저력을 보여 줄게!",
+    "Enabled": true
   },
   "530405": {
     "OriginalText": "私が目覚めたからには、もうご安心を。",
-    "Text": "",
-    "Enabled": false
+    "Text": "제가 깨어났으니 이제 안심하세요.",
+    "Enabled": true
   },
   "530406": {
     "OriginalText": "デンゲキ的末っ子 ばず～こデス\nアナタのタメニ撃ちまくるヨーぅ！\nデンゲキＢＡＺＯＯＫＡ!! ヨロシクデス！",
-    "Text": "",
-    "Enabled": false
+    "Text": "전격의 막내 바즈코예요\n당신을 위해 마구 쏴 줄게요~!\n전격 BAZOOKA!! 잘 부탁해요!",
+    "Enabled": true
   },
   "530407": {
     "OriginalText": "強敵の旺いがします。\n充分な備えを持って、戦いにきましょう。",
-    "Text": "",
+    "Text": "강적의 냄새가 나는군요.\n충분히 준비해서 싸우러 갑시다.",
     "Enabled": false
   },
   "530408": {
     "OriginalText": "えっと、あたし、実は\n戦場での記憶ってあんまりなくて……。\nどうなってもしりませんよお？",
-    "Text": "I'm not sure how I...\nI don't recall anything before arriving here...\nWhat will become of me now...?",
+    "Text": "저기, 나, 사실은\n전장에서의 기억이 별로 없어서…\n어떻게 돼도 난 몰라요?",
     "Enabled": true
   },
   "530409": {
     "OriginalText": "なんじゃ、この[ruby ふね]艦[/ruby]は若いモンばっかりじゃのう……\nシブ～いジイさまのアークスはおらんのかいえ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "뭐냐, 이 함선은 젊은것들뿐이구먼...\n중후한 할아범 아크스는 없는 게냐?",
+    "Enabled": true
   },
   "530410": {
     "OriginalText": "皆さんのことは、必ず守ります。\nだから、私の傍を離れないでくださいね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여러분은 반드시 지키겠습니다.\n그러니 제 곁을 떠나지 말아 주세요.",
+    "Enabled": true
   },
   "530411": {
     "OriginalText": "立ちふさがる敵はすべて吹き飛ばしてあげる。\nその代わりトドメはあなたに任せたわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "앞을 가로막는 적은 전부 날려 줄게.\n대신 마무리는 너에게 맡길게.",
+    "Enabled": true
   },
   "530412": {
     "OriginalText": "やっと出番かよ……\n早くフィルディア姐さんに会わせろよー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "이제야 내 차례냐…\n빨리 필디아 누님을 만나게 해 달라고~!",
+    "Enabled": true
   },
   "530413": {
     "OriginalText": "早く冒険に出たいわね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "빨리 모험을 떠나고 싶네.",
+    "Enabled": true
   },
   "530414": {
     "OriginalText": "何かが違う気がする。",
-    "Text": "",
-    "Enabled": false
+    "Text": "뭔가 다른 것 같아.",
+    "Enabled": true
   },
   "530415": {
     "OriginalText": "あれ？ コールドスリープ終了？\nってことは、外に出られるんだね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "어? 콜드 슬립 끝났어?\n그럼 밖으로 나갈 수 있겠네!",
+    "Enabled": true
   },
   "530416": {
     "OriginalText": "私なんかより、もっと元気な子を\n起こしてくれたらよかったのに……",
-    "Text": "",
-    "Enabled": false
+    "Text": "나 같은 사람보다 더 활기찬 아이를\n깨웠으면 좋았을 텐데…",
+    "Enabled": true
   },
   "530417": {
     "OriginalText": "果たしたい夢があります。",
-    "Text": "",
-    "Enabled": false
+    "Text": "이루고 싶은 꿈이 있습니다.",
+    "Enabled": true
   },
   "530418": {
     "OriginalText": "この状況で活躍すれば、ボクも一躍有名人に！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "이 상황에서 활약하면 나도 단숨에 유명인이야!!",
+    "Enabled": true
   },
   "530419": {
     "OriginalText": "皆さんのお役に立てれば光栄です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여러분께 도움이 될 수 있다면 영광입니다.",
+    "Enabled": true
   },
   "530420": {
     "OriginalText": "私でお役に立てることがあれば、\n気軽にお声掛けくださいね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "제가 도움이 될 일이 있다면,\n편하게 말씀해 주세요.",
+    "Enabled": true
   },
   "530421": {
     "OriginalText": "細かい作業は苦手だが、\n大洋狩りならば、任せておくれ。",
-    "Text": "",
+    "Text": "섬세한 작업은 잘 못하지만,\n큰 사냥감 잡는 건 맡겨 다오.",
     "Enabled": false
   },
   "530422": {
     "OriginalText": "この惑星は非常に興味深いですね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "이 행성은 매우 흥미롭군요.",
+    "Enabled": true
   },
   "530423": {
     "OriginalText": "どんな状況でもオレのやることは変わらない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "어떤 상황이든 내가 할 일은 변하지 않아.",
+    "Enabled": true
   },
   "530424": {
     "OriginalText": "どんな状況であろうと\nボクが何とかしてあげよう！",
-    "Text": "",
-    "Enabled": false
+    "Text": "어떤 상황이든\n내가 어떻게든 해 줄게!",
+    "Enabled": true
   },
   "530425": {
     "OriginalText": "なんじゃ、わしの助力が必要になったということか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "뭐냐, 내 도움이 필요해졌다는 게냐?",
+    "Enabled": true
   },
   "530426": {
     "OriginalText": "選んでいただけるとは光栄です。\n頑張ります！",
-    "Text": "",
-    "Enabled": false
+    "Text": "선택해 주시다니 영광입니다.\n열심히 하겠습니다!",
+    "Enabled": true
   },
   "530427": {
     "OriginalText": "大丈夫だって！\nオレに任せろって！",
-    "Text": "",
-    "Enabled": false
+    "Text": "괜찮다니까!\n나한테 맡기라고!",
+    "Enabled": true
   },
   "530428": {
     "OriginalText": "おっし、いっちょ本気を出すか！",
-    "Text": "",
-    "Enabled": false
+    "Text": "좋아, 그럼 제대로 해 볼까!",
+    "Enabled": true
   },
   "530429": {
     "OriginalText": "どんな状況でもオレはオレの仕事をするだけだ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "어떤 상황이든 난 내 일을 할 뿐이야.",
+    "Enabled": true
   },
   "530430": {
     "OriginalText": "なかなかおもしろそうな状況だな。\n早くオレも任務に連れてってくれよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "제법 재미있는 상황인 것 같은데.\n빨리 나도 임무에 데려가 달라고.",
+    "Enabled": true
   },
   "530431": {
     "OriginalText": "ほらっ、暗い顔しないの！\n一緒にがんばろっ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "자, 그렇게 풀이 죽어 있지 마!\n같이 힘내자!",
+    "Enabled": true
   },
   "530432": {
     "OriginalText": "えっと……、選ばれたからには\n最後まで頑張る所存であります！",
-    "Text": "",
-    "Enabled": false
+    "Text": "저기…, 선택받은 이상\n끝까지 최선을 다할 생각입니다!",
+    "Enabled": true
   },
   "530433": {
     "OriginalText": "へへっ、私を選ぶなんて\nなかなかお目が高いね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "헤헤, 나를 선택하다니\n제법 보는 눈이 있네!",
+    "Enabled": true
   },
   "530434": {
     "OriginalText": "厳しい状況ではありますが、\n共に頑張りましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "어려운 상황이지만,\n함께 힘냅시다.",
+    "Enabled": true
   },
   "530435": {
     "OriginalText": "何やら大層な事態になっているようだ。\n状況の報告を頼む。",
-    "Text": "",
-    "Enabled": false
+    "Text": "뭔가 큰일이 벌어진 것 같군.\n상황을 보고해 다오.",
+    "Enabled": true
   },
   "530436": {
     "OriginalText": "起こされたからには頑張るけど\nあんたも手を抜かないようにね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "깨워 줬으니 열심히 하겠지만,\n너도 대충 하지는 말라고!",
+    "Enabled": true
   },
   "530437": {
     "OriginalText": "起こしてくださり、ありがとうごいます。\n期待には応えますよ。",
-    "Text": "",
+    "Text": "깨워 주셔서 감사합니다.\n기대에 부응하겠습니다.",
     "Enabled": false
   },
   "530438": {
     "OriginalText": "あなたが私の力を羞う未来は\n見えていたわ。",
-    "Text": "",
+    "Text": "당신이 내 힘을 청하는 미래는\n이미 보고 있었어.",
     "Enabled": false
   },
   "530439": {
     "OriginalText": "わかりました、私の力をご覧に入れます。",
-    "Text": "",
-    "Enabled": false
+    "Text": "알겠습니다. 제 힘을 보여 드리죠.",
+    "Enabled": true
   },
   "530440": {
     "OriginalText": "私の力を望みますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "제 힘을 원하십니까?",
+    "Enabled": true
   },
   "530441": {
     "OriginalText": "過酷な環境は己を成長させる\nこの上ない好機となるだろう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "혹독한 환경은 자신을 성장시킬\n더없이 좋은 기회가 될 것이다.",
+    "Enabled": true
   },
   "530442": {
     "OriginalText": "立ち止まって待ってても\n何も変わらないって教えてもらったから……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "멈춰 서서 기다리기만 해서는\n아무것도 바뀌지 않는다고 배웠으니까…!",
+    "Enabled": true
   },
   "530443": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]に残された最後の１人として\n託された使命を諦めるわけにはいきません。",
-    "Text": "",
-    "Enabled": false
+    "Text": "이 행성에 남겨진 마지막 1명으로서\n맡겨진 사명을 포기할 수는 없습니다.",
+    "Enabled": true
   },
   "530444": {
     "OriginalText": "えっと、あの……\nラボの備品の管理なら、任せてください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "저기, 그…\n랩 비품 관리라면 맡겨 주세요!",
+    "Enabled": true
   },
   "530445": {
     "OriginalText": "仕方ありませんね、\n共に戦って差し上げますわ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "어쩔 수 없네요.\n함께 싸워 드리겠어요!",
+    "Enabled": true
   },
   "530446": {
     "OriginalText": "いつでも出撃は可能だ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "언제든 출격할 수 있다.",
+    "Enabled": true
   },
   "530447": {
     "OriginalText": "この惑星で犠牲になった多くの者のためにも\n早くこの惑星を脱出せねばな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "이 행성에서 희생된 많은 이들을 위해서라도\n빨리 이 행성을 탈출해야 한다.",
+    "Enabled": true
   },
   "530448": {
     "OriginalText": "真に仲間を大切に出来ない者は\n私の部隊にはいらない。\nどんな状況であれ大切なものは仲間だ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "진정으로 동료를 소중히 여기지 못하는 자는\n내 부대에 필요 없다.\n어떤 상황이든 중요한 것은 동료다.",
+    "Enabled": true
   },
   "530449": {
     "OriginalText": "私の名前はズック、ズックだ。\n大切なことなので２回言った。\n忘れないように！",
-    "Text": "",
-    "Enabled": false
+    "Text": "내 이름은 즈크, 즈크다.\n중요하니까 2번 말했다.\n잊지 않도록!",
+    "Enabled": true
   },
   "530450": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530451": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530452": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530453": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530454": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530455": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530456": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530457": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530458": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530459": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530460": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530461": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530462": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530463": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530464": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530465": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530466": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530467": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530468": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530469": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530470": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530471": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530472": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530473": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530474": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530475": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530476": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530477": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530478": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530479": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530480": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530481": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530482": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530483": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530484": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530485": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530486": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530487": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530488": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530489": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530490": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530491": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530492": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530493": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530494": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530495": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530496": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530497": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530498": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   },
   "530499": {
     "OriginalText": "予備枠",
-    "Text": "",
-    "Enabled": false
+    "Text": "예비 틀",
+    "Enabled": true
   }
 }

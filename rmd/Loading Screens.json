@@ -1,1302 +1,1297 @@
 {
-  "800000": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
   "800001": {
     "OriginalText": "移動中、 [f 66] でカメラを動かして周りを見回せる。",
-    "Text": "When moving, you can move the\ncamera using [f 66].",
+    "Text": "이동 중 [f 66]로 카메라를 움직여 둘러볼 수 있다.",
     "Enabled": true
   },
   "800002": {
     "OriginalText": "[f 75] を長く押すことで、より高くジャンプできる。",
-    "Text": "By holding [f 75] down, you can jump higher.",
+    "Text": "[f 75]를 길게 누르면 더 높이 점프할 수 있다.",
     "Enabled": true
   },
   "800003": {
     "OriginalText": "[f 73] で通常攻撃をおこなう。 \nボタンを連打または押し続けることで、連続攻撃が出る。",
-    "Text": "Press [f 73] to attack.\nBy pressing it repeatedly, you can perform continuous attacks.",
+    "Text": "[f 73]로 통상 공격을 한다.\n버튼을 연타하거나 계속 누르면 연속 공격을 한다.",
     "Enabled": true
   },
   "800004": {
     "OriginalText": "[f 79] を押し続けることで、エネミーをロックオンできる。",
-    "Text": "By pressing and holding [f 79],\nyou can lock on to enemies.",
+    "Text": "[f 79]를 계속 누르면 에너미를 록온할 수 있다.",
     "Enabled": true
   },
   "800005": {
     "OriginalText": "[f 79] を押すとカメラの向きがリセットされる。",
-    "Text": "Pressing [f 79] can reset the camera.",
+    "Text": "[f 79]를 누르면 카메라 방향이 초기화된다.",
     "Enabled": true
   },
   "800006": {
     "OriginalText": "ハンターはガードで攻撃ダメージを軽滅できる。",
-    "Text": "Hunters can block attacks by using Guard.",
-    "Enabled": true
+    "Text": "헌터는 가드로 공격 데미지를 줄일 수 있다.",
+    "Enabled": false
   },
   "800007": {
     "OriginalText": "攻撃後に表示される円が赤く光ったタイミングで\n攻撃ボタンを押せばジャストアタックとなる。",
-    "Text": "By timing your attacks on the red\ncircle, you can perform a Just Attack.",
+    "Text": "공격 후 나타나는 원이 붉게 빛나는 순간에\n공격 버튼을 누르면 저스트 어택이 된다.",
     "Enabled": true
   },
   "800008": {
     "OriginalText": "ジャストアタックに成功すると大ダメージが与えられる。\nまた、チェインの受付時間が伸びる。",
-    "Text": "By performing multiple Just Attacks, not only will\nyour damage increase, but the Chain Timer will increase.",
+    "Text": "저스트 어택에 성공하면 큰 데미지를 줄 수 있다.\n또한 체인 입력 유효 시간이 늘어난다.",
     "Enabled": true
   },
   "800009": {
     "OriginalText": "[f 79] で敵をロックオン中、\n[f 66] でロックオン対象を切り替えることができる。",
-    "Text": "While using [f 79] to lock on,\nyou can switch targets by using [f 66].",
+    "Text": "[f 79]로 적을 록온하는 동안\n[f 66]로 록온 대상을 전환할 수 있다.",
     "Enabled": true
   },
   "800010": {
     "OriginalText": "攻撃に使うボタンと、それぞれに設定された攻撃が\n画面右下のメインパレットに表示されている。",
-    "Text": "The buttons used for attacking are located\non the bottom right hand of the screen.",
+    "Text": "공격에 쓰는 버튼과 각 버튼에 설정한 공격은\n화면 오른쪽 아래의 메인 팔레트에 표시된다.",
     "Enabled": true
   },
   "800011": {
     "OriginalText": "[f 78] を押している間、攻撃が裏パレットに切り替わる。",
-    "Text": "You can select items on the palette by pressing [f 78].",
+    "Text": "[f 78]를 누르는 동안 공격이 뒷면 팔레트로 바뀐다.",
     "Enabled": true
   },
   "800012": {
     "OriginalText": "サブパレットにタッチすることで\nアイテムやスキル、テクニックを使用できる。",
-    "Text": "By touching the subpalette,\nyou can use Items, Skills and Techniques.",
+    "Text": "서브 팔레트를 터치하면\n아이템, 스킬, 테크닉을 사용할 수 있다.",
     "Enabled": true
   },
   "800013": {
     "OriginalText": "[f 7a] [f 7b] でサブパレットを切り替えることができる。",
-    "Text": "By pressing [f 7a] or [f 7b], you can swap subpalettes.",
+    "Text": "[f 7a] [f 7b]로 서브 팔레트를 전환할 수 있다.",
     "Enabled": true
   },
   "800014": {
     "OriginalText": "[f 7c] [f 7d] と [f 02] で武器を切り替えることができる。",
-    "Text": "By pressing [f 7c] or [f 7d], you can switch weapons.\nPressing [f 02] will confirm your selection.",
+    "Text": "[f 7c] [f 7d]와 [f 02]로 무기를 바꿀 수 있다.",
     "Enabled": true
   },
   "800015": {
     "OriginalText": "スキルはレベルが上がると自動的に入手できる。\nスキルを使うにはスキルボードにセットする必要がある。",
-    "Text": "Skills will be obtained automatically when you reach a\ncertain level. Utilizing the Skill Board allows the use of them.",
+    "Text": "레벨이 오르면 스킬을 자동으로 얻는다.\n스킬을 쓰려면 스킬 보드에 장착해야 한다.",
     "Enabled": true
   },
   "800016": {
     "OriginalText": "スキルボード上で隣りあったスキルの組み合わせで\nコンボスキルが発生することがある。",
-    "Text": "Linking skills on the Skill Board\nmay create Combo Skills.",
+    "Text": "스킬 보드에서 서로 이웃한 스킬의 조합에 따라\n콤보 스킬이 발생하기도 한다.",
     "Enabled": true
   },
   "800017": {
     "OriginalText": "キャラクターはHPが0になると戦闘不能になる。",
-    "Text": "When your HP reaches 0, you become incapacitated.",
+    "Text": "캐릭터는 HP가 0이 되면 전투 불능이 된다.",
     "Enabled": true
   },
   "800018": {
     "OriginalText": "パーティーメンバーは戦闘不能後、一定時間で復活する。",
-    "Text": "Party members will be automatically\nrevived when a battle is over.",
+    "Text": "파티 멤버는 전투 불능 후 일정 시간이 지나면 부활한다.",
     "Enabled": true
   },
   "800019": {
     "OriginalText": "プレイヤーキャラクターが戦闘不能となった時、\nスケープドールを持っていればその場で復活できる。",
-    "Text": "If you become incapacitated, you\ncan use a Scape Doll to revive yourself.",
+    "Text": "플레이어 캐릭터가 전투 불능이 됐을 때\n스케이프돌이 있으면 그 자리에서 부활할 수 있다.",
     "Enabled": true
   },
   "800020": {
     "OriginalText": "戦闘不能から復活して数秒の間は敵の攻撃を受けない。",
-    "Text": "You won't be attacked by enemies\nfor a few seconds after a revive.",
+    "Text": "전투 불능에서 부활한 뒤 몇 초간은\n적의 공격을 받지 않는다.",
     "Enabled": true
   },
   "800021": {
     "OriginalText": "攻撃、回復、ダメージ軽滅など\nさままなテクニックが存在する。",
-    "Text": "Different Technique types exist,\nsuch as Offensive, Recovery or Support.",
-    "Enabled": true
+    "Text": "공격, 회복, 데미지 감소 등\n다양한 테크닉이 있다.",
+    "Enabled": false
   },
   "800022": {
     "OriginalText": "テクニックは攻撃ボタンを長押しして、\nチャージ完了後にボタンを離すと発動する。",
-    "Text": "Charge Techniques by holding the\nbutton down. Release to complete the charge.",
+    "Text": "공격 버튼을 길게 눌러 테크닉을 차지하고,\n차지가 끝난 뒤 버튼을 놓으면 발동한다.",
     "Enabled": true
   },
   "800023": {
     "OriginalText": "テクニックは攻撃ボタンを長押しチャージしたまま移動もできる。",
-    "Text": "You can also move while charging a Technique.",
+    "Text": "공격 버튼을 길게 누르면 테크닉을\n차지한 채로 이동할 수도 있다.",
     "Enabled": true
   },
   "800024": {
     "OriginalText": "一部のグランアーツは、攻撃ボタン長押しで\nチャージして発動すると威力が増大する。",
-    "Text": "Some Gran Arts increase\ntheir power when charged up.",
+    "Text": "일부 그란 아츠는 공격 버튼을 길게 눌러\n차지한 뒤 발동하면 위력이 커진다.",
     "Enabled": true
   },
   "800025": {
     "OriginalText": "モノメイト、ディメイト、トリメイトを使うとHPが回復する。",
-    "Text": "Using Monomates, Dimates and\nTrimates will heal your HP.",
+    "Text": "모노메이트, 디메이트, 트리메이트를 쓰면\nHP가 회복된다.",
     "Enabled": true
   },
   "800026": {
     "OriginalText": "ムーンアトマイザーは\n周囲にいる戦闘不能状態のメンバーを全員復活させる。",
-    "Text": "Using Moon Atomizers will\nrevive everyone within a radius.",
+    "Text": "문 아토마이저는\n주변의 전투 불능 상태인 멤버를 모두 부활시킨다.",
     "Enabled": true
   },
   "800027": {
-    "OriginalText": "「リングジェネレーター」をサブパレットから使用すれば\nヘイロウを伝備しなくてもリングフィールドを作成できる。",
-    "Text": "If you use the Ring Generators, you can create Ring Platforms without a Halo.",
+    "OriginalText": "「リングジェネレーター」をサブパレットから使用すれば\nヘイロウを装備しなくてもリングフィールドを作成できる。",
+    "Text": "서브 팔레트에서 '링 제너레이터'를 쓰면\n헤일로를 장비하지 않고도 링 필드를 만들 수 있다.",
     "Enabled": true
   },
   "800028": {
     "OriginalText": "他のクラスで入手したスキルでも、\nスキルボードにセットすれば使用できる。",
-    "Text": "Skills acquired from other classes can\nbe used if they're set on the Skill Board.",
+    "Text": "다른 클래스에서 얻은 스킬도\n스킬 보드에 장착하면 사용할 수 있다.",
     "Enabled": true
   },
   "800029": {
     "OriginalText": "グランド・アクトでは、プレイヤーの好きな順番で\n洋語を進めることができる。",
-    "Text": "",
+    "Text": "그랜드 액트에서는 플레이어가 원하는 순서대로\n이야기를 진행할 수 있다.",
     "Enabled": false
   },
   "800030": {
     "OriginalText": "HPが足りないと感じたら、クラスレベルを上げるか\nハンターのスキル「HPアップ」をセットするとよい。",
-    "Text": "If you feel that your HP is lacking,\ntry leveling up, or use the Hunter skill \"HP UP\".",
+    "Text": "HP가 부족하다면 클래스 레벨을 올리거나\n헌터 스킬 'HP 업'을 장착해 보자.",
     "Enabled": true
   },
   "800031": {
     "OriginalText": "ラッピーは経験値大量獲得のチャンス！",
-    "Text": "Rappies are a great way\nof gaining a large amount of EXP.",
+    "Text": "랍피는 경험치를 대량으로 얻을 기회!",
     "Enabled": true
   },
   "800032": {
     "OriginalText": "ストーリーが進行する場所やクエストには\n赤いガイドアイコンが付く。",
-    "Text": "The Red Guide Icon indicates the\nlocation for Quest Story progression.",
+    "Text": "스토리가 진행되는 장소나 퀘스트에는\n붉은 안내 아이콘이 붙는다.",
     "Enabled": true
   },
   "800033": {
     "OriginalText": "クルーから受けた約束に関連したクエストには\n水色のガイドアイコンが付く。",
-    "Text": "Certain members of the crew can issue\nPromise Orders, indicated by the Blue Guide Icon.",
+    "Text": "크루에게 받은 약속과 관련된 퀘스트에는\n하늘색 안내 아이콘이 붙는다.",
     "Enabled": true
   },
   "800034": {
     "OriginalText": "アイテムパックの容量上限は200個。\nそれを超えて入手したアイテムは倉庫に送られる。",
-    "Text": "Your inventory has a capacity limit of 200.\nItems received past this will be sent to storage.",
+    "Text": "아이템 팩에는 최대 200개까지 넣을 수 있다.\n이를 초과해 얻은 아이템은 창고로 보내진다.",
     "Enabled": true
   },
   "800035": {
     "OriginalText": "肩越し視点では、より精密な射撃をおこなえる。",
-    "Text": "Entering Third Person mode can\nhelp you perform precision attacks.",
+    "Text": "TPS 시점에서는 더 정밀하게 사격할 수 있다.",
     "Enabled": true
   },
   "800036": {
     "OriginalText": "マルチプレイをしたゲストクルーは50人まで記録され、\nパーティーメンバーに加えることができる。",
-    "Text": "You can have up to 50 members recorded\nin multiplayer as Guest Crew Members.",
+    "Text": "함께 멀티플레이한 게스트 크루는 50명까지 기록돼\n파티 멤버로 추가할 수 있다.",
     "Enabled": true
   },
   "800037": {
     "OriginalText": "ゲストクルーは50人を超えると古い記録から消去される。\nお気に入りに登録すれば消去されなくなる。",
-    "Text": "Guest List will be deleted once you've hit 50 players.\nPlayers set as favorites will not be deleted.",
+    "Text": "게스트 크루가 50명을 넘으면 옛 기록부터 지운다.\n즐겨찾기에 등록하면 지워지지 않는다.",
     "Enabled": true
   },
   "800038": {
     "OriginalText": "敵が強くクエストがクリアできないときは、\nレベルを上げたり、武器や防具を見直そう。",
-    "Text": "If you're unable to defeat an enemy,\nupgrade your gear or raise your level.",
+    "Text": "적이 강해서 퀘스트를 클리어할 수 없다면\n레벨을 올리거나 무기와 방어구를 점검해 보자.",
     "Enabled": true
   },
   "800039": {
     "OriginalText": "ショップ端末を使って\n拠点に設置されたショップに遠隔アクセスできる。",
-    "Text": "Using Shop Terminals,\nyou can access shops in your base.",
+    "Text": "샵 단말기를 사용하면\n거점에 설치된 샵에 원격으로 액세스할 수 있다.",
     "Enabled": true
   },
   "800040": {
     "OriginalText": "ハンターは近接攻撃を得意とし、打撃武器である\nソード・パルチザン・ダブルセイバー・ナックルを使いこなす。",
-    "Text": "Hunter is your go-to class for Melee weapons.\nUse a Sword, Partizan, Double Saber or Knuckle.",
+    "Text": "헌터는 근접 공격에 능하다. 타격 무기인\n소드, 파르티잔, 더블 세이버, 너클을 잘 다룬다.",
     "Enabled": true
   },
   "800041": {
     "OriginalText": "レンジャーは中～遠距離からの攻撃を得意とし、射撃武器\nであるアサルトライフル・ツインマシンガンを使いこなす。",
-    "Text": "Rangers are excellent at long to medium range\ncombat by mastering the Assault Rifle or Twin Machinegun.",
+    "Text": "레인저는 중~원거리 공격에 능해, 사격 무기인\n어설트 라이플과 트윈 머신 건을 능숙하게 다룬다.",
     "Enabled": true
   },
   "800042": {
     "OriginalText": "フォースは遠距離からの攻撃を得意とし、\n法撃武器であるロッド・タリス・ウォンドを使いこなす。",
-    "Text": "Forces are pros at long range combat.\nUse Techniques along with a Rod, Wand, or Talis.",
+    "Text": "포스는 원거리 공격에 특화되어,\n법격 무기인 로드, 탈리스, 완드를 잘 다룬다.",
     "Enabled": true
   },
   "800043": {
     "OriginalText": "メインメニューの［設定/ヘルプ］では\nゲームの設定やチュートリアルの確認ができる。",
-    "Text": "In the [Settings/Help] menu, you can\nconfigure your settings or view tutorials.",
+    "Text": "메인 메뉴의 '설정/헬프'에서\n게임 설정을 바꾸거나 튜토리얼을 확인할 수 있다.",
     "Enabled": true
   },
   "800044": {
     "OriginalText": "敵に攻撃を当て続けてチェイン数が増えると、\nより大きなダメージを与えられるようになる。",
-    "Text": "As you keep hitting enemies, your chain will\nrise, allowing you to deal more damage.",
+    "Text": "적에게 공격을 계속 맞혀 체인 수가 늘어나면\n더 큰 데미지를 줄 수 있다.",
     "Enabled": true
   },
   "800045": {
     "OriginalText": "チェインをつなげると画面上部のバーストゲージがたまる。\nゲージがいっぱいになるとグランバーストが発生する。",
-    "Text": "As your chain increases, the burst gauge also increases.\nOnce your burst gauge is maxed, a Gran BURST occurs.",
+    "Text": "체인을 이으면 화면 위 버스트 게이지가 차오른다.\n게이지가 가득 차면 그란 버스트가 발생한다.",
     "Enabled": true
   },
   "800046": {
     "OriginalText": "グランバースト発生中は、経験値UP、アイテムドロップUP、\nレアエネミー出現率UPなどの効果が発生することがある。",
-    "Text": "During a Gran BURST, EXP UP, Item Drop UP &\nRare Enemy Occurence Effects may occur.",
+    "Text": "그란 버스트 중에는 경험치와 아이템 드랍 증가,\n레어 에너미 출현률 UP 등 효과가 생길 수 있다.",
     "Enabled": true
   },
   "800047": {
     "OriginalText": "グランバースト発生中はチェインが途切れない。",
-    "Text": "Your chain cannot be interrupted during a Gran BURST.",
+    "Text": "그란 버스트 중에는 체인이 끊기지 않는다.",
     "Enabled": true
   },
   "800048": {
     "OriginalText": "チェインは、単体の敵だけでなく\n一定範囲内の別の敵に対してもつながる。",
-    "Text": "A chain is not focused on just one enemy,\nothers within a certain range of you are included.",
+    "Text": "체인은 적 하나뿐 아니라\n일정 범위 안에 있는 다른 적에게도 이어진다.",
     "Enabled": true
   },
   "800049": {
     "OriginalText": "通常よりダメージ量の多いクリティカルヒットが出ることがある。\nクリティカルヒットのダメージ数値は青で表示される。",
-    "Text": "Damage that is higher than usual are Critical Hits.\nA Critical Hit is displayed in blue.",
+    "Text": "평소보다 데미지가 큰 크리티컬 히트가 나올 수 있다.\n그 데미지 수치는 파란색으로 표시된다.",
     "Enabled": true
   },
   "800050": {
     "OriginalText": "パーティーメンバーの戦闘行動は持っている武器によって変わる。",
-    "Text": "The behavior of your NPC characters\ndepend on the weapon they have equipped.",
+    "Text": "파티 멤버의 전투 행동은\n들고 있는 무기에 따라 달라진다.",
     "Enabled": true
   },
   "800051": {
     "OriginalText": "スモール・コアはアタッチパーツの作成に使うことができる。\n武器や防具の作成には使えない。",
-    "Text": "Small cores are used to create attachment parts.\nThey cannot be used to create Weapons or Armor.",
+    "Text": "스몰 코어는 어태치파츠 제작에 사용할 수 있다.\n무기나 방어구 제작에는 쓸 수 없다.",
     "Enabled": true
   },
   "800052": {
     "OriginalText": "レアエネミーはホワイトチケットを落とす。\n大切にとっておこう。",
-    "Text": "Rare Enemies can drop White Tickets.\nThey're quite rare.",
+    "Text": "레어 에너미는 화이트 티켓을 떨어뜨린다.\n소중히 보관해 두자.",
     "Enabled": true
   },
   "800053": {
     "OriginalText": "クルーとの友好度は、約束を達成したり\n一緒にクエストをクリアすることで上がる。",
-    "Text": "You can increase your friendliness with the\ncrew by completing quests and Promise Orders with them.",
+    "Text": "크루와의 우호도는 약속을 달성하거나\n함께 퀘스트를 클리어하면 오른다.",
     "Enabled": true
   },
   "800054": {
     "OriginalText": "頼み事があるクルーは頭上に水色の吹き出しが表示される。",
-    "Text": "Crew Members with a request have\na light blue icon displayed above them.",
+    "Text": "부탁이 있는 크루는 머리 위에\n하늘색 말풍선이 표시된다.",
     "Enabled": true
   },
   "800055": {
     "OriginalText": "エマージェンシートライアルを完了すると\nレーザーフェンスが消え、先に進めるようになる。",
-    "Text": "Laser fences can be lowered when completing\nthe Emergency Trial associated with them.",
+    "Text": "이머전시 트라이얼을 완료하면\n레이저 펜스가 사라져 앞으로 나아갈 수 있다.",
     "Enabled": true
   },
   "800056": {
     "OriginalText": "敵の攻撃によって、プレイヤーも状態異常になることがある。",
-    "Text": "Certain enemies can apply a status effect on you.",
+    "Text": "플레이어도 적의 공격으로\n상태이상에 걸릴 수 있다.",
     "Enabled": true
   },
   "800057": {
     "OriginalText": "状態異常は一定時間たてば自動的に回復するが、\nソルアトマイザーやアンティを使えば即座に回復できる。",
-    "Text": "You can cure status ailments by waiting a certain period of\ntime, by using a Sol Atomizer or using the technique Anti.",
+    "Text": "상태이상은 일정 시간이 지나면 저절로 회복되지만\n솔 아토마이저나 안티를 쓰면 바로 회복할 수 있다.",
     "Enabled": true
   },
   "800058": {
     "OriginalText": "状態異常「グラン中毒」\n攻撃などの行動ができなくなり、移動速度が低下する。",
-    "Text": "The status effect \"Gran Poisoning\" will temporarily\ndisable the use of attacks and decrease your speed.",
+    "Text": "상태이상 '그란 중독'\n공격 등의 행동을 못 하고 이동 속도가 느려진다.",
     "Enabled": true
   },
   "800059": {
     "OriginalText": "状態異常「バインド」\nその場に拘束され、移動ができなくなる。",
-    "Text": "The status effect \"Bind,\" binds you to a\nsingle spot, making you unable to move.",
+    "Text": "상태이상 '바인드'\n그 자리에 묶여 움직일 수 없게 된다.",
     "Enabled": true
   },
   "800060": {
     "OriginalText": "状態異常「インフェクション」\n一定時間ダメージを受け続ける。近くの仲間にも感染する。",
-    "Text": "The status effect \"Infection,\" will temporarily\ndamage you over time. It can also spread to others.",
+    "Text": "상태이상 '인펙션'에 걸리면 일정 시간\n계속 데미지를 받으며 주변 동료에게도 전염된다.",
     "Enabled": true
   },
   "800061": {
     "OriginalText": "状態異常「ブラインド」\n視覚を阻害され、視界が狭くなる。",
-    "Text": "The status effect \"Blind,\" will temporarily\ndisrupt your vision and distort your field of view.",
+    "Text": "상태이상 '블라인드'\n시야가 방해받아 볼 수 있는 범위가 좁아진다.",
     "Enabled": true
   },
   "800062": {
-    "OriginalText": "状態異常「属性異常」\n炎、劇、雷など各属性に対する耐性が滅少する。",
-    "Text": "Certain status effects, such as the \"Abnormal Elemental Conditions\"\ncan temporarily lower your resistance of their respective element.",
+    "OriginalText": "状態異常「属性異常」\n炎、氷、雷など各属性に対する耐性が減少する。",
+    "Text": "상태이상 '속성 이상'\n염속성, 빙속성, 뇌속성 등\n각 속성의 내성이 낮아진다.",
     "Enabled": true
   },
   "800063": {
     "OriginalText": "属性耐性を持つシールドユニットは\n敵からの属性攻撃ダメージを滅らすことができる。",
-    "Text": "A shield with an elemental value can resist\nthe damage from an enemy's elemental attack.",
-    "Enabled": true
+    "Text": "속성 내성이 있는 실드 유닛은\n적의 속성 공격으로 받는 데미지를 줄여 준다.",
+    "Enabled": false
   },
   "800064": {
-    "OriginalText": "バスターのスキル「武器伝備パイル」をスキルボードに\nセットすれば、他のクラスでもパイルが伝備できる。",
-    "Text": "If the Buster skill \"Weapon Equip: Piles\" is on the\nSkill Board, you'll be able to use Piles in other classes.",
+    "OriginalText": "バスターのスキル「武器装備パイル」をスキルボードに\nセットすれば、他のクラスでもパイルが装備できる。",
+    "Text": "버스터 스킬 '무기 장비 파일'을 스킬 보드에\n장착하면 다른 클래스도 파일을 장비할 수 있다.",
     "Enabled": true
   },
   "800065": {
     "OriginalText": "スタン状態になった時は\n[f 65] を上下左右に動かすと早く回復する。",
-    "Text": "Pressing [f 65] left, right, up or down\nrapidly will get you out of Stun faster.",
+    "Text": "스턴 상태일 때는\n[f 65]를 상하좌우로 움직이면 빨리 회복된다.",
     "Enabled": true
   },
   "800066": {
     "OriginalText": "ラッピーよりさらに大量の経験値が獲得できる\n「幻のラッピー」がいるらしい。",
-    "Text": "There seems to be a \"Phantom Rappy\" which\ngives off a whole lot more EXP than a regular Rappy.",
+    "Text": "랍피보다도 훨씬 많은 경험치를 얻을 수 있는\n'환상의 랍피'가 있다고 한다.",
     "Enabled": true
   },
   "800067": {
     "OriginalText": "ハンターの回避アクション「ステップ」は、\n最小限の移動距離ですばやく身をかわす。",
-    "Text": "Hunters can utilize \"Step\" to\nmove out of an incoming attack.",
+    "Text": "헌터의 회피 액션 '스텝'은\n최소한의 이동 거리로 빠르게 몸을 피한다.",
     "Enabled": true
   },
   "800068": {
     "OriginalText": "レンジャーの回避アクション「ダイブロール」は\nジャストアタックにつなげることができる。",
-    "Text": "Rangers can \"Dive Roll\" out of attacks\nand perform a Just Attack.",
+    "Text": "레인저의 회피 액션 '다이브 롤'은\n저스트 어택으로 이어갈 수 있다.",
     "Enabled": true
   },
   "800069": {
     "OriginalText": "フォースの回避アクション「ミラージュエスケープ」は\n姿が消えている間、敵の攻撃を受けない。",
-    "Text": "Forces have a unique dodge called\n\"Mirage Escape,\" which prevents them from taking damage.",
+    "Text": "포스의 회피 액션 '미라쥬 이스케이프'는\n모습이 사라진 동안 적의 공격을 받지 않는다.",
     "Enabled": true
   },
   "800070": {
     "OriginalText": "フォースのテクニックは\nサブパレットにセットして長押しで発動する。",
-    "Text": "Forces can set Techniques on the\nsubpalette and activate them via long press.",
+    "Text": "포스의 테크닉은\n서브 팔레트에 등록한 뒤 길게 눌러 발동한다.",
     "Enabled": true
   },
   "800071": {
     "OriginalText": "サブパレットにセットし、\nタッチすることで発動するスキルがある。",
-    "Text": "There are skills that can be placed\non the subpalette in order to activate them.",
+    "Text": "서브 팔레트에 등록하고\n터치하면 발동하는 스킬도 있다.",
     "Enabled": true
   },
   "800072": {
     "OriginalText": "グランアーツはグランの力を用いた強力な攻撃。\n繰り出すごとにGP（グランポイント）を消費する。",
-    "Text": "Gran Arts allow the use of powerful Gran-based\nmoves. Each move will cost GP on each use.",
+    "Text": "그란 아츠는 그란의 힘을 쓰는 강력한 공격이다.\n사용할 때마다 GP(그란 포인트)를 소비한다.",
     "Enabled": true
   },
   "800073": {
     "OriginalText": "GP（グランポイント）は時間経過、\nまたは通常攻撃をヒットさせることで回復する。",
-    "Text": "You can replenish your GP\nby performing Normal Attacks.",
+    "Text": "GP(그란 포인트)는 시간이 지나거나\n통상 공격을 적중시키면 회복된다.",
     "Enabled": true
   },
   "800074": {
     "OriginalText": "アサルトライフルや一部のグランアーツでは、\n移動しながら射撃するムービングショットが使える。",
-    "Text": "Assault Rifles have the ability to\nmove while performing a Gran Art.",
+    "Text": "어설트 라이플이나 일부 그란 아츠는\n이동하면서 사격하는 무빙 샷을 쓸 수 있다.",
     "Enabled": true
   },
   "800075": {
     "OriginalText": "ムービングショットは、安全に立ち回れるかわりに\n発射する弾丸がバラけやすい。",
-    "Text": "During Moving Shot, the bullets will likely to miss\nrather than standing steadily.",
+    "Text": "무빙 샷은 안전하게 움직일 수 있는 대신\n발사한 탄환이 흩어지기 쉽다.",
     "Enabled": true
   },
   "800076": {
     "OriginalText": "武器アタッチパーツに状態異常の能力をつけることで\n敵を状態異常にすることができる。",
-    "Text": "By adding status conditions to weapon attachments,\nyou can inflict them on to enemies.",
+    "Text": "무기 어태치파츠에 상태이상 능력을 붙이면\n적을 상태이상에 걸리게 할 수 있다.",
     "Enabled": true
   },
   "800077": {
     "OriginalText": "「ソード」初心者でも扱いやすい近接打撃武器。\n基本の戦闘を覚えるのに適する。",
-    "Text": "\"Swords\" are great for beginners.\nThey're easier to learn and master basic combat with.",
+    "Text": "'소드'는 초보자도 다루기 쉬운 근접 타격 무기다.\n전투의 기본을 익히기에 좋다.",
     "Enabled": true
   },
   "800078": {
     "OriginalText": "「パルチザン」高速かつ豪快に敵を薙ぎ払う打撃武器。\nスキのない攻撃を得意とする。",
-    "Text": "\"Partizans\" excel at clearing enemies fast.\nTheir attacks are specialized for each occasion.",
+    "Text": "'파르티잔'은 빠르고 호쾌하게 적을 쓸어 버린다.\n빈틈없는 공격에 특화된 타격 무기다.",
     "Enabled": true
   },
   "800079": {
     "OriginalText": "「ダブルセイバー」攻撃に特化した打撃武器。\n多彩な攻撃と攻撃回数で圧倒的なダメージを敵に与える。",
-    "Text": "\"Double Sabers\" are specialized in strike attacks. Their attacks\nand pacing give an overwhelming advantage against some enemies.",
+    "Text": "'더블 세이버'는 공격에 특화된 타격 무기다.\n다양하고 많은 공격으로 압도적인 데미지를 준다.",
     "Enabled": true
   },
   "800080": {
     "OriginalText": "「ナックル」敵に接近して攻撃する打撃武器。\n一対一では敵に反撃の隙を与えず、圧倒できる。",
-    "Text": "\"Knuckles\" are a close combat Striking weapon. They're capable\nof overwhelming an enemy without giving room for a counterattack.",
+    "Text": "'너클'은 적에게 접근해서 공격하는 타격 무기다.\n일대일에선 반격할 틈도 주지 않고 적을 압도한다.",
     "Enabled": true
   },
   "800081": {
     "OriginalText": "「アサルトライフル」初心者でも扱いやすい射撃武器。\n離れた場所から敵に射撃ダメージを与える。",
-    "Text": "\"Assault Rifles\" are an easy-to-use Ranged weapon.\nThey allow you to deal ranged damage from far away.",
+    "Text": "'어설트 라이플'은 초보자도 다루기 쉽다.\n멀리서 사격 데미지를 주는 사격 무기다.",
     "Enabled": true
   },
   "800082": {
     "OriginalText": "「ツインマシンガン」単一の敵を集中的に攻撃する射撃武器。\n二丁の銃を使ったアクロバティックな攻撃アクションが特微。",
-    "Text": "\"Twin Machineguns\" are a type of Ranged weapon that focus\non a single target. They specialize in aerial and acrobatic attacks.",
-    "Enabled": true
+    "Text": "'트윈 머신 건'은 한 적을 집중 사격한다.\n두 자루의 총으로 곡예 같은 공격 액션을\n펼치는 사격 무기다.",
+    "Enabled": false
   },
   "800083": {
     "OriginalText": "「ロッド」初心者でも扱いやすい法撃武器。\n通常攻撃に加え、テクニックをセットして使うことができる。",
-    "Text": "\"Rods\" are a beginner's Tech weapon.\nIn addition to normal attacks, you can set Techniques with them.",
+    "Text": "'로드'는 초보자도 다루기 쉬운 법격 무기다.\n통상 공격 외에 테크닉을 등록해서 쓸 수 있다.",
     "Enabled": true
   },
   "800084": {
     "OriginalText": "「タリス」カード状のパーツを遠くに飛ばし、\nそのパーツからテクニックを遠隔発動させる法撃武器。",
-    "Text": "\"Talises\" are a type of Tech card weapon that allows\nfor casting Techniques from long distances when thrown.",
+    "Text": "'탈리스'는 카드 모양 파츠를 멀리 날려\n그 파츠에서 테크닉을 원격 발동하는 법격 무기다.",
     "Enabled": true
   },
   "800085": {
     "OriginalText": "「ウォンド」通常攻撃が強力な法撃武器。\nテクニックの発動が早く、近接攻撃も強いのが特微。",
-    "Text": "\"Wands\" are a type of Tech weapon with powerful normal\nattacks. They're known for their powerful Tech explosions.",
-    "Enabled": true
+    "Text": "'완드'는 통상 공격이 강력한 법격 무기다.\n테크닉을 빨리 쓰고 근접 공격도 강한 게 특징이다.",
+    "Enabled": false
   },
   "800086": {
     "OriginalText": "コールドスリープしているクルーを解凍し、\n仲間を増やすことができる。",
-    "Text": "You can increase your Partners by\ndefrosting crew members from Cold Sleep.",
+    "Text": "콜드 슬립 중인 크루를 해동해서\n동료를 늘릴 수 있다.",
     "Enabled": true
   },
   "800087": {
     "OriginalText": "ラボの［クルー配属］でショップや施設にクルーを配属できる。",
-    "Text": "You can assign Crew Members to various shops and\nfacilities from the Lab's \"Crew Assignment\" menu.",
+    "Text": "랩의 '승무원 배치'에서\n샵이나 시설에 크루를 배속할 수 있다.",
     "Enabled": true
   },
   "800088": {
     "OriginalText": "ショップでは配属されているクルーの「特微」効果によって\nアイテムが作成しやすくなることがある。",
-    "Text": "Some items at certain shops can become easier to create,\ndue to certain effects from assigned crew.",
-    "Enabled": true
+    "Text": "샵에 배속된 크루의 '특징' 효과에 따라\n아이템을 더 쉽게 만들 수 있기도 하다.",
+    "Enabled": false
   },
   "800089": {
     "OriginalText": "ラボの［施設の開発］でショップや施設、インテリアを作成し、\n［施設の設置と移動］で拠点の佇地に配置できる。",
-    "Text": "You can create shops, etc. with [Facility Development]\nin the Lab, and deploy them with [Facility Deployment].",
-    "Enabled": true
+    "Text": "랩의 '시설 개발'로 샵, 시설, 인테리어를 만들고\n'시설 설치와 이동'으로 거점 부지에 배치한다.",
+    "Enabled": false
   },
   "800090": {
     "OriginalText": "ショップや施設はレベルが高いものほど\n多くのクルーを配属できる。",
-    "Text": "The higher the level of shops, etc. the more crew can\nbe assigned.",
+    "Text": "샵이나 시설의 레벨이 높을수록\n더 많은 크루를 배속할 수 있다.",
     "Enabled": true
   },
   "800091": {
     "OriginalText": "探索隊を派遣するには\n「探索隊司令部」に一人似上のクルーを配属する必要がある。",
-    "Text": "In order to dispatch the search team, you need to assign\na crew in \"Search Team HQ\".",
-    "Enabled": true
+    "Text": "탐색대를 파견하려면 '탐색대 사령부'에\n크루를 한 명 이상 배속해야 한다.",
+    "Enabled": false
   },
   "800092": {
     "OriginalText": "配置されたショップや施設がもたらす効果は\nメインメニュー左上「発生している効果」で確認できる。",
-    "Text": "You can check the effects of the shop, etc. in \"Active\nEffects\" in the top-left of the Main Menu.",
+    "Text": "배치한 샵과 시설의 효과는 메인 메뉴\n왼쪽 위의 '발생 중인 효과'에서 확인할 수 있다.",
     "Enabled": true
   },
   "800093": {
     "OriginalText": "クラスカウンターでは、クラスを自由に変更できる。\nクラスを変更しても元のクラスのレベルは記録される。",
-    "Text": "By using the Class Counter, you can change your class.\nClasses have their own individual levels.",
+    "Text": "클래스 카운터에서는 클래스를 자유롭게 바꾼다.\n클래스를 바꿔도 이전 클래스의 레벨은 기록된다.",
     "Enabled": true
   },
   "800094": {
     "OriginalText": "パーティーメンバーに入れたクルーのレベルは\nプレイヤーの一番高いクラスレベルにあわせて変化する。",
-    "Text": "The Crew Members' levels will scale based\non the highest Class Level of the Player.",
+    "Text": "파티 멤버로 넣은 크루의 레벨은\n플레이어의 가장 높은 클래스 레벨에 맞춰 변한다.",
     "Enabled": true
   },
   "800095": {
     "OriginalText": "食堂の食事はプレイヤーにさままな効果を発生させる。\nこの効果は次のクエストが終了するまで続く。",
-    "Text": "Restaurant meals gives good effects to the player. This\neffect lasts until the end of the next quest.",
-    "Enabled": true
+    "Text": "식당의 식사는 플레이어에게 다양한 효과를 준다.\n이 효과는 다음 퀘스트가 끝날 때까지 이어진다.",
+    "Enabled": false
   },
   "800096": {
     "OriginalText": "食堂の食事の効果は、\nマルチプレイ時にはパーティ全員に反映される。",
-    "Text": "Restaurant meal effects affects all party members in\nmultiplayer.",
+    "Text": "식당에서 식사한 효과는\n멀티플레이 시 파티 전원에게 적용된다.",
     "Enabled": true
   },
   "800097": {
-    "OriginalText": "各種アイテムの作成には素村が必要となる。\n素村はエネミー討伐やクエストクリアで入手できる。",
-    "Text": "Materials is required to create various items. Materials\ncan be obtained by defeating enemies and clearing quests.",
+    "OriginalText": "各種アイテムの作成には素材が必要となる。\n素材はエネミー討伐やクエストクリアで入手できる。",
+    "Text": "각종 아이템을 만들려면 소재가 필요하다.\n에너미 토벌이나 퀘스트 클리어로 소재를 얻는다.",
     "Enabled": true
   },
   "800098": {
     "OriginalText": "武器や防具、アタッチパーツを作るのにはコアが必要。\nコアの持っている特殊能力は武器防具に継承される。",
-    "Text": "You need a core to create weapons, shield, etc. The\nspecial ability of the core is inherited by it.",
+    "Text": "무기, 방어구, 어태치파츠 제작에 코어가 필요하다.\n코어의 특수 능력은 무기와 방어구에 계승된다.",
     "Enabled": true
   },
   "800099": {
     "OriginalText": "同じ名前のコアでも個体ごとに異なる特殊能力を持つ。",
-    "Text": "Even the cores have the same name they can have\ndifferent abilities.",
+    "Text": "이름이 같은 코어도 개체마다 특수 능력이 다르다.",
     "Enabled": true
   },
   "800100": {
     "OriginalText": "仲間との距離を温めるには、★のついた約束を達成するとよい。",
-    "Text": "To improve friendship with your comrades,\n★Try to finish their promise orders.",
-    "Enabled": true
+    "Text": "동료와 가까워지려면 ★가 붙은 약속을 달성하자.",
+    "Enabled": false
   },
   "800101": {
-    "OriginalText": "「～片」と名のつく素村は\nノーマル難易度クエストの敵が落としやすい。",
-    "Text": "Material pieces is easily dropped by enemies from quests\nwith Normal difficulty.",
+    "OriginalText": "「～片」と名のつく素材は\nノーマル難易度クエストの敵が落としやすい。",
+    "Text": "이름에 '~조각'이 붙은 소재는\n노멀 난이도 퀘스트의 적이 잘 떨어뜨린다.",
     "Enabled": true
   },
   "800102": {
     "OriginalText": "ギガンテスを撃破すると、撃破ボーナスとして\nドロップするアイテムの数が少しだけ増える。",
-    "Text": "In defeating a Gigantes, defeat bonus will slightly\nincrease the number of drops.",
+    "Text": "기간테스를 격파하면 격파 보너스로\n드랍되는 아이템 수가 조금 늘어난다.",
     "Enabled": true
   },
   "800103": {
     "OriginalText": "同じエネミーでも難易度によって\nドロップするアイテムが変化する。",
-    "Text": "Item drops will change depending on the difficulty even\nit is the same enemy.",
+    "Text": "같은 에너미도 난이도에 따라\n떨어뜨리는 아이템이 달라진다.",
     "Enabled": true
   },
   "800104": {
     "OriginalText": "武器ショップの［武器カスタマイズ］で\nアタッチパーツを武器の好きな場所に伝着できる。",
-    "Text": "You can move the attachments on any part of the weapon\nin [Weapon Customization] of the Weapon Shop.",
-    "Enabled": true
+    "Text": "무기 샵의 '무기 커스터마이즈'에서\n어태치파츠를 무기의 원하는 곳에 장착할 수 있다.",
+    "Enabled": false
   },
   "800105": {
     "OriginalText": "アタッチパーツは［武器カスタマイズ］で\nステルスを指定すれば不可視にできる。",
-    "Text": "Attachments can be hidden in [Weapon Customization].",
+    "Text": "'무기 커스터마이즈'에서 어태치파츠의\n스텔스를 설정하면 보이지 않게 할 수 있다.",
     "Enabled": true
   },
   "800106": {
     "OriginalText": "属性つきアタッチパーツで武器に属性を付与できる。\n敵の弱点属性の武器で攻撃すればダメージが増加する。",
-    "Text": "You can add elements to weapons with attachments.\nDamage increases if the enemy weakness is met.",
+    "Text": "속성 어태치파츠로 무기에 속성을 부여할 수 있다.\n적의 약점 속성 무기로 공격하면 데미지가 오른다.",
     "Enabled": true
   },
   "800107": {
     "OriginalText": "コスチュームショップではコスチュームを作成できる。\nコスチュームは防御力に影響しない。",
-    "Text": "In the Costume Shop, you can create costumes.\nCostumes do not affect your character's stats.",
+    "Text": "코스튬 샵에서는 코스튬을 만들 수 있다.\n코스튬은 방어력에 영향을 주지 않는다.",
     "Enabled": true
   },
   "800108": {
     "OriginalText": "エステでは、プレイヤーキャラクターの外見の変更、\nコスチューム着替え、特微の設定ができる。",
-    "Text": "In the Makeover Shop, you can alter\nthe appearance of your character.",
-    "Enabled": true
+    "Text": "에스테에서는 플레이어 캐릭터의 외모를 바꾸고\n코스튬을 갈아입거나 특징을 설정할 수 있다.",
+    "Enabled": false
   },
   "800109": {
     "OriginalText": "エステはショップレベルが上がると編集できるメニューが増える。",
-    "Text": "As the shop level increases,\nso do the features of the shop.",
+    "Text": "에스테의 샵 레벨이 오르면\n편집할 수 있는 메뉴가 늘어난다.",
     "Enabled": true
   },
   "800110": {
     "OriginalText": "エステは、適した特微を持つクルーを配属することで\n選べる髪型やアクセサリーが増える。",
-    "Text": "In Makeover Shop, number of hairstyles and accessories\nwill increase by assigning the right crews.",
-    "Enabled": true
+    "Text": "에스테에 알맞은 특징을 가진 크루를 배속하면\n고를 수 있는 헤어스타일과 악세서리가 늘어난다.",
+    "Enabled": false
   },
   "800111": {
     "OriginalText": "同じ種類のショップをたくさん置いた場合は、\n一番レベルの高いショップの効果が有効になる。",
-    "Text": "If you have shops of the same type, the effect of the\nhighest level shop becomes the active effect.",
+    "Text": "같은 종류의 샵을 여러 개 놓았을 때는\n가장 레벨이 높은 샵의 효과가 적용된다.",
     "Enabled": true
   },
   "800112": {
-    "OriginalText": "施設「グランブースター」はクエストで入手できる\nグランエナジーの量を増やし、GP消費量を滅少させる。",
-    "Text": "[Gran Booster] facility increases the amount of Gran\nobtained from quests and reduced GP usage.",
+    "OriginalText": "施設「グランブースター」はクエストで入手できる\nグランエナジーの量を増やし、GP消費量を減少させる。",
+    "Text": "'그란 부스터' 시설은 퀘스트에서 얻는\n그란 에너지를 늘리고 GP 소비량을 줄여 준다.",
     "Enabled": true
   },
   "800113": {
     "OriginalText": "施設「アイテム探知伝置」は\nアイテムやレアアイテムを入手しやすくする。",
-    "Text": "[Item Detection System] facility makes it easier to\nobtain items and rare items.",
-    "Enabled": true
+    "Text": "'아이템 탐지 장치' 시설은\n아이템과 레어 아이템을 더 쉽게 얻도록 돕는다.",
+    "Enabled": false
   },
   "800114": {
     "OriginalText": "施設「エネミーレーダー」は\nブーストエネミーやレアエネミーを発見しやすくする。",
-    "Text": "[Enemy Radar] facility makes it easier to find boosted\nand rare enemies.",
+    "Text": "'에너미 레이더' 시설은\n부스트 에너미와 레어 에너미를 더 잘 찾게 한다.",
     "Enabled": true
   },
   "800115": {
     "OriginalText": "施設「バースト加速伝置」は\nチェインバースト発生時の効果種類を増加させる。",
-    "Text": "[BURST Accel. Device] facility increases the type of\neffects when a Chain Burst occurs.",
-    "Enabled": true
+    "Text": "'버스트 가속 장치' 시설은\n체인 버스트 발생 시 효과의 종류를 늘린다.",
+    "Enabled": false
   },
   "800116": {
     "OriginalText": "施設「探索隊司令部」では探索隊を調査に派遣できる。\n帰還後、探索隊が持ちかえったアイテムを入手できる。",
-    "Text": "[Search Team HQ] facility, search teams can be dispatched.\nYou can get the items when they returned.",
+    "Text": "'탐색대 사령부'에서 탐색대를 조사에 파견한다.\n돌아오면 탐색대가 가져온 아이템을 얻을 수 있다.",
     "Enabled": true
   },
   "800117": {
     "OriginalText": "探索隊の探索に必要な日数は\nプレイヤーがクエストを一回クリアするごとに一日経過する。",
-    "Text": "The number of days required to search is one day is equal\nto each clearing of a quest.",
+    "Text": "탐색에 필요한 일수는 플레이어가 퀘스트를\n한 번 클리어할 때마다 하루씩 지난다.",
     "Enabled": true
   },
   "800118": {
     "OriginalText": "探索隊の「疲労者」は、\nプレイヤーがクエストを一回クリアするごとに一人回復する。",
-    "Text": "The \"Fatigue\" status of the Search Team recovers by each\ntime the player clears a quest.",
+    "Text": "탐색대의 '피로한 대원'은 플레이어가\n퀘스트를 한 번 클리어할 때마다 한 명씩 회복한다.",
     "Enabled": true
   },
   "800119": {
     "OriginalText": "シアタースコープでは、これまでに体験した\nイベントを再生することができる。",
-    "Text": "By using the Theater Terminal, you can view\npast events that you experienced so far.",
+    "Text": "시어터 스코프에서는\n지금까지 겪은 이벤트를 다시 재생할 수 있다.",
     "Enabled": true
   },
   "800120": {
     "OriginalText": "メインクルーは［クルー配属］をしなくても\n自分の担当する施設へ自動的に移動する。",
-    "Text": "Main Crew members will automatically be assigned\nto their respective facility without having to set them.",
+    "Text": "메인 크루는 '승무원 배치'를 하지 않아도\n자기가 담당하는 시설로 자동 이동한다.",
     "Enabled": true
   },
   "800121": {
     "OriginalText": "アサルトライフルのグランアーツ「グローリーレイン」は\n壁越しでも当たるため、障害洋に隠れながら攻撃できる。",
-    "Text": "The Assault Rifle Gran Art \"Glorious Rain\" will\nhit through walls, allowing you to attack while hidden.",
-    "Enabled": true
+    "Text": "어설트 라이플 그란 아츠 '글로리 레인'은\n벽 너머에도 맞아 장애물 뒤에서 공격할 수 있다.",
+    "Enabled": false
   },
   "800122": {
     "OriginalText": "スキル「ステップアタック」は\n回避後、素早く攻撃開始できるようになる。",
-    "Text": "The Skill \"Step Attack\" allows for the\nability to attack immediately after dodging with Step.",
+    "Text": "'스텝 어택' 스킬을 쓰면\n회피 후 빠르게 공격을 시작할 수 있다.",
     "Enabled": true
   },
   "800123": {
     "OriginalText": "スキル「ジャストガード」は受けるダメージを0にして、\nさらに近距離の敵に反撃ダメージを与える。",
-    "Text": "The Skill \"Just Guard\" allows for the\nability to receive zero damage upon a successful counter.",
+    "Text": "'저스트 가드' 스킬은 받는 데미지를 0으로 만들고\n가까이 있는 적에게 반격 데미지를 준다.",
     "Enabled": true
   },
   "800124": {
     "OriginalText": "アサルトライフルのグランアーツ「インパクトスライダー」は\nスライディング中、進行方向を左右に微調整できる。",
-    "Text": "The Assault Rifle Gran Art \"Impact Slider\" allows\nyou to choose a direction while sliding.",
+    "Text": "어설트 라이플 그란 아츠 '임팩트 슬라이더'는\n슬라이딩 중 방향을 좌우로 조금씩 조절할 수 있다.",
     "Enabled": true
   },
   "800125": {
     "OriginalText": "ツインマシンガンのグランアーツ「リバースタップ」は\n地上でのみ、ぶつかるまで前方に少し移動する。",
-    "Text": "The Twin MG Gran Art \"Reverse Tap\" moves slightly forward\nuntil it hits when on the ground.",
+    "Text": "트윈 머신 건 그란 아츠 '리버스 탭'은\n지상에서만 부딪칠 때까지 앞으로 조금 이동한다.",
     "Enabled": true
   },
   "800126": {
     "OriginalText": "ソードのグランアーツ「オーバーエンド」は\n旋回中に攻撃場所をコントロールできる。",
-    "Text": "When using the Sword Gran Art \"Over End\", you can\ncontrol the attack angle by moving [f 0b].",
+    "Text": "소드의 그란 아츠 '오버엔드'는\n회전하는 동안 공격 위치를 조절할 수 있다.",
     "Enabled": true
   },
   "800127": {
     "OriginalText": "パイルのグランアーツ「パイルシューター」は\nロックオンしていると当てやすい。",
-    "Text": "The Pile Gran Art \"Pile Shooter\" is easier to hit when\nlocked on.",
+    "Text": "파일의 그란 아츠 '파일 슈터'는\n록온하면 더 쉽게 맞힐 수 있다.",
     "Enabled": true
   },
   "800128": {
     "OriginalText": "パイルのグランアーツ「ライジングインパクト」は\n敵の攻撃をよけるのにも使いやすい。",
-    "Text": "The Pile Gran Art \"Rising Impact\" can be used to avoid\nenemy attacks.",
+    "Text": "파일의 그란 아츠 '라이징 임팩트'는\n적의 공격을 피할 때도 쓰기 좋다.",
     "Enabled": true
   },
   "800129": {
     "OriginalText": "「オートメイト」は、モノメイトなどのHP回復アイテムを\n自動的に使用してくれる便利なスキル。",
-    "Text": "\"Automate\" is a useful skill that automatically uses HP\nrecovery items such as Monomate.",
+    "Text": "'오토메이트'는 모노메이트 등의 HP 회복 아이템을\n자동으로 사용해 주는 편리한 스킬이다.",
     "Enabled": true
   },
   "800130": {
     "OriginalText": "クリトロは粘を殴るとダウンする。",
-    "Text": "Crittro goes down when you hit its salivary part.",
-    "Enabled": true
+    "Text": "크리트로는 혀를 때리면 다운된다.",
+    "Enabled": false
   },
   "800131": {
     "OriginalText": "ディートアスは口の中への攻撃が有効。",
-    "Text": "It is effective to attack the Dietoas' mouth.",
+    "Text": "디토아스는 입안을 공격하면 효과적이다.",
     "Enabled": true
   },
   "800132": {
     "OriginalText": "フォンベガルフは吠えたあと攻撃力が上昇する。",
-    "Text": "Fonbegulf increases its attack after howling.",
+    "Text": "폰 베갈프는 울부짖은 뒤 공격력이 오른다.",
     "Enabled": true
   },
   "800133": {
     "OriginalText": "ゴルドスは口の中が弱点。\n口を開いた瞬間を狙おう。",
-    "Text": "Gordes has a weak spot on its mouth.\nAim for it when it opens its mouth.",
+    "Text": "골도스는 입안이 약점이다.\n입을 벌리는 순간을 노리자.",
     "Enabled": true
   },
   "800134": {
     "OriginalText": "ギガンテスに杭を打ち込み、HP残りわずかとなった状態で\nイグニッションを発動すればギガンテスを捕獲できる。",
-    "Text": "You can capture the Gigantes by driving a Pile on it\nand activate the Ignition Skill when its HP is low.",
+    "Text": "기간테스에게 말뚝을 박고 그 HP가 조금만 남았을 때\n이그니션을 발동하면 기간테스를 포획할 수 있다.",
     "Enabled": true
   },
   "800135": {
     "OriginalText": "マルチプレイでは、発動前にカウントダウンボタンを押せば\n他のプレイヤーのギガンテスブラストを支援強化できる。",
-    "Text": "In multiplayer, you can enhance other players' Gigantes\nBlast by tapping the countdown button before activation.",
+    "Text": "멀티플레이에서 발동 전 카운트다운 버튼을 누르면\n다른 플레이어의 기간테스 블래스트를 강화한다.",
     "Enabled": true
   },
   "800136": {
     "OriginalText": "「ヘイロウ」対ギガンテス用に開発された法撃武器。\n足場となる「リングフィールド」を空中に展開できる。",
-    "Text": "New weapon called \"Halo\" was developed against Gigantes.\nThe \"Ring Field\" can be deployed in the air.",
+    "Text": "'헤일로'는 기간테스용으로 개발된 법격 무기다.\n발판이 되는 '링 필드'를 공중에 펼칠 수 있다.",
     "Enabled": true
   },
   "800137": {
     "OriginalText": "リングフィールドの下で [f 76] を押すと\nリングフィールドに乗ることができる。",
-    "Text": "Under the Ring Field [f 76] pressing it will get\nyou on it.",
+    "Text": "링 필드 아래에서 [f 76]를 누르면\n링 필드에 올라탈 수 있다.",
     "Enabled": true
   },
   "800138": {
     "OriginalText": "リングフィールド中臨で [f 76] を押すと上階層に移動。\nリングフィールドの外周部で [f 76] を押すと下に降りる。",
-    "Text": "In the Ring Field, press [f 76] to move up.\nAt the border of the field, press [f 76] to move down.",
-    "Enabled": true
+    "Text": "링 필드 중앙에서 [f 76]를 누르면 위층으로 이동한다.\n링 필드 바깥 둘레에서 [f 76]를 누르면 내려간다.",
+    "Enabled": false
   },
   "800139": {
     "OriginalText": "リングフィールドはギガンテスの攻撃で破壊されることがある。",
-    "Text": "Ring Fields can be destroyed by Gigantes' attacks.",
+    "Text": "링 필드는 기간테스의 공격으로 파괴될 수 있다.",
     "Enabled": true
   },
   "800140": {
     "OriginalText": "「パイル」対ギガンテス用に開発された武器。\n近距離へは直接打撃、遠距離へは杭を撃ち攻撃する。",
-    "Text": "New weapon \"Pile\" is developed to fight the Gigantes.\nIt has short melee range but can shoot Piles.",
+    "Text": "'파일'은 기간테스전에 쓰기 위해 개발된 무기다.\n근접에선 때리고 멀리선 말뚝을 쏘아 공격한다.",
     "Enabled": true
   },
   "800141": {
     "OriginalText": "パイルの杭が敵に刺さった場所を攻撃すれば\n杭の共振効果でチェインが2回カウントされる。",
-    "Text": "The fired Piles from the Pile will twice its damage\nduring Chain because of resonance.",
+    "Text": "파일의 말뚝이 적에게 박힌 곳을 공격하면\n말뚝의 공진 효과로 체인이 2회 집계된다.",
     "Enabled": true
   },
   "800142": {
-    "OriginalText": "バスターはすべての武器種を伝備できる。\nまた、グランアーツとテクニックの両方を使うことができる。",
-    "Text": "Busters can use all weapon types.\nThey can even use every Gran Art and Techniques available.",
+    "OriginalText": "バスターはすべての武器種を装備できる。\nまた、グランアーツとテクニックの両方を使うことができる。",
+    "Text": "버스터는 모든 종류의 무기를 장비할 수 있다.\n또한 그란 아츠와 테크닉을 모두 사용할 수 있다.",
     "Enabled": true
   },
   "800143": {
     "OriginalText": "バスターは打撃力・射撃力・法撃力のバランスが良いクラス。",
-    "Text": "Buster is a class with good balance of melee,\nshooting, and tech power.",
+    "Text": "버스터는 타격력, 사격력, 법격력의\n균형이 잘 잡힌 클래스다.",
     "Enabled": true
   },
   "800144": {
     "OriginalText": "ブーストエネミーは通常のエネミーよりも強いが、\n倒せば多くの経験値や良いアイテムを得られる。",
-    "Text": "Boosted enemies are stronger than regular ones, you can\nget a lot of EXP and good items if you defeat them.",
+    "Text": "부스트 에너미는 일반 에너미보다 강하지만\n쓰러뜨리면 많은 경험치와 좋은 아이템을 얻는다.",
     "Enabled": true
   },
   "800145": {
     "OriginalText": "ブーストエネミーは身体の色が通常の個体と異なる。\nまた、名前が赤で表示される。",
-    "Text": "Boosted enemies have different colors than the normal\nones. Also, its name is displayed in red.",
+    "Text": "부스트 에너미는 일반 개체와 몸 색깔이 다르다.\n또한 이름이 붉게 표시된다.",
     "Enabled": true
   },
   "800146": {
-    "OriginalText": "レアエネミーからは特別な素村を入手できる。",
-    "Text": "You can get special materials from rare enemies.",
+    "OriginalText": "レアエネミーからは特別な素材を入手できる。",
+    "Text": "레어 에너미에게서는 특별한 소재를 얻을 수 있다.",
     "Enabled": true
   },
   "800147": {
     "OriginalText": "大型エネミーやギガンテスは、\n攻撃を集中することで兵器や伝甲を破壊できる。",
-    "Text": "Weapons and armor of large enemies and Gigantes can be\ndestroyed by focusing you attacks on it.",
-    "Enabled": true
+    "Text": "대형 에너미나 기간테스에게\n공격을 집중하면 무기나 장갑을 파괴할 수 있다.",
+    "Enabled": false
   },
   "800148": {
     "OriginalText": "ギガンテスを倒すには、まず伝甲を破壊し、\n弱点を狙いダメージを与える戦略が重要。",
-    "Text": "To defeat a Gigantes, first destroy the\narmor, then focus on the weak spots.",
-    "Enabled": true
+    "Text": "기간테스를 쓰러뜨리려면 먼저 장갑을 부수고\n약점을 노려 데미지를 주는 전략이 중요하다.",
+    "Enabled": false
   },
   "800149": {
     "OriginalText": "ギガンテスは、\n破壊した部位に応じてアイテムがドロップする。",
-    "Text": "Gigantes will drop items\nbased off their destroyed parts.",
+    "Text": "기간테스는\n파괴한 부위에 따라 아이템이 드랍된다.",
     "Enabled": true
   },
   "800150": {
     "OriginalText": "グランリンクで捕獲したギガンテスは、\n拠点に連れ帰ることができる。",
-    "Text": "Gigantes captured by Gran Link will be taken back to\nthe base.",
+    "Text": "그란 링크로 포획한 기간테스는\n거점으로 데려올 수 있다.",
     "Enabled": true
   },
   "800151": {
     "OriginalText": "捕獲したギガンテスは拠点下層の\n「ギガンテス捕獲所」で情報を見ることができる。",
-    "Text": "Info of captured Gigantes can be found at \"Gigantes\nCapture Facility\" at the lower level of the base.",
+    "Text": "포획한 기간테스의 정보는 거점 아래층의\n'기간테스 포획소'에서 볼 수 있다.",
     "Enabled": true
   },
   "800152": {
     "OriginalText": "捕獲したギガンテスを戦闘中に呼び出し使役できる。\nこの技をギガンテスブラストと呼称する。",
-    "Text": "You can call and use the captured Gigantes in battle.\nThis art is called Gigantes Blast.",
+    "Text": "포획한 기간테스를 전투 중 불러내 부릴 수 있다.\n이 기술을 기간테스 블래스트라고 부른다.",
     "Enabled": true
   },
   "800153": {
     "OriginalText": "ギガンテスは塊死になると「怒り」から戻らなくなる。",
-    "Text": "The Gigantes will not return to being \"Wild\" if it dies.",
-    "Enabled": true
+    "Text": "기간테스는 빈사가 되면 '분노'가 풀리지 않는다.",
+    "Enabled": false
   },
   "800154": {
     "OriginalText": "「おすすめ選択」のクルーをパーティーに入れて行くと\nそのクエストでしか聞けない会話を聞けることがある。",
-    "Text": "If you put the \"Recommended\" crews to your party, you\ncan hear the conversations only available to the quest.",
+    "Text": "'추천 선택' 크루를 파티에 넣어 가면\n그 퀘스트에서만 나오는 대화를 들을 수도 있다.",
     "Enabled": true
   },
   "800155": {
     "OriginalText": "ギガンテスのグランジェネレーターに近づきすぎると\nグラン中毒にかかるので注意。",
-    "Text": "Take care to not get too close to the\nGigantes' Gran Generator, or you may suffer Gran Poisoning.",
+    "Text": "기간테스의 그란 제너레이터에 너무 가까이 가면\n그란 중독에 걸리니 주의하자.",
     "Enabled": true
   },
   "800156": {
     "OriginalText": "ギガンテスの身体に付いている\nグランジェネレーターを破壊するとダウンが狙える。",
-    "Text": "If you destroy the Gran Generator on a\nGigantes, you can momentarily bring it down.",
+    "Text": "기간테스의 몸에 달린\n그란 제너레이터를 파괴하면 다운을 노릴 수 있다.",
     "Enabled": true
   },
   "800157": {
     "OriginalText": "ギガンテスをダウンさせると、最弱点が露出する。\n最弱点の色が変化したら捕獲可能のチャンス。",
-    "Text": "When a Gigantes is down, the Weakest Point is exposed.\nYou can proceed to capture it once the color has changed.",
+    "Text": "기간테스 다운 시 가장 취약한 약점이 드러난다.\n그 약점의 색이 바뀌면 포획할 기회다.",
     "Enabled": true
   },
   "800158": {
     "OriginalText": "ギガンテスのダウンには、\nダウン時間が長い時と短い時がある。",
-    "Text": "When Gigantes topples down,\nstrike fast before it gets back up.",
+    "Text": "기간테스의 다운은\n지속 시간이 길 때도 있고 짧을 때도 있다.",
     "Enabled": true
   },
   "800159": {
     "OriginalText": "通過不可能だった地形障害洋が\nギガンテスに破壊され通過可能となることがある。",
-    "Text": "Impassable obstacles can be destroyed by the Gigantes\nand it becomes passable.",
-    "Enabled": true
+    "Text": "지나갈 수 없던 지형 장애물을\n기간테스가 파괴하면 통과할 수 있게 되기도 한다.",
+    "Enabled": false
   },
   "800160": {
     "OriginalText": "ギガンテスは「怒り」状態になると色が変わり、攻撃力が上がる。",
-    "Text": "Gigantes changes its color and enhances its attacks\nwhen it is enraged.",
+    "Text": "기간테스는 '분노' 상태가 되면\n색이 바뀌고 공격력이 오른다.",
     "Enabled": true
   },
   "800161": {
     "OriginalText": "ギガンテスを攻撃する時はリングフィールドを足場にするとよい。",
-    "Text": "Use the Ring Field as a platform to attack the\nGigantes.",
+    "Text": "기간테스 공격 시 링 필드를 발판으로 삼자.",
     "Enabled": true
   },
   "800162": {
     "OriginalText": "ギガンテス「アグリオス」は側面や腹部への攻撃が有効。\n二門の砲台から正面への砲撃は必ずかわすこと。",
-    "Text": "Attacking the sides and the abdomen is effective agianst\n\"Agrios\". Make sure you avoid its cannon attacks.",
+    "Text": "기간테스 '아그리오스'는 옆면과 배 공격에 약하다.\n두 포대가 정면으로 쏘는 포격은 반드시 피하자.",
     "Enabled": true
   },
   "800163": {
     "OriginalText": "ギガンテス「ギュゲンテ」の攻撃サイクルは\n特定の条件で変えることができる。",
-    "Text": "The attack cycle of \"Gygante\" can be changed under\ncertian conditions.",
+    "Text": "기간테스 '규겐테'의 공격 주기는\n특정 조건에서 바꿀 수 있다.",
     "Enabled": true
   },
   "800164": {
     "OriginalText": "ギガンテス「アグリオス」の尾の先を破壊すると\n放電攻撃が止まるらしい。",
-    "Text": "The electrical discharge attack of \"Agrios\" can be\ndisrupted if you destroy the tip of the tail.",
+    "Text": "기간테스 '아그리오스'의 꼬리 끝을 부수면\n방전 공격이 멈춘다고 한다.",
     "Enabled": true
   },
   "800165": {
     "OriginalText": "ギガンテス「アルキュオネ」の触手の中に一本、\n破壊するとダウンさせることができる弱点があるらしい。",
-    "Text": "One of the tentacles of \"Alcyone\" is a weak point,\ndestroying it will bring the Gigantes down.",
+    "Text": "기간테스 '알키오네'의 촉수 중 하나에는\n파괴하면 다운시킬 수 있는 약점이 있다고 한다.",
     "Enabled": true
   },
   "800166": {
     "OriginalText": "ギガンテス「エウリュード」の攻撃は\n格納伝置のランプの色で分かる。",
-    "Text": "The attacks of \"Eurude\" can be determined by the color\nof the lamp of its storage.",
-    "Enabled": true
+    "Text": "기간테스 '에우류드'의 공격은\n격납 장치의 램프 색으로 알 수 있다.",
+    "Enabled": false
   },
   "800167": {
     "OriginalText": "ギガンテスの伝甲には打撃、主武伝には法撃、\n副武伝には射撃による攻撃が効果的。",
-    "Text": "Strikes are effective against Gigantes' armor, techs\nfor main weapons, and range attacks for subweapons.",
-    "Enabled": true
+    "Text": "기간테스의 장갑에는 타격, 주무장에는 법격,\n보조 무장에는 사격 공격이 효과적이다.",
+    "Enabled": false
   },
   "800168": {
     "OriginalText": "ギガンテス「ガラティオン」は\n翼が赤く光るのが攻撃の予随となる。",
-    "Text": "The wings of \"Gigation\" glows red when it is about\nto attack.",
-    "Enabled": true
+    "Text": "기간테스 '갈라티온'은\n날개가 붉게 빛나는 것이 공격의 전조다.",
+    "Enabled": false
   },
   "800169": {
     "OriginalText": "ギガンテス「アグリオス」はイグニッション発動で捕獲できる。",
-    "Text": "\"Agrios\" can be captured by using the Ignition art.",
+    "Text": "기간테스 '아그리오스'는\n이그니션을 발동하면 포획할 수 있다.",
     "Enabled": true
   },
   "800170": {
     "OriginalText": "ギガンテス「グレイオス」はイグニッション発動で捕獲できる。",
-    "Text": "\"Greios\" can be captured by using the Ignition art.",
+    "Text": "기간테스 '그레이오스'는\n이그니션을 발동하면 포획할 수 있다.",
     "Enabled": true
   },
   "800171": {
     "OriginalText": "ギガンテス「アルテイオス」はイグニッション発動で捕獲できる。",
-    "Text": "\"Alteios\" can be captured by using the Ignition art.",
+    "Text": "기간테스 '알테이오스'는\n이그니션을 발동하면 포획할 수 있다.",
     "Enabled": true
   },
   "800172": {
     "OriginalText": "ギガンテス「エウリュード」はイグニッション発動で捕獲できる。",
-    "Text": "\"Eurude\" can be captured by using the Ignition art.",
+    "Text": "기간테스 '에우류드'는\n이그니션을 발동하면 포획할 수 있다.",
     "Enabled": true
   },
   "800173": {
     "OriginalText": "ギガンテス「ヴィヴリュード」はイグニッション発動で捕獲できる。",
-    "Text": "\"Vivryude\" can be captured by using the Ignition art.",
+    "Text": "기간테스 '비브류드'는\n이그니션을 발동하면 포획할 수 있다.",
     "Enabled": true
   },
   "800174": {
     "OriginalText": "ギガンテス「ガラティオン」はイグニッション発動で捕獲できる。",
-    "Text": "\"Garation\" can be captured by using the Ignition art.",
+    "Text": "기간테스 '갈라티온'은\n이그니션을 발동하면 포획할 수 있다.",
     "Enabled": true
   },
   "800175": {
     "OriginalText": "ギガンテス「ギガティオン」はイグニッション発動で捕獲できる。",
-    "Text": "\"Gigation\" can be captured by using the Ignition art.",
+    "Text": "기간테스 '기가티온'은\n이그니션을 발동하면 포획할 수 있다.",
     "Enabled": true
   },
   "800176": {
     "OriginalText": "ギガンテス「グラヴディオン」はイグニッション発動で捕獲できる。",
-    "Text": "\"Gravdion\" can be captured by using the Ignition art.",
+    "Text": "기간테스 '그라브디온'은\n이그니션을 발동하면 포획할 수 있다.",
     "Enabled": true
   },
   "800177": {
     "OriginalText": "ギガンテス「アルキュオネ」はイグニッション発動で捕獲できる。",
-    "Text": "\"Alcyone\" can be captured by using the Ignition art.",
+    "Text": "기간테스 '알키오네'는\n이그니션을 발동하면 포획할 수 있다.",
     "Enabled": true
   },
   "800178": {
     "OriginalText": "ギガンテス「デェフキュオネ」はイグニッション発動で捕獲できる。",
-    "Text": "\"Defcyone\" can be captured by using the Ignition art.",
+    "Text": "기간테스 '데프큐오네'는\n이그니션을 발동하면 포획할 수 있다.",
     "Enabled": true
   },
   "800179": {
     "OriginalText": "惑星マキアは衛星を有しているらしい。",
-    "Text": "Planet Mahkia seems to have its own moon.",
+    "Text": "행성 마키아에는 위성이 있다고 한다.",
     "Enabled": true
   },
   "800180": {
     "OriginalText": "ルティナが腰につけているのは携帯ゲーム機らしい。",
-    "Text": "It seems that Lutina is wearing a handheld game console\non her waist.",
+    "Text": "루티나가 허리에 찬 것은 휴대용 게임기라고 한다.",
     "Enabled": true
   },
   "800181": {
     "OriginalText": "キサラにはどうしても怖いものがあるが、\nそれがなにかは絶対に他人に言えないらしい。",
-    "Text": "There's something scary about Kisara, it seems you can't\ntell the others what it is.",
+    "Text": "키사라에게는 몹시 무서워하는 것이 있지만\n그게 뭔지는 절대로 남에게 말할 수 없다고 한다.",
     "Enabled": true
   },
   "800182": {
     "OriginalText": "フィルディアとキサラは、\nかつてコンビを組んで戦場に立っていたらしい。",
-    "Text": "Fildia and Kisara seems to have been partners in the\nbattlefield.",
+    "Text": "필디아와 키사라는\n한때 콤비로 전장에서 함께 싸웠다고 한다.",
     "Enabled": true
   },
   "800183": {
     "OriginalText": "深夜、シャロンの研究室から\nよく歌声が聞こえてくるらしい。",
-    "Text": "It seems that there is someone singing in Sharon's Lab\nat midnight.",
+    "Text": "한밤중에 샤론의 연구실에서\n노랫소리가 자주 들려온다고 한다.",
     "Enabled": true
   },
   "800184": {
     "OriginalText": "レイヴァンは、類いまれな研究の才能が\n評価され副長に抜擢されたらしい。",
-    "Text": "Raven is appointed as Deputy Director for his\nexceptional research talent.",
+    "Text": "레이반은 남다른 연구 재능을\n인정받아 부함장으로 발탁됐다고 한다.",
     "Enabled": true
   },
   "800185": {
     "OriginalText": "フィルディアとオルクスは、かつて\nマグナスの部隊で一緒に戦闘に従事していたらしい。",
-    "Text": "Fildia and Orcus worked together in the battlefield\nunder Magnus.",
+    "Text": "필디아와 오르쿠스는 과거에\n마그너스의 부대에서 함께 싸웠다고 한다.",
     "Enabled": true
   },
   "800186": {
     "OriginalText": "かつてセイルに「不倒の心得」を教えた人洋がいるらしい。",
-    "Text": "It seems there is a person that taught Sail about\n\"Unbeatable Knowledge\".",
-    "Enabled": true
+    "Text": "과거에 세일에게 '쓰러지지 않는 마음가짐'을\n가르친 사람이 있었다고 한다.",
+    "Enabled": false
   },
   "800187": {
     "OriginalText": "人気格闘ゲーム「フォトンファイター」での\nルティナの決めコンボは浮かしからの反重力ネリチャギらしい。",
-    "Text": "Lutina's finale combo in the popular fighting game called\n\"Photon Fighters\" is an anti-gravity kick.",
+    "Text": "인기 격투게임 '포톤 파이터'의 루티나 필승 콤보는\n띄우기 > 반중력 내려차기라고 한다.",
     "Enabled": true
   },
   "800188": {
     "OriginalText": "デルタ・ヴァリアントには\nリーティアが管理する秘密の部屋があるらしい。",
-    "Text": "Delta Variant has a secret room managed by Rietheia.",
+    "Text": "델타 바리언트에는\n리티아가 관리하는 비밀 방이 있다고 한다.",
     "Enabled": true
   },
   "800189": {
     "OriginalText": "カリストの持っている古いスパナには\n本人しか知らない特別な思い入れがあるらしい。",
-    "Text": "Callisto's old spanner has a special attachment to him\nhe only knows.",
+    "Text": "칼리스토의 낡은 스패너에는\n본인만 아는 특별한 추억이 담겨 있다고 한다.",
     "Enabled": true
   },
   "800190": {
     "OriginalText": "オラクルとの通信が回復しないのは\n何らかの妨害が発生している説が有力らしい。",
-    "Text": "There's a theory that an interference is the reason\nwhy the Oracle can't be contact.",
+    "Text": "오라클과 통신이 복구되지 않는 이유는\n어떤 방해가 일어난다는 설이 유력하다고 한다.",
     "Enabled": true
   },
   "800191": {
     "OriginalText": "惑星マキアの空を横切る巨大な光の河は\n宇宙の瓦礫「デブリ」の帯らしい。",
-    "Text": "The huge river of light that crosses the sky seems to\nbe a belt of rubble in the space.",
+    "Text": "마키아의 하늘을 가로지르는 거대한 빛의 강은\n우주 잔해인 '데브리'의 띠라고 한다.",
     "Enabled": true
   },
   "800192": {
     "OriginalText": "ヒュペリオンの背中の「可変波動放射型万能調理器」に\n極められないものはないらしい。",
-    "Text": "There's nothing can't be cooked in \"Variable Wave\nRadiation-Type Universal Cooker\" on the back of Hyperion.",
-    "Enabled": true
+    "Text": "히페리온의 '가변 파동 방사형 만능 조리기'는\n등에 달려 있고, 데우지 못하는 게 없다고 한다.",
+    "Enabled": false
   },
   "800193": {
     "OriginalText": "オルクスは妻子がいたが\n乗船するしばらく前から別居していたらしい。",
-    "Text": "Orcus had a family, but he seems to be separated a\nwhile before boarding.",
+    "Text": "오르쿠스에게는 아내와 아이가 있었지만\n승선하기 얼마 전부터 따로 살았다고 한다.",
     "Enabled": true
   },
   "800194": {
     "OriginalText": "ヨミは苦いものが大の苦手で、\n特にコーヒーは唯えるほど嫌いらしい。",
-    "Text": "Yomi is not very good at bitter things, he especially\nhates coffee.",
-    "Enabled": true
+    "Text": "요미는 쓴맛을 몹시 싫어하며\n특히 커피는 몸이 떨릴 정도로 싫어한다고 한다.",
+    "Enabled": false
   },
   "800195": {
     "OriginalText": "イズナは甘いものが大好洋で、\n特にチーズケーキに目がないらしい。",
-    "Text": "Izuna loves sweets and seems to have a extreme fondness\nto cheesecakes.",
-    "Enabled": true
+    "Text": "이즈나는 단것을 무척 좋아하며\n특히 치즈 케이크라면 사족을 못 쓴다고 한다.",
+    "Enabled": false
   },
   "800196": {
     "OriginalText": "フィルディアはかつて金髪で髪型も違っていたらしい。",
-    "Text": "Fildia used to be blonde and had a different hairstyle.",
+    "Text": "필디아는 한때 금발이었고\n헤어스타일도 달랐다고 한다.",
     "Enabled": true
   },
   "800197": {
-    "OriginalText": "コールドスリープ解凍時、服を撃しく損傷していたクルーには\nリーティアが現地素村で作成した着替えを渡しているらしい。",
-    "Text": "When thawing, it seems Rietheia is handling the Crews'\nchange of clothes made from local materials.",
+    "OriginalText": "コールドスリープ解凍時、服を激しく損傷していたクルーには\nリーティアが現地素材で作成した着替えを渡しているらしい。",
+    "Text": "콜드 슬립 해동 때 옷이 심하게 손상된 크루에게는\n리티아가 현지 소재로 만든 새 옷을 준다고 한다.",
     "Enabled": true
   },
   "800198": {
-    "OriginalText": "「鋭～」「硬～」「輝～」と名のつく素村は\n難易度ベリーハードのクエストの敵が落としやすい。",
-    "Text": "Materials with \"Hard\", \"Sharp\", and \"Shiny\" is easily\ndropped from enemies in Very Hard difficulty.",
+    "OriginalText": "「鋭～」「硬～」「輝～」と名のつく素材は\n難易度ベリーハードのクエストの敵が落としやすい。",
+    "Text": "'날카로운~', '단단한~', '빛나는~' 소재는\n베리 하드 난이도 퀘스트의 적이 잘 떨어뜨린다.",
     "Enabled": true
   },
   "800199": {
     "OriginalText": "大尖塔はその大部分が産中に沈んでいるらしい。",
-    "Text": "Mostly of Large Spire is sunked upon its creation.",
-    "Enabled": true
+    "Text": "대첨탑은 대부분이 바닷속에 잠겨 있다고 한다.",
+    "Enabled": false
   },
   "800200": {
     "OriginalText": "惑星マキアの発見には、レイヴァンの研究が\n大きく寄与した経緯があったらしい。",
-    "Text": "It seems Raven's research contributed greatly to the\ndiscovery of Planet Mahkia.",
+    "Text": "행성 마키아를 발견하기까지는 레이반의 연구가\n큰 도움이 됐다고 한다.",
     "Enabled": true
   },
   "800201": {
     "OriginalText": "ガーネットはヘアスタイルのセットに２時間かかり\nセットが決まらない日は部屋から出てこない。",
-    "Text": "Garnet takes 2 hours to set her hairstyle and won't come\nout of her room for days when she can't decide.",
+    "Text": "가넷은 헤어스타일을 다듬는 데 2시간이 걸리며\n마음에 안 드는 날은 방에서 나오지 않는다.",
     "Enabled": true
   },
   "800202": {
-    "OriginalText": "警備部は、非常に優秀な人村のみが選出されるため\nオルターの憧れのセクションとされている。",
-    "Text": "The Defense Force is a favored section of the Alters\nbecause only the talented can be selected.",
+    "OriginalText": "警備部は、非常に優秀な人材のみが選出されるため\nオルターの憧れのセクションとされている。",
+    "Text": "경비부는 매우 우수한 인재만 선발하기에\n얼터 대원들이 동경하는 부서라고 한다.",
     "Enabled": true
   },
   "800203": {
     "OriginalText": "コウエンは、率いた隊の死傷者が少ないことから\n「戦場の番犬」という二つ名を持っていた。",
-    "Text": "Cowen has a nickname called \"Battlefield Watchdog\"\nbecause there's only few casualties on his squad.",
+    "Text": "코우엔은 이끈 부대의 사상자가 적어서\n'전장의 파수견'이라는 별명을 얻었다.",
     "Enabled": true
   },
   "800204": {
     "OriginalText": "グラバーは近接戦闘を得意とし、守りの戦術をとる\nコウエンとは意見が合わず、よく口論していた。",
-    "Text": "Glover is good at close combat, he oftens argue with\nCowen who takes up defensive tactics.",
+    "Text": "그라버는 근접전에 능해 방어 전술을 쓰는\n코우엔과 의견이 맞지 않아 자주 언쟁했다.",
     "Enabled": true
   },
   "800205": {
     "OriginalText": "アークス内でデータ処理コンテストという奨し洋が\n行われているらしいが、参加者はあまり多くないという。",
-    "Text": "It seems there is a Data Processing Contest held within\nthe ARKS, but its seems there are few participants.",
-    "Enabled": true
+    "Text": "아크스 내부에 데이터 처리 대회가 열린다지만\n참가자는 그다지 많지 않다고 한다.",
+    "Enabled": false
   },
   "800206": {
     "OriginalText": "おすすめ連続技「ツイスターフォール」＞「オーバーエンド」\n打ち上げられた敵を、光の刃が逃さず両断する！",
-    "Text": "Advised combo move \"Twister Fall\">\"Over End\", the blade\nof light will not miss and bisect the launched enemy!",
+    "Text": "추천 콤보 '트위스터 폴' > '오버엔드'\n띄워 올린 적을 빛의 칼날이 놓치지 않고 가른다!",
     "Enabled": true
   },
   "800207": {
     "OriginalText": "おすすめ連続技「ライジングエッジ」＞「トルネードメテオ」\n空から繰り出される突撃は、倍増した威力で敵を切り裂く！",
-    "Text": "Advised combo move \"Rising Edge\">\"Tornado Meteor\",\nattack from the air with twice the power!",
+    "Text": "추천 콤보 '라이징 엣지' > '토네이도 미티어'\n하늘에서 돌진해 배가된 위력으로 적을 벤다!",
     "Enabled": true
   },
   "800208": {
     "OriginalText": "おすすめ連続技「ライジングフラッグ」＞「スライドシェイカー」\n金色の旋風は、全てを巻き込み粉砕する！",
-    "Text": "Advised combo move \"Rising Flag\">\"Slide Shaker\", the\ngolden whirlwind suck everything and crushes it!",
+    "Text": "추천 콤보 '라이징 플래그' > '슬라이드 셰이커'\n금빛 회오리가 모든 것을 휘감아 분쇄한다!",
     "Enabled": true
   },
   "800209": {
     "OriginalText": "おすすめ連続技「アサルトバスター」＞「バンタースナッチ」\n繰り出せヒット＆アウェイ！",
-    "Text": "Advised combo move \"Assault Buster\">\"Bandersnatch\",\n it hits and move away!",
+    "Text": "추천 콤보 '어설트 버스터' > '밴터 스내치'\n히트 앤드 어웨이를 펼쳐라!",
     "Enabled": true
   },
   "800210": {
     "OriginalText": "おすすめ連続技「シザーエッジ」＞「サプライズダンク」\n撃しい連撃が、敵をか彼方へと連れ去る！",
-    "Text": "Advised combo move \"Scissor Edge\">\"Surprise Dunk\",\nfires continuous attacks at the enemy!",
-    "Enabled": true
+    "Text": "추천 콤보 '시저 엣지' > '서프라이즈 덩크'\n거센 연격으로 적을 저 멀리 날려 버린다!",
+    "Enabled": false
   },
   "800211": {
     "OriginalText": "おすすめ連続技「アクロエフェクト」＞「デッドリーアーチャー」\n死ぬまで続く、空中お手玉を見よ！",
-    "Text": "Advised combo move \"Acro Effect\">\"Deadly Archer\",\njuggle the enemy until it dies!",
+    "Text": "추천 콤보 '아크로 이펙트' > '데들리 아처'\n죽을 때까지 이어지는 공중 저글링을 보라!",
     "Enabled": true
   },
   "800212": {
     "OriginalText": "おすすめ連続技「スライドアッパー」＞「ペンデュラムロール」\nその動き、誰も追いつけない、誰も邪魔できない！",
-    "Text": "Advised combo move \"Slide Upper\">\"Pendulum Roll\", no\none can stop and no one can catch up.",
+    "Text": "추천 콤보 '슬라이드 어퍼' > '펜듈럼 롤'\n누구도 따라잡지 못하고, 막지도 못하는 움직임!",
     "Enabled": true
   },
   "800213": {
     "OriginalText": "おすすめ連続技「サプライズナックル」＞「ストレイトチャージ」\n敵は洋理法則を無視して吹き飛ぶ、彗星の一撃！",
-    "Text": "Advised combo move \"Surprise Knuckle\">\"Straight Charge\",\nignores the Physics and blasts off the enemies!",
-    "Enabled": true
+    "Text": "추천 콤보 '서프라이즈 너클' > '스트레이트 차지'\n물리 법칙을 무시하고 적을 날리는 혜성 같은 일격!",
+    "Enabled": false
   },
   "800214": {
     "OriginalText": "おすすめ連続技「グレネードシェル」＞「インパクトスライダー」\nアサルトライフルには、こういう使い方もあるんだ！",
-    "Text": "Advised combo move \"Grenade Shell\">\"Impact Slider\",\nthus the use of Assault Rifle!",
+    "Text": "추천 콤보 '그레네이드 쉘' > '임팩트 슬라이더'\n어설트 라이플은 이렇게 쓸 수도 있다!",
     "Enabled": true
   },
   "800215": {
     "OriginalText": "おすすめ連続技「エリアルシューティング」＞「エルダーリベリオン」\n目標を穴だらけにするまで、銃撃は止まない！",
-    "Text": "Advised combo move \"Aerial Shooting\">\"Elder Rebellion\",\nwill not stop shooting until the enemy is full of holes!",
+    "Text": "추천 콤보 '에어리얼 슈팅' > '엘더 리벨리온'\n표적이 벌집이 될 때까지 총격은 멈추지 않는다!",
     "Enabled": true
   },
   "800216": {
     "OriginalText": "おすすめ連続技「サテライトエイム」＞「ダンシングスイープ」\n飛び交う銃弾、舞い上がる敵、吹き荒れる連撃に雲いしれろ！",
-    "Text": "Advised combo move \"Satellite Aim\">\"Dancing Sweep\",\nflying bullets, soaring enemies, and stormy attacks!",
-    "Enabled": true
+    "Text": "추천 콤보 '새틀라이트 에임' > '댄싱 스위프'\n날리는 탄환, 솟는 적, 몰아치는 연격에 취하라!",
+    "Enabled": false
   },
   "800217": {
     "OriginalText": "おすすめ連続技「ブーストダンク」＞「パイルラッシュ」\n吹き飛ばして、追いかけて、また吹き飛ばす！",
-    "Text": "Advised combo move \"Boost Dunk\">\"Pile Rush\", blast off,\nchase, and blast off again!",
+    "Text": "추천 콤보 '부스트 덩크' > '파일 러시'\n날려 버리고, 뒤쫓고, 다시 날려 버린다!",
     "Enabled": true
   },
   "800218": {
     "OriginalText": "おすすめ連続技「ライジングインパクト」＞「パイルストーム」\n吹き荒れるパイルの、巻き込まれれば死あるのみ！",
-    "Text": "Advised combo move \"Rising Impact\">\"Pile Storm\", you\nwill die if you get caught with the raging Pile!",
+    "Text": "추천 콤보 '라이징 임팩트' > '파일 스톰'\n휘몰아치는 파일의 폭풍에 휘말리면 죽음뿐!",
     "Enabled": true
   },
   "800219": {
-    "OriginalText": "「超～」と名のつく素村は\n難易度スーパーハードのクエストの敵が落としやすい。",
-    "Text": "Materials with \"Super\" is easily dropped from enemies\nin Super Hard difficulty.",
+    "OriginalText": "「超～」と名のつく素材は\n難易度スーパーハードのクエストの敵が落としやすい。",
+    "Text": "이름에 '초~'가 붙은 소재는\n슈퍼 하드 난이도 퀘스트의 적이 잘 떨어뜨린다.",
     "Enabled": true
   },
   "800220": {
     "OriginalText": "属性が強化された敵には、属性のついた攻撃と\n属性耐性を持つシールドユニットを用意しよう。",
-    "Text": "For enemies with elements, use a Shield Unit that has\nelemental attacks and resistance.",
+    "Text": "속성이 강화된 적에게는 속성 공격과\n속성 내성이 있는 실드 유닛을 준비하자.",
     "Enabled": true
   },
   "800221": {
     "OriginalText": "エクセージＴの遠距離攻撃は属性を変えて攻撃してくる。\nプレイヤーキャラクターの「属性異常」の耐性の低い属性に合わせてくる。",
-    "Text": "Equsage T ranged attacks can change its elements. It\nmatches the player's lowest resistance.",
-    "Enabled": true
+    "Text": "엑세지 T는 속성을 바꿔 원거리 공격을 한다.\n플레이어 캐릭터의 '속성 이상' 내성이\n낮은 쪽을 노린다.",
+    "Enabled": false
   },
   "800222": {
     "OriginalText": "ギガンテス似外にも「怒り」状態になる敵がいる。\n体から湯気を出した後に「怒り」状態になり、攻撃力が上がる。",
-    "Text": "Besides Gigantes, other enemies can also be enrage.\nAfter steaming its body its attack increases.",
-    "Enabled": true
+    "Text": "기간테스 외에도 '분노' 상태가 되는 적이 있다.\n몸에서 김을 낸 뒤 '분노'해 공격력이 오른다.",
+    "Enabled": false
   },
   "800223": {
     "OriginalText": "施設「コア精錬所」では、アタッチパーツが持つ\n特殊能力を変化させられる。",
-    "Text": "You can change the special ability of the attachments\nat the \"Core Refinery\" facility.",
+    "Text": "'코어 제련소' 시설에서는 어태치파츠가 가진\n특수 능력을 바꿀 수 있다.",
     "Enabled": true
   },
   "800224": {
     "OriginalText": "施設「コア精錬所」では、同じ特殊能力を持つ\nコアを合成して、特殊能力を強化できる。",
-    "Text": "You can combine cores with the same special ability and\nenhance it in the \"Core Refinery\" facility.",
+    "Text": "'코어 제련소' 시설에서는 같은 특수 능력을 가진\n코어를 합성해서 특수 능력을 강화할 수 있다.",
     "Enabled": true
   },
   "800225": {
     "OriginalText": "コア精錬所での必要グランエナジーを節約できる\n特微を持つクルーがいる。",
-    "Text": "There are crews with special traits that reduce the\namount of Gran Energy needed at the Core Refinery.",
-    "Enabled": true
+    "Text": "코어 제련소에서 필요한 그란 에너지를 절약하는\n특징을 가진 크루가 있다.",
+    "Enabled": false
   },
   "800226": {
-    "OriginalText": "「冷～」と名のつく素村は\n難易度エクストラハードのクエストの敵が落としやすい。",
-    "Text": "Materials with \"Prime\" is easily dropped from enemies\nin Extra Hard quests.",
+    "OriginalText": "「極～」と名のつく素材は\n難易度エクストラハードのクエストの敵が落としやすい。",
+    "Text": "이름에 '극~'이 붙은 소재는\n엑스트라 하드 퀘스트의 적이 잘 떨어뜨린다.",
     "Enabled": true
   },
   "800227": {
     "OriginalText": "武器ショップの「武器エクステンド」を使えば、\n武器の性能を大きくアップすることができる。",
-    "Text": "If you use \"Weapon Extend\" in the weapon shop, you can\ngreatly improve the performance of your weapon.",
+    "Text": "무기 샵의 '무기 익스텐드'를 이용하면\n무기의 성능을 크게 높일 수 있다.",
     "Enabled": true
   },
   "800228": {
     "OriginalText": "約束を達成していくと、オペレーターに任命できる\nクルーがいる。",
-    "Text": "There is a crew who can be appointed as an operator as\nyou fulfill their promise orders.",
+    "Text": "약속을 달성해 나가면\n오퍼레이터로 임명할 수 있는 크루도 있다.",
     "Enabled": true
   },
   "800229": {
     "OriginalText": "ソードのグランアーツ「ノヴァストライク」は\n２段目で別の攻撃を繰り出すことで、打ち上げ連続技が可能。",
-    "Text": "Sword Gran Art \"Nova Strike\" can be used continuously\nby using another attack in the second stage.",
+    "Text": "소드의 그란 아츠 '노바 스트라이크'는\n2단째에 다른 공격을 쓰면 띄우기 콤보로 이어진다.",
     "Enabled": true
   },
   "800230": {
     "OriginalText": "ソードのグランアーツ「ソニックアロウ」は\n敵をスタンさせることがある。",
-    "Text": "Sword Gran Art \"Sonic Arrow\" can stun enemies.",
+    "Text": "소드의 그란 아츠 '소닉 애로우'는\n적을 스턴시키기도 한다.",
     "Enabled": true
   },
   "800231": {
     "OriginalText": "ソードのグランアーツ「ファングラッシュ」は\n１段目で別の攻撃を繰り出すことで、空中連続技が可能。",
-    "Text": "Sword Gran Arts \"Fang Rush\" can do continuous aerial\nmoves by using another attack in the 1st stage.",
+    "Text": "소드의 그란 아츠 '팽 러시'는\n1단째에 다른 공격을 쓰면 공중 콤보로 이어진다.",
     "Enabled": true
   },
   "800232": {
     "OriginalText": "パルチザンのグランアーツ「スライドシェイカー」は\n空中で使用すると、スピードが増す。",
-    "Text": "Partisan Gran Art \"Slide Shaker\" speeds up when used\nin the air.",
+    "Text": "파르티잔 그란 아츠 '슬라이드 셰이커'는\n공중에서 사용하면 속도가 빨라진다.",
     "Enabled": true
   },
   "800233": {
     "OriginalText": "パルチザンのグランアーツ「ライジングフラッグ」は\n遠くから間合いを詰めるために使いやすい。",
-    "Text": "Partisan Gran Art \"Rising Flag\" is easy to use to close\nthe gap from a distance.",
+    "Text": "파르티잔 그란 아츠 '라이징 플래그'는\n먼 거리에서 적과의 거리를 좁히기에 좋다.",
     "Enabled": true
   },
   "800234": {
     "OriginalText": "ダブルセイバーの通常攻撃の３段目は\n全ての武器の中でも、ＧＰ回復速度が一番速い。",
-    "Text": "The 3rd stage of the Double Saber's normal attack has\nthe fastest GP recovery speed of all weapons.",
+    "Text": "더블 세이버의 통상 공격 3단째는\n모든 무기 중 GP 회복 속도가 가장 빠르다.",
     "Enabled": true
   },
   "800235": {
     "OriginalText": "ダブルセイバーのグランアーツ「シザーエッジ」は\n遠くから間合いを詰めるために使いやすい。",
-    "Text": "Double Saber Gran Art \"Scissor Edge\" is easy to use to\nclose the gap from a distance.",
+    "Text": "더블 세이버 그란 아츠 '시저 엣지'는\n먼 거리에서 적과의 거리를 좁히기에 좋다.",
     "Enabled": true
   },
   "800236": {
     "OriginalText": "ダブルセイバーのグランアーツ「デッドリーアーチャー」は\n打ち上げた相手を狙うと、最後まで命中させやすい。",
-    "Text": "Double Saber Gran Art \"Deadly Archer\" is easy to hit\nthe mark at the last moment.",
+    "Text": "더블 세이버 그란 아츠 '데들리 아처'는\n띄워 올린 상대를 노리면 마지막까지 맞히기 쉽다.",
     "Enabled": true
   },
   "800237": {
     "OriginalText": "ナックルの通常攻撃は\n全ての武器の中でも、攻撃速度が一番速い。",
-    "Text": "Knuckle's normal attack has the fastest attack speed of\nall weapons",
+    "Text": "너클의 통상 공격은\n모든 무기 중 공격속도가 가장 빠르다.",
     "Enabled": true
   },
   "800238": {
     "OriginalText": "ナックルのグランアーツ「ダッキングブロウ」は\n敵の攻撃の多くを掻い潜ることができる。",
-    "Text": "Knuckle Gran Art \"Ducking Blow\" can sneak through many\nof the enemy attacks.",
+    "Text": "너클의 그란 아츠 '더킹 블로우'는\n적의 공격 대부분을 피할 수 있다.",
     "Enabled": true
   },
   "800239": {
     "OriginalText": "ナックルのグランアーツ「スライドアッパー」は\n遠くから間合いを詰めるために使いやすい。",
-    "Text": "Knuckle Gran Art \"Slide Upper\" is easy to use to close\nthe gap from a distance.",
+    "Text": "너클의 그란 아츠 '슬라이드 어퍼'는\n먼 거리에서 적과의 거리를 좁히기에 좋다.",
     "Enabled": true
   },
   "800240": {
     "OriginalText": "ナックルのグランアーツ「ストレイトチャージ」は\n打ち上げた相手を狙うと、真上に吹き飛ばすことができる。",
-    "Text": "Knuckle Gran Art \"Straight Charge\" can be blown straight\nup when aimed.",
+    "Text": "너클의 그란 아츠 '스트레이트 차지'는\n띄운 상대를 노리면 바로 위로 날려 버릴 수 있다.",
     "Enabled": true
   },
   "800241": {
     "OriginalText": "アサルトライフルのステップアタックは\n敵を吹き飛ばすことができる。",
-    "Text": "Assault Rifle step attacks can blast away enemies.",
+    "Text": "어설트 라이플의 스텝 어택은\n적을 날려 버릴 수 있다.",
     "Enabled": true
   },
   "800242": {
     "OriginalText": "アサルトライフルのグランアーツ「ピアッシングシェル」は\n肩越し視点で使用すると、逢か遠くから敵を攻撃できる。",
-    "Text": "Assault Rifle Gran Art \"Piercing Shell\" can be used from\na 3rd-person POV to attack enemies from a distance.",
-    "Enabled": true
+    "Text": "어설트 라이플 그란 아츠 '피어싱 쉘'은\nTPS 시점에서 쓰면 아주 멀리서도 공격한다.",
+    "Enabled": false
   },
   "800243": {
     "OriginalText": "アサルトライフルのグランアーツ「ピアッシングシェル」は\nギュゲンデの最前列から最後尾までを、同時に貴くことができる。",
-    "Text": "Assault Rifle Gran Art \"Piercing Shell\" can pierce from\nthe front up to the end of the Gygante.",
-    "Enabled": true
+    "Text": "어설트 라이플 그란 아츠 '피어싱 쉘'은\n규겐테의 맨 앞부터 맨 뒤까지 동시에 관통한다.",
+    "Enabled": false
   },
   "800244": {
     "OriginalText": "ツインマシンガンのグランアーツ「エリアルシューティング」は\n遠くから間合いを詰めるために使いやすい。",
-    "Text": "Twin MG Gran Art \"Aerial Shooting\" is easy to use to\nclose the gap from a distance.",
+    "Text": "트윈 머신 건 그란 아츠 '에어리얼 슈팅'은\n먼 거리에서 적과의 거리를 좁히기에 좋다.",
     "Enabled": true
   },
   "800245": {
     "OriginalText": "ツインマシンガンのグランアーツ「ダンシングスイープ」は\n敵の攻撃の多くを掻い潜ることができる。",
-    "Text": "Twin MG Gran Art \"Dancing Sweep\" can sneak through\nmany of the enemy attacks.",
+    "Text": "트윈 머신 건 그란 아츠 '댄싱 스위프'는\n적의 공격 대부분을 피할 수 있다.",
     "Enabled": true
   },
   "800246": {
     "OriginalText": "パイルの通常攻撃中は\nダメージを受けても、玄け反らない。",
-    "Text": "",
+    "Text": "파일로 통상 공격을 하는 동안은\n데미지를 받아도 움찔하지 않는다.",
     "Enabled": false
   },
   "800247": {
     "OriginalText": "スキル「打撃力コンバート」は、\nハンター似外のクラスで使用すると効果が大きい。",
-    "Text": "The skill \"S-ATK Convert\" is very effective when\nused by a class like hunter.",
-    "Enabled": true
+    "Text": "'타격력 컨버트' 스킬은\n헌터 이외의 클래스로 쓰면 효과가 크다.",
+    "Enabled": false
   },
   "800248": {
     "OriginalText": "スキル「射撃力コンバート」は、\nレンジャー似外のクラスで使用すると効果が大きい。",
-    "Text": "The skill \"R-ATK Convert\" is very effective\nwhen used in a class like Ranger.",
-    "Enabled": true
+    "Text": "'사격력 컨버트' 스킬은\n레인저 이외의 클래스로 쓰면 효과가 크다.",
+    "Enabled": false
   },
   "800249": {
     "OriginalText": "パイルのグランアーツ「ブーストブリッツ」は\n肩越し視点で使用すると、逢か遠くから敵を攻撃できる。",
-    "Text": "Pile Gran Art \"Boost Blitz\" can be used from a 3rd-person\nPOV to attack enemies from a distance.",
-    "Enabled": true
+    "Text": "파일의 그란 아츠 '부스트 블리츠'는\nTPS 시점에서 쓰면 아주 멀리서도 공격한다.",
+    "Enabled": false
   },
   "800250": {
     "OriginalText": "ヘイロウのグランアーツ「プロテクションウォール」は\n範囲内にいる仲間も一緒に守ることができる。",
-    "Text": "Halo Gran Art \"Protection Wall\" can also protect\nallies within range.",
+    "Text": "헤일로의 그란 아츠 '프로텍션 월'은\n범위 안의 동료도 함께 지켜 줄 수 있다.",
     "Enabled": true
   },
   "800251": {
     "OriginalText": "ウォンドの通常攻撃は、敵をスタンさせることがある。\nスキル「スタンアドバンス」と相性が良い。",
-    "Text": "Wand normal attacks can stun enemies.\nCompatible with the skill \"Stun Advance\".",
+    "Text": "완드의 통상 공격은 적을 스턴시키기도 한다.\n'스턴 어드밴스' 스킬과 궁합이 좋다.",
     "Enabled": true
   },
   "800252": {
     "OriginalText": "ウォンドのステップアタックには\n通常攻撃よりもさらに強力なスタン効果がある。",
-    "Text": "Wand step attack has a stronger stun effect than a\nnormal attack.",
+    "Text": "완드의 스텝 어택은\n통상 공격보다 더 강력한 스턴 효과가 있다.",
     "Enabled": true
   },
   "800253": {
     "OriginalText": "劇属性テクニック「バータ」は\nLv21似上から、攻撃力が急撃に上昇する。",
-    "Text": "",
+    "Text": "빙속성 테크닉 '바타'는\nLv21 이상부터 공격력이 급격히 오른다.",
     "Enabled": false
   },
   "800254": {
     "OriginalText": "雷属性テクニック「ラ・ゾンデ」は\n敵をスタンさせることがある。",
-    "Text": "Lightning technique \"Razonde\" can stun enemies.",
+    "Text": "뇌속성 테크닉 '라 존데'는\n적을 스턴시키기도 한다.",
     "Enabled": true
   },
   "800255": {
     "OriginalText": "闇属性テクニック「メギバース」は\n非常に短いチャージ時間で使用することができる。",
-    "Text": "The Dark technique \"Megiverse\" can be used with a very\nshort charge time.",
+    "Text": "암속성 테크닉 '메기바스'는\n아주 짧은 차지 시간으로 사용할 수 있다.",
     "Enabled": true
   },
   "800256": {
     "OriginalText": "スキル「法撃力コンバート」は、\nフォース似外のクラスで使用すると効果が大きい。",
-    "Text": "The skill \"T-ATK Convert\" is very effective\nwhen used by a class like Force.",
-    "Enabled": true
+    "Text": "'법격력 컨버트' 스킬은\n포스 이외의 클래스로 쓰면 효과가 크다.",
+    "Enabled": false
   },
   "800257": {
     "OriginalText": "発動中のアクティブスキルのアイコンをタッチすることで\n強制的にスキルを解除することができる。",
-    "Text": "You can forcibly deactivate the skill by touching the\nicon of the currently active skill.",
+    "Text": "발동 중인 액티브 스킬의 아이콘을 터치하면\n강제로 스킬을 해제할 수 있다.",
     "Enabled": true
   },
   "800258": {
     "OriginalText": "バスタースキル「テックアーツＪＡボーナス」の\nダメージ上昇効果は、他のスキルと比較してもかなり大きい。",
-    "Text": "The damage increase effect of the buster skill \"Tech\nArts JA Bonus\" is larger compared to other skills.",
+    "Text": "버스터 스킬 '테크 아츠 JA 보너스'의\n데미지 상승 효과는 다른 스킬보다도 상당히 크다.",
     "Enabled": true
   },
   "800259": {
     "OriginalText": "「ファントムアークス」「アークスオブアークス」は\n同じLvの他のクルーよりも高い戦闘能力を発揮してくれる。",
-    "Text": "\"Phantom ARKS\" and \"ARKS of ARKS\" shows higher fighting\nabilities than other crews of the same Lv.",
+    "Text": "'팬텀 아크스', '아크스 오브 아크스'는\n같은 Lv인 다른 크루보다 전투 능력이 뛰어나다.",
     "Enabled": true
   }
 }

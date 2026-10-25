@@ -1,7 +1,7 @@
 {
   "160000": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "160001": {
@@ -16,1707 +16,1337 @@
   },
   "160003": {
     "OriginalText": "打撃力",
-    "Text": "S-ATK",
+    "Text": "타격력",
     "Enabled": true
   },
   "160004": {
     "OriginalText": "射撃力",
-    "Text": "R-ATK",
+    "Text": "사격력",
     "Enabled": true
   },
   "160005": {
     "OriginalText": "法撃力",
-    "Text": "T-ATK",
+    "Text": "법격력",
     "Enabled": true
   },
   "160006": {
     "OriginalText": "技量",
-    "Text": "DEX",
+    "Text": "기량",
     "Enabled": true
   },
   "160007": {
     "OriginalText": "打撃防御",
-    "Text": "S-DEF",
+    "Text": "타격 방어",
     "Enabled": true
   },
   "160008": {
     "OriginalText": "射撃防御",
-    "Text": "R-DEF",
+    "Text": "사격 방어",
     "Enabled": true
   },
   "160009": {
     "OriginalText": "法撃防御",
-    "Text": "T-DEF",
+    "Text": "법격 방어",
     "Enabled": true
   },
   "160010": {
     "OriginalText": "残ＨＰ",
-    "Text": "Remaining HP",
+    "Text": "남은 HP",
     "Enabled": true
   },
   "160011": {
     "OriginalText": "炎属性攻撃力",
-    "Text": "Fire Damage",
+    "Text": "염속성 공격력",
     "Enabled": true
   },
   "160012": {
-    "OriginalText": "劇属性攻撃力",
-    "Text": "Ice Damage",
+    "OriginalText": "氷属性攻撃力",
+    "Text": "빙속성 공격력",
     "Enabled": true
   },
   "160013": {
     "OriginalText": "雷属性攻撃力",
-    "Text": "Lightning Damage",
+    "Text": "뇌속성 공격력",
     "Enabled": true
   },
   "160014": {
     "OriginalText": "風属性攻撃力",
-    "Text": "Wind Damage",
+    "Text": "풍속성 공격력",
     "Enabled": true
   },
   "160015": {
     "OriginalText": "光属性攻撃力",
-    "Text": "Light Damage",
+    "Text": "광속성 공격력",
     "Enabled": true
   },
   "160016": {
     "OriginalText": "闇属性攻撃力",
-    "Text": "Dark Damage",
+    "Text": "암속성 공격력",
     "Enabled": true
   },
   "160017": {
     "OriginalText": "ＨＰアップ",
-    "Text": "HP Up",
+    "Text": "HP 업",
     "Enabled": true
   },
   "160018": {
     "OriginalText": "攻撃力アップ",
-    "Text": "Attack",
+    "Text": "공격력 증가",
     "Enabled": true
-  },
-  "160019": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160020": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
   },
   "160021": {
     "OriginalText": "防御力アップ",
-    "Text": "Defense",
+    "Text": "방어력 증가",
     "Enabled": true
-  },
-  "160022": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
   },
   "160023": {
     "OriginalText": "効果範囲倍率",
-    "Text": "Effect Range",
+    "Text": "효과 범위 배율",
     "Enabled": true
   },
   "160024": {
     "OriginalText": "シフタ発生回数加算",
-    "Text": "Shifta Burst",
+    "Text": "시프타 발생 횟수 가산",
     "Enabled": true
   },
   "160025": {
     "OriginalText": "デバンド発生回数加算",
-    "Text": "Deband Burst",
+    "Text": "데반드 발생 횟수 가산",
     "Enabled": true
   },
   "160026": {
     "OriginalText": "ＧＰ回復量アップ",
-    "Text": "GP Recovery Amount Up",
+    "Text": "GP 회복량 상승",
     "Enabled": true
   },
   "160027": {
     "OriginalText": "リキャスト短温時間補正",
-    "Text": "Shorten Cast Time",
-    "Enabled": true
+    "Text": "쿨타임 단축 보정",
+    "Enabled": false
   },
   "160028": {
     "OriginalText": "GBポイント上昇量",
-    "Text": "GB Rise Amount",
+    "Text": "GB 포인트 상승량",
     "Enabled": true
   },
   "160029": {
     "OriginalText": "消費ＧＰ",
-    "Text": "GP Cost",
+    "Text": "소비 GP",
     "Enabled": true
   },
   "160030": {
     "OriginalText": "アイテムドロップ",
-    "Text": "Drop Rate",
+    "Text": "아이템 드랍",
     "Enabled": true
   },
   "160031": {
     "OriginalText": "レアドロップ",
-    "Text": "Rare Drop Rate",
+    "Text": "레어 드롭",
     "Enabled": true
   },
   "160032": {
     "OriginalText": "経験値",
-    "Text": "EXP",
+    "Text": "경험치",
     "Enabled": true
   },
   "160033": {
     "OriginalText": "ヘイト上昇率アップ",
-    "Text": "Increased Hate Accum.",
+    "Text": "헤이트 상승률 상승",
     "Enabled": true
   },
   "160034": {
     "OriginalText": "ＨＰ吸収比率",
-    "Text": "HP Absorb",
+    "Text": "HP 흡수 비율",
     "Enabled": true
   },
   "160035": {
     "OriginalText": "アイテム回復量",
-    "Text": "Heal Item Boost",
+    "Text": "아이템 회복량",
     "Enabled": true
   },
   "160036": {
     "OriginalText": "確率でリアクション無効",
-    "Text": "No Knockback Chance",
+    "Text": "확률로 피격 리액션 무효",
     "Enabled": true
   },
   "160037": {
     "OriginalText": "与ダメージ倍率補正",
-    "Text": "Damage Ratio Alter",
+    "Text": "가하는 데미지 배율 보정",
     "Enabled": true
   },
   "160038": {
     "OriginalText": "打撃耐性",
-    "Text": "Blow Resist",
+    "Text": "타격 내성",
     "Enabled": true
   },
   "160039": {
     "OriginalText": "属性攻撃力補正",
-    "Text": "Attack Correction",
+    "Text": "속성 공격력 보정",
     "Enabled": true
   },
   "160040": {
     "OriginalText": "技量補正量",
-    "Text": "Ability Correction",
+    "Text": "기량 보정량",
     "Enabled": true
   },
   "160041": {
     "OriginalText": "クリティカル率アップ",
-    "Text": "Increased Crit Rate",
+    "Text": "크리티컬 발생률 상승",
     "Enabled": true
   },
   "160042": {
     "OriginalText": "炎属性ダウン発生率",
-    "Text": "Fire Resist Down",
+    "Text": "염속성 다운 발생률",
     "Enabled": true
   },
   "160043": {
-    "OriginalText": "劇属性ダウン発生率",
-    "Text": "Ice Resist Down",
+    "OriginalText": "氷属性ダウン発生率",
+    "Text": "빙속성 다운 발생률",
     "Enabled": true
   },
   "160044": {
     "OriginalText": "雷属性ダウン発生率",
-    "Text": "Ltn. Resist Down",
+    "Text": "뇌속성 다운 발생률",
     "Enabled": true
   },
   "160045": {
     "OriginalText": "風属性ダウン発生率",
-    "Text": "Wind Resist Down",
+    "Text": "풍속성 다운 발생률",
     "Enabled": true
   },
   "160046": {
     "OriginalText": "光属性ダウン発生率",
-    "Text": "Light Resist Down",
+    "Text": "광속성 다운 발생률",
     "Enabled": true
   },
   "160047": {
     "OriginalText": "闇属性ダウン発生率",
-    "Text": "Dark Resist Down",
+    "Text": "암속성 다운 발생률",
     "Enabled": true
   },
   "160048": {
     "OriginalText": "追加：バインド",
-    "Text": "Add: Bind",
+    "Text": "추가: 바인드",
     "Enabled": true
   },
   "160049": {
     "OriginalText": "追加：インフェクション",
-    "Text": "Add: Infection",
+    "Text": "추가: 인펙션",
     "Enabled": true
   },
   "160050": {
     "OriginalText": "追加：ブラインド",
-    "Text": "Add: Blind",
+    "Text": "추가: 블라인드",
     "Enabled": true
   },
   "160051": {
     "OriginalText": "追加：グラン中毒",
-    "Text": "Add: Gran Poisoning",
+    "Text": "추가: 그란 중독",
     "Enabled": true
   },
   "160052": {
     "OriginalText": "全属性耐性ダウン発生率",
-    "Text": "All Resist Down",
+    "Text": "모든 속성 내성 다운 발생률",
     "Enabled": true
   },
   "160053": {
     "OriginalText": "状態異常発生率補正",
-    "Text": "Status Hit Rate",
+    "Text": "상태이상 발생률 보정",
     "Enabled": true
   },
   "160054": {
     "OriginalText": "状態異常レベル",
-    "Text": "Status Hit Time",
+    "Text": "상태이상 레벨",
     "Enabled": true
   },
   "160055": {
     "OriginalText": "ガード実行",
-    "Text": "Guard Action",
+    "Text": "가드 실행",
     "Enabled": true
   },
   "160056": {
     "OriginalText": "スタイリッシュロール実行",
-    "Text": "Stylish Roll Action",
+    "Text": "스타일리시 롤 실행",
     "Enabled": true
   },
   "160057": {
     "OriginalText": "スウェー実行",
-    "Text": "Sway Action",
+    "Text": "스웨이 실행",
     "Enabled": true
-  },
-  "160058": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160059": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
   },
   "160060": {
     "OriginalText": "敵のヘイト値",
-    "Text": "Enemy Hate Value",
+    "Text": "적의 헤이트 값",
     "Enabled": true
-  },
-  "160061": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
   },
   "160062": {
     "OriginalText": "自分ＨＰ回復",
-    "Text": "HP Recovery",
+    "Text": "자신의 HP 회복",
     "Enabled": true
   },
   "160063": {
     "OriginalText": "周囲ＨＰ回復",
-    "Text": "Area HP Recovery",
+    "Text": "주변 HP 회복",
     "Enabled": true
   },
   "160064": {
     "OriginalText": "周囲状態異常回復",
-    "Text": "Area Status Recovery",
+    "Text": "주변 상태이상 회복",
     "Enabled": true
   },
   "160065": {
     "OriginalText": "周囲戦闘不能回復",
-    "Text": "Area Revival",
+    "Text": "주변 전투 불능 회복",
     "Enabled": true
   },
   "160066": {
     "OriginalText": "効果範囲",
-    "Text": "Effect Range",
+    "Text": "효과 범위",
     "Enabled": true
   },
   "160067": {
     "OriginalText": "自分戦闘不能回復",
-    "Text": "Self Revival",
+    "Text": "자신의 전투 불능 회복",
     "Enabled": true
-  },
-  "160068": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160069": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160070": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160071": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160072": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160073": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160074": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160075": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160076": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160077": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160078": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160079": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160080": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160081": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160082": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160083": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160084": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160085": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160086": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160087": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160088": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160089": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160090": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160091": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160092": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160093": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160094": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160095": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160096": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160097": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160098": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160099": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160100": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160101": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160102": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160103": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
   },
   "160104": {
     "OriginalText": "ジャストガード使用可能フラグ",
-    "Text": "Just Guard Usability Flag",
+    "Text": "저스트 가드 사용 가능 플래그",
     "Enabled": true
   },
   "160105": {
     "OriginalText": "ステップ使用フラグ",
-    "Text": "Step Usage Flag",
+    "Text": "스텝 사용 플래그",
     "Enabled": true
   },
   "160106": {
     "OriginalText": "ステップアタック使用フラグ",
-    "Text": "Step Attack Usage Flag",
+    "Text": "스텝 어택 사용 플래그",
     "Enabled": true
   },
   "160107": {
     "OriginalText": "ダイブロール使用可能フラグ",
-    "Text": "Dive Roll Usability Flag",
+    "Text": "다이브 롤 사용 가능 플래그",
     "Enabled": true
   },
   "160108": {
     "OriginalText": "ミラージュエスケープ使用可能フラグ",
-    "Text": "Mirage Escape Usability Flag",
+    "Text": "미라쥬 이스케이프 사용 가능 플래그",
     "Enabled": true
   },
   "160109": {
     "OriginalText": "テクニック使用可能フラグ",
-    "Text": "Tech Usability Flag",
+    "Text": "테크닉 사용 가능 플래그",
     "Enabled": true
-  },
-  "160110": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
   },
   "160111": {
     "OriginalText": "クイック武器変更PA使用可能フラグ",
-    "Text": "Quick Weapon Change PA Usability Flag",
+    "Text": "퀵 무기 변경 PA 사용 가능 플래그",
     "Enabled": true
   },
   "160112": {
     "OriginalText": "JGA有効フラグ",
-    "Text": "JGA Effect Flag",
+    "Text": "JGA 유효 플래그",
     "Enabled": true
   },
   "160113": {
     "OriginalText": "ジャストカウンター使用可能フラグ",
-    "Text": "Just Counter Usability Flag",
+    "Text": "저스트 카운터 사용 가능 플래그",
     "Enabled": true
   },
   "160114": {
     "OriginalText": "ガードＧＰ変換有効フラグ",
-    "Text": "Guard GP Change Effect Flag",
+    "Text": "가드 GP 변환 유효 플래그",
     "Enabled": true
   },
   "160115": {
     "OriginalText": "ダイブロール時の無敵フラグ",
-    "Text": "Dive Roll Invincibility Flag",
+    "Text": "다이브 롤 중 무적 플래그",
     "Enabled": true
   },
   "160116": {
     "OriginalText": "コンセントレーション有効フラグ",
-    "Text": "Concentration Effect Flag",
+    "Text": "컨센트레이션 유효 플래그",
     "Enabled": true
   },
   "160117": {
     "OriginalText": "状態異常お返し",
-    "Text": "Bad Status Revenge",
+    "Text": "상태이상 되돌려주기",
     "Enabled": true
   },
   "160118": {
     "OriginalText": "オートメイト発動確率",
-    "Text": "Automation Chance",
+    "Text": "오토메이트 발동확률",
     "Enabled": true
   },
   "160119": {
-    "OriginalText": "ソード伝備可能フラグ",
-    "Text": "Sword Advent Chance Flag",
+    "OriginalText": "ソード装備可能フラグ",
+    "Text": "소드 장비 가능 플래그",
     "Enabled": true
   },
   "160120": {
-    "OriginalText": "パルチザン伝備可能フラグ",
-    "Text": "Partisan Advent Chance Flag",
+    "OriginalText": "パルチザン装備可能フラグ",
+    "Text": "파르티잔 장비 가능 플래그",
     "Enabled": true
   },
   "160121": {
-    "OriginalText": "ダブルセイバー伝備可能フラグ",
-    "Text": "Double Saber Advent Chance Flag",
+    "OriginalText": "ダブルセイバー装備可能フラグ",
+    "Text": "더블 세이버 장비 가능 플래그",
     "Enabled": true
   },
   "160122": {
-    "OriginalText": "アサルトライフル伝備可能フラグ",
-    "Text": "Assault Rifle Advent Chance Flag",
+    "OriginalText": "アサルトライフル装備可能フラグ",
+    "Text": "어설트 라이플 장비 가능 플래그",
     "Enabled": true
   },
   "160123": {
-    "OriginalText": "ツインマシンガン伝備可能フラグ",
-    "Text": "Twin MG Advent Chance Flag",
+    "OriginalText": "ツインマシンガン装備可能フラグ",
+    "Text": "트윈 머신 건 장비 가능 플래그",
     "Enabled": true
   },
   "160124": {
-    "OriginalText": "ロッド伝備可能フラグ",
-    "Text": "Rod Advent Chance Flag",
+    "OriginalText": "ロッド装備可能フラグ",
+    "Text": "로드 장비 가능 플래그",
     "Enabled": true
   },
   "160125": {
-    "OriginalText": "タリス伝備可能フラグ",
-    "Text": "Talis Advent Chance Flag",
+    "OriginalText": "タリス装備可能フラグ",
+    "Text": "탈리스 장비 가능 플래그",
     "Enabled": true
   },
   "160126": {
-    "OriginalText": "ウォンド伝備可能フラグ",
-    "Text": "Wand Advent Chance Flag",
+    "OriginalText": "ウォンド装備可能フラグ",
+    "Text": "완드 장비 가능 플래그",
     "Enabled": true
   },
   "160127": {
-    "OriginalText": "パイル伝備可能フラグ",
-    "Text": "Pile Advent Chance Flag",
+    "OriginalText": "パイル装備可能フラグ",
+    "Text": "파일 장비 가능 플래그",
     "Enabled": true
   },
   "160128": {
-    "OriginalText": "ヘイロウ伝備可能フラグ",
-    "Text": "Halo Advent Chance Flag",
+    "OriginalText": "ヘイロウ装備可能フラグ",
+    "Text": "헤일로 장비 가능 플래그",
     "Enabled": true
   },
   "160129": {
     "OriginalText": "敵レア出現率",
-    "Text": "Rare Enemy Rate",
+    "Text": "레어 에너미 출현율",
     "Enabled": true
   },
   "160130": {
     "OriginalText": "敵ブースト出現率",
-    "Text": "Enemy Boost",
+    "Text": "부스트 에너미 출현율",
     "Enabled": true
   },
   "160131": {
     "OriginalText": "バースト時間延長",
-    "Text": "BURST Time",
+    "Text": "버스트 시간 연장",
     "Enabled": true
   },
   "160132": {
     "OriginalText": "レベル",
-    "Text": "Level",
+    "Text": "레벨",
     "Enabled": true
-  },
-  "160133": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160134": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160135": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160136": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160137": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160138": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160139": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160140": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160141": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160142": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160143": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
   },
   "160144": {
     "OriginalText": "入手グラン量",
-    "Text": "Gran Boost",
+    "Text": "획득 그란량",
     "Enabled": true
   },
   "160145": {
     "OriginalText": "Gブースター効果",
-    "Text": "G. Booster Effect",
+    "Text": "G 부스터 효과",
     "Enabled": true
   },
   "160146": {
     "OriginalText": "Gブースター範囲",
-    "Text": "G. Booster Range",
+    "Text": "G 부스터 범위",
     "Enabled": true
   },
   "160147": {
     "OriginalText": "Eレーダー適用地路",
-    "Text": "E. Radar Range",
-    "Enabled": true
+    "Text": "E 레이더 적용 지역",
+    "Enabled": false
   },
   "160148": {
     "OriginalText": "エステ選択項目UP",
-    "Text": "Makeover Items",
+    "Text": "에스테 선택 항목 UP",
     "Enabled": true
   },
   "160149": {
     "OriginalText": "アイテム探索",
-    "Text": "Item Search",
+    "Text": "아이템 탐색",
     "Enabled": true
   },
   "160150": {
     "OriginalText": "レアアイテム探索",
-    "Text": "Rare Item Search",
+    "Text": "레어 아이템 탐색",
     "Enabled": true
   },
   "160151": {
     "OriginalText": "I探索適用地路",
-    "Text": "Item Search Range",
-    "Enabled": true
+    "Text": "I 탐색 적용 지역",
+    "Enabled": false
   },
   "160152": {
     "OriginalText": "エネミーレーダー",
-    "Text": "Enemy Radar",
+    "Text": "에너미 레이더",
     "Enabled": true
   },
   "160153": {
     "OriginalText": "BURST：経験値UP",
-    "Text": "BURST: EXP Up",
+    "Text": "BURST: 경험치 UP",
     "Enabled": true
   },
   "160154": {
     "OriginalText": "BURST：アイテム",
-    "Text": "BURST: Drop Rate",
+    "Text": "BURST: 아이템",
     "Enabled": true
   },
   "160155": {
     "OriginalText": "BURST：レアエネミー",
-    "Text": "BURST: Rare Enemy",
+    "Text": "BURST: 레어 에너미",
     "Enabled": true
   },
   "160156": {
     "OriginalText": "BURST：レアドロップ",
-    "Text": "BURST: Rare Drop Rate",
+    "Text": "BURST: 레어 드롭",
     "Enabled": true
   },
   "160157": {
     "OriginalText": "BURST：原生種",
-    "Text": "BURST: Natives",
+    "Text": "BURST: 원생종",
     "Enabled": true
   },
   "160158": {
     "OriginalText": "BURST：ダーカー",
-    "Text": "BURST: Darkers",
+    "Text": "BURST: 다커",
     "Enabled": true
   },
   "160159": {
     "OriginalText": "BURST：ワンモア",
-    "Text": "BURST: One More",
+    "Text": "BURST: 원 모어",
     "Enabled": true
   },
   "160160": {
     "OriginalText": "BURST：ガッツ",
-    "Text": "BURST: Guts",
+    "Text": "BURST: 근성",
     "Enabled": true
   },
   "160161": {
     "OriginalText": "BURST：ダメージカット",
-    "Text": "BURST: Damage Cut",
+    "Text": "BURST: 데미지 컷",
     "Enabled": true
   },
   "160162": {
     "OriginalText": "BURST：コンバージョン",
-    "Text": "BURST: Conversion",
+    "Text": "BURST: 컨버전",
     "Enabled": true
   },
   "160163": {
     "OriginalText": "BURST：クリティカル",
-    "Text": "BURST: Critical",
+    "Text": "BURST: 크리티컬",
     "Enabled": true
   },
   "160164": {
     "OriginalText": "BURST：モータルブロウ",
-    "Text": "BURST: Mortal Blow",
+    "Text": "BURST: 모탈 블로",
     "Enabled": true
-  },
-  "160165": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160166": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160167": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160168": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160169": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
   },
   "160170": {
     "OriginalText": "探索：疲労防止",
-    "Text": "Search: Anti-ftg.",
+    "Text": "탐색: 피로 방지",
     "Enabled": true
   },
   "160171": {
     "OriginalText": "探索：大成功",
-    "Text": "Search: Success",
+    "Text": "탐색: 대성공",
     "Enabled": true
   },
   "160172": {
     "OriginalText": "探索：日数",
-    "Text": "Search: Days",
+    "Text": "탐색: 일수",
     "Enabled": true
   },
   "160173": {
     "OriginalText": "攻撃アタリ拡大率",
-    "Text": "Sequent Attack Rate Multiplier",
+    "Text": "공격 판정 확대율",
     "Enabled": true
   },
   "160174": {
     "OriginalText": "攻撃アクション再生速度",
-    "Text": "Attack Speed",
+    "Text": "공격 액션 재생 속도",
     "Enabled": true
   },
   "160175": {
     "OriginalText": "ＧＰ回復",
-    "Text": "GP Recovery",
+    "Text": "GP 회복",
     "Enabled": true
   },
   "160176": {
     "OriginalText": "同箇所ヒット回数",
-    "Text": "Same Place Hits",
+    "Text": "동일 부위 히트 횟수",
     "Enabled": true
   },
   "160177": {
     "OriginalText": "JA効果時間補正",
-    "Text": "JA Window Time",
+    "Text": "JA 효과 시간 보정",
     "Enabled": true
   },
   "160178": {
     "OriginalText": "移動速度アップ",
-    "Text": "Movement Speed",
+    "Text": "이동 속도 상승",
     "Enabled": true
   },
   "160179": {
     "OriginalText": "射撃力コンバート",
-    "Text": "R-ATK Convert",
+    "Text": "사격력 컨버트",
     "Enabled": true
   },
   "160180": {
     "OriginalText": "打撃力コンバート",
-    "Text": "S-ATK Convert",
+    "Text": "타격력 컨버트",
     "Enabled": true
   },
   "160181": {
     "OriginalText": "法撃力コンバート",
-    "Text": "T-ATK Convert",
+    "Text": "법격력 컨버트",
     "Enabled": true
   },
   "160182": {
     "OriginalText": "ヒット数増加",
-    "Text": "Hits Increase",
+    "Text": "히트 수 증가",
     "Enabled": true
-  },
-  "160183": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
   },
   "160184": {
     "OriginalText": "ＧＰアップ",
-    "Text": "GP Up",
+    "Text": "GP 상승",
     "Enabled": true
   },
   "160185": {
     "OriginalText": "炎属性ダメージ",
-    "Text": "Fire Damage",
+    "Text": "염속성 데미지",
     "Enabled": true
   },
   "160186": {
-    "OriginalText": "劇属性ダメージ",
-    "Text": "Ice Damage",
+    "OriginalText": "氷属性ダメージ",
+    "Text": "빙속성 데미지",
     "Enabled": true
   },
   "160187": {
     "OriginalText": "雷属性ダメージ",
-    "Text": "Lightning Damage",
+    "Text": "뇌속성 데미지",
     "Enabled": true
   },
   "160188": {
     "OriginalText": "風属性ダメージ",
-    "Text": "Wind Damage",
+    "Text": "풍속성 데미지",
     "Enabled": true
   },
   "160189": {
     "OriginalText": "光属性ダメージ",
-    "Text": "Light Damage",
+    "Text": "광속성 데미지",
     "Enabled": true
   },
   "160190": {
     "OriginalText": "闇属性ダメージ",
-    "Text": "Dark Damage",
+    "Text": "암속성 데미지",
     "Enabled": true
   },
   "160191": {
     "OriginalText": "炎耐性",
-    "Text": "Fire Resist",
+    "Text": "염내성",
     "Enabled": true
   },
   "160192": {
-    "OriginalText": "劇耐性",
-    "Text": "Ice Resist",
+    "OriginalText": "氷耐性",
+    "Text": "빙내성",
     "Enabled": true
   },
   "160193": {
     "OriginalText": "雷耐性",
-    "Text": "Lightning Resist",
+    "Text": "뇌내성",
     "Enabled": true
   },
   "160194": {
     "OriginalText": "風耐性",
-    "Text": "Wind Resist",
+    "Text": "풍내성",
     "Enabled": true
   },
   "160195": {
     "OriginalText": "光耐性",
-    "Text": "Light Resist",
+    "Text": "광내성",
     "Enabled": true
   },
   "160196": {
     "OriginalText": "闇耐性",
-    "Text": "Dark Resist",
+    "Text": "암내성",
     "Enabled": true
   },
   "160197": {
     "OriginalText": "弱点ダメージアップ",
-    "Text": "Weak Pt. Damage",
+    "Text": "약점 데미지 업",
     "Enabled": true
   },
   "160198": {
     "OriginalText": "バーストゲージ初期ボーナス",
-    "Text": "Initial GB Bonus",
+    "Text": "버스트 게이지 초기 보너스",
     "Enabled": true
   },
   "160199": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
-  },
-  "160200": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
   },
   "160201": {
     "OriginalText": "チャージ短温",
-    "Text": "Charge Reduction",
-    "Enabled": true
+    "Text": "차지 단축",
+    "Enabled": false
   },
   "160202": {
     "OriginalText": "怪我率アップ",
-    "Text": "Injury Rate",
+    "Text": "부상률 상승",
     "Enabled": true
   },
   "160203": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160204": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160205": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160206": {
     "OriginalText": "習得LV1～6の素材滅",
-    "Text": "GA/Tech Lv. 1-6 Reduced Cost",
+    "Text": "습득 LV1~6 소재 감소",
     "Enabled": true
   },
   "160207": {
     "OriginalText": "習得LV7～12の素材滅",
-    "Text": "GA/Tech Lv. 7-12 Reduced Cost",
+    "Text": "습득 LV7~12 소재 감소",
     "Enabled": true
   },
   "160208": {
     "OriginalText": "習得LV13～19の素材滅",
-    "Text": "GA/Tech Lv. 13-19 Reduced Cost",
+    "Text": "습득 LV13~19 소재 감소",
     "Enabled": true
   },
   "160209": {
     "OriginalText": "習得LV20～25の素材滅",
-    "Text": "GA/Tech Lv. 20-25 Reduced Cost",
+    "Text": "습득 LV20~25 소재 감소",
     "Enabled": true
   },
   "160210": {
     "OriginalText": "習得LV26～30の素材滅",
-    "Text": "GA/Tech Lv. 26-30 Reduced Cost",
+    "Text": "습득 LV26~30 소재 감소",
     "Enabled": true
   },
   "160211": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160212": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160213": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160214": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160215": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160216": {
     "OriginalText": "料理★1の素材滅",
-    "Text": "1★ Dish Reduced Cost",
+    "Text": "요리 ★1 소재 감소",
     "Enabled": true
   },
   "160217": {
     "OriginalText": "料理★2の素材滅",
-    "Text": "2★ Dish Reduced Cost",
+    "Text": "요리 ★2 소재 감소",
     "Enabled": true
   },
   "160218": {
     "OriginalText": "料理★3の素材滅",
-    "Text": "3★ Dish Reduced Cost",
+    "Text": "요리 ★3 소재 감소",
     "Enabled": true
   },
   "160219": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160220": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160221": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160222": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160223": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160224": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160225": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160226": {
     "OriginalText": "武器★5の素材滅",
-    "Text": "5★ Weapon Reduced Cost",
-    "Enabled": true
+    "Text": "무기 ★5 소재 감소",
+    "Enabled": false
   },
   "160227": {
     "OriginalText": "武器★6の素材滅",
-    "Text": "6★ Weapon Reduced Cost",
-    "Enabled": true
+    "Text": "무기 ★6 소재 감소",
+    "Enabled": false
   },
   "160228": {
     "OriginalText": "武器★7の素材滅",
-    "Text": "7★ Weapon Reduced Cost",
-    "Enabled": true
+    "Text": "무기 ★7 소재 감소",
+    "Enabled": false
   },
   "160229": {
     "OriginalText": "武器★8の素材滅",
-    "Text": "8★ Weapon Reduced Cost",
-    "Enabled": true
+    "Text": "무기 ★8 소재 감소",
+    "Enabled": false
   },
   "160230": {
     "OriginalText": "武器★9の素材滅",
-    "Text": "9★ Weapon Reduced Cost",
+    "Text": "무기 ★9 소재 감소",
     "Enabled": true
   },
   "160231": {
     "OriginalText": "武器★10の素材滅",
-    "Text": "10★ Weapon Reduced Cost",
+    "Text": "무기 ★10 소재 감소",
     "Enabled": true
   },
   "160232": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160233": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160234": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160235": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160236": {
     "OriginalText": "防具★5の素材滅",
-    "Text": "5★ Shield Reduced Cost",
-    "Enabled": true
+    "Text": "방어구 ★5 소재 감소",
+    "Enabled": false
   },
   "160237": {
     "OriginalText": "防具★6の素材滅",
-    "Text": "6★ Shield Reduced Cost",
-    "Enabled": true
+    "Text": "방어구 ★6 소재 감소",
+    "Enabled": false
   },
   "160238": {
     "OriginalText": "防具★7の素材滅",
-    "Text": "7★ Shield Reduced Cost",
-    "Enabled": true
+    "Text": "방어구 ★7 소재 감소",
+    "Enabled": false
   },
   "160239": {
     "OriginalText": "防具★8の素材滅",
-    "Text": "8★ Shield Reduced Cost",
-    "Enabled": true
+    "Text": "방어구 ★8 소재 감소",
+    "Enabled": false
   },
   "160240": {
     "OriginalText": "防具★9の素材滅",
-    "Text": "9★ Shield Reduced Cost",
-    "Enabled": true
+    "Text": "방어구 ★9 소재 감소",
+    "Enabled": false
   },
   "160241": {
     "OriginalText": "防具★10の素材滅",
-    "Text": "10★ Shield Reduced Cost",
-    "Enabled": true
+    "Text": "방어구 ★10 소재 감소",
+    "Enabled": false
   },
   "160242": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160243": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160244": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160245": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160246": {
     "OriginalText": "道具★1の素材滅",
-    "Text": "1★ Item Reduced Cost",
-    "Enabled": true
+    "Text": "도구 ★1 소재 감소",
+    "Enabled": false
   },
   "160247": {
     "OriginalText": "道具★2の素材滅",
-    "Text": "2★ Item Reduced Cost",
+    "Text": "도구 ★2 소재 감소",
     "Enabled": true
   },
   "160248": {
     "OriginalText": "道具★3の素材滅",
-    "Text": "3★ Item Reduced Cost",
+    "Text": "도구 ★3 소재 감소",
     "Enabled": true
   },
   "160249": {
     "OriginalText": "道具★4の素材滅",
-    "Text": "4★ Item Reduced Cost",
+    "Text": "도구 ★4 소재 감소",
     "Enabled": true
   },
   "160250": {
     "OriginalText": "道具★5の素材滅",
-    "Text": "5★ Item Reduced Cost",
+    "Text": "도구 ★5 소재 감소",
     "Enabled": true
   },
   "160251": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160252": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160253": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160254": {
     "OriginalText": "保留",
-    "Text": "Placeholder",
+    "Text": "보류",
     "Enabled": true
   },
   "160255": {
     "OriginalText": "衣伝★5の素材滅",
-    "Text": "5★ Costume Reduced Cost",
+    "Text": "의상 ★5 소재 감소",
     "Enabled": true
   },
   "160256": {
     "OriginalText": "衣伝★6の素材滅",
-    "Text": "6★ Costume Reduced Cost",
+    "Text": "의상 ★6 소재 감소",
     "Enabled": true
   },
   "160257": {
     "OriginalText": "衣伝★7の素材滅",
-    "Text": "7★ Costume Reduced Cost",
+    "Text": "의상 ★7 소재 감소",
     "Enabled": true
   },
   "160258": {
     "OriginalText": "衣伝★8の素材滅",
-    "Text": "8★ Costume Reduced Cost",
+    "Text": "의상 ★8 소재 감소",
     "Enabled": true
   },
   "160259": {
     "OriginalText": "衣伝★9の素材滅",
-    "Text": "9★ Costume Reduced Cost",
+    "Text": "의상 ★9 소재 감소",
     "Enabled": true
   },
   "160260": {
     "OriginalText": "衣伝★10の素材滅",
-    "Text": "10★ Costume Reduced Cost",
+    "Text": "의상 ★10 소재 감소",
     "Enabled": true
   },
   "160261": {
     "OriginalText": "[a 07]経験値      +100%[b]",
-    "Text": "[a 07]EXP                +100%[b]",
+    "Text": "[a 07]경험치      +100%[b]",
     "Enabled": true
   },
   "160262": {
     "OriginalText": "[a 07]経験値      +200%[b]",
-    "Text": "[a 07]EXP                +200%[b]",
+    "Text": "[a 07]경험치      +200%[b]",
     "Enabled": true
   },
   "160263": {
     "OriginalText": "精錬所エナジー滅",
-    "Text": "Core Ref. Cost",
+    "Text": "제련소 에너지 감소",
     "Enabled": true
   },
   "160264": {
     "OriginalText": "武器★11の素材滅",
-    "Text": "11★ Weapon Reduced Cost",
+    "Text": "무기 ★11 소재 감소",
     "Enabled": true
   },
   "160265": {
     "OriginalText": "武器★12の素材滅",
-    "Text": "12★ Weapon Reduced Cost",
+    "Text": "무기 ★12 소재 감소",
     "Enabled": true
   },
   "160266": {
     "OriginalText": "武器★13の素材滅",
-    "Text": "13★ Weapon Reduced Cost",
+    "Text": "무기 ★13 소재 감소",
     "Enabled": true
   },
   "160267": {
     "OriginalText": "武器★14の素材滅",
-    "Text": "14★ Weapon Reduced Cost",
+    "Text": "무기 ★14 소재 감소",
     "Enabled": true
   },
   "160268": {
     "OriginalText": "武器★15の素材滅",
-    "Text": "15★ Weapon Reduced Cost",
-    "Enabled": true
+    "Text": "무기 ★15 소재 감소",
+    "Enabled": false
   },
   "160269": {
     "OriginalText": "防具★11の素材滅",
-    "Text": "11★ Shield Reduced Cost",
+    "Text": "방어구 ★11 소재 감소",
     "Enabled": true
   },
   "160270": {
     "OriginalText": "防具★12の素材滅",
-    "Text": "12★ Shield Reduced Cost",
+    "Text": "방어구 ★12 소재 감소",
     "Enabled": true
   },
   "160271": {
     "OriginalText": "防具★13の素材滅",
-    "Text": "13★ Shield Reduced Cost",
+    "Text": "방어구 ★13 소재 감소",
     "Enabled": true
   },
   "160272": {
     "OriginalText": "防具★14の素材滅",
-    "Text": "14★ Shield Reduced Cost",
+    "Text": "방어구 ★14 소재 감소",
     "Enabled": true
   },
   "160273": {
     "OriginalText": "防具★15の素材滅",
-    "Text": "15★ Shield Reduced Cost",
+    "Text": "방어구 ★15 소재 감소",
     "Enabled": true
   },
   "160274": {
     "OriginalText": "弱点部位ダメージアップ",
-    "Text": "Increased Weak Point/Part Damage",
+    "Text": "약점 부위 데미지 상승",
     "Enabled": true
   },
   "160275": {
     "OriginalText": "弱点属性ダメージアップ",
-    "Text": "Increased Weak Attribute Damage",
+    "Text": "약점 속성 데미지 상승",
     "Enabled": true
   },
   "160276": {
     "OriginalText": "エクステンド素材滅",
-    "Text": "More Materials",
+    "Text": "익스텐드 소재 감소",
     "Enabled": true
   },
   "160277": {
     "OriginalText": "精錬所機能拡張",
-    "Text": "Core Refinary Expansion",
+    "Text": "제련소 기능 확장",
     "Enabled": true
   },
   "160278": {
     "OriginalText": "バーストゲージ上昇",
-    "Text": "BURST Gauge Boost",
+    "Text": "버스트 게이지 상승",
     "Enabled": true
   },
   "160501": {
     "OriginalText": "射撃耐性",
-    "Text": "Shot Resist",
+    "Text": "사격 내성",
     "Enabled": true
   },
   "160502": {
     "OriginalText": "法撃耐性",
-    "Text": "Tech Resist",
+    "Text": "법격 내성",
     "Enabled": true
   },
   "160503": {
     "OriginalText": "炎属性攻撃力アップ",
-    "Text": "Fire Attack",
+    "Text": "염속성 공격력 증가",
     "Enabled": true
   },
   "160504": {
-    "OriginalText": "劇属性攻撃力アップ",
-    "Text": "Ice Attack",
+    "OriginalText": "氷属性攻撃力アップ",
+    "Text": "빙속성 공격력 증가",
     "Enabled": true
   },
   "160505": {
     "OriginalText": "雷属性攻撃力アップ",
-    "Text": "Lightning Attack",
+    "Text": "뇌속성 공격력 증가",
     "Enabled": true
   },
   "160506": {
     "OriginalText": "風属性攻撃力アップ",
-    "Text": "Wind Attack",
+    "Text": "풍속성 공격력 증가",
     "Enabled": true
   },
   "160507": {
     "OriginalText": "光属性攻撃力アップ",
-    "Text": "Light Attack",
+    "Text": "광속성 공격력 증가",
     "Enabled": true
   },
   "160508": {
     "OriginalText": "闇属性攻撃力アップ",
-    "Text": "Dark Attack",
+    "Text": "암속성 공격력 증가",
     "Enabled": true
   },
   "160509": {
     "OriginalText": "全属性耐性",
-    "Text": "All Resist",
+    "Text": "모든 속성 내성",
     "Enabled": true
   },
   "160510": {
     "OriginalText": "確率でダメージ無効",
-    "Text": "No Damage Chance",
+    "Text": "확률로 데미지 무효",
     "Enabled": true
   },
   "160511": {
     "OriginalText": "ＨＰ低下で防御力アップ",
-    "Text": "Lower HP Raises Defense",
+    "Text": "HP 저하 시 방어력 증가",
     "Enabled": true
   },
   "160512": {
     "OriginalText": "ＨＰ低下で防御力ダウン",
-    "Text": "Lower HP Lowers Defense",
+    "Text": "HP 저하 시 방어력 감소",
     "Enabled": true
   },
   "160513": {
     "OriginalText": "ヘイト上昇率ダウン",
-    "Text": "Decreased Hate Accum.",
+    "Text": "헤이트 상승률 감소",
     "Enabled": true
   },
   "160514": {
     "OriginalText": "原生種に有利",
-    "Text": "Native Enemy Affinity",
+    "Text": "원생종에 유리",
     "Enabled": true
   },
   "160515": {
     "OriginalText": "模族に有利",
-    "Text": "Large Enemy Affinity",
-    "Enabled": true
+    "Text": "용족에 유리",
+    "Enabled": false
   },
   "160516": {
     "OriginalText": "機甲種に有利",
-    "Text": "Armored Enemy Affinity",
+    "Text": "기갑종에 유리",
     "Enabled": true
   },
   "160517": {
     "OriginalText": "ヒューマンがいると有利",
-    "Text": "Human Affinity",
+    "Text": "휴먼이 있으면 유리",
     "Enabled": true
   },
   "160518": {
     "OriginalText": "ニューマンがいると有利",
-    "Text": "Newman Affinity",
+    "Text": "뉴먼이 있으면 유리",
     "Enabled": true
   },
   "160519": {
     "OriginalText": "キャストがいると有利",
-    "Text": "Cast Affinity",
+    "Text": "캐스트가 있으면 유리",
     "Enabled": true
   },
   "160520": {
     "OriginalText": "ハンターがいると有利",
-    "Text": "Hunter Affinity",
+    "Text": "헌터가 있으면 유리",
     "Enabled": true
   },
   "160521": {
     "OriginalText": "フォースがいると有利",
-    "Text": "Force Affinity",
+    "Text": "포스가 있으면 유리",
     "Enabled": true
   },
   "160522": {
     "OriginalText": "レンジャーがいると有利",
-    "Text": "Ranger Affinity",
+    "Text": "레인저가 있으면 유리",
     "Enabled": true
   },
   "160523": {
     "OriginalText": "バスターがいると有利",
-    "Text": "Buster Affinity",
+    "Text": "버스터가 있으면 유리",
     "Enabled": true
-  },
-  "160524": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160525": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160526": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160527": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160528": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160529": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
   },
   "160530": {
     "OriginalText": "ヒューマンがいると不利",
-    "Text": "Human Aversion",
+    "Text": "휴먼이 있으면 불리",
     "Enabled": true
   },
   "160531": {
     "OriginalText": "ニューマンがいると不利",
-    "Text": "Newman Aversion",
+    "Text": "뉴먼이 있으면 불리",
     "Enabled": true
   },
   "160532": {
     "OriginalText": "キャストがいると不利",
-    "Text": "Cast Aversion",
+    "Text": "캐스트가 있으면 불리",
     "Enabled": true
   },
   "160533": {
     "OriginalText": "確率でダメージアップ",
-    "Text": "Damage Increase Chance",
+    "Text": "확률로 데미지 상승",
     "Enabled": true
   },
   "160534": {
     "OriginalText": "ＨＰ低下で攻撃力アップ",
-    "Text": "Lower HP Raises Attack",
+    "Text": "HP 저하 시 공격력 증가",
     "Enabled": true
-  },
-  "160535": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
   },
   "160536": {
     "OriginalText": "ＨＰ低下で攻撃力ダウン",
-    "Text": "Lower HP Lowers Attack",
+    "Text": "HP 저하 시 공격력 감소",
     "Enabled": true
-  },
-  "160537": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160538": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
   },
   "160539": {
     "OriginalText": "ダーカーに有利",
-    "Text": "Darker Enemy Affinity",
+    "Text": "다커에 유리",
     "Enabled": true
   },
   "160540": {
     "OriginalText": "ギガンテスに有利",
-    "Text": "Gigantes Enemy Affinity",
+    "Text": "기간테스에 유리",
     "Enabled": true
   },
   "160541": {
     "OriginalText": "男がいると有利",
-    "Text": "Male Affinity",
+    "Text": "남성이 있으면 유리",
     "Enabled": true
   },
   "160542": {
     "OriginalText": "女がいると有利",
-    "Text": "Female Affinity",
+    "Text": "여성이 있으면 유리",
     "Enabled": true
-  },
-  "160543": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160544": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "160545": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
   },
   "160546": {
     "OriginalText": "ＨＰ低下で攻撃力アップ",
-    "Text": "Lower HP Raises Attack",
+    "Text": "HP 저하 시 공격력 증가",
     "Enabled": true
   },
   "160547": {
     "OriginalText": "ＨＰ低下で防御力ダウン",
-    "Text": "Lower HP Lowers Attack",
+    "Text": "HP 저하 시 방어력 감소",
     "Enabled": true
   },
   "160548": {
     "OriginalText": "ＨＰ低下で防御力アップ",
-    "Text": "Lower HP Raises Defense",
+    "Text": "HP 저하 시 방어력 증가",
     "Enabled": true
-  },
-  "160549": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
   },
   "160550": {
     "OriginalText": "時間経過で攻撃力アップ",
-    "Text": "Increased Attack Over Time",
+    "Text": "시간 경과 시 공격력 증가",
     "Enabled": true
   },
   "160551": {
     "OriginalText": "時間経過で防御力アップ",
-    "Text": "Increased Defense Over Time",
+    "Text": "시간 경과 시 방어력 증가",
     "Enabled": true
   },
   "160552": {
     "OriginalText": "時間経過で攻撃力ダウン",
-    "Text": "Decreased Attack Over Time",
+    "Text": "시간 경과 시 공격력 감소",
     "Enabled": true
   },
   "160553": {
     "OriginalText": "時間経過で防御力ダウン",
-    "Text": "Decreased Defense Over Time",
+    "Text": "시간 경과 시 방어력 감소",
     "Enabled": true
   },
   "160554": {
     "OriginalText": "追加：炎属性ダウン",
-    "Text": "Add: Fire Resist Down",
+    "Text": "추가: 염속성 다운",
     "Enabled": true
   },
   "160555": {
-    "OriginalText": "追加：劇属性ダウン",
-    "Text": "Add: Ice Resist Down",
+    "OriginalText": "追加：氷属性ダウン",
+    "Text": "추가: 빙속성 다운",
     "Enabled": true
   },
   "160556": {
     "OriginalText": "追加：雷属性ダウン",
-    "Text": "Add: Ltn. Resist Down",
+    "Text": "추가: 뇌속성 다운",
     "Enabled": true
   },
   "160557": {
     "OriginalText": "追加：風属性ダウン",
-    "Text": "Add: Wind Resist Down",
+    "Text": "추가: 풍속성 다운",
     "Enabled": true
   },
   "160558": {
     "OriginalText": "追加：光属性ダウン",
-    "Text": "Add: Light Resist Down",
+    "Text": "추가: 광속성 다운",
     "Enabled": true
   },
   "160559": {
     "OriginalText": "追加：闇属性ダウン",
-    "Text": "Add: Dark Resist Down",
+    "Text": "추가: 암속성 다운",
     "Enabled": true
   },
   "160560": {
     "OriginalText": "追加：全属性ダウン",
-    "Text": "Add: All Resist Down",
+    "Text": "추가: 모든 속성 다운",
     "Enabled": true
   },
   "160561": {
     "OriginalText": "攻撃速度",
-    "Text": "Attack Speed",
+    "Text": "공격속도",
     "Enabled": true
   },
   "160562": {
     "OriginalText": "状態異常耐性アップ",
-    "Text": "Status Effect Resist",
+    "Text": "상태이상 내성 향상",
     "Enabled": true
   },
   "160563": {
     "OriginalText": "補助テクニック範囲",
-    "Text": "Supp. Tech Range",
+    "Text": "보조 테크닉 범위",
     "Enabled": true
   },
   "160564": {
-    "OriginalText": "劇属性テクニックアップ",
-    "Text": "Large Tech Attrib. Up",
+    "OriginalText": "氷属性テクニックアップ",
+    "Text": "빙속성 테크닉 상승",
     "Enabled": true
   },
   "160700": {
     "OriginalText": "探索：日数軽滅",
-    "Text": "Search: Less Days",
-    "Enabled": true
+    "Text": "탐색: 일수 감소",
+    "Enabled": false
   }
 }

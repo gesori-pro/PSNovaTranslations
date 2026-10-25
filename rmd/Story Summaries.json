@@ -1,847 +1,822 @@
 {
-  "810000": {
-    "OriginalText": "//",
-    "Text": "",
-    "Enabled": false
-  },
   "810001": {
-    "OriginalText": "デルタ・ヴァリアントが墜落した\nフォトンのない惑星・マキア。\nルティナと先遣隊の救援に\n向かう中で、ユノと名乗る少女から、\n『グラン』を糾かる。\n\n一方、新艦長フィルディアは\nクルーの大半をコールド\nスリープさせ、ルティナ達に\nブリッジへの出頭を命じる。",
-    "Text": "Delta Valiant crashed onto a planet\ndevoid of photons. A girl named\nJuno gave Lutina and party Gran.\n\nFildia became the new captain.",
+    "OriginalText": "デルタ・ヴァリアントが墜落した\nフォトンのない惑星・マキア。\nルティナと先遣隊の救援に\n向かう中で、ユノと名乗る少女から、\n『グラン』を授かる。\n\n一方、新艦長フィルディアは\nクルーの大半をコールド\nスリープさせ、ルティナ達に\nブリッジへの出頭を命じる。",
+    "Text": "델타 발리언트가 추락한 곳은\n포톤이 없는 행성 마키아였다.\n루티나와 함께 선발대를 구조하러 가던 중,\n유노라는 소녀에게 '그란'을 받았다.\n\n새 함장 필디아는 승무원 대부분을\n콜드 슬립에 들게 하고,\n루티나 일행을 브리지로 호출했다.",
     "Enabled": true
   },
   "810002": {
     "OriginalText": "グランについての報告を進める中、\nユノの話に興味を示したレイヴァン\n副長にユノの立体映像を投影した\n宝石を預ける。\n\nフィルディア艦長より、先遣隊の\n生存者捜索を命じられ、\nルティナは不安を口にするが、\n気を取り直してクエストに向かう。",
-    "Text": "Regarding about Gran, Deputy\nRaven took interest in Juno.\nCaptain Fildia ordered the party\nto search for any survivors.",
+    "Text": "그란에 대해 보고하던 중,\n유노의 이야기에 관심을 보인\n레이반 부함장에게 유노의\n입체 영상을 비춘 보석을 맡겼다.\n\n필디아 함장은 선발대 생존자 수색을\n명령했다. 루티나는 불안해했지만,\n다시 마음을 다잡고 퀘스트에 나섰다.",
     "Enabled": true
   },
   "810003": {
     "OriginalText": "先遣隊でたった二人だけの生存者\nセイルとイズナを救助した。\n\n一方でレイヴァン副長のグラン\n解祈により、グランの実用化が\n成功し、ルティナ達似外も\nグランの力を習得した。\n次なる任務のため、ブリッジへの\n出頭を求められる。",
-    "Text": "The party found Sail and Izuna\nin a pinch and helped them.\nMeanwhile, Raven found a\nsolution to make use of the\nparty's new power.",
-    "Enabled": true
+    "Text": "선발대의 유일한 생존자인\n세일과 이즈나를 구했다.\n\n레이반 부함장이 그란을 분석해\n실용화하는 데 성공하면서,\n루티나 일행 외에도 그란의 힘을\n익힌 사람이 생겼다.\n다음 임무를 위해 브리지로 호출됐다.",
+    "Enabled": false
   },
   "810004": {
     "OriginalText": "未だエネルギー不足は深刻で\n多くのクルーはコールドスリープ\nから起こすことは出来ない。\n４人しかいない戦闘要員として\n次の任務の説明を受けるため、\n仮設ラボ施設を漢ねる。\n\nレイヴァンの助手にあたる人洋が\nいるらしいが……。",
-    "Text": "They need more energy to wake\nup the crew from coldsleep.\nThe four-person party received\ntheir next mission to build a\ntemp lab.",
-    "Enabled": true
+    "Text": "에너지 부족은 여전히 심각해\n많은 크루를 콜드 슬립에서\n깨울 수 없는 상태다.\n유일한 전투 요원 네 명은\n다음 임무의 설명을 들으러\n임시 랩 시설을 찾아간다.\n\n레이반의 조수인 사람이\n있다고 하는데...",
+    "Enabled": false
   },
   "810005": {
     "OriginalText": "ラボの研究員シャロンは、グランを\nフォトンの代替エネルギーとする\n研究中で、実を結べば、エネルギー\n枯渇の危機から脱することが\nできると言う。\n\n研究には、多くのグラン結晶が\n必要であり、この[ruby ほし]惑星[/ruby]の各所に\n偏在すると思われる結晶の\n回収クエストに向かう。",
-    "Text": "Sharon successfully studied\nGran as an alternative to\nphoton. To avoid depletion the\nparty was tasked to gather\nGran Crystals.",
+    "Text": "랩 연구원 샤론은 그란을\n포톤의 대체 에너지로 삼는\n연구를 하고 있다. 성공하면\n에너지 고갈 위기를 벗어날 수\n있다고 한다.\n\n연구에는 그란 결정이 많이\n필요하므로, 행성 곳곳에\n분포할 것으로 보이는 결정을\n모으는 퀘스트에 나선다.",
     "Enabled": true
   },
   "810006": {
     "OriginalText": "グラン結晶をフォトンに変換する\nシステムの完成にも目処が立ち、\n拠点内の生命維持に関わる施設が\n停止する危機を脱した。\n\n各種施設を建設して、生活の\n拠点を整えるために\nフィルディアの話を聞きに行く。",
-    "Text": "The system that can convert\nGran crystal to photon was\ndeveloped. Fildia talks about\nbuilding various facilities inside\nthe base.",
+    "Text": "그란 결정을 포톤으로 변환하는\n시스템도 완성할 전망이 보이며,\n거점 내 생명 유지 관련 시설이\n멈출 위기를 벗어났다.\n\n각종 시설을 건설해\n생활 거점을 정비하기 위해\n필디아의 이야기를 들으러 간다.",
     "Enabled": true
   },
   "810007": {
     "OriginalText": "フィルディアにクラスカウンターや\n武器・防具ショップなどを建設して\nもらい、生活の拠点が整ってきた。\n\nだがコールドスリープから\nクルーを起こすには、もっと多くの\nグランが必要なため、さらなる\nグランの回収クエストに向かう。",
-    "Text": "Fildia set up a class counter,\nweapon and armor shop, etc.\nTo wake up the other crew, the\nparty were to collect more Gran\ncrystals.",
+    "Text": "필디아가 클래스 카운터와\n무기, 방어구 샵 등을 건설해\n생활 거점이 갖춰지기 시작했다.\n\n하지만 콜드 슬립에서 크루를\n깨우려면 그란이 더 필요하다.\n더 많은 그란을 모으기 위해\n퀘스트에 나선다.",
     "Enabled": true
   },
   "810008": {
     "OriginalText": "巨大エネミー『ギガンテス』に\n急襲されるも、フィルディアの\n援護のおかげで九死に一生を得る。\n\n頭部を狙えば、勝算があると踏み、\n高所から攻撃するためのツール\n開発に着手する。\n開発には、ラボ施設の拡張が\n必須となり、さらなるグランを\n求め、クエストに出る。",
-    "Text": "They managed to escape from\nthe Gigantes thanks to Fildia.\nThey need a tool to attack the\nhead. The lab needs more Gran\nto make it.",
+    "Text": "거대한 에너미 '기간테스'의\n기습을 받았지만, 필디아의\n엄호 덕분에 간신히 살아남았다.\n\n머리를 노리면 승산이 있다고\n판단해, 높은 곳에서 공격할\n도구를 개발하기 시작한다.\n개발에는 랩 시설 확장이\n필수라서 더 많은 그란을\n모으러 퀘스트에 나선다.",
     "Enabled": true
   },
   "810009": {
     "OriginalText": "グランの力により、足場を作り\nギガンテスの上部からの攻撃を\n可能にする新兵器『ヘイロウ』\nが完成した。\n\nギガンテスとの雪辱戦を制すべく、\nフィルディアとともに\n銅の荒野へ向かう。",
-    "Text": "A weapon called \"halo\" was\nmade, it creates a platform to\nattack the Gigantes' head. The\nrematch operation was headed\nby Fildia.",
-    "Enabled": true
+    "Text": "그란의 힘으로 발판을 만들어\n기간테스 위에서 공격할 수 있는\n신무기 '헤일로'가 완성됐다.\n\n기간테스에게 설욕하기 위해\n필디아와 함께\n강철의 황야로 향한다.",
+    "Enabled": false
   },
   "810010": {
     "OriginalText": "ギガンテス撃破後、再びユノとの\n邂逅を果たすが、惑星脱出のために\nギガンテスを調べるよう言い残し\n姿を消す。\n\nまた、ギガンテスから大量の\nグラン結晶が得られることが発覚、\nクルー増強のプランが進められる。\nそのために、コールドスリープ\nルームに呼び出される。",
-    "Text": "Juno left a word about studying\nthe Gigantes to escape the\nplanet. Large amount of Gran\nwas gained to activate the Cold\nSleep Room.",
+    "Text": "기간테스를 격파한 뒤 다시\n유노와 만났지만, 유노는 행성\n탈출을 위해 기간테스를\n조사하라는 말을 남기고 사라졌다.\n\n또 기간테스에게서 대량의\n그란 결정을 얻을 수 있음이\n밝혀져 크루 증원 계획이\n추진된다. 그 일로\n콜드 슬립 룸에 호출된다.",
     "Enabled": true
   },
   "810011": {
     "OriginalText": "コールドスリープから新たな\nクルーを解凍するにあたり、\nグランの使用を可能にする幸運を\nもたらした「一番運のいい奴」\nとしてフィルディアから人選を\n任された。\n\nリーティアから解凍方法の\n説明を受け、新たな４人の\n解凍に鎮む。",
-    "Text": "Fildia choses you to activate\nthe Cold Sleep Room. Rietheia\nexplained to you the thawing\nprocess. 4 new people have\nbeen thawed.",
-    "Enabled": true
+    "Text": "콜드 슬립 중인 승무원을\n새로 해동하기로 했다.\n그란을 쓸 수 있게 만든 행운을\n가져온 '가장 운 좋은 녀석'이라며,\n필디아는 누구를 깨울지\n선택하는 일을 맡겼다.\n\n리티아에게 해동 방법을 듣고,\n새로운 네 명을 해동하러 간다.",
+    "Enabled": false
   },
   "810012": {
     "OriginalText": "コールドスリープから目覚めた\n新メンバー、カリスト、ヨミ、\nオルクス、ヒュペリオンの４人。\n\n配属が決まり次第、彼らの仕事を\n手龍うように命じられるが、\nまもなく、フィルディアからの\n呼び出しを受ける。\n\n何か問題が発生したようだが……。",
-    "Text": "Callisto, Yomi, Orcus, and\nHyperion have been awaken.\nYou were ordered to help them,\nshortly, you received a call from\nFildia.",
-    "Enabled": true
+    "Text": "콜드 슬립에서 깨어난 새 동료는\n칼리스토, 요미, 오르쿠스,\n히페리온 네 명이다.\n\n배치가 정해지면 그들의 일을\n도와주라는 명령을 받았다.\n그러나 곧 필디아가 우리를 불렀다.\n\n무슨 문제가 생긴 모양인데...",
+    "Enabled": false
   },
   "810013": {
     "OriginalText": "削除",
-    "Text": "",
-    "Enabled": false
+    "Text": "삭제",
+    "Enabled": true
   },
   "810014": {
     "OriginalText": "削除",
-    "Text": "",
-    "Enabled": false
+    "Text": "삭제",
+    "Enabled": true
   },
   "810015": {
     "OriginalText": "三者三様の言い分があり、意見を\nまとめることは出来なかったが、\nルティナの「かいさーん」の一言で\nケンカはひとまず終結する。\n\nどのセクションの依頼も重要で、\nすべての要望を既たす必要は\nありそうだが、まずは順番を決めて\n詳しく話を聞く必要がありそうだ。",
-    "Text": "Lutina ends the quarrel for now.\nIt seem all the requests is\nimportant, to decide the order,\nyou will talk to them for details.",
-    "Enabled": true
+    "Text": "각자 나름의 주장이 있어서\n의견을 모으지는 못했다.\n하지만 루티나의 '해산' 한마디로,\n싸움은 일단 끝났다.\n\n어느 부서의 의뢰나 중요하니,\n모든 요청을 들어줘야 할 듯하다.\n우선 순서를 정하고,\n자세한 이야기를 들어 봐야겠다.",
+    "Enabled": false
   },
   "810016": {
     "OriginalText": "リーティアは、艦のクルー\n全員の命を預かる立場から、\nメディカルの機村を充実させる\nよう訴える。\n\n出発前のメディカルチェックで、\nルティナは精神の不安定を指顎\nされたが、身体に問題がないので\n回復アイテムだけを受け取って\nクエストに向かう。",
-    "Text": "Rietheia needs medical tools.\nLutina's worried but there's no\nproblem in her health so she\nonly given a Monomate as you\nproceed.",
-    "Enabled": true
+    "Text": "리티아는 모든 승무원의 생명을\n책임지는 입장에서,\n메디컬 장비를 확충해야 한다고\n호소했다.\n\n출발 전 건강 검진에서,\n루티나는 마음이 불안정하다는\n지적을 받았다. 하지만 몸에는\n문제가 없어서 회복 아이템만 받고\n퀘스트에 나선다.",
+    "Enabled": false
   },
   "810017": {
     "OriginalText": "メディカル施設拡充の目途が立ち\nリーティアから大いに感謝される。\n\n他のセクションの話を聞きに行こうと\n思うが、ルティナが思い悩む姿を\n見せており、非常に心配である。",
-    "Text": "Rietheia is thankful to you for\nthe medical facility. Lutina is\nvery worried just by thinking to\ntalk with the other sections.",
+    "Text": "메디컬 시설 확충의 가닥이 잡혀,\n리티아는 크게 고마워했다.\n\n다른 부서의 이야기를 들으러\n가려 한다. 하지만 루티나가\n계속 고민하는 모습을 보여서,\n무척 걱정된다.",
     "Enabled": true
   },
   "810018": {
-    "OriginalText": "カリストはデルタ・ヴァリアントの\nエンジニアの立場から、建設効率を\n上げることの重要性を訴える。\n\n４人に必要な資村集めを依頼するが\n調達方法については完全に丸投げで\n氷たく突き放す。\n途方に暮れながらも、クエストに\n向かう。",
-    "Text": "The 4 asked you to collect the\nneeded resources and\nentrusted to you to split the\nsupplies. You proceed amidst\nthe confusion.",
+    "OriginalText": "カリストはデルタ・ヴァリアントの\nエンジニアの立場から、建設効率を\n上げることの重要性を訴える。\n\n４人に必要な資材集めを依頼するが\n調達方法については完全に丸投げで\n冷たく突き放す。\n途方に暮れながらも、クエストに\n向かう。",
+    "Text": "델타 발리언트의 엔지니어인\n칼리스토는 건설 효율을 높이는\n일이 중요하다고 주장했다.\n\n우리 네 명에게 필요한 자재 수집을\n맡겼지만, 조달 방법은 전부 떠넘긴 채\n냉정하게 내쳤다.\n막막해하면서도 퀘스트에\n나선다.",
     "Enabled": true
   },
   "810019": {
     "OriginalText": "資村の調達は無事終了したが\n素っ気ないカリストの反応に\n不既をぶつける。\nしかし「与えられた仕事を\nこなすのは当然」というカリストの\nプロ意識の高い反論を前に、\n黙る事しか出来なかった。\n\n重い気持ちを引きずりながら\n他のセクションの話を聞きにいく。",
-    "Text": "Collection of resources is\nsuccessful but Callisto has a\nstern reaction. You're going to\ntalk with the other section\ngloomily.",
-    "Enabled": true
+    "Text": "자재는 무사히 모았지만,\n무뚝뚝한 칼리스토의 반응에\n불만을 터뜨렸다.\n하지만 주어진 일을 해내는 건\n당연하다는, 전문가 의식이 강한\n반론 앞에서 입을 다물 수밖에\n없었다.\n\n무거운 마음을 안고,\n다른 부서의 이야기를 들으러 간다.",
+    "Enabled": false
   },
   "810020": {
     "OriginalText": "アナウンスが流れ、ブリッジへ\n向かうよう指示を受けた。\n\nリーティアやカリストの依頼を\n受けた中で、意気消沈していく\nルティナの足取りは重い。",
-    "Text": "There was an announcement\nand briefed us to go to the\nBridge. Inside, you received a\nrequest from Rietheia and\nCallisto.",
+    "Text": "방송을 통해 브리지로\n오라는 지시를 받았다.\n\n리티아와 칼리스토의 의뢰를\n수행하면서 점점 풀이 죽어 가는\n루티나의 발걸음이 무겁다.",
     "Enabled": true
   },
   "810021": {
     "OriginalText": "新種のギガンテスの撃破命令を\n受けたが、ルティナは弱音を羨き\n自分より優秀なクルーとの交代を\n願い出た。\nフィルディアが出動を厳命しても、\nルティナの返事はない。\n\n落ち込むルティナを励まし、\n命令どおりギガンテスの\n撃破クエストに向かうことになった。",
-    "Text": "You received an order to defeat\nthe new Gigantes, Lutina\nwhined and asked to be\nreplaced. You cheered Lutina\nas you proceed.",
-    "Enabled": true
+    "Text": "신종 기간테스를 쓰러뜨리라는\n명령을 받았다. 하지만 루티나는\n약한 소리를 하며, 자신보다\n유능한 승무원으로 바꿔 달라고\n요청했다. 필디아가 엄하게\n출동을 명령해도 대답이 없다.\n\n풀이 죽은 루티나를 격려하고,\n명령대로 기간테스를 쓰러뜨리러\n퀘스트에 나선다.",
+    "Enabled": false
   },
   "810022": {
     "OriginalText": "生き残ることを誰よりも必死に\n考えるルティナの作戦を信じて\n無事ギガンテスを撃破した。\n\nルティナも自信をつけ\nフィルディアからはその証として\n英雄の勲章を譲られる。\nその重みが仲間の命の重さだと\n理解して、新たなギガンテス\n撃破クエストに向かう。",
-    "Text": "Lutina plan a strategy to defeat\nthe Gigantes. Fildia awarded\nher a medal. You proceed with\nthe quest against the new\nGigantes.",
+    "Text": "누구보다 살아남는 일에\n필사적인 루티나의 작전을 믿고,\n무사히 기간테스를 쓰러뜨렸다.\n\n루티나는 자신감을 얻었고,\n필디아는 그 증표로 영웅의 훈장을\n주었다. 그 무게가 동료의 목숨의\n무게임을 이해한 뒤,\n다음 기간테스 토벌 퀘스트에 나선다.",
     "Enabled": true
   },
   "810023": {
     "OriginalText": "ギガンテス撃破後、ユノが現れ\nグランは約束によって増幅する\n力だと教えてくれる。\n話はギガンテスからタコまで及び\nユノがタコ嫌いを打ち明けるなど\nルティナとすっかり打ち解ける。\n\nルティナが元気になったことに\n安心しながら、他のセクションの\n話を聞きにいく。",
-    "Text": "Juno appears and tells us\nabout the Gran. Juno and\nLutina felt relief as they reveal\nthat they both hated the\nOctopus Gigantes.",
+    "Text": "기간테스를 쓰러뜨린 뒤,\n유노가 나타나 그란은 약속에 의해\n증폭되는 힘이라고 알려 주었다.\n이야기는 기간테스에서 문어까지\n이어졌다. 유노도 문어를 싫어한다고\n털어놓으면서 루티나와 친해졌다.\n\n루티나가 기운을 되찾아 안심하며,\n다른 부서의 이야기를 들으러 간다.",
     "Enabled": true
   },
   "810024": {
     "OriginalText": "ヨミは、武器改造・量汎に必要\nとなる『グランニウム』の調達を\n依頼する。\n\n良い武器があれば、活躍できると\nいうヨミの言葉に、セイルは強く\n反発し、意地になってクエストに\n向かう。\n\n去り際のヨミは強気な発言とは\n裏腹に沈痛な表情をしていた。",
-    "Text": "Yomi requests for \"Granium\"\nfor weapon modification. Sail\nimposed that skills is better\nthan weapon, as you proceed\nwith the quest.",
-    "Enabled": true
+    "Text": "요미는 무기 개조와 양산에 필요한\n'그란니움'을 구해 달라고 요청한다.\n\n좋은 무기가 있으면 활약할 수 있다는\n요미의 말에 세일은 강하게 반발하며,\n오기를 부리며 퀘스트로 향한다.\n\n떠날 때 본 요미의 표정은\n강경한 말과 달리 침통했다.",
+    "Enabled": false
   },
   "810025": {
     "OriginalText": "グランニウムを届けに行くと\nヨミの武器に対する思いに触れ\nセイルとヨミは意気投合する。\nヨミはいつも突っ走るセイルの\nために武器を製作すると言うが、\n彼の性分は少し心配なところを\n感じた。\n\nそんな気持ちを抱えつつも\n他のセクションの話を聞きにいく。",
-    "Text": "Yomi and Sail hit it off when\nyou delivered the Granium.\nYomi was just a little worried.\nYou talk to other section\nsympathetically.",
+    "Text": "그란니움을 전해 주러 갔다가\n무기에 대한 요미의 마음을 듣고,\n세일과 요미는 의기투합한다.\n요미는 늘 앞뒤 없이 달려드는 세일을 위해\n무기를 만들겠다고 한다.\n하지만 세일의 성격은 조금 걱정스럽다.\n\n그런 마음을 안고\n다른 부서의 이야기를 들으러 간다.",
     "Enabled": true
   },
   "810026": {
     "OriginalText": "ヒュペリオンは、食村調達を\n依頼する。\n方角のみ示され具体性のない\n依頼に不既を訴えている\nところに現れたフィルディアの\n提案で、二手に分かれて\n探索勝負することになってしまう。\n\nライバル認定するセイルと組み、\nクエストに向かうことに……。",
-    "Text": "Hyperion requested to collect\nthe ingredients. You complain l\nabout its vagueness, they split\nthe group and turn it into a\ncontest.",
-    "Enabled": true
+    "Text": "히페리온은 식재료 조달을 요청한다.\n방향만 알려 주는 막연한 의뢰에\n불만을 말하던 중 필디아가 나타난다.\n그녀의 제안으로 두 팀으로 나뉘어\n탐색 승부를 벌이게 된다.\n\n우리를 경쟁 상대로 여기는 세일과\n짝을 이뤄 퀘스트를 떠나는데...",
+    "Enabled": false
   },
   "810027": {
     "OriginalText": "食村を調達するだけでなく、\n植洋を栽培するよう提案すると、\nセイルは驚きと共にひどく悔しがった。\n\n勝負はうやむやになったが、\n食糧問題に解決の目処がつく。\n\n一方で、セイルはなお未熟さを\n悔いて、更なる精進を決意し、\n他のセクションの話を聞きにいく。",
-    "Text": "The contest was undecided,\nthey solved the food shortage.\nMoreover, there's still more to\ndecide so you go talk to other\nsection.",
-    "Enabled": true
+    "Text": "식재료를 가져오는 데 그치지 말고\n식물을 재배하자고 제안하자,\n세일은 놀라면서도 몹시 분해한다.\n\n승부는 흐지부지됐지만,\n식량 문제는 해결의 실마리를 찾는다.\n\n한편 세일은 여전히 미숙한 자신을 반성하며\n더욱 정진하기로 다짐한다.\n다른 부서의 이야기를 들으러 간다.",
+    "Enabled": false
   },
   "810028": {
     "OriginalText": "ヨミやヒュペリオンの依頼を受けて\nセイルとはお互い刺撃し合える\n関係になってきた。\n\nそのセイルから先ほど呼び出しを\n受けたが、一体何の話だろう。\n\n意を決したような声をしていたが、\n何か無茶なことを考えていないと\nいいが……。",
-    "Text": "You received a request from\nHyperion and Yomi. You also\nreceived a call from Sail earlier.\nThey need your opinion on\nsomething.",
-    "Enabled": true
+    "Text": "요미와 히페리온의 의뢰를 수행하면서\n세일과는 서로 자극을 주고받는\n사이가 됐다.\n\n그 세일이 조금 전 우리를 불렀다.\n대체 무슨 이야기일까.\n\n결심한 듯한 목소리였는데,\n무모한 생각을 하는 게 아니길 바란다...",
+    "Enabled": false
   },
   "810029": {
     "OriginalText": "ギガンテスが発見されたという\n情報を盗み聞きしたセイルから\n一緒に倒しに行こうという提案を\n受ける。\nフィルディアは別部隊を出撃させる\nつもりのようだが、他のクルーも\n忙しそうに働いている。\n\n仲間のためにと頼まれ、\nセイルと一緒にクエストに出る。",
-    "Text": "Upon hearing the info about the\ndiscovered Gigantes. Fildia\nplanned to give it to other unit.\nYou departed for the quest with\nSail.",
+    "Text": "기간테스가 발견됐다는 정보를\n몰래 들은 세일은\n함께 쓰러뜨리러 가자고 제안한다.\n필디아는 다른 부대를 출격시킬\n생각인 듯하지만, 다른 대원들도\n저마다 일하느라 바빠 보인다.\n\n동료들을 위해서라는 부탁을 받고\n세일과 함께 퀘스트를 떠난다.",
     "Enabled": true
   },
   "810030": {
     "OriginalText": "予想外のギガンテス２体同時出現に\n自ら犠牲になるように申し出る\nセイルを叱責し、何とか４人で\n帰還したが、そこにキサラの\nカミナリが落ちる。\nフィルディアからの助言もあり、\nセイルは自分に欠けた点を理解する。\n\n引き続きギガンテス撃破クエストに\n向かう。",
-    "Text": "Kisara rebuked Sail for trying to\nsacrifice himself. Fildia gave\nsome advice to Sail. After that,\nyou proceed with the quest.",
+    "Text": "뜻밖에 기간테스 두 마리가 동시에 나타난다.\n스스로 희생하겠다는 세일을 꾸짖고\n어떻게든 네 명 모두 귀환하지만,\n키사라의 불호령이 떨어진다.\n필디아의 조언을 들은 세일은\n자신에게 부족했던 점을 깨닫는다.\n\n이어서 기간테스 격파 퀘스트로 향한다.",
     "Enabled": true
   },
   "810031": {
     "OriginalText": "ギガンテス撃破後、再び、\nユノと邂逅を果たし、ユノの好みの\nタイプの話に華を紛かせる。\n\n結果的にセイルがフラれて\n幕を閉じるが、本人は晴れ渡った\n顔で気にしていないようだ。\n\nこの勢いのまま、他のセクションの\n話を聞きにいこう。",
-    "Text": "You got a chance to see Juno\nagain. Concerning the results to\nend Sail's ignorance. After that,\nyou gone talk to other sections.",
-    "Enabled": true
+    "Text": "기간테스를 격파한 뒤 다시 유노와 만나,\n유노가 좋아하는 타입에 관해\n이야기를 나눈다.\n\n결국 세일이 차이는 것으로 끝나지만,\n정작 본인은 개운한 얼굴로\n신경 쓰지 않는 듯하다.\n\n이 기세를 이어 다른 부서의\n이야기를 들으러 가자.",
+    "Enabled": false
   },
   "810032": {
     "OriginalText": "戦闘部隊リーダーであるオルクスは\n依頼でなく特訓を申し出た。\nグランとフォトンの間には僅かな\n違いがあり、そのあたりの研究を\n行いたいと言う。\n\nルティナとセイルは特訓に\n乗り気だが、天才と称された\nイズナは沈んだ様子で\nクエストに向かう。",
-    "Text": "Orcus offered a special training,\nhe wants to know more about\nGran. Izuna, who were called\ngenius proceed with the quest\nsomberly.",
+    "Text": "전투 부대 리더 오르쿠스는\n의뢰 대신 특훈을 제안한다.\n그란과 포톤 사이에는 미묘한 차이가 있어,\n그 부분을 연구하고 싶다는 것이다.\n\n루티나와 세일은 특훈을 반기지만,\n천재라는 말을 들은 이즈나는\n풀이 죽은 채 퀘스트로 향한다.",
     "Enabled": true
   },
   "810033": {
     "OriginalText": "オルクスのアドバイスにより、\nイズナの戦い方が源的に変化する。\n今まで、周りに遠慮するばかり\nだったが、自分から積冷的に\n動くようになったからだ。\n\nさらにグランアーツの研賢を\n続けるようにアドバイスする\nオルクスに見送られ、\n他のクルーの話を聞きにいく。",
-    "Text": "With Orcus' advice, Izuna's\nmoves improved. Also gave her\nan advice to study more of the\nArts, you gone to talk to other\nsections.",
-    "Enabled": true
+    "Text": "오르쿠스의 조언으로\n이즈나의 전투 방식이 극적으로 변한다.\n그동안 주위 눈치를 보기만 하던 모습에서\n스스로 적극적으로 움직이게 된 것이다.\n\n오르쿠스는 계속 그란 아츠를\n갈고닦으라고 조언하며 배웅한다.\n다른 대원들의 이야기를 들으러 간다.",
+    "Enabled": false
   },
   "810034": {
-    "OriginalText": "多数の課題を抱えるシャロンは\n対ギガンテス用新兵器の素村として\n大量のグラン調達を依頼する。\n\n元戦闘要員でありながら、\n研究職に転身したシャロンに\n興味を持つイズナだが、多忙の\nシャロンに話を聞けず、\n研究用のグランをラボへ\n供給するべくクエストに向かう。",
-    "Text": "Sharon requested for Gran for a\nweapon against Gigantes.\nIzuna wants to talk about it but\nshe is busy, you proceed with\nthe quest.",
+    "OriginalText": "多数の課題を抱えるシャロンは\n対ギガンテス用新兵器の素材として\n大量のグラン調達を依頼する。\n\n元戦闘要員でありながら、\n研究職に転身したシャロンに\n興味を持つイズナだが、多忙の\nシャロンに話を聞けず、\n研究用のグランをラボへ\n供給するべくクエストに向かう。",
+    "Text": "여러 연구 과제를 안고 있는 샤론은\n기간테스에 맞설 신무기의 소재로 쓸\n그란을 많이 모아 달라고 의뢰한다.\n\n전투원이었다가 연구원이 된 샤론에게\n이즈나는 관심을 보인다.\n하지만 바쁜 샤론의 이야기를 듣지 못하고,\n랩에 연구용 그란을 공급하기 위해\n퀘스트로 향한다.",
     "Enabled": true
   },
   "810035": {
     "OriginalText": "新武器『パイル』が完成する。\nギガンテスに打込むことで、制御し、\n捕獲することができる武器だと言う。\n\nシャロンが研究職に転身した理由を\n聞いたイズナは、自分のやりたい\nこと探しを進める。\n\nまだ話を聞いていないセクションの\n話を聞きにいく。",
-    "Text": "A new weapon \"Pile\" is\ncompleted. This weapon is\nused to smash or capture a\nGigantes. You gone to talk to\nthe other sections.",
+    "Text": "신무기 '파일'이 완성된다.\n기간테스에 박아 넣으면 제어하고\n포획할 수 있는 무기라고 한다.\n\n샤론이 연구원이 된 이유를 들은 이즈나는\n자기가 하고 싶은 일을 계속 찾아본다.\n\n아직 이야기를 못 들은 부서를 찾아간다.",
     "Enabled": true
   },
   "810036": {
     "OriginalText": "オルクス、シャロンの話を受けて\nイズナは出会った頃とは別人のように\n活き活きとした表情をしている。\n\nそんなイズナにセイルは思うところが\nあるようで、後で話をしたいとのこと。\n\nその前にイズナの様子を見に行こう。",
-    "Text": "Orcus and Sharon talk about\nhow Izuna is more lively now.\nSail wants to talk with you.\nBefore that, you go see how's\nIzuna doing.",
+    "Text": "오르쿠스와 샤론의 이야기를 들은 뒤,\n이즈나는 처음 만났을 때와는\n딴사람처럼 생기 넘치는 표정을 짓는다.\n\n그런 이즈나를 보며 세일은 생각이 있는 듯,\n나중에 이야기를 하고 싶다고 한다.\n\n그 전에 이즈나의 모습을 보러 가자.",
     "Enabled": true
   },
   "810037": {
     "OriginalText": "最近イズナが、様々なセクションを\n手龍っており、近い将来、共に戦う\nことはなくなるかもしれない。\nそれもイズナの生き方だと\n受け入れつつも、寂しさはぬぐえない。\n\nそこにギガンテス捕獲任務を受けた\nイズナが走り込んで来て\n共にクエストに向かうことになる。",
-    "Text": "Lately Izuna seems she's been\nbusy. You receive the task to\ncapture the Gigantes, together\nwith Izuna you headed toward\nthe quest.",
-    "Enabled": true
+    "Text": "요즘 이즈나는 여러 부서의 일을 돕고 있다.\n머지않아 함께 싸울 일이\n없어질지도 모른다.\n그것도 이즈나의 삶이라고 받아들이지만,\n허전한 마음은 지울 수 없다.\n\n그때 기간테스 포획 임무를 받은\n이즈나가 달려온다.\n함께 퀘스트를 떠나게 된다.",
+    "Enabled": false
   },
   "810038": {
     "OriginalText": "パイル開発への釜貢を賞杓された\nイズナは自分が戦闘似外のことで\n役立てることに大喜びする。\n\n３人はイズナが戦闘要員から\n離れることを予期し、応援の言葉を\nかけるが、イズナは辞める気はなく、\n決意を新たにする。\n\n引き続き、ギガンテス討伐クエストに\n向かう。",
-    "Text": "Izuna was praised for the\ndevelopment of the Pile, she\nwas very happy. Next, you\nproceed with the quest to\nsubdue the Gigantes.",
-    "Enabled": true
+    "Text": "파일 개발에 기여한 공로를 칭찬받은\n이즈나는 싸움 이외의 일로도\n도움이 됐다는 사실에 크게 기뻐한다.\n\n세 사람은 이즈나가 전투원을 그만둘 거라\n생각하고 응원의 말을 건넨다.\n하지만 이즈나는 그럴 생각이 없다며\n새롭게 결의를 다진다.\n\n이어서 기간테스 토벌 퀘스트로 향한다.",
+    "Enabled": false
   },
   "810039": {
     "OriginalText": "ギガンテス撃破後、現れたユノに\n彼女のアドバイスが大いに役立った\nという感謝を龍える。\n不意に出たスイーツという言葉に\n疑問を持つユノ。それを機に\n怒涛のようにイズナのスイーツへの\n情熱があふれだす。\n\nまだ話を聞いていないセクションの\n話を聞きにいく。",
-    "Text": "Juno appears and you thank\nher for her advice. Izuna and\nJuno talked about sweets. You\ngone to the sections you\nhaven't talk yet.",
-    "Enabled": true
+    "Text": "기간테스를 격파한 뒤 나타난 유노에게\n조언이 큰 도움이 됐다고 감사를 전한다.\n뜻밖에 나온 '디저트'라는 말에\n유노는 궁금해한다. 이를 계기로\n이즈나의 디저트에 대한 열정이\n물밀듯이 쏟아진다.\n\n아직 이야기를 못 들은 부서를 찾아간다.",
+    "Enabled": false
   },
   "810040": {
     "OriginalText": "すべてのセクションの問題を解決し、\n拠点はにわかに活気づいている。\nその中、４人はフィルディアからの\n呼び出しを受ける。\n\nグランとギガンテスの研究は着々と\n進んでおり、グランについて\n重大な発見があったとの噂もある。\n話を聞くのが楽しみだ。",
-    "Text": "The base is now problem-free.\nThere's a report that there was\na huge discovery about Gran.\nYou are looking forward to hear\nit.",
+    "Text": "모든 부서의 문제를 해결하자,\n거점에 활기가 돌기 시작했다.\n그런 가운데 필디아가\n우리 네 명을 불렀다.\n\n그란과 기간테스 연구는 착실히\n진행 중이며, 그란에 관해 중요한\n발견이 있었다는 소문도 들린다.\n이야기를 듣는 게 기대된다.",
     "Enabled": true
   },
   "810041": {
     "OriginalText": "研究により、ギガンテスが\nフォトンを吸収し、グランを\n排出していることが判明。\nその環境下で[ruby ふね]艦[/ruby]を飛ばすためには、\nグランをエネルギー装とする\n『グランドライブ』を開発する\n必要がある。\n\nそのためにグランを集めて\nラボへ供給する。",
-    "Text": "It turns out that the Gigantes\nabsorbs Photon and releases\nGran. In order to fly the ship,\nthey need to develop a \"Gran\nDrive\".",
-    "Enabled": true
+    "Text": "연구를 통해 기간테스가 포톤을\n흡수하고 그란을 배출한다는\n사실이 밝혀졌다.\n이 환경에서 함선을 날리려면,\n그란을 에너지원으로 하는\n'그란 드라이브'를 개발해야 한다.\n\n그에 필요한 그란을 모아서\n랩에 공급한다.",
+    "Enabled": false
   },
   "810042": {
     "OriginalText": "グランドライブの研究のために\n必要なグランを集めおわり\n報告のためにブリッジに行って\nみようと思う。\n\nきっとフィルディアも喜んで\nくれるだろう。",
-    "Text": "You go to the bridge to report\nthat you finished collecting\nGran needed for Gran Drive\nresearch. For sure, Fildia will be\npleased.",
+    "Text": "그란 드라이브 연구에 필요한\n그란을 전부 모았다.\n보고하러 브리지에\n가 볼 생각이다.\n\n필디아도 분명 기뻐하겠지.",
     "Enabled": true
   },
   "810043": {
     "OriginalText": "グランドライブの完成に目途が立ち、\n退贄を確保できた今、惑星探索を\n進めるべきだと主張するレイヴァン。\n\n意見はフィルディアに却下されるも\n離脱までの間だけでも探索をと\n食い下がり、探索の許可が下りた。\n\nそんなレイヴァンからの呼び出しを\n受けている。",
-    "Text": "Looks like the Gran Drive will be\ncompleted, Raven insisted to\nproceed with exploration. Fildia\nrejected it, but made an\nexception.",
-    "Enabled": true
+    "Text": "그란 드라이브 완성의 가닥이 잡혀,\n퇴로를 확보했다. 레이반은\n이제 행성 탐사를 더 진행해야\n한다고 주장했다.\n\n필디아는 거절했지만, 떠나기 전\n잠깐만이라도 탐사하겠다고\n물러서지 않아 허락을 받았다.\n\n그런 레이반이 우리를 불렀다.",
+    "Enabled": false
   },
   "810044": {
     "OriginalText": "レイヴァンから惑星探索への同行を\n依頼された。\n副長であるレイヴァンが直々に\n調査をしたい場所があるようだ。\n\n４人は指名してくれたことに\n喜びつつ、期待に応えたいと、\n意気揚揚とクエストに向かう。",
-    "Text": "Raven requests to join the\nexploration. Seems there's a\nplace that Raven wants to\ninvestigate. You proudly\nproceed with the quest.",
+    "Text": "레이반에게 행성 탐사에\n동행해 달라는 부탁을 받았다.\n부함장인 레이반이 직접\n조사하고 싶은 장소가 있는 듯하다.\n\n우리 네 명은 지명받은 것을 기뻐하며,\n기대에 보답하고자 의기양양하게\n퀘스트에 나선다.",
     "Enabled": true
   },
   "810045": {
     "OriginalText": "調査に向かった地帯周辺に\nギガンテスが出現する。\n撃破し安堵していた隙を突かれ、\n再起動したギガンテスの急襲を受け\nレイヴァンは地中に落下した。\n\nフィルディアは二次災害を心配し\n捜索を断念した。深い悲しみの中\n惑星脱出の計画は進み、ブリッジに\n招集される。",
-    "Text": "You defeated it, but the\nGigantes attacked Raven and\nfell to the hole. Fildia\nsuspended the search. You\nwere called to the bridge.",
+    "Text": "조사 지역 주변에 기간테스가\n나타났다. 쓰러뜨리고 안도한 틈에,\n다시 가동된 기간테스가 기습했다.\n레이반은 지하로 추락했다.\n\n필디아는 2차 피해를 우려해서\n수색을 포기했다. 깊은 슬픔 속에서도\n행성 탈출 계획은 진행되고,\n우리는 브리지로 소집된다.",
     "Enabled": true
   },
   "810046": {
     "OriginalText": "グランドライブの稼働テストが\n成功したとの報告を受けて、\n惑星脱出は３日後と決まる。\n\n感棲にふける暇もなく、残る３日で\n終えなければならない各施設の\n大詰めの作業を手龍うべく\nグラン集めのためにクエストに出る。",
-    "Text": "The test for Gran Drive was a\nsuccess, it was decided the\nescape plan will be in 3 days.\nYou must collect Gran to finish\nall work.",
-    "Enabled": true
+    "Text": "그란 드라이브 가동 시험이\n성공했다는 보고를 받고,\n행성 탈출은 사흘 뒤로 정해졌다.\n\n감회에 젖을 틈도 없이,\n남은 사흘 동안 마쳐야 하는\n각 시설의 마무리 작업을 돕기 위해\n그란을 모으러 퀘스트에 나선다.",
+    "Enabled": false
   },
   "810047": {
     "OriginalText": "拠点に帰還すると、ブリッジへの\n緊急招集を受ける。\nギガンテスの群れが接近しており、\nフィルディアと共に迎撃部隊を\n率いる役目を拝命する。\n\nフィルディアの指揮の下\nデルタ・ヴァリアントクルーの\n総力を鑽げた戦いのため、\nグラン水装に向かう。",
-    "Text": "You received an urgent call. A\nswarm of Gigantes is coming,\nyou lead the interception unit\nand head toward the Gran\nWater Rig.",
-    "Enabled": true
+    "Text": "거점에 돌아오자\n브리지로 긴급 소집된다.\n기간테스 무리가 접근하고 있어,\n필디아와 함께 요격 부대를\n이끄는 임무를 맡는다.\n\n필디아의 지휘 아래\n델타 발리언트 대원들의\n총력을 기울여 싸우기 위해\n그란 수원으로 향한다.",
+    "Enabled": false
   },
   "810048": {
     "OriginalText": "拠点に迫りくるギガンテスの\n群れの大半を制圧することに成功した\nデルタ・ヴァリアントのクルー達。\n\nなぎ倒したギガンテスの先に\nレイヴァン副長を大穴へ叩き落した\n敵と同型のギガンテスが\n待ち構えていた。\n\nこれが最後の戦いと意気込み、\nグラン水装へ急ぐ。",
-    "Text": "The crew succeeded in\nsubduing the Gigantes. The\nsame type of Gigantes who\nattacked Raven appears. You\nhurry to the Gran Water Rig.",
-    "Enabled": true
+    "Text": "델타 발리언트 대원들은\n거점으로 다가오는 기간테스 무리의\n대부분을 제압하는 데 성공했다.\n\n쓰러뜨린 기간테스들 너머에는\n레이반 부함장을 거대한 구덩이로\n떨어뜨렸던 적과 같은 기종의\n기간테스가 기다리고 있었다.\n\n이것이 마지막 싸움이라 각오하며\n그란 수원으로 서둘러 향한다.",
+    "Enabled": false
   },
   "810049": {
     "OriginalText": "ギガンテスの大群を相手に勝利を\n収めたが、フィルディアは多くの\n犠牲を払ったことを深く後悔し、\n艦長としての責任を痛感していた。\n\n脱出の時が目前に迫り、脱出の\n最終確認のため、フィルディアの\nもとへと向かう。",
-    "Text": "The crew defeated the\nGigantes, Fildia regrets that\nthere are sacrifices. To confirm\nto start the escape, you must\ntalk to Fildia.",
+    "Text": "기간테스 대군을 상대로 승리했지만,\n필디아는 수많은 희생을 치른 것을\n깊이 후회하며 함장으로서의\n책임을 뼈저리게 느끼고 있었다.\n\n탈출할 시간이 코앞에 다가왔다.\n탈출 준비를 최종 확인하기 위해\n필디아에게 향한다.",
     "Enabled": true
   },
   "810050": {
     "OriginalText": "ついに惑星マキアから離陸したが\n直後に猛烈な対空砲火を浴びる。\nフィルディアは全クルーを\nシェルターへ移動させ、１人損傷\nしたブリッジに残り、命を賭して\n艦を守り抜く。\n\nその遺志を継ぎ新艦長となった今、\n現状把握のため、まずラボで\n報告を聞くのが良さそうだ。",
-    "Text": "Finally you were able to take off\nbut you were attacked. Fildia\nrisked her life. You're now the\nCaptain, but hear the report\nfirst.",
+    "Text": "마침내 행성 마키아에서 이륙했지만,\n직후 맹렬한 대공 포화를 맞는다.\n필디아는 모든 대원을\n대피 구역으로 이동시키고,\n혼자 손상된 브리지에 남아\n목숨을 걸고 함선을 지켜 낸다.\n\n그녀가 남긴 뜻을 이어 새 함장이 된 지금,\n현재 상황을 파악하기 위해\n먼저 랩에서 보고를 듣는 것이 좋겠다.",
     "Enabled": true
   },
   "810051": {
-    "OriginalText": "脱出時にブリッジで見た『目』が\n惑星規物の巨大ギガンテスのもの\nという仮説を基に、かつて探索で\nレイヴァンが落下した穴を再び\n調査することになる。\n\nそれは新艦長としてクルーに希望を\n示すことでもあり、拠点はキサラと\nシャロンに任せてクエストへ向かう。",
-    "Text": "Based on theory the \"Eye\" seen\non the bridge belongs to a huge\nGigantes that controls the\nplanet, you will reinvestigate\nthe hole.",
+    "OriginalText": "脱出時にブリッジで見た『目』が\n惑星規模の巨大ギガンテスのもの\nという仮説を基に、かつて探索で\nレイヴァンが落下した穴を再び\n調査することになる。\n\nそれは新艦長としてクルーに希望を\n示すことでもあり、拠点はキサラと\nシャロンに任せてクエストへ向かう。",
+    "Text": "탈출할 때 브리지에서 본 '눈'이\n행성 규모의 거대한 기간테스의 것이라는\n가설을 바탕으로, 레이반이\n탐사 중 떨어졌던 구멍을\n다시 조사하기로 한다.\n\n이는 새 함장으로서 대원들에게\n희망을 보여 주는 일이기도 하다.\n거점은 키사라와 샤론에게 맡기고\n퀘스트에 나선다.",
     "Enabled": true
   },
   "810052": {
-    "OriginalText": "レイヴァンが落下した穴の調査中、\nユノが現れる。\n謝露を言い残し姿を消すが、\nその鬼気迫る表情に心配を\n央じ得ない。\n\n大穴調査のためにギガンテスを\n乗り洋として穴を降下する作戦を\n立て、捕獲クエストに向かおうと\n思うが、ルティナの恨みがましい\n目が気になる。",
-    "Text": "Juno appears while checking\nthe hole but fades after\napologizing. You set up a plan\nto ride a Gigantes but Lutina\nwas mad about it.",
+    "OriginalText": "レイヴァンが落下した穴の調査中、\nユノが現れる。\n謝罪を言い残し姿を消すが、\nその鬼気迫る表情に心配を\n禁じ得ない。\n\n大穴調査のためにギガンテスを\n乗り物として穴を降下する作戦を\n立て、捕獲クエストに向かおうと\n思うが、ルティナの恨みがましい\n目が気になる。",
+    "Text": "레이반이 떨어진 구멍을 조사하던 중\n유노가 나타났다.\n사과를 남기고 사라졌지만,\n절박한 표정이 걱정스럽다.\n\n거대 구덩이를 조사하기 위해\n기간테스를 타고 내려가는\n작전을 세웠다. 포획 퀘스트에\n나서려 하지만, 원망이 담긴\n루티나의 눈빛이 마음에 걸린다.",
     "Enabled": true
   },
   "810053": {
     "OriginalText": "大穴を降下する乗り洋として使う\nアルキュオネを無事に捕獲した。\n\n大穴内部の大気成分は拠点と\nほぼ差はないという報告もあり、\nアルキュオネを乗り洋にする案に\n未だ機嫌を損ねるルティナを慰め、\nクエストに出る。",
-    "Text": "You plan to ride an Alcyone to\ndescend the large hole. You\ncomforted Lutina whose still\nunhappy to ride an Alcyone as\nyou proceed.",
-    "Enabled": true
+    "Text": "거대 구덩이로 내려가는 데 쓸\n알키오네를 무사히 포획했다.\n\n구멍 안의 공기 성분은 거점과\n거의 차이가 없다는 보고도 받았다.\n알키오네를 타는 일에 아직도\n기분이 상한 루티나를 달래고\n퀘스트에 나선다.",
+    "Enabled": false
   },
   "810054": {
     "OriginalText": "大穴の下に広がる美しい光景に\n感動したのもつかの間、地上から\n攻撃を受ける。\n何とか不時着した先には死んだ\nはずのレイヴァンが立ちふさがる。\n\n意味もわからぬまま、レイヴァンの\n猛攻を退け、拠点に帰還。\n観測伝置研究のため、グラン調達\nクエストへ向かう。",
-    "Text": "Raven, who should be dead,\nstands in your way as you\ncrashed. Being confused and\nsurvived Raven's attack you\ndecided to retreat.",
-    "Enabled": true
+    "Text": "거대 구덩이 아래 펼쳐진 아름다운\n광경에 감탄한 것도 잠시,\n지상에서 공격을 받는다.\n간신히 불시착한 곳에는 죽은 줄\n알았던 레이반이 앞을 가로막았다.\n\n이유도 모른 채 레이반의 맹공을\n물리치고 거점으로 돌아왔다.\n관측 장치 연구를 위해\n그란 조달 퀘스트에 나선다.",
+    "Enabled": false
   },
   "810055": {
     "OriginalText": "ブリッジの修理が完了し、初めて\n艦長席に立つ。\n観測伝置での調査では、惑星本体には\n人類のものらしき建造洋があるものの、\n人の気配はないという。\n\n地上の都市と、産上の巨大な塔、\nどちらから調査を進めるか、艦長\nとして決断し、クエストに向かう\n必要がある。",
-    "Text": "The bridge is repaired and it's\nyour first time in the captain's\nseat. The captain will decide\nwhich area will you investigate.",
-    "Enabled": true
+    "Text": "브리지 수리가 끝나고\n처음으로 함장 자리에 선다.\n관측 장치 조사에 따르면,\n행성 본체에는 인류의 것으로 보이는\n건축물이 있지만 사람 기척은 없다.\n\n지상 도시와 바다 위 거대한 탑 중\n어디부터 조사할지 함장으로서\n결정하고 퀘스트에 나서야 한다.",
+    "Enabled": false
   },
   "810056": {
     "OriginalText": "大尖塔の探索により、ユノの宝石\nそっくりな宝石を発見する。\n\nシャロンの解祈で、それが古代人\nの歴史の記録伝置だと判明するが\nその歴史は約１０００年前に\nギガンテスにより幕を閉じられていた。\n\nなぜ、ギガンテスは作られたのだろう。\n一度、ブリッジへ戻ろう。",
-    "Text": "In the Large Spire, you found a\ngemstone. It holds the history\nof the Ancients that were\ndestroyed by the Gigantes 1000\nyears ago.",
-    "Enabled": true
+    "Text": "대첨탑을 탐사하다가 유노의 보석과\n똑같이 생긴 보석을 발견했다.\n\n샤론의 분석으로 고대인의 역사를\n저장한 기록 장치임이 밝혀졌다.\n하지만 그 역사는 약 1,000년 전에\n기간테스로 인해 끝나 있었다.\n\n기간테스는 왜 만들어졌을까?\n일단 브리지로 돌아가자.",
+    "Enabled": false
   },
   "810057": {
     "OriginalText": "宝石の記録を精査したシャロンに\n欠けた情報の収集のためもう一度\n塔を調査するよう依頼される。\n古代人とギガンテスと、グランの\n関係性が判明すれば、研究も進む\nらしい。\n\n記録伝置である宝石の新たな発見を\n目指し、再び大尖塔の調査へ向かう。",
-    "Text": "As Sharon study the records in\nthe gemstone and asked you to\ngo to the Spire again to collect\nthe missing info about the\nAncients.",
-    "Enabled": true
+    "Text": "보석의 기록을 자세히 조사한 샤론이\n빠진 정보를 모으기 위해\n다시 탑을 조사해 달라고 부탁했다.\n고대인과 기간테스, 그란의 관계를\n알면 연구도 진전될 것이라고 한다.\n\n기록 장치인 보석을 더 찾기 위해\n다시 대첨탑을 조사하러 간다.",
+    "Enabled": false
   },
   "810058": {
     "OriginalText": "多数の記録伝置を回収し、\n古代人の歴史の全貌が明らかになる。\n\n侵略者と戦うためにギガンテスを\n作ったが、いつしか制御できなくなり\n滅ぼされた。\nユノも滅ぼされた古代人なのか、\nルティナは思いを馳せていた。\n\n惑星脱出のために\n他に出来ることを探そう。",
-    "Text": "It's finally clear what happened,\nthey made the Gigantes to fight\nan Invader, but eventually lost\ncontrol and destroyed\neverything.",
-    "Enabled": true
+    "Text": "기록 장치를 많이 회수하면서\n고대인의 역사 전체가 밝혀졌다.\n\n침략자와 싸우려고 기간테스를\n만들었지만, 어느새 제어할 수 없게\n되어 멸망당했다.\n유노도 멸망한 고대인일까.\n루티나는 그런 생각에 잠겨 있었다.\n\n행성 탈출을 위해\n더 할 수 있는 일을 찾아보자.",
+    "Enabled": false
   },
   "810059": {
     "OriginalText": "都市を調査して巨大な柱のような\nものを発見した。\nラボでの研究の結果、それが\n巨大なパイルであるとわかる。\n古代人が[ruby ほし]惑星[/ruby]ギガンテスの撃破の\nために考案したものらしい。\n\n完成させて切り札にするべく、\n大型パイルの開発用グランを\n収集してラボへ供給しよう。",
-    "Text": "As you investigate you found a\nhuge rod-like object. The Lab\nresults shows it is a Large Pile.\nThey need Gran to complete it.",
+    "Text": "도시를 조사하던 중\n거대한 기둥 같은 것을 발견했다.\n랩에서 연구한 결과,\n거대한 파일이라는 걸 알게 됐다.\n고대인이 행성 기간테스를\n쓰러뜨리려고 고안한 것 같다.\n\n완성해서 비장의 수로 삼기 위해,\n대형 파일 개발에 쓸 그란을 모아\n랩에 공급하자.",
     "Enabled": true
   },
   "810060": {
     "OriginalText": "大型パイルが完成した。\n地表のグラン噴出口にパイルを\n撃ち込み、グランリンクを発生\nさせれば、[ruby ほし]惑星[/ruby]ギガンテスを\n倒すことができるかもしれない。\n\n大型パイルの誘導には、\nカリストたち、クルーも手龍って\nくれるらしい。\n準備ができたら、ラボへ集合だ。",
-    "Text": "The Large Pile is completed.\nThey must fire it into a surface\nwhere Gran gushes, by invoking\na Gran Link it may defeat\nGigantes.",
-    "Enabled": true
+    "Text": "대형 파일이 완성됐다.\n지표의 그란 분출구에 파일을 박아\n그란 링크를 발생시키면,\n행성 기간테스를 쓰러뜨릴 수\n있을지도 모른다.\n\n대형 파일 유도에는 칼리스토를\n비롯한 대원들도 도와준다고 한다.\n준비가 되면 랩에 모이자.",
+    "Enabled": false
   },
   "810061": {
     "OriginalText": "ラボにはカリストとヨミも集合し\n大型パイルの製造担当者として\n同行する準備を終えていた。\n\n２人に急かされるようにして\n大型パイル発射の現場の\n銅の荒野に向かう。",
-    "Text": "Callisto and Yomi gathered in\nthe Lab to join you. The two\nhurried the crew to the site as\nyou head toward the Steel\nWasteland.",
-    "Enabled": true
+    "Text": "랩에는 칼리스토와 요미도 모여,\n대형 파일 제작 담당자로서\n동행할 준비를 마쳤다.\n\n두 사람에게 재촉받듯이\n대형 파일을 발사할 현장인\n강철의 황야로 향한다.",
+    "Enabled": false
   },
   "810062": {
     "OriginalText": "グラン噴出口には、レイヴァンが\n待ち構えていた。\nかつての仲間に対しても容赦なく、\nギガンテスをけしかける。\n分からないレイヴァンのことで\n悩んでいても、事態は進展しない。\n\n２本目のパイルの準備が整った\nようなのでラボへ向かおう。",
-    "Text": "At the mouth of gushing Gran\nRaven was waiting, he\nsummoned a Gigantes. You\nproceed to the Lab to prepare\nthe second Large Pile.",
+    "Text": "그란 분출구에는 레이반이\n기다리고 있었다.\n옛 동료에게도 가차 없이\n기간테스를 내세워 공격해 온다.\n이해할 수 없는 레이반 때문에\n고민해 봐야 상황은 나아지지 않는다.\n\n두 번째 파일 준비가 끝난 것 같으니,\n랩으로 가자.",
     "Enabled": true
   },
   "810063": {
     "OriginalText": "オルクスとヒュペリオンも\n集合し、準備は整った。\n軽口を言い合う、２人だが\nだからこそ、４人への信頼を\n感じさせる。\n\n２本目の大型パイルの撃ち込みを\n行うため、グラン水装へ向かう。",
-    "Text": "Orcus and Hyperion gathered to\nhelp with the preparations.\nThey will launch the second\nPile and head toward the Gran\nWater Rig.",
-    "Enabled": true
+    "Text": "오르쿠스와 히페리온도\n모여 준비를 마쳤다.\n가벼운 농담을 주고받는 두 사람이지만,\n오히려 그 덕분에 네 사람에 대한\n신뢰가 느껴진다.\n\n두 번째 대형 파일을 박기 위해\n그란 수원으로 향한다.",
+    "Enabled": false
   },
   "810064": {
     "OriginalText": "再び現れたレイヴァンは、\nマグナス艦長のことを忘れ\n会話がかみ合わなくなっていた。\nギガンテスを何とか退け、\n大型パイルを撃ち込むも\nその効果は予想似上には\n上がらず、暗雲が立ち込め始める。\n\n悩むのは後にして、３本目のパイル\n撃ち込み準備にラボへ向かう。",
-    "Text": "You defeated the Gigantes and\nfire the Large Pile but the effect\nis low. You go to the Lab as the\nthird Pile is being prepared.",
-    "Enabled": true
+    "Text": "다시 나타난 레이반은\n마그너스 함장님을 잊었고,\n대화도 맞지 않게 되었다.\n간신히 기간테스를 물리치고\n대형 파일을 박았지만,\n효과는 예상을 넘어서지는 못해\n불안한 기운이 감돈다.\n\n고민은 나중으로 미루고, 세 번째 파일을\n박을 준비를 하러 랩으로 가자.",
+    "Enabled": false
   },
   "810065": {
     "OriginalText": "次の任務はシャロンが同行を\n申し出た。\nどうしても理解できない\nレイヴァンとの対話を求め、\nその目的を知りたいのだという。\n\n艦長としてその思いを理解し\n同行を認め、現在、判明している\n最後の撃ち込みを行うため\n炎の高地に向かう。",
-    "Text": "Sharon wants to talk with\nRaven and let her join you,\ncurrently, you are preparing the\n3rd Pile and proceed to the\nFlame Highlands.",
+    "Text": "다음 임무에는 샤론이\n동행하겠다고 나섰다.\n이해할 수 없는 레이반과 대화해서\n그 목적을 알고 싶다고 한다.\n\n함장으로서 그 마음을 이해하고\n동행을 허락했다. 현재 확인된\n마지막 분출구에 파일을 박기 위해\n불꽃의 고지로 향한다.",
     "Enabled": true
   },
   "810066": {
     "OriginalText": "レイヴァンは長い時間を共にした\nシャロンの記憶すらなくしており、\n対話すら叶わなかった。\n\n３本目のパイルを撃ち込んでも\n予想した効果は出ず、シャロンは\n未発見のグラン噴出口探しに\n取り掛かるが、その表情は暗い。\n惑星脱出のために\n他に出来ることを探そう。",
-    "Text": "Sharon, who worked with Raven,\ncan't remember her. Firing the\n3rd Pile have the same effect,\nSharon sets out to find another\nhole.",
+    "Text": "레이반은 오랜 시간을 함께한\n샤론에 대한 기억마저 잃었고,\n대화조차 할 수 없었다.\n\n세 번째 파일을 박아도\n예상한 효과는 나오지 않았다.\n샤론은 아직 찾지 못한 그란 분출구를\n찾기 시작하지만, 표정은 어둡다.\n행성 탈출을 위해\n더 할 수 있는 일을 찾아보자.",
     "Enabled": true
   },
   "810067": {
     "OriginalText": "この[ruby ほし]惑星[/ruby]の歴史を知り、[ruby ほし]惑星[/ruby]\nギガンテスへの対抗策も打ったが\nまだ状況を打破するには至らない。\nそんな中、呼び出しを受けた。\n\n[ruby ほし]惑星[/ruby]ギガンテスの解祈に\n当たっていたシャロンが、ついに\n第４のグラン噴出口を突き止めた\nのかもしれない。\nブリッジへ急ごう。",
-    "Text": "You have not yet overcome the\nsituation. You received a call.\nAt last, the 4th hole may be\nlocated. You hurry to the bridge.",
-    "Enabled": true
+    "Text": "이 행성의 역사를 알아내고\n행성 기간테스에 맞설 방법도 썼지만,\n아직 상황을 돌파하지는 못했다.\n그런 가운데 호출을 받았다.\n\n행성 기간테스를 분석하던 샤론이\n마침내 네 번째 그란 분출구를\n찾아낸 것일지도 모른다.\n서둘러 브리지로 가자.",
+    "Enabled": false
   },
   "810068": {
     "OriginalText": "削除",
-    "Text": "",
-    "Enabled": false
+    "Text": "삭제",
+    "Enabled": true
   },
   "810069": {
     "OriginalText": "ずっと反応がなかった宝石が\n突然光を放ち、ユノが現れ、\nこの[ruby ほし]惑星[/ruby]はもう滅ぶと言う。\n[ruby ほし]惑星[/ruby]ギガンテス＝ノヴァと\nレイヴァンの同化を止められず、\n絶望するユノを励まし、会うため\n大尖塔へ急ぐ。\n\nあの理知的なレイヴァンが、なぜ\nそのような行動に至ったのだろう。",
-    "Text": "Juno says the planet is about\nto be destroyed. You must stop\nRaven and the Planetary\nGigantes-Nova. You hurry to the\nLarge Spire.",
+    "Text": "계속 반응이 없던 보석이\n갑자기 빛나며 유노가 나타났다.\n유노는 이 행성이 이제 멸망한다고 말한다.\n행성 기간테스인 노바와 레이반의\n동화를 막지 못해 절망한 유노를\n위로하고, 만나러 대첨탑으로 서둘러 간다.\n\n이성적이던 레이반이 왜\n그런 행동을 했을까.",
     "Enabled": true
   },
   "810070": {
-    "OriginalText": "ユノはノヴァを止める使命を担った\n最後の古代人で、共にノヴァを\n止めてくれる人洋の到着を\n待ち続けていたという。\nしかし、その待ち人のレイヴァンと\n仲違いをし、ノヴァを止める術を\n失った。\n\nみんなで必ず止めると決意、新たに\n約束を交わし、ブリッジへ戻る。",
-    "Text": "Juno was waiting for the right\nperson to stop the Nova\ntogether. The one she waited,\nRaven lost his way. You\nproceed to the bridge.",
+    "OriginalText": "ユノはノヴァ止める使命を担った\n最後の古代人で、共にノヴァを\n止めてくれる人物の到着を\n待ち続けていたという。\nしかし、その待ち人のレイヴァンと\n仲違いをし、ノヴァを止める術を\n失った。\n\nみんなで必ず止めると決意、新たに\n約束を交わし、ブリッジへ戻る。",
+    "Text": "유노는 노바를 멈출 사명을 맡은\n마지막 고대인으로, 함께 노바를\n멈출 사람이 오기를 기다렸다고 한다.\n하지만 기다리던 사람인 레이반과\n사이가 틀어지면서,\n노바를 멈출 방법을 잃었다.\n\n다 함께 반드시 막겠다고 결심하고,\n새로운 약속을 맺은 뒤 브리지로 돌아간다.",
     "Enabled": true
   },
   "810071": {
     "OriginalText": "ユノを救出し、拠点に迎える。\nユノによると、コアにパイルを\n撃ち込めば、ノヴァを無効化でき、\nその阻止のためレイヴァンも\nコアに向かったとのこと。\nノヴァ内部への入口にあたる\n銅の荒野へと歩を進める。\n\nクルー達の思いを背負い、\n最後の戦いが始まる。",
-    "Text": "You must fire the Pile into the\nCore. To enter the Nova Interior\nyou will go to the Steel\nWasteland, the final battle\nbegins.",
-    "Enabled": true
+    "Text": "유노를 구출해 거점으로 맞이한다.\n유노에 따르면 코어에 파일을\n박아 넣으면 노바를 무력화할 수 있으며,\n이를 저지하려는 레이반도\n코어로 향했다고 한다.\n노바 내부로 통하는 입구가 있는\n강철의 황야로 나아간다.\n\n크루들의 마음을 짊어지고,\n마지막 싸움이 시작된다.",
+    "Enabled": false
   },
   "810072": {
     "OriginalText": "ユノの案内でノヴァ内部への\n入口に到達する。\n\n最後の地への入口で\n１０００年という長すぎる歳月、\nレイヴァンが現れてくれた\n奇跡に対するユノの思いを知る。\n\nしかし、彼と戦うことになろうと\n足を止めるわけにはいかず、\nノヴァ内部へと突き進む。",
-    "Text": "Juno guided you to the\nentrance to Nova Interior. She\ncan't help but fight and stop\nRaven as you pushed into the\nNova Interior.",
+    "Text": "유노의 안내로 노바 내부의\n입구에 도착한다.\n\n마지막 장소로 통하는 입구에서,\n1,000년이라는 기나긴 세월 끝에\n레이반이 찾아와 준 기적에 대한\n유노의 마음을 알게 된다.\n\n그러나 그와 싸우게 되더라도\n멈출 수는 없기에,\n노바 내부로 나아간다.",
     "Enabled": true
   },
   "810073": {
     "OriginalText": "侵攻したノヴァ内部に立ち塞がる\nレイヴァンは、ユノのことしか\n記憶になく、自分の名すら\n忘れていた。\n彼が差し向けるエネミーを撃破し、\nさらにコアへと急ぐ。\n\nノヴァの完全覚酷は刻々と近づいている。",
-    "Text": "Raven stands in your way, he\nonly recalls Juno. You rushed\nto the Core as you defeated the\nenemy he sent. Nova's\nawakening is near.",
-    "Enabled": true
+    "Text": "노바 내부로 진입하자\n레이반이 길을 막아선다.\n그에게는 유노에 대한 기억만 남았고,\n자기 이름조차 잊은 상태였다.\n그가 보낸 에너미를 격파하고,\n코어를 향해 서두른다.\n\n노바의 완전한 각성은\n시시각각 다가오고 있다.",
+    "Enabled": false
   },
   "810074": {
     "OriginalText": "ついにレイヴァンはユノの記憶さえ\n手放し、ノヴァも完全覚酷を果たす。\n\nデルタ・ヴァリアントとも交信不能に\nなり、安否確認もままならず状況は\n悪くなる一方だが、誰一人諦める\nことなくノヴァを止めるようと、\nひたすらコアを目指して侵攻を続ける。",
-    "Text": "Nova's awakening is complete.\nThe situation worsens but\nnobody gave up to stop Nova,\nyou continue to aim for the\nCore earnestly.",
-    "Enabled": true
+    "Text": "결국 레이반은 유노에 대한 기억마저\n잃고, 노바도 완전히 각성한다.\n\n델타 발리언트와 교신도 끊겨\n안전을 확인하기 어려워지고,\n상황은 계속 나빠진다.\n하지만 누구도 포기하지 않고,\n노바를 멈추기 위해\n코어를 향해 계속 나아간다.",
+    "Enabled": false
   },
   "810075": {
     "OriginalText": "ノヴァとのグランリンクを進める\nユノの背中にグラン噴出伝置を\n見つけ、ユノの身がギガンテスで\nあることとレイヴァンの行動の\n意図を知る。\n\nユノはレイヴァンの助けを受け、\nノヴァへ古代人の心を龍え共に\n消滅、最後に残るのは美しい\n惑星マキアの姿だった。",
-    "Text": "Juno proceed to Gran Link with\nthe Nova and she vanished with\nit, and the last thing that\nremains is the beautiful planet\nMahkia.",
-    "Enabled": true
-  },
-  "810076": {
-    "OriginalText": "//",
-    "Text": "",
-    "Enabled": false
-  },
-  "810200": {
-    "OriginalText": "//",
-    "Text": "",
+    "Text": "노바와 그란 링크를 진행하는\n유노의 등에서 그란 분출 장치를\n발견하고, 유노의 몸이 기간테스라는\n사실과 레이반의 행동에 담긴\n뜻을 알게 된다.\n\n유노는 레이반의 도움을 받아\n노바에게 고대인의 마음을 전하고\n함께 소멸한다. 마지막에 남은 건\n아름다운 행성 마키아의 모습이었다.",
     "Enabled": false
   },
   "810201": {
     "OriginalText": "フィルディア艦長就任",
-    "Text": "Captain Fildia's Inauguration",
+    "Text": "필디아의 함장 취임",
     "Enabled": true
   },
   "810202": {
     "OriginalText": "はじめての任務",
-    "Text": "The Mission Begins",
+    "Text": "첫 임무",
     "Enabled": true
   },
   "810203": {
     "OriginalText": "先遣隊員の生存者",
-    "Text": "Advance Unit Survivors",
+    "Text": "선발대의 생존자",
     "Enabled": true
   },
   "810204": {
     "OriginalText": "グランの研究進む",
-    "Text": "Gran Advance Research",
+    "Text": "진전되는 그란 연구",
     "Enabled": true
   },
   "810205": {
     "OriginalText": "グラン結晶の収集",
-    "Text": "Collect the Gran Crystals",
+    "Text": "그란 결정 수집",
     "Enabled": true
   },
   "810206": {
     "OriginalText": "一安心",
-    "Text": "Peace of Mind",
+    "Text": "한시름 놓다",
     "Enabled": true
   },
   "810207": {
     "OriginalText": "整備される拠点",
-    "Text": "Base Maintenance",
+    "Text": "정비되는 거점",
     "Enabled": true
   },
   "810208": {
     "OriginalText": "ギガンテスという脅威",
-    "Text": "Threat of Gigantes",
+    "Text": "기간테스라는 위협",
     "Enabled": true
   },
   "810209": {
     "OriginalText": "新兵器『ヘイロウ』",
-    "Text": "New Weapon \"Halo\"",
+    "Text": "신무기 '헤일로'",
     "Enabled": true
   },
   "810210": {
     "OriginalText": "ギガンテス撃破",
-    "Text": "Gigantes Subjugation",
+    "Text": "기간테스 격파",
     "Enabled": true
   },
   "810211": {
     "OriginalText": "クルーの投入",
-    "Text": "Bringing In the Crew",
+    "Text": "크루 투입",
     "Enabled": true
   },
   "810212": {
     "OriginalText": "新たな仲間たち",
-    "Text": "New Comrades",
+    "Text": "새로운 동료들",
     "Enabled": true
   },
   "810213": {
     "OriginalText": "クルー配置決定",
-    "Text": "Crew Deployment Decision",
+    "Text": "크루 배치 결정",
     "Enabled": true
   },
   "810214": {
     "OriginalText": "飯め事発生中",
-    "Text": "During the Summons",
-    "Enabled": true
+    "Text": "갈등 발생 중",
+    "Enabled": false
   },
   "810215": {
     "OriginalText": "生きるために必要なこと",
-    "Text": "What You Need to Survive",
+    "Text": "살아가는 데 필요한 것",
     "Enabled": true
   },
   "810216": {
     "OriginalText": "リーティアの依頼",
-    "Text": "Rietheia's Request",
+    "Text": "리티아의 의뢰",
     "Enabled": true
   },
   "810217": {
     "OriginalText": "医療施設資村の調達完了",
-    "Text": "Resources for Medical Facility",
-    "Enabled": true
+    "Text": "의료 시설 자재 조달 완료",
+    "Enabled": false
   },
   "810218": {
     "OriginalText": "カリストの依頼",
-    "Text": "Callisto's Request",
+    "Text": "칼리스토의 의뢰",
     "Enabled": true
   },
   "810219": {
     "OriginalText": "補修資村の調達完了",
-    "Text": "Resources for Repairs",
-    "Enabled": true
+    "Text": "보수 자재 조달 완료",
+    "Enabled": false
   },
   "810220": {
     "OriginalText": "フィルディアからの呼び出し",
-    "Text": "A Call from Fildia",
+    "Text": "필디아의 호출",
     "Enabled": true
   },
   "810221": {
     "OriginalText": "落ち込むルティナ",
-    "Text": "Sad Lutina",
+    "Text": "의기소침한 루티나",
     "Enabled": true
   },
   "810222": {
     "OriginalText": "自信を取り戻すルティナ",
-    "Text": "Regaining Lutina's Confidence",
+    "Text": "자신감을 되찾은 루티나",
     "Enabled": true
   },
   "810223": {
     "OriginalText": "ユノとルティナの共通点",
-    "Text": "Juno and Lutina's Commonality",
+    "Text": "유노와 루티나의 공통점",
     "Enabled": true
   },
   "810224": {
     "OriginalText": "ヨミの依頼",
-    "Text": "Yomi's Request",
+    "Text": "요미의 의뢰",
     "Enabled": true
   },
   "810225": {
     "OriginalText": "グランニウム入手完了",
-    "Text": "Collecting Granium",
+    "Text": "그란니움 확보 완료",
     "Enabled": true
   },
   "810226": {
     "OriginalText": "ヒュペリオンの依頼",
-    "Text": "Hyperion's Request",
+    "Text": "히페리온의 의뢰",
     "Enabled": true
   },
   "810227": {
     "OriginalText": "食糧問題解決",
-    "Text": "Solving Food Problems",
+    "Text": "식량 문제 해결",
     "Enabled": true
   },
   "810228": {
     "OriginalText": "セイルからの提案",
-    "Text": "Sail's Suggestion",
+    "Text": "세일의 제안",
     "Enabled": true
   },
   "810229": {
     "OriginalText": "無断でギガンテス討伐へ",
-    "Text": "Forbidden Gigantes Subjugation",
+    "Text": "무단으로 기간테스 토벌에 나서다",
     "Enabled": true
   },
   "810230": {
     "OriginalText": "キサラご立腹",
-    "Text": "Kisara's Rage",
+    "Text": "키사라의 분노",
     "Enabled": true
   },
   "810231": {
     "OriginalText": "ユノの好きな人？",
-    "Text": "Juno's Favorite",
+    "Text": "유노가 좋아하는 사람?",
     "Enabled": true
   },
   "810232": {
     "OriginalText": "オルクスの依頼",
-    "Text": "Orcus' Request",
+    "Text": "오르쿠스의 의뢰",
     "Enabled": true
   },
   "810233": {
     "OriginalText": "グランアーツパワーアップ",
-    "Text": "Gran Arts Power Up",
+    "Text": "그란 아츠 강화",
     "Enabled": true
   },
   "810234": {
     "OriginalText": "シャロンの依頼",
-    "Text": "Sharon's Request",
+    "Text": "샤론의 의뢰",
     "Enabled": true
   },
   "810235": {
     "OriginalText": "シャロンと研究",
-    "Text": "Sharon's Research",
+    "Text": "샤론과 연구",
     "Enabled": true
   },
   "810236": {
     "OriginalText": "イズナの日常",
-    "Text": "Izuna's Routine",
+    "Text": "이즈나의 일상",
     "Enabled": true
   },
   "810237": {
     "OriginalText": "変化の随し",
-    "Text": "Followed by Change",
-    "Enabled": true
+    "Text": "변화의 조짐",
+    "Enabled": false
   },
   "810238": {
     "OriginalText": "イズナの決意",
-    "Text": "Izuna's Resolution",
+    "Text": "이즈나의 결의",
     "Enabled": true
   },
   "810239": {
     "OriginalText": "ユノ、スイーツに興味爬爬",
-    "Text": "Juno's Sweets Curiosity",
-    "Enabled": true
+    "Text": "디저트가 궁금한 유노",
+    "Enabled": false
   },
   "810240": {
     "OriginalText": "新たな発見",
-    "Text": "New Discovery",
+    "Text": "새로운 발견",
     "Enabled": true
   },
   "810241": {
     "OriginalText": "グランドライブ開発開始",
-    "Text": "Gran Drive Development",
+    "Text": "그란 드라이브 개발 시작",
     "Enabled": true
   },
   "810242": {
     "OriginalText": "グラン収集進行中",
-    "Text": "Ongoing Gran Collection",
+    "Text": "그란 수집 진행 중",
     "Enabled": true
   },
   "810243": {
     "OriginalText": "レイヴァンの思惑",
-    "Text": "Raven's Intentions",
+    "Text": "레이반의 의도",
     "Enabled": true
   },
   "810244": {
     "OriginalText": "レイヴァンの依頼",
-    "Text": "Raven's Request",
+    "Text": "레이반의 의뢰",
     "Enabled": true
   },
   "810245": {
     "OriginalText": "大きな喪失",
-    "Text": "A Great Loss",
+    "Text": "커다란 상실",
     "Enabled": true
   },
   "810246": {
     "OriginalText": "惑星脱出に向けて",
-    "Text": "Toward Escaping the Planet",
+    "Text": "행성 탈출을 향해",
     "Enabled": true
   },
   "810247": {
     "OriginalText": "ギガンテスの大群襲来",
-    "Text": "Gigantes Swarm Raid",
+    "Text": "기간테스 대군의 습격",
     "Enabled": true
   },
   "810248": {
     "OriginalText": "拠点を狙う巨砲",
-    "Text": "Huge Cannon Aimed at the Base",
+    "Text": "거점을 노리는 거포",
     "Enabled": true
   },
   "810249": {
     "OriginalText": "惑星脱出秒読み",
-    "Text": "Countdown to Escape the Planet.",
+    "Text": "행성 탈출 카운트다운",
     "Enabled": true
   },
   "810250": {
     "OriginalText": "新たなる艦長として",
-    "Text": "As the New Captain",
+    "Text": "새 함장으로서",
     "Enabled": true
   },
   "810251": {
     "OriginalText": "惑星の目",
-    "Text": "The Eye of the Planet",
+    "Text": "행성의 눈",
     "Enabled": true
   },
   "810252": {
     "OriginalText": "大穴降下計画",
-    "Text": "Large Hole Descent Plan",
+    "Text": "거대 구덩이 하강 계획",
     "Enabled": true
   },
   "810253": {
     "OriginalText": "大穴の調査へ",
-    "Text": "Investigating the Large Hole",
+    "Text": "거대 구덩이 조사로",
     "Enabled": true
   },
   "810254": {
     "OriginalText": "敵になった男",
-    "Text": "The Man Who Became Enemy",
+    "Text": "적이 된 남자",
     "Enabled": true
   },
   "810255": {
     "OriginalText": "艦長席に立つ",
-    "Text": "To Stand in Captain's Seat",
+    "Text": "함장 자리에 서다",
     "Enabled": true
   },
   "810256": {
     "OriginalText": "古代人の記録伝置",
-    "Text": "Records of the Ancients",
-    "Enabled": true
+    "Text": "고대인의 기록 장치",
+    "Enabled": false
   },
   "810257": {
     "OriginalText": "さらなる情報収集",
-    "Text": "Further Info Gathering",
+    "Text": "더 많은 정보 수집",
     "Enabled": true
   },
   "810258": {
     "OriginalText": "明らかになる真実",
-    "Text": "Revealing the Truth",
+    "Text": "밝혀지는 진실",
     "Enabled": true
   },
   "810259": {
     "OriginalText": "大型パイル製造中",
-    "Text": "Large Pile Reproduction",
+    "Text": "대형 파일 제작 중",
     "Enabled": true
   },
   "810260": {
     "OriginalText": "大型パイル完成",
-    "Text": "Large Pile Completion",
+    "Text": "대형 파일 완성",
     "Enabled": true
   },
   "810261": {
     "OriginalText": "大型パイル発射計画 １",
-    "Text": "Large Pile Launch Plan 1",
+    "Text": "대형 파일 발사 계획 1",
     "Enabled": true
   },
   "810262": {
     "OriginalText": "レイヴァンの妨害",
-    "Text": "Raven's Interference",
+    "Text": "레이반의 방해",
     "Enabled": true
   },
   "810263": {
     "OriginalText": "大型パイル発射計画 ２",
-    "Text": "Large Pile Launch Plan 2",
+    "Text": "대형 파일 발사 계획 2",
     "Enabled": true
   },
   "810264": {
     "OriginalText": "レイヴァンへの違和感",
-    "Text": "Raven's Strangeness",
+    "Text": "레이반에 대한 위화감",
     "Enabled": true
   },
   "810265": {
     "OriginalText": "大型パイル発射計画 ３",
-    "Text": "Large Pile Launch Plan 3",
+    "Text": "대형 파일 발사 계획 3",
     "Enabled": true
   },
   "810266": {
     "OriginalText": "記憶を失ったレイヴァン",
-    "Text": "Raven's Missing Memories",
+    "Text": "기억을 잃은 레이반",
     "Enabled": true
   },
   "810267": {
     "OriginalText": "現状を打破するためには",
-    "Text": "Breaking the Status Quo",
+    "Text": "현재 상황을 돌파하려면",
     "Enabled": true
   },
   "810268": {
     "OriginalText": "削除",
-    "Text": "",
-    "Enabled": false
+    "Text": "삭제",
+    "Enabled": true
   },
   "810269": {
     "OriginalText": "ユノへの恩返し",
-    "Text": "Juno's Repayment",
+    "Text": "유노에게 보답하기",
     "Enabled": true
   },
   "810270": {
     "OriginalText": "新たな約束",
-    "Text": "New Promise",
+    "Text": "새로운 약속",
     "Enabled": true
   },
   "810271": {
     "OriginalText": "最後の目的地",
-    "Text": "Final Destination",
+    "Text": "마지막 목적지",
     "Enabled": true
   },
   "810272": {
     "OriginalText": "レイヴァンを追う",
-    "Text": "Pursuing Raven",
+    "Text": "레이반을 쫓다",
     "Enabled": true
   },
   "810273": {
     "OriginalText": "覚酷まであとわずか",
-    "Text": "Harsh Few Moments",
-    "Enabled": true
+    "Text": "각성까지 얼마 남지 않았다",
+    "Enabled": false
   },
   "810274": {
     "OriginalText": "すべてを失ったレイヴァン",
-    "Text": "Raven's Complete Loss",
+    "Text": "모든 것을 잃은 레이반",
     "Enabled": true
   },
   "810275": {
     "OriginalText": "美しい[ruby ほし]惑星[/ruby]",
-    "Text": "Beautiful Planet",
+    "Text": "아름다운 행성",
     "Enabled": true
-  },
-  "810276": {
-    "OriginalText": "//",
-    "Text": "",
-    "Enabled": false
   },
   "810400": {
     "OriginalText": "惑星の洗礼",
-    "Text": "Planet's Baptism",
+    "Text": "행성의 세례",
     "Enabled": true
   },
   "810401": {
     "OriginalText": "銅焔の巨獣",
-    "Text": "Steel Giants",
-    "Enabled": true
+    "Text": "강철 불꽃의 거수",
+    "Enabled": false
   },
   "810402": {
     "OriginalText": "生存への挑戦 Ⅰ",
-    "Text": "Subsistence I",
+    "Text": "생존을 위한 도전 I",
     "Enabled": true
   },
   "810403": {
     "OriginalText": "生存への挑戦 Ⅱ",
-    "Text": "Subsistence II",
+    "Text": "생존을 위한 도전 II",
     "Enabled": true
   },
   "810404": {
     "OriginalText": "生存への挑戦 Ⅲ",
-    "Text": "Subsistence III",
+    "Text": "생존을 위한 도전 III",
     "Enabled": true
   },
   "810405": {
     "OriginalText": "生存への挑戦 Ⅳ",
-    "Text": "Subsistence IV",
+    "Text": "생존을 위한 도전 IV",
     "Enabled": true
   },
   "810406": {
     "OriginalText": "生存への挑戦 Ⅴ",
-    "Text": "Subsistence V",
+    "Text": "생존을 위한 도전 V",
     "Enabled": true
   },
   "810407": {
     "OriginalText": "脱出",
-    "Text": "Escape",
+    "Text": "탈출",
     "Enabled": true
   },
   "810408": {
     "OriginalText": "惑星の真実 Ⅰ",
-    "Text": "Planet's Truth I",
+    "Text": "행성의 진실 I",
     "Enabled": true
   },
   "810409": {
     "OriginalText": "惑星の真実 Ⅱ",
-    "Text": "Planet's Truth II",
+    "Text": "행성의 진실 II",
     "Enabled": true
   },
   "810410": {
     "OriginalText": "惑星の真実 Ⅲ",
-    "Text": "Planet's Truth III",
+    "Text": "행성의 진실 III",
     "Enabled": true
   },
   "810411": {
     "OriginalText": "惑星の真実 Ⅳ",
-    "Text": "Planet's Truth IV",
+    "Text": "행성의 진실 IV",
     "Enabled": true
   },
   "810412": {
     "OriginalText": "ほんとうの約束",
-    "Text": "Real Promise",
+    "Text": "진정한 약속",
     "Enabled": true
   },
   "810413": {
     "OriginalText": "惑星より永遠に",
-    "Text": "Eternal Than the Planet",
+    "Text": "행성에서 영원으로",
     "Enabled": true
-  },
-  "810414": {
-    "OriginalText": "//",
-    "Text": "",
-    "Enabled": false
   }
 }

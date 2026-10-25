@@ -1,722 +1,707 @@
 {
-  "550000": {
-    "OriginalText": "//",
-    "Text": "",
-    "Enabled": false
-  },
   "550001": {
     "OriginalText": "水",
-    "Text": "Water",
+    "Text": "물",
     "Enabled": true
   },
   "550002": {
     "OriginalText": "獣肉炒め",
-    "Text": "Fried Meat",
+    "Text": "짐승 고기 볶음",
     "Enabled": true
   },
   "550003": {
     "OriginalText": "ブラックオムレツ",
-    "Text": "Black Omelet",
+    "Text": "블랙 오믈렛",
     "Enabled": true
   },
   "550004": {
     "OriginalText": "生鑑いたまご焼き",
-    "Text": "Fishy Rolled Omelet",
-    "Enabled": true
+    "Text": "비린내 나는 달걀말이",
+    "Enabled": false
   },
   "550005": {
     "OriginalText": "闇色の鍋",
-    "Text": "Dark Stew",
+    "Text": "검은 전골",
     "Enabled": true
   },
   "550006": {
     "OriginalText": "獣肉ときのこのソテー",
-    "Text": "Sauteed Mushrooms and Meat",
+    "Text": "짐승 고기와 버섯 소테",
     "Enabled": true
   },
   "550007": {
     "OriginalText": "ぶっこみ鍋",
-    "Text": "Mixed Stew",
+    "Text": "마구 넣은 전골",
     "Enabled": true
   },
   "550008": {
     "OriginalText": "アイスクリーム",
-    "Text": "Ice Cream",
+    "Text": "아이스크림",
     "Enabled": true
   },
   "550009": {
     "OriginalText": "派手な産鮮丼",
-    "Text": "Extravagant Seafood Donburi",
-    "Enabled": true
+    "Text": "화려한 해산물 덮밥",
+    "Enabled": false
   },
   "550010": {
     "OriginalText": "闇色の具だくさんスープ",
-    "Text": "Dark Hearty Soup",
+    "Text": "건더기 가득한 검은 수프",
     "Enabled": true
   },
   "550011": {
     "OriginalText": "大人用プレート",
-    "Text": "Adult Plate",
+    "Text": "어른용 플레이트",
     "Enabled": true
   },
   "550012": {
     "OriginalText": "色鮮やかな寿司",
-    "Text": "Colorful Sushi",
+    "Text": "알록달록한 초밥",
     "Enabled": true
   },
   "550013": {
     "OriginalText": "至高のゆでたまご定食",
-    "Text": "Supreme Boiled Egg Set Meal",
+    "Text": "최고의 삶은 달걀 정식",
     "Enabled": true
   },
   "550014": {
     "OriginalText": "パン",
-    "Text": "Bread",
+    "Text": "빵",
     "Enabled": true
   },
   "550015": {
     "OriginalText": "派手な刺身",
-    "Text": "Extravagant Sashimi",
+    "Text": "화려한 생선회",
     "Enabled": true
   },
   "550016": {
     "OriginalText": "闇色のスープ",
-    "Text": "Dark Soup",
+    "Text": "검은 수프",
     "Enabled": true
   },
   "550017": {
     "OriginalText": "しっぽ焼き",
-    "Text": "Fried Tail",
+    "Text": "꼬리구이",
     "Enabled": true
   },
   "550018": {
     "OriginalText": "ねばジュース",
-    "Text": "Goopy Juice",
+    "Text": "끈끈한 주스",
     "Enabled": true
   },
   "550019": {
     "OriginalText": "ヘルシーパスタ",
-    "Text": "Healthy Pasta",
+    "Text": "건강 파스타",
     "Enabled": true
   },
   "550020": {
     "OriginalText": "祭の地獄焼き",
-    "Text": "Fried Shellfish",
-    "Enabled": true
+    "Text": "조개 지옥구이",
+    "Enabled": false
   },
   "550021": {
     "OriginalText": "やわらかクリームシチュー",
-    "Text": "Tender Cream Stew",
+    "Text": "부드러운 크림 스튜",
     "Enabled": true
   },
   "550022": {
     "OriginalText": "キラキラリーフサラダ",
-    "Text": "Glistening Leafy Salad",
+    "Text": "반짝반짝 잎 샐러드",
     "Enabled": true
   },
   "550023": {
     "OriginalText": "ワイルドダークシチュー",
-    "Text": "Wild Dark Stew",
+    "Text": "와일드 다크 스튜",
     "Enabled": true
   },
   "550024": {
     "OriginalText": "たまごとじ丼",
-    "Text": "Egg Donburi",
+    "Text": "달걀 덮밥",
     "Enabled": true
   },
   "550025": {
     "OriginalText": "煮込みうどん",
-    "Text": "Udon Stew",
+    "Text": "푹 끓인 우동",
     "Enabled": true
   },
   "550026": {
     "OriginalText": "至高のすっぽん定食",
-    "Text": "Supreme Turtle Set Meal",
+    "Text": "최고의 자라 정식",
     "Enabled": true
   },
   "550027": {
     "OriginalText": "干し肉",
-    "Text": "Jerky",
+    "Text": "육포",
     "Enabled": true
   },
   "550028": {
     "OriginalText": "サラダ",
-    "Text": "Salad",
+    "Text": "샐러드",
     "Enabled": true
   },
   "550029": {
     "OriginalText": "ギガ骨付き肉",
-    "Text": "Giga Ribs",
+    "Text": "기가 뼈 달린 고기",
     "Enabled": true
   },
   "550030": {
     "OriginalText": "ギガショートケーキ",
-    "Text": "Giga Short Cake",
+    "Text": "기가 쇼트케이크",
     "Enabled": true
   },
   "550031": {
     "OriginalText": "ギガサーロインステーキ",
-    "Text": "Giga Sirloin Steak",
+    "Text": "기가 설로인 스테이크",
     "Enabled": true
   },
   "550032": {
     "OriginalText": "大きな焼肉定食",
-    "Text": "Large Grilled Meat",
+    "Text": "커다란 고기구이 정식",
     "Enabled": true
   },
   "550033": {
     "OriginalText": "サイコロステーキ",
-    "Text": "Diced Steak",
+    "Text": "큐브 스테이크",
     "Enabled": true
   },
   "550034": {
     "OriginalText": "ギガガラスープ",
-    "Text": "Giga Bone Soup",
+    "Text": "기가 뼈 수프",
     "Enabled": true
   },
   "550035": {
     "OriginalText": "ねばねば餡かけ",
-    "Text": "Gooey Ankake",
+    "Text": "끈적한 소스를 얹은 요리",
     "Enabled": true
   },
   "550036": {
     "OriginalText": "トサカのから揚げ",
-    "Text": "Fried Chicken",
+    "Text": "볏 가라아게",
     "Enabled": true
   },
   "550037": {
     "OriginalText": "ギガ魚フライ定食",
-    "Text": "Giga Fried Fish",
+    "Text": "기가 생선튀김 정식",
     "Enabled": true
   },
   "550038": {
     "OriginalText": "ギガババロア",
-    "Text": "Giga Bavarian Cream",
+    "Text": "기가 바바루아",
     "Enabled": true
   },
   "550039": {
     "OriginalText": "ギガ海鮮丼・特盛り",
-    "Text": "Giga Sashimi Bowl・XL Portion",
+    "Text": "기가 해산물 덮밥 (특대)",
     "Enabled": true
   },
   "550040": {
     "OriginalText": "ギガ骨の髄まで定食",
-    "Text": "Giga Bone Marrow Set Meal",
+    "Text": "기가 뼛속까지 정식",
     "Enabled": true
-  },
-  "550041": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
   },
   "550042": {
     "OriginalText": "究極の珍味盛り合わせ",
-    "Text": "Ultimate Assorted Delicacies",
+    "Text": "궁극의 진미 모둠",
     "Enabled": true
   },
   "550043": {
     "OriginalText": "究極の霜降り肉ステーキ",
-    "Text": "Ultimate Frozen Meat Stick",
+    "Text": "궁극의 마블링 스테이크",
     "Enabled": true
   },
   "550044": {
     "OriginalText": "究極の最高級魚介炒め",
-    "Text": "Ultimate Stir-fried Seafood",
+    "Text": "궁극의 최고급 해산물 볶음",
     "Enabled": true
   },
   "550045": {
     "OriginalText": "ダーカーの節スパイス炒め",
-    "Text": "Darker Core Stir-fry",
+    "Text": "다커 마디 향신료 볶음",
     "Enabled": true
   },
   "550046": {
     "OriginalText": "スパイシー冷やしトマト",
-    "Text": "Spicy Fresh Tomatoes",
+    "Text": "매콤한 차가운 토마토",
     "Enabled": true
   },
   "550047": {
     "OriginalText": "木の実スパイスがけ",
-    "Text": "Spiced Nut",
+    "Text": "향신료 뿌린 나무 열매",
     "Enabled": true
   },
   "630001": {
     "OriginalText": "デルタ・ヴァリアント艦内で使用される\n飲料水。高純度濾過で循環利用される。",
-    "Text": "On-board drinking water in the Delta Valiant.\nRecycled by high-purity filtration.",
+    "Text": "델타 발리언트 함내에서 사용하는\n식수. 고순도 여과를 거쳐 순환 이용한다.",
     "Enabled": true
   },
   "630002": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\n肉食こそあらゆるパワーの源泉。",
-    "Text": "A dish full of valor for strength.\nProtein is the source of all power.",
+    "Text": "힘을 기르기 위한 기백 넘치는 요리.\n육식이야말로 모든 힘의 원천.",
     "Enabled": true
   },
   "630003": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\nオムレツの上の黒いソースが味の決め手。",
-    "Text": "A dish full of valor for strength. The black\nsauce on the omelet enhances the taste.",
+    "Text": "힘을 기르기 위한 기백 넘치는 요리.\n오믈렛 위의 검은 소스가 맛을 결정한다.",
     "Enabled": true
   },
   "630004": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\n鼻にツーンとくる隠し味が印象的。",
-    "Text": "A dish full of valor for strength. Impressive\neven there's a slight pungent smell.",
+    "Text": "힘을 기르기 위한 기백 넘치는 요리.\n코를 톡 쏘는 숨은 맛이 인상적이다.",
     "Enabled": true
   },
   "630005": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\n腹に収まればどうせ一緒という考え方。",
-    "Text": "A dish full of valor for strength. You'll\nwonder how will it fit in your stomach.",
+    "Text": "힘을 기르기 위한 기백 넘치는 요리.\n뱃속에 들어가면 어차피 같다는 생각이다.",
     "Enabled": true
   },
   "630006": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\n普通すぎて物足りないと食通には不評。",
-    "Text": "A dish full of valor for strength.\nToo plain for the foodies.",
+    "Text": "힘을 기르기 위한 기백 넘치는 요리.\n너무 평범해 심심하다고 미식가들은 혹평한다.",
     "Enabled": true
   },
   "630007": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\n何でもぶっこめばいいのがアークス流。",
-    "Text": "A dish full of valor for strength.\nThis ARKS style meal is all you need to eat.",
+    "Text": "힘을 기르기 위한 기백 넘치는 요리.\n아무거나 마구 넣으면 되는 것이 아크스식.",
     "Enabled": true
   },
   "630008": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\n火照った身体のクールダウンに最適。",
-    "Text": "A dish full of valor for strength.\nIdeal for cooling down your body.",
+    "Text": "힘을 기르기 위한 기백 넘치는 요리.\n달아오른 몸을 식히기에 가장 좋다.",
     "Enabled": true
   },
   "630009": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\n「鮮」は新鮮というより色鮮やかの意。",
-    "Text": "A dish full of valor for strength.\nIt is fresh if its colorful.",
+    "Text": "힘을 기르기 위한 기백 넘치는 요리.\n'선'은 신선함보다 선명한 색을 뜻한다.",
     "Enabled": true
   },
   "630010": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\n具が多いとそれが何かは気にならない。",
-    "Text": "A dish full of valor for strength.\nA dish made with randomly mixed ingredients.",
+    "Text": "힘을 기르기 위한 기백 넘치는 요리.\n건더기가 많으면 정체는 신경 쓰이지 않는다.",
     "Enabled": true
   },
   "630011": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\n子供はダメ、ということはないらしい。",
-    "Text": "A dish full of valor for strength.\nCan also be served to the children.",
+    "Text": "힘을 기르기 위한 기백 넘치는 요리.\n아이들은 먹으면 안 된다는 건 아닌 모양.",
     "Enabled": true
   },
   "630012": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\n本物の寿司職人には叱られるかも。",
-    "Text": "A dish full of valor for strength.\nYou may be scolded by a real sushi chef.",
+    "Text": "힘을 기르기 위한 기백 넘치는 요리.\n진짜 초밥 장인에게는 혼날지도 모른다.",
     "Enabled": true
   },
   "630013": {
     "OriginalText": "力をつけるためのガッツあふれる料理。\nこうも大きいとうまくゆでるのは大変。",
-    "Text": "A dish full of valor for strength.\nIt is hard to boil due to its size.",
+    "Text": "힘을 기르기 위한 기백 넘치는 요리.\n이렇게 크면 제대로 삶기도 힘들다.",
     "Enabled": true
   },
   "630014": {
     "OriginalText": "デルタ・ヴァリアント艦内の焼き釜で\n焼かれているパン。オルター標準食。",
-    "Text": "Bread baked in an oven inside the Delta\nValiant. Alter Corps' standard diet.",
+    "Text": "델타 발리언트 함내의 가마에서\n구운 빵. 얼터의 표준식이다.",
     "Enabled": true
   },
   "630015": {
     "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n色鮮やかな刺身は栄養成分もよりどり。",
-    "Text": "A dish full of vigor for durability. A\nsashimi full of nutritional ingredients.",
+    "Text": "몸을 튼튼하게 하는 원기 가득한 요리.\n알록달록한 생선회는 영양 성분도 다양하다.",
     "Enabled": true
   },
   "630016": {
     "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n良薬は口に苦しを地でいく薬膳スープ。",
-    "Text": "A dish full of vigor for durability.\nA bitter medicinal soup.",
+    "Text": "몸을 튼튼하게 하는 원기 가득한 요리.\n좋은 약은 입에 쓰다는 말을 그대로 보여 주는 약선 수프.",
     "Enabled": true
   },
   "630017": {
     "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n爬虫類はしっぽが美味いらしい。",
-    "Text": "A dish full of vigor for durability.\nA delicious reptilian tail.",
+    "Text": "몸을 튼튼하게 하는 원기 가득한 요리.\n파충류는 꼬리가 맛있다고 한다.",
     "Enabled": true
   },
   "630018": {
     "OriginalText": "体を丈夫にするスタミナたっぷり料理。\nアークスも飲料もねばりが大事。",
-    "Text": "A dish full of vigor for durability.\nStickiness is important for ARKS and drinks.",
+    "Text": "몸을 튼튼하게 하는 원기 가득한 요리.\n아크스도 음료도 끈기가 중요하다.",
     "Enabled": true
   },
   "630019": {
     "OriginalText": "体を丈夫にするスタミナたっぷり料理。\nあっさりとした味わいで、男女問わず人気。",
-    "Text": "A dish full of vigor for durability.\nIts light taste is popular with both gender.",
+    "Text": "몸을 튼튼하게 하는 원기 가득한 요리.\n담백한 맛으로 남녀를 가리지 않고 인기다.",
     "Enabled": true
   },
   "630020": {
     "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n美味いが、焼かれる貝は地獄の苦しみ。",
-    "Text": "A dish full of vigor for durability.\nA delicious shellfish roasted from hell.",
+    "Text": "몸을 튼튼하게 하는 원기 가득한 요리.\n맛있지만 구워지는 조개에겐 지옥의 고통.",
     "Enabled": true
   },
   "630021": {
     "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n強い臭みは味わった者にしかわからない。",
-    "Text": "A dish full of vigor for durability.\nOnly for those who can stand its strong odor.",
+    "Text": "몸을 튼튼하게 하는 원기 가득한 요리.\n강한 냄새는 맛본 사람만 알 수 있다.",
     "Enabled": true
   },
   "630022": {
     "OriginalText": "体を丈夫にするスタミナたっぷり料理。\nつまみ食いをすると舌が光ってばれる。",
-    "Text": "A dish full of vigor for durability.\nYour tongue will shine if eaten by hand.",
+    "Text": "몸을 튼튼하게 하는 원기 가득한 요리.\n몰래 집어 먹으면 혀가 빛나서 들킨다.",
     "Enabled": true
   },
   "630023": {
     "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n無心に食べきることで新境地に達する。",
-    "Text": "A dish full of vigor for durability.\nEating it will help you reach new frontiers.",
+    "Text": "몸을 튼튼하게 하는 원기 가득한 요리.\n무념무상으로 다 먹으면 새로운 경지에 이른다.",
     "Enabled": true
   },
   "630024": {
     "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n普通のたまごとじが懐かしくなる新味。",
-    "Text": "A dish for durability. The new taste will\nmake you forget about the normal eggs.",
+    "Text": "몸을 튼튼하게 하는 원기 가득한 요리.\n평범한 달걀 덮밥이 그리워지는 새로운 맛.",
     "Enabled": true
   },
   "630025": {
     "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n煮込んで煮込んで煮込み倒したうどん。",
-    "Text": "A dish full of vigor for durability.\nA stewed Udon noodles.",
+    "Text": "몸을 튼튼하게 하는 원기 가득한 요리.\n끓이고 끓여서 끝까지 푹 끓여 낸 우동.",
     "Enabled": true
   },
   "630026": {
     "OriginalText": "体を丈夫にするスタミナたっぷり料理。\n長い夜をアクティブに過ごしたい。",
-    "Text": "A dish full of vigor for durability.\nIt will keep you up all night.",
+    "Text": "몸을 튼튼하게 하는 원기 가득한 요리.\n긴 밤을 활기차게 보내고 싶다.",
     "Enabled": true
   },
   "630027": {
     "OriginalText": "デルタ・ヴァリアント艦内で燻製された\n標準食。原村料は不問に付されている。",
-    "Text": "Standard smoked food in the Delta Valiant.\nRaw materials are used regardless.",
-    "Enabled": true
+    "Text": "델타 발리언트 함내에서 훈제한\n표준식. 원재료는 묻지 않기로 되어 있다.",
+    "Enabled": false
   },
   "630028": {
     "OriginalText": "デルタ・ヴァリアント艦内で栽培された\n標準食。貴重なビタミン源となる。",
-    "Text": "A standard food cultivated inside Delta\nValiant. It's a valuable source of vitamins.",
+    "Text": "델타 발리언트 함내에서 재배한\n표준식. 귀중한 비타민 공급원이다.",
     "Enabled": true
   },
   "630029": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n大きなケーキは子どもの頃の皆の夢。",
-    "Text": "A gourmet that enriches the lives on board.\nThe big meat is certainly satisfying.",
-    "Enabled": true
+    "Text": "함내 생활을 윤택하게 하는 미식 요리.\n큰 고기는 그 자체만으로 확실한 만족감을 준다.",
+    "Enabled": false
   },
   "630030": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n大きなケーキは子どもの頃の皆の夢。",
-    "Text": "A gourmet that enriches the lives on board.\nBig cakes are everyone's childhood dream.",
+    "Text": "함내 생활을 윤택하게 하는 미식 요리.\n커다란 케이크는 모두가 어린 시절 꾸던 꿈.",
     "Enabled": true
   },
   "630031": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n焼加滅はレアで血の滴りを味わいたい。",
-    "Text": "A gourmet that enriches the lives on board.\nRare cooked with a tasty dripping blood.",
-    "Enabled": true
+    "Text": "함내 생활을 윤택하게 하는 미식 요리.\n굽기는 레어로, 피가 뚝뚝 떨어지는 맛을 원한다.",
+    "Enabled": false
   },
   "630032": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n焼けば大抵食べられるという方針。",
-    "Text": "A gourmet that enriches the lives in the\nship. Roast it first before you eat it.",
+    "Text": "함내 생활을 윤택하게 하는 미식 요리.\n구우면 웬만한 건 먹을 수 있다는 방침.",
     "Enabled": true
   },
   "630033": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n出所の怪しい肉もおいしくいただける。",
-    "Text": "A gourmet that enriches the lives on board.\nYou will enjoy the dubious meat inside.",
+    "Text": "함내 생활을 윤택하게 하는 미식 요리.\n출처가 수상한 고기도 맛있게 먹을 수 있다.",
     "Enabled": true
   },
   "630034": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n長時間煮込めば大抵おいしくなるもの。",
-    "Text": "A gourmet that enriches the lives on board.\nDelicious when cooked for a long time.",
+    "Text": "함내 생활을 윤택하게 하는 미식 요리.\n오래 끓이면 웬만한 건 맛있어지는 법.",
     "Enabled": true
   },
   "630035": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\nデンプン質に依らないとろみが新味。",
-    "Text": "A gourmet that enriches the lives on board.\nStarch quality will affect the thickness.",
+    "Text": "함내 생활을 윤택하게 하는 미식 요리.\n전분에 의존하지 않는 걸쭉함이 새로운 맛.",
     "Enabled": true
   },
   "630036": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n食感を楽しむことの贅沢さを再確認。",
-    "Text": "A gourmet that enriches the lives on board.\nYou can confirm its richness by its texture.",
+    "Text": "함내 생활을 윤택하게 하는 미식 요리.\n식감을 즐기는 사치를 다시 한번 느낀다.",
     "Enabled": true
   },
   "630037": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n揚げ物は高カロリーだからこそ美味い。",
-    "Text": "A gourmet that enriches the lives on board.\nA delicious fried food with high calories.",
+    "Text": "함내 생활을 윤택하게 하는 미식 요리.\n튀김은 열량이 높기에 오히려 맛있다.",
     "Enabled": true
   },
   "630038": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\nこれをババロアと呼べるかは賛否両論。",
-    "Text": "A gourmet that enriches the lives on board.\nArgued if this can still be called bavarois.",
+    "Text": "함내 생활을 윤택하게 하는 미식 요리.\n이걸 바바루아라 불러도 될지는 찬반이 갈린다.",
     "Enabled": true
   },
   "630039": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n特盛りという言葉の響きこそが贅沢。",
-    "Text": "A gourmet that enriches the lives on board.\nThe word \"special\" makes it luxurious.",
+    "Text": "함내 생활을 윤택하게 하는 미식 요리.\n특대라는 말의 울림이야말로 사치다.",
     "Enabled": true
   },
   "630040": {
     "OriginalText": "艦内生活に潤いを与えるグルメ料理。\n栄養不足を補うには何でも食べないと。",
-    "Text": "A gourmet that enriches the lives on board.\nMust be eaten to solve malnutrition.",
+    "Text": "함내 생활을 윤택하게 하는 미식 요리.\n영양 부족을 채우려면 뭐든 먹어야 한다.",
     "Enabled": true
-  },
-  "630041": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
   },
   "630042": {
     "OriginalText": "この惑星でしか味わえない美食。\n見た目と味わいは必ずしも一致しない。",
-    "Text": "A gourmet only found in this planet.\nThe look and taste doesn't always match.",
+    "Text": "이 행성에서만 맛볼 수 있는 별미.\n겉모습과 맛이 반드시 일치하지는 않는다.",
     "Enabled": true
   },
   "630043": {
     "OriginalText": "この惑星でしか味わえない美食。\nさぞいい洋を食べて育ったに違いない。",
-    "Text": "A gourmet only found in this planet.\nThis good food will help you grow up.",
-    "Enabled": true
+    "Text": "이 행성에서만 맛볼 수 있는 별미.\n틀림없이 좋은 것을 먹으며 자랐을 것이다.",
+    "Enabled": false
   },
   "630044": {
     "OriginalText": "この惑星でしか味わえない美食。\n希少性が高いと味にバイアスがかかる。",
-    "Text": "A gourmet only found in this planet.\nIts scarcity reflects on its taste.",
+    "Text": "이 행성에서만 맛볼 수 있는 별미.\n희소성이 높으면 맛에도 편견이 생긴다.",
     "Enabled": true
   },
   "630045": {
     "OriginalText": "弾ける食感を味わえる料理。\nおかずにもつまみにもなる。",
-    "Text": "A dish with a popping texture.\nIt can also be a side dish.",
+    "Text": "톡톡 터지는 식감을 즐길 수 있는 요리.\n반찬으로도 안주로도 먹을 수 있다.",
     "Enabled": true
   },
   "630046": {
     "OriginalText": "弾ける食感を味わえる料理。\n食べ過ぎるとお腹を壊すかもしれない。",
-    "Text": "A dish with a popping texture.\nEating too much may upset your stomach.",
+    "Text": "톡톡 터지는 식감을 즐길 수 있는 요리.\n너무 많이 먹으면 배탈이 날지도 모른다.",
     "Enabled": true
   },
   "630047": {
     "OriginalText": "弾ける食感を味わえる料理。\n食べ始めたら止まらない。",
-    "Text": "A dish with a popping texture.\nOnce you start, you can't stop.",
+    "Text": "톡톡 터지는 식감을 즐길 수 있는 요리.\n한번 먹기 시작하면 멈출 수 없다.",
     "Enabled": true
   },
   "740001": {
     "OriginalText": "施設効果0000",
-    "Text": "Facility Effect",
+    "Text": "시설 효과0000",
     "Enabled": true
   },
   "745001": {
     "OriginalText": "攻撃力アップ ＋１％",
-    "Text": "Attack +1%",
+    "Text": "공격력 업 +1%",
     "Enabled": true
   },
   "745002": {
     "OriginalText": "攻撃力アップ ＋３％",
-    "Text": "Attack +3%",
+    "Text": "공격력 업 +3%",
     "Enabled": true
   },
   "745003": {
     "OriginalText": "攻撃力アップ ＋５％",
-    "Text": "Attack +5%",
+    "Text": "공격력 업 +5%",
     "Enabled": true
   },
   "745004": {
     "OriginalText": "攻撃力アップ ＋１０％",
-    "Text": "Attack +10%",
+    "Text": "공격력 업 +10%",
     "Enabled": true
   },
   "745005": {
     "OriginalText": "炎属性ダメージ ＋７％",
-    "Text": "Fire Damage +7%",
+    "Text": "염속성 데미지 +7%",
     "Enabled": true
   },
   "745006": {
     "OriginalText": "劇属性ダメージ ＋７％",
-    "Text": "Ice Damage +7%",
-    "Enabled": true
+    "Text": "빙속성 데미지 +7%",
+    "Enabled": false
   },
   "745007": {
     "OriginalText": "雷属性ダメージ ＋７％",
-    "Text": "Lightning Damage +7%",
+    "Text": "뇌속성 데미지 +7%",
     "Enabled": true
   },
   "745008": {
     "OriginalText": "風属性ダメージ ＋７％",
-    "Text": "Wind Damage +7%",
+    "Text": "풍속성 데미지 +7%",
     "Enabled": true
   },
   "745009": {
     "OriginalText": "光属性ダメージ ＋７％",
-    "Text": "Light Damage +7%",
+    "Text": "광속성 데미지 +7%",
     "Enabled": true
   },
   "745010": {
     "OriginalText": "闇属性ダメージ ＋７％",
-    "Text": "Dark Damage +7%",
+    "Text": "암속성 데미지 +7%",
     "Enabled": true
   },
   "745011": {
     "OriginalText": "追加：グラン中毒",
-    "Text": "Add: Gran Poisoning",
+    "Text": "추가: 그란 중독",
     "Enabled": true
   },
   "745012": {
     "OriginalText": "追加：バインド",
-    "Text": "Add: Bind",
+    "Text": "추가: 바인드",
     "Enabled": true
   },
   "745013": {
     "OriginalText": "追加：インフェクション",
-    "Text": "Add: Infection",
+    "Text": "추가: 인펙션",
     "Enabled": true
   },
   "745014": {
     "OriginalText": "追加：ブラインド",
-    "Text": "Add: Blind",
+    "Text": "추가: 블라인드",
     "Enabled": true
   },
   "745015": {
     "OriginalText": "弱点ダメージアップ",
-    "Text": "Weak Point Damage",
+    "Text": "약점 데미지 업",
     "Enabled": true
   },
   "745016": {
     "OriginalText": "クリティカル率アップ",
-    "Text": "Increased Critical Rate",
+    "Text": "크리티컬 발생률 향상",
     "Enabled": true
   },
   "745017": {
     "OriginalText": "防御力アップ ＋１％",
-    "Text": "Defense +1%",
+    "Text": "방어력 업 +1%",
     "Enabled": true
   },
   "745018": {
     "OriginalText": "防御力アップ ＋３％",
-    "Text": "Defense +3%",
+    "Text": "방어력 업 +3%",
     "Enabled": true
   },
   "745019": {
     "OriginalText": "防御力アップ ＋５％",
-    "Text": "Defense +5%",
+    "Text": "방어력 업 +5%",
     "Enabled": true
   },
   "745020": {
     "OriginalText": "防御力アップ ＋１０％",
-    "Text": "Defense +10%",
+    "Text": "방어력 업 +10%",
     "Enabled": true
   },
   "745021": {
     "OriginalText": "炎耐性 ＋８％",
-    "Text": "Fire Resist +7%",
+    "Text": "염내성 +8%",
     "Enabled": true
   },
   "745022": {
     "OriginalText": "劇耐性 ＋８％",
-    "Text": "Ice Resist +7%",
-    "Enabled": true
+    "Text": "빙내성 +8%",
+    "Enabled": false
   },
   "745023": {
     "OriginalText": "雷耐性 ＋８％",
-    "Text": "Lightning Resist +7%",
+    "Text": "뇌내성 +8%",
     "Enabled": true
   },
   "745024": {
     "OriginalText": "風耐性 ＋８％",
-    "Text": "Wind Resist +7%",
+    "Text": "풍내성 +8%",
     "Enabled": true
   },
   "745025": {
     "OriginalText": "光耐性 ＋８％",
-    "Text": "Light Resist +7%",
+    "Text": "광내성 +8%",
     "Enabled": true
   },
   "745026": {
     "OriginalText": "闇耐性 ＋８％",
-    "Text": "Dark Resist +7%",
+    "Text": "암내성 +8%",
     "Enabled": true
   },
   "745027": {
     "OriginalText": "GP回復量アップ",
-    "Text": "GP Recovery Amount Up",
+    "Text": "GP 회복량 상승",
     "Enabled": true
   },
   "745028": {
     "OriginalText": "チャージ短温",
-    "Text": "Charge Reduction",
-    "Enabled": true
+    "Text": "차지 시간 단축",
+    "Enabled": false
   },
   "745029": {
     "OriginalText": "確率でリアクション無効",
-    "Text": "Nullify Knockback Chance",
+    "Text": "확률로 피격 리액션 무효",
     "Enabled": true
   },
   "745030": {
     "OriginalText": "確率でダメージ無効",
-    "Text": "Nullify Damage Chance",
+    "Text": "확률로 데미지 무효",
     "Enabled": true
   },
   "745031": {
     "OriginalText": "アイテム回復量 ＋５％",
-    "Text": "Heal Item Boost +5%",
+    "Text": "아이템 회복량 +5%",
     "Enabled": true
   },
   "745032": {
     "OriginalText": "復活＋１",
-    "Text": "Revive +1",
+    "Text": "부활+1",
     "Enabled": true
   },
   "745033": {
     "OriginalText": "ＨＰアップ ＋１％",
-    "Text": "HP +1%",
+    "Text": "HP 상승 +1%",
     "Enabled": true
   },
   "745034": {
     "OriginalText": "ＧＰアップ ＋１％",
-    "Text": "GP +1%",
+    "Text": "GP 상승 +1%",
     "Enabled": true
   },
   "745035": {
     "OriginalText": "ＨＰアップ ＋５％",
-    "Text": "HP +5%",
+    "Text": "HP 상승 +5%",
     "Enabled": true
   },
   "745036": {
     "OriginalText": "ＧＰアップ ＋２％",
-    "Text": "GP +2%",
+    "Text": "GP 상승 +2%",
     "Enabled": true
   },
   "745037": {
     "OriginalText": "経験値 ＋１０％",
-    "Text": "EXP +10%",
+    "Text": "경험치 +10%",
     "Enabled": true
   },
   "745038": {
     "OriginalText": "バーストゲージ初期ボーナス",
-    "Text": "Initial GB Bonus",
+    "Text": "버스트 게이지 초기 보너스",
     "Enabled": true
   },
   "745039": {
     "OriginalText": "チェイン時間延長",
-    "Text": "Chain Time",
+    "Text": "체인 시간 연장",
     "Enabled": true
   },
   "745040": {
     "OriginalText": "バースト時間延長",
-    "Text": "BURST Time",
+    "Text": "버스트 시간 연장",
     "Enabled": true
   },
   "745041": {
     "OriginalText": "アイテムドロップ ＋５％",
-    "Text": "Drop Rate +5%",
+    "Text": "아이템 드랍 +5%",
     "Enabled": true
   },
   "745042": {
     "OriginalText": "レアドロップ ＋５％",
-    "Text": "Rare Drop Rate +5%",
+    "Text": "레어 드랍 +5%",
     "Enabled": true
   },
   "745043": {
     "OriginalText": "確率でダメージアップ",
-    "Text": "Damage Increase Chance",
+    "Text": "확률로 데미지 상승",
     "Enabled": true
   },
   "745044": {
     "OriginalText": "状態異常耐性アップ",
-    "Text": "Status Resist",
+    "Text": "상태이상 내성 향상",
     "Enabled": true
   },
   "745045": {
     "OriginalText": "攻撃力＋１５％",
-    "Text": "Attack +15%",
+    "Text": "공격력+15%",
     "Enabled": true
   },
   "745046": {
     "OriginalText": "防御力＋１５％",
-    "Text": "Defense +15%",
+    "Text": "방어력+15%",
     "Enabled": true
   },
   "745047": {
     "OriginalText": "バーストゲージ上昇率アップ",
-    "Text": "BURST Accumulation Rate",
+    "Text": "버스트 게이지 상승률 증가",
     "Enabled": true
   },
   "745048": {
     "OriginalText": "バーストゲージ上昇率アップ（小）",
-    "Text": "BURST Accumulation Rate (Small)",
+    "Text": "버스트 게이지 상승률 증가 (소)",
     "Enabled": true
   }
 }

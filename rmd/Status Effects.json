@@ -1,97 +1,97 @@
 {
   "640000": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "640001": {
     "OriginalText": "炎属性状態異常",
-    "Text": "Abnormal Fire Condition",
+    "Text": "염속성 상태이상",
     "Enabled": true
   },
   "640002": {
     "OriginalText": "氷属性状態異常",
-    "Text": "Abnormal Ice Condition",
+    "Text": "빙속성 상태이상",
     "Enabled": true
   },
   "640003": {
     "OriginalText": "雷属性状態異常",
-    "Text": "Abnormal Lightning Condition",
+    "Text": "뇌속성 상태이상",
     "Enabled": true
   },
   "640004": {
     "OriginalText": "光属性状態異常",
-    "Text": "Abnormal Light Condition",
+    "Text": "광속성 상태이상",
     "Enabled": true
   },
   "640005": {
     "OriginalText": "闇属性状態異常",
-    "Text": "Abnormal Dark Condition",
+    "Text": "암속성 상태이상",
     "Enabled": true
   },
   "640006": {
     "OriginalText": "風属性状態異常",
-    "Text": "Abnormal Wind Condition",
+    "Text": "풍속성 상태이상",
     "Enabled": true
   },
   "640007": {
     "OriginalText": "全属性状態異常",
-    "Text": "Abnormal Condition",
+    "Text": "모든 속성 상태이상",
     "Enabled": true
   },
   "640008": {
     "OriginalText": "グラン中毒",
-    "Text": "Gran Poisoning",
+    "Text": "그란 중독",
     "Enabled": true
   },
   "640009": {
     "OriginalText": "バインド",
-    "Text": "Bind",
+    "Text": "바인드",
     "Enabled": true
   },
   "640010": {
     "OriginalText": "インフェクション",
-    "Text": "Infection",
+    "Text": "인펙션",
     "Enabled": true
   },
   "640011": {
     "OriginalText": "ブラインド",
-    "Text": "Blind",
+    "Text": "블라인드",
     "Enabled": true
   },
   "640012": {
     "OriginalText": "怒りモード",
-    "Text": "Anger Mode",
+    "Text": "분노 모드",
     "Enabled": true
   },
   "640013": {
     "OriginalText": "料理効果",
-    "Text": "Cooking Effect",
+    "Text": "요리 효과",
     "Enabled": true
   },
   "640014": {
     "OriginalText": "攻撃力上昇",
-    "Text": "Increased Attack Power",
+    "Text": "공격력 상승",
     "Enabled": true
   },
   "640015": {
     "OriginalText": "攻撃力低下",
-    "Text": "Reduced Attack Power",
+    "Text": "공격력 저하",
     "Enabled": true
   },
   "640016": {
     "OriginalText": "防御力上昇",
-    "Text": "Increased Defense Power",
+    "Text": "방어력 상승",
     "Enabled": true
   },
   "640017": {
     "OriginalText": "防御力低下",
-    "Text": "Reduced Defense Power",
+    "Text": "방어력 저하",
     "Enabled": true
   },
   "640018": {
     "OriginalText": "ブーストアイテム効果",
-    "Text": "Boost Item Effect",
+    "Text": "부스트 아이템 효과",
     "Enabled": true
   }
 }

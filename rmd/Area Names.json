@@ -1,192 +1,182 @@
 {
   "790001": {
     "OriginalText": "銅の荒野 1",
-    "Text": "Steel Wastelands 1",
-    "Enabled": true
+    "Text": "강철의 황야 1",
+    "Enabled": false
   },
   "790002": {
     "OriginalText": "銅の荒野 2",
-    "Text": "Steel Wastelands 2",
-    "Enabled": true
+    "Text": "강철의 황야 2",
+    "Enabled": false
   },
   "790003": {
     "OriginalText": "銅の荒野 3",
-    "Text": "Steel Wastelands 3",
-    "Enabled": true
+    "Text": "강철의 황야 3",
+    "Enabled": false
   },
   "790004": {
     "OriginalText": "追加クエスト",
-    "Text": "Steel Wastelands 4",
+    "Text": "추가 퀘스트",
     "Enabled": true
   },
   "790005": {
     "OriginalText": "バトル体験版２特別マップ",
-    "Text": "Special Map: Battle Trial 2",
+    "Text": "배틀 체험판 2 특별 맵",
     "Enabled": true
   },
   "790006": {
     "OriginalText": "グラン水源 1",
-    "Text": "Gran Water Rig 1",
+    "Text": "그란 수원 1",
     "Enabled": true
   },
   "790007": {
     "OriginalText": "グラン水源 2",
-    "Text": "Gran Water Rig 2",
+    "Text": "그란 수원 2",
     "Enabled": true
   },
   "790008": {
     "OriginalText": "グラン水源 3",
-    "Text": "Gran Water Rig 3",
+    "Text": "그란 수원 3",
     "Enabled": true
   },
   "790009": {
     "OriginalText": "炎の高地 1",
-    "Text": "Flame Highlands 1",
+    "Text": "불꽃의 고지 1",
     "Enabled": true
   },
   "790010": {
     "OriginalText": "炎の高地 2",
-    "Text": "Flame Highlands 2",
+    "Text": "불꽃의 고지 2",
     "Enabled": true
   },
   "790011": {
     "OriginalText": "炎の高地 3",
-    "Text": "Flame Highlands 3",
+    "Text": "불꽃의 고지 3",
     "Enabled": true
   },
   "790012": {
     "OriginalText": "炎の高地 4",
-    "Text": "Flame Highlands 4",
+    "Text": "불꽃의 고지 4",
     "Enabled": true
   },
   "790013": {
     "OriginalText": "古代都市 1",
-    "Text": "Ancient City 1",
+    "Text": "고대 도시 1",
     "Enabled": true
   },
   "790014": {
     "OriginalText": "古代都市 2",
-    "Text": "Ancient City 2",
+    "Text": "고대 도시 2",
     "Enabled": true
   },
   "790015": {
     "OriginalText": "大尖塔 1",
-    "Text": "Large Spire 1",
+    "Text": "대첨탑 1",
     "Enabled": true
   },
   "790016": {
     "OriginalText": "大尖塔 2",
-    "Text": "Large Spire 2",
+    "Text": "대첨탑 2",
     "Enabled": true
   },
   "790017": {
     "OriginalText": "ノヴァ内部",
-    "Text": "Nova Interior",
-    "Enabled": true
-  },
-  "790018": {
-    "OriginalText": "？？？",
-    "Text": "???",
+    "Text": "노바 내부",
     "Enabled": true
   },
   "790019": {
     "OriginalText": "拠点",
-    "Text": "Base",
+    "Text": "거점",
     "Enabled": true
   },
   "790020": {
     "OriginalText": "上層",
-    "Text": "Top Level",
+    "Text": "상층",
     "Enabled": true
   },
   "790021": {
     "OriginalText": "デルタ・ヴァリアント探索拠点",
-    "Text": "Delta Valiant Exploration Base",
+    "Text": "델타 발리언트 탐사 거점",
     "Enabled": true
   },
   "790022": {
     "OriginalText": "下層",
-    "Text": "Bottom Level",
+    "Text": "하층",
     "Enabled": true
   },
   "790023": {
     "OriginalText": "ブリッジ",
-    "Text": "Bridge",
+    "Text": "브리지",
     "Enabled": true
   },
   "790024": {
     "OriginalText": "コールドスリープルーム",
-    "Text": "Cold Sleep Room",
+    "Text": "콜드 슬립 룸",
     "Enabled": true
   },
   "790025": {
     "OriginalText": "マルチプレイルーム",
-    "Text": "Multiplayer Room",
+    "Text": "멀티 플레이 룸",
     "Enabled": true
   },
   "790026": {
     "OriginalText": "トレーニングルーム",
-    "Text": "Training Room",
+    "Text": "트레이닝 룸",
     "Enabled": true
   },
   "790027": {
     "OriginalText": "エリア1",
-    "Text": "Area 1",
+    "Text": "에어리어 1",
     "Enabled": true
   },
   "790028": {
     "OriginalText": "エリア2",
-    "Text": "Area 2",
+    "Text": "에어리어 2",
     "Enabled": true
   },
   "790029": {
     "OriginalText": "エリア3",
-    "Text": "Area 3",
+    "Text": "에어리어 3",
     "Enabled": true
   },
   "790030": {
     "OriginalText": "グラン水源 4",
-    "Text": "Gran Water Rig 4",
-    "Enabled": true
-  },
-  "790031": {
-    "OriginalText": "？？",
-    "Text": "??",
+    "Text": "그란 수원 4",
     "Enabled": true
   },
   "790032": {
     "OriginalText": "銅の荒野",
-    "Text": "Steel Wastelands",
-    "Enabled": true
+    "Text": "강철의 황야",
+    "Enabled": false
   },
   "790033": {
     "OriginalText": "グラン水源",
-    "Text": "Gran Water Rig",
+    "Text": "그란 수원",
     "Enabled": true
   },
   "790034": {
     "OriginalText": "炎の高地",
-    "Text": "Flame Highlands",
+    "Text": "불꽃의 고지",
     "Enabled": true
   },
   "790035": {
     "OriginalText": "大尖塔",
-    "Text": "Large Spire",
+    "Text": "대첨탑",
     "Enabled": true
   },
   "790036": {
     "OriginalText": "古代都市",
-    "Text": "Ancient City",
+    "Text": "고대 도시",
     "Enabled": true
   },
   "790037": {
     "OriginalText": "ノヴァ内部",
-    "Text": "Nova Interior",
+    "Text": "노바 내부",
     "Enabled": true
   },
   "790038": {
     "OriginalText": "未知",
-    "Text": "Unknown",
+    "Text": "미지",
     "Enabled": true
   }
 }

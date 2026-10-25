@@ -1,4 +1,4 @@
-*.json  text=auto eol=native
+*.json text eol=lf
 *.txt text=auto eol=native
 *.doom text=auto eol=native
 *.sh text=auto eol=lf

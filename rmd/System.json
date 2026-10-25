@@ -1,177 +1,52 @@
 {
-  "10000": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
   "10001": {
     "OriginalText": "エマージェンシートライアル成功！",
-    "Text": "Emergency Trial success!",
+    "Text": "이머전시 트라이얼 성공!",
     "Enabled": true
-  },
-  "10002": {
-    "OriginalText": "０",
-    "Text": "0",
-    "Enabled": true
-  },
-  "10003": {
-    "OriginalText": "１",
-    "Text": "1",
-    "Enabled": true
-  },
-  "10004": {
-    "OriginalText": "２",
-    "Text": "2",
-    "Enabled": true
-  },
-  "10005": {
-    "OriginalText": "３",
-    "Text": "3",
-    "Enabled": true
-  },
-  "10006": {
-    "OriginalText": "４",
-    "Text": "4",
-    "Enabled": true
-  },
-  "10007": {
-    "OriginalText": "５",
-    "Text": "5",
-    "Enabled": true
-  },
-  "10008": {
-    "OriginalText": "６",
-    "Text": "6",
-    "Enabled": true
-  },
-  "10009": {
-    "OriginalText": "７",
-    "Text": "7",
-    "Enabled": true
-  },
-  "10010": {
-    "OriginalText": "８",
-    "Text": "8",
-    "Enabled": true
-  },
-  "10011": {
-    "OriginalText": "９",
-    "Text": "9",
-    "Enabled": true
-  },
-  "10012": {
-    "OriginalText": "(",
-    "Text": "",
-    "Enabled": false
-  },
-  "10013": {
-    "OriginalText": ")",
-    "Text": "",
-    "Enabled": false
-  },
-  "10014": {
-    "OriginalText": "+",
-    "Text": "",
-    "Enabled": false
-  },
-  "10015": {
-    "OriginalText": "/",
-    "Text": "",
-    "Enabled": false
-  },
-  "10016": {
-    "OriginalText": "：",
-    "Text": "",
-    "Enabled": false
-  },
-  "10017": {
-    "OriginalText": "★",
-    "Text": "",
-    "Enabled": false
-  },
-  "10018": {
-    "OriginalText": "*",
-    "Text": "",
-    "Enabled": false
-  },
-  "10019": {
-    "OriginalText": "「",
-    "Text": " 「",
-    "Enabled": true
-  },
-  "10020": {
-    "OriginalText": "」",
-    "Text": "」 ",
-    "Enabled": true
-  },
-  "10021": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
-  "10022": {
-    "OriginalText": "×",
-    "Text": "",
-    "Enabled": false
-  },
-  "10023": {
-    "OriginalText": "%",
-    "Text": "",
-    "Enabled": false
-  },
-  "10024": {
-    "OriginalText": "-",
-    "Text": "",
-    "Enabled": false
-  },
-  "10025": {
-    "OriginalText": "～",
-    "Text": "",
-    "Enabled": false
   },
   "10101": {
     "OriginalText": "OK",
-    "Text": "OK",
+    "Text": "확인",
     "Enabled": true
   },
   "10102": {
     "OriginalText": "キャンセル",
-    "Text": "Cancel",
+    "Text": "취소",
     "Enabled": true
   },
   "10103": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "10104": {
     "OriginalText": "グランエナジー",
-    "Text": "Gran Energy",
+    "Text": "그란 에너지",
     "Enabled": true
   },
   "10105": {
     "OriginalText": "はい",
-    "Text": "Yes",
+    "Text": "네",
     "Enabled": true
   },
   "10106": {
     "OriginalText": "いいえ",
-    "Text": "No",
+    "Text": "아니오",
     "Enabled": true
   },
   "10107": {
     "OriginalText": "x",
-    "Text": "",
-    "Enabled": false
+    "Text": "x",
+    "Enabled": true
   },
   "10108": {
     "OriginalText": "回",
-    "Text": "",
-    "Enabled": false
+    "Text": "회",
+    "Enabled": true
   },
   "10109": {
     "OriginalText": "P",
-    "Text": "",
-    "Enabled": false
+    "Text": "P",
+    "Enabled": true
   }
 }

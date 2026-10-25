@@ -1,182 +1,177 @@
 {
   "370000": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "370001": {
     "OriginalText": "モノメイト",
-    "Text": "Monomate",
+    "Text": "모노메이트",
     "Enabled": true
   },
   "370002": {
     "OriginalText": "ディメイト",
-    "Text": "Dimate",
+    "Text": "디메이트",
     "Enabled": true
   },
   "370003": {
     "OriginalText": "トリメイト",
-    "Text": "Trimate",
+    "Text": "트리메이트",
     "Enabled": true
   },
   "370004": {
     "OriginalText": "ソルアトマイザー",
-    "Text": "Sol Atomizer",
+    "Text": "솔 아토마이저",
     "Enabled": true
   },
   "370005": {
     "OriginalText": "ムーンアトマイザー",
-    "Text": "Moon Atomizer",
+    "Text": "문 아토마이저",
     "Enabled": true
   },
   "370006": {
     "OriginalText": "スターアトマイザー",
-    "Text": "Star Atomizer",
+    "Text": "스타 아토마이저",
     "Enabled": true
   },
   "370007": {
     "OriginalText": "コスモアトマイザー",
-    "Text": "Cosmo Atomizer",
+    "Text": "코스모 아토마이저",
     "Enabled": true
   },
   "370008": {
     "OriginalText": "シフタライド",
-    "Text": "Shiftaride",
+    "Text": "시프타라이드",
     "Enabled": true
   },
   "370009": {
     "OriginalText": "デバンライド",
-    "Text": "Debanride",
+    "Text": "데반라이드",
     "Enabled": true
   },
   "370010": {
     "OriginalText": "グランピース",
-    "Text": "Gran Piece",
+    "Text": "그란 피스",
     "Enabled": true
   },
   "370011": {
     "OriginalText": "グランピース(炎属性)",
-    "Text": "Gran Piece (Fire)",
+    "Text": "그란 피스(염속성)",
     "Enabled": true
   },
   "370012": {
     "OriginalText": "グランピース(劇属性)",
-    "Text": "Gran Piece (Ice)",
+    "Text": "그란 피스(빙속성)",
     "Enabled": true
   },
   "370013": {
     "OriginalText": "グランピース(雷属性)",
-    "Text": "Gran Piece (Lightning)",
+    "Text": "그란 피스(뇌속성)",
     "Enabled": true
   },
   "370014": {
     "OriginalText": "グランピース(風属性)",
-    "Text": "Gran Piece (Wind)",
+    "Text": "그란 피스(풍속성)",
     "Enabled": true
   },
   "370015": {
     "OriginalText": "グランピース(光属性)",
-    "Text": "Gran Piece (Light)",
+    "Text": "그란 피스(광속성)",
     "Enabled": true
   },
   "370016": {
     "OriginalText": "グランピース(闇属性)",
-    "Text": "Gran Piece (Dark)",
+    "Text": "그란 피스(암속성)",
     "Enabled": true
   },
   "370017": {
     "OriginalText": "リングジェネレーター",
-    "Text": "Ring Generator",
+    "Text": "링 제너레이터",
     "Enabled": true
-  },
-  "380000": {
-    "OriginalText": "---",
-    "Text": "",
-    "Enabled": false
   },
   "380001": {
     "OriginalText": "アークス御用達の回復剤。\n使用することでＨＰが回復する。",
-    "Text": "Recovery item provided by ARKS. Restores\nHP when used.",
+    "Text": "아크스가 애용하는 회복약.\n사용하면 HP가 회복된다.",
     "Enabled": true
   },
   "380002": {
     "OriginalText": "アークス御用達の強化回復剤。\n使用することでＨＰが大きく回復する。",
-    "Text": "Recovery item provided by ARKS.\nSignificantly restores HP when used.",
+    "Text": "아크스가 애용하는 강화 회복약.\n사용하면 HP가 크게 회복된다.",
     "Enabled": true
   },
   "380003": {
     "OriginalText": "アークス御用達の完全回復剤。\n使用することでＨＰが全回復する。",
-    "Text": "Recovery item provided by ARKS.\nCompletely restores HP when used.",
+    "Text": "아크스가 애용하는 완전 회복약.\n사용하면 HP가 전부 회복된다.",
     "Enabled": true
   },
   "380004": {
     "OriginalText": "広範囲に及ぶ状態異常用の治療薬。\n使用した者と、周囲にいる味方の\n状態異常を回復させることができる。",
-    "Text": "A wide-ranged treatment for abnormal\nstatus. Allows the user to cure the\nabnormal status of all nearby players.",
+    "Text": "넓은 범위에 효과가 미치는 상태이상 치료약.\n사용자와 주변에 있는 아군의\n상태이상을 회복시킬 수 있다.",
     "Enabled": true
   },
   "380005": {
     "OriginalText": "広範囲に及ぶ復活薬。\n使用した者の周囲にいる戦闘不能状態の\n味方を復活させることができる。",
-    "Text": "A wide-ranged revival medicine. Allows\nthe user to revive all nearby\nincapacitated players.",
+    "Text": "넓은 범위에 효과가 미치는 부활약.\n사용자 주변에서 전투 불능 상태인\n아군을 부활시킬 수 있다.",
     "Enabled": true
   },
   "380006": {
     "OriginalText": "広範囲に及ぶ回復剤。\n使用した者と、周囲にいる味方の\nＨＰを大きく回復させる。",
-    "Text": "A wide-ranged recovery item. Allows the\nuser to heal all nearby players.",
+    "Text": "넓은 범위에 효과가 미치는 회복약.\n사용자와 주변에 있는 아군의\nHP를 크게 회복시킨다.",
     "Enabled": true
   },
   "380007": {
     "OriginalText": "広範囲に及ぶ完全回復剤。\n使用した者と、周囲にいる味方を\n完全な状態まで回復させる。",
-    "Text": "A wide-ranged full recovery item. Allows\nthe user to heal all nearby players into\nperfect condition.",
+    "Text": "넓은 범위에 효과가 미치는 완전 회복약.\n사용자와 주변에 있는 아군을\n완전한 상태로 회복시킨다.",
     "Enabled": true
   },
   "380008": {
     "OriginalText": "広範囲に及ぶ攻撃強化剤。\n使用した者と、周囲にいる味方の\n攻撃力を強化する。",
-    "Text": "A wide-ranged attack boosting item.\nAllows the user to boost the attack of\nall nearby players.",
+    "Text": "넓은 범위에 효과가 미치는 공격 강화약.\n사용자와 주변에 있는 아군의\n공격력을 강화한다.",
     "Enabled": true
   },
   "380009": {
     "OriginalText": "広範囲に及ぶ防御強化剤。\n使用した者と、周囲にいる味方の\n防御力を強化する。",
-    "Text": "A wide-ranged defense boosting item.\nAllows the user to boost the defense of\nall nearby players.",
+    "Text": "넓은 범위에 효과가 미치는 방어 강화약.\n사용자와 주변에 있는 아군의\n방어력을 강화한다.",
     "Enabled": true
   },
   "380010": {
     "OriginalText": "グランのエネルギーを蓄えた鉱物結晶。\n未知の惑星マキアにおいて、あらゆる\n物資に加工が可能な唯一の材料となる。",
-    "Text": "A Crystaline Ore that contains Gran\nEnergy. Native to Mahkia, it can be\nprocessed into materials for equipment.",
+    "Text": "그란의 에너지를 축적한 광물 결정.\n미지의 행성 마키아에서 온갖 물자로\n가공할 수 있는 유일한 재료다.",
     "Enabled": true
   },
   "380011": {
     "OriginalText": "グランのエネルギーを蓄えた鉱物結晶。\n火の粉が舞うような灼熱の環境下で\n炎属性を帯び、赤く輝いている。",
-    "Text": "A Crystaline Ore that contains Gran\nEnergy. When exposed to heat, it shines\nred as it's imbued with the power of\nFire.",
+    "Text": "그란의 에너지를 축적한 광물 결정.\n불티가 흩날릴 듯한 뜨거운 환경에서\n염속성을 띠고 붉게 빛난다.",
     "Enabled": true
   },
   "380012": {
     "OriginalText": "グランのエネルギーを蓄えた鉱物結晶。\n氷雪地帯のような極寒の環境下で\n氷属性を帯び、青く輝いている。",
-    "Text": "A Crystaline Ore that contains Gran\nEnergy. When exposed to arctic\nconditions, it shines blue as it's\nimbued with the power of Ice.",
+    "Text": "그란의 에너지를 축적한 광물 결정.\n빙설 지대 같은 극한의 추위 속에서\n빙속성을 띠고 푸르게 빛난다.",
     "Enabled": true
   },
   "380013": {
     "OriginalText": "グランのエネルギーを蓄えた鉱物結晶。\n落雷の影響を受けやすい降雨時に\n雷属性を帯び、黄色く輝いている。",
-    "Text": "A Crystaline Ore that contains Gran\nEnergy. When exposed to lightning\nstrikes, it shines yellow as it's imbued\nwith the power of Lightning.",
+    "Text": "그란의 에너지를 축적한 광물 결정.\n낙뢰의 영향을 받기 쉬운 비 오는 때에\n뇌속성을 띠고 노랗게 빛난다.",
     "Enabled": true
   },
   "380014": {
     "OriginalText": "グランのエネルギーを蓄えた鉱物結晶。\n砂塵の影響を受けやすい強風時に\n風属性を帯び、緑色に輝いている。",
-    "Text": "A Crystaline Ore that contains Gran\nEnergy. When exposed to strong wind, it\nshines green as it's imbued with the\npower of Wind.",
+    "Text": "그란의 에너지를 축적한 광물 결정.\n모래 먼지의 영향을 받기 쉬운 강풍 속에서\n풍속성을 띠고 초록빛으로 빛난다.",
     "Enabled": true
   },
   "380015": {
     "OriginalText": "グランのエネルギーを蓄えた鉱物結晶。\n光属性を帯び、橙色に輝いている。\n原生種の蛍の影響らしいが詳細は不明。",
-    "Text": "A Crystaline Ore that contains Gran\nEnergy. The native species seem to be influenced\nby it. It's details are unknown, however\nit glows orange with the power of Light.",
+    "Text": "그란의 에너지를 축적한 광물 결정.\n광속성을 띠고 주황빛으로 빛난다.\n원생종 반딧불의 영향인 듯하나 자세한 건 불명.",
     "Enabled": true
   },
   "380016": {
     "OriginalText": "グランのエネルギーを蓄えた鉱物結晶。\n闇属性を帯び、紫色に輝いている。\n原生種の蛍の影響らしいが詳細は不明。",
-    "Text": "A Crystaline Ore that contains Gran\nEnergy. The native species seem to be influenced\nby it. It's details are unknown, however\nit glows purple with the power of Dark.",
+    "Text": "그란의 에너지를 축적한 광물 결정.\n암속성을 띠고 보랏빛으로 빛난다.\n원생종 반딧불의 영향인 듯하나 자세한 건 불명.",
     "Enabled": true
   },
   "380017": {
     "OriginalText": "使い捨ての簡易式ヘイロウ。装備を\n変更せずにアイテムとして使用できる。\n足場【リングフィールド】を作成する。",
-    "Text": "A disposable Ring Generator without the\nneed of a Halo. Can be used without\ncharging to create a [Ring Platform].",
+    "Text": "일회용 간이 헤일로. 장비를\n바꾸지 않고 아이템으로 사용할 수 있다.\n발판 '링 필드'를 만든다.",
     "Enabled": true
   }
 }

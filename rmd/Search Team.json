@@ -1,1642 +1,1632 @@
 {
-  "700000": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
-  },
   "700001": {
     "OriginalText": "［食材調達］原生膜β類食材調達",
-    "Text": "[Gather] Native β Ingredients",
+    "Text": "(식재료) 원생 파충류 식재료 조달",
     "Enabled": true
   },
   "700002": {
     "OriginalText": "［調査］銅の荒野開柘調査",
-    "Text": "[Survey] Steel Wastelands Wilderness",
-    "Enabled": true
+    "Text": "(조사) 강철의 황야 개척 조사",
+    "Enabled": false
   },
   "700003": {
     "OriginalText": "［調査］グラン水装の調査",
-    "Text": "[Survey] Gran Water Rig",
-    "Enabled": true
+    "Text": "(조사) 그란 수원 조사",
+    "Enabled": false
   },
   "700004": {
     "OriginalText": "［採集］銅の荒野グランピース採集",
-    "Text": "[Collect] Steel Wastelands Gran Pieces",
-    "Enabled": true
+    "Text": "(채집) 강철의 황야 그란 피스 채집",
+    "Enabled": false
   },
   "700005": {
     "OriginalText": "［食材調達］ダーカー食材調達",
-    "Text": "[Gather] Darker Ingredients",
+    "Text": "(식재료) 다커 식재료 조달",
     "Enabled": true
   },
   "700006": {
     "OriginalText": "［エネミー］グラン水装機械生洋討伐",
-    "Text": "[Enemy] Gran Water Rig Machine Suppression",
-    "Enabled": true
+    "Text": "(에너미) 그란 수원 기계 생물 토벌",
+    "Enabled": false
   },
   "700007": {
     "OriginalText": "［調査］惑星の概要調査",
-    "Text": "[Survey] Planet Overview",
+    "Text": "(조사) 행성 개요 조사",
     "Enabled": true
   },
   "700008": {
     "OriginalText": "［採集］グラン水装グランピース採集",
-    "Text": "[Collect] Gran Water Rig Gran Pieces",
-    "Enabled": true
+    "Text": "(채집) 그란 수원 그란 피스 채집",
+    "Enabled": false
   },
   "700009": {
     "OriginalText": "［食材調達］炎の高地食材回収",
-    "Text": "[Gather] Flame Highlands Ingredients",
+    "Text": "(식재료) 불꽃의 고지 식재료 회수",
     "Enabled": true
   },
   "700010": {
     "OriginalText": "［エネミー］コラル・ドラゴン討伐",
-    "Text": "[Enemy] Coral Dragon Suppression",
+    "Text": "(에너미) 코랄 드래곤 토벌",
     "Enabled": true
   },
   "700011": {
     "OriginalText": "［調査］惑星の大気調査",
-    "Text": "[Survey] Planet Atmosphere",
+    "Text": "(조사) 행성 대기 조사",
     "Enabled": true
   },
   "700012": {
     "OriginalText": "［採集］炎の高地グランピース採集",
-    "Text": "[Collect] Flame Highlands Gran Pieces",
+    "Text": "(채집) 불꽃의 고지 그란 피스 채집",
     "Enabled": true
   },
   "700013": {
     "OriginalText": "［食材調達］銅の荒野ダーカー食材調達",
-    "Text": "[Gather] Steel Wastelands Darker Ingredients",
-    "Enabled": true
+    "Text": "(식재료) 강철의 황야 다커 식재료 조달",
+    "Enabled": false
   },
   "700014": {
     "OriginalText": "［エネミー］銅の荒野原生種討伐",
-    "Text": "[Enemy] Steel Wastelands Natives Suppression",
-    "Enabled": true
+    "Text": "(에너미) 강철의 황야 원생종 토벌",
+    "Enabled": false
   },
   "700015": {
     "OriginalText": "［調査］銅の荒野生態系調査",
-    "Text": "[Survey] Steel Wastelands Ecosystem",
-    "Enabled": true
+    "Text": "(조사) 강철의 황야 생태계 조사",
+    "Enabled": false
   },
   "700016": {
     "OriginalText": "［採集］銅の荒野鉱石採集",
-    "Text": "[Collect] Steel Wastelands Ore",
-    "Enabled": true
+    "Text": "(채집) 강철의 황야 광석 채집",
+    "Enabled": false
   },
   "700017": {
     "OriginalText": "［エネミー］銅の荒野アグリオス討伐",
-    "Text": "[Enemy] Steel Wastelands Agrios Suppression",
-    "Enabled": true
+    "Text": "(에너미) 강철의 황야 아그리오스 토벌",
+    "Enabled": false
   },
   "700018": {
     "OriginalText": "［食材調達］グラン水装原生種食材調達",
-    "Text": "[Gather] Gran Water Rig Species Ingredients",
-    "Enabled": true
+    "Text": "(식재료) 그란 수원 원생종 식재료 조달",
+    "Enabled": false
   },
   "700019": {
     "OriginalText": "［エネミー］Ｇダーク・ラグネ討伐",
-    "Text": "[Enemy] G-Dark Ragne Suppression",
+    "Text": "(에너미) G 다크 라그네 토벌",
     "Enabled": true
   },
   "700020": {
     "OriginalText": "［調査］惑星の気候調査",
-    "Text": "[Survey] Planet Climate",
+    "Text": "(조사) 행성 기후 조사",
     "Enabled": true
   },
   "700021": {
     "OriginalText": "［採集］グラン水装鉱石採集",
-    "Text": "[Collect] Gran Water Rig Ore",
-    "Enabled": true
+    "Text": "(채집) 그란 수원 광석 채집",
+    "Enabled": false
   },
   "700022": {
     "OriginalText": "［エネミー］エウリュード討伐",
-    "Text": "[Enemy] Eurude Suppression",
+    "Text": "(에너미) 에우류드 토벌",
     "Enabled": true
   },
   "700023": {
     "OriginalText": "［食材調達］炎の高地原生種食材調達",
-    "Text": "[Gather] Flame Highlands Plant Ingredients",
+    "Text": "(식재료) 불꽃의 고지 원생종 식재료 조달",
     "Enabled": true
   },
   "700024": {
     "OriginalText": "［エネミー］炎の高地原生生洋討伐",
-    "Text": "[Enemy] Flame Highlands Natives Suppression",
-    "Enabled": true
+    "Text": "(에너미) 불꽃의 고지 원생 생물 토벌",
+    "Enabled": false
   },
   "700025": {
     "OriginalText": "［調査］惑星の地質調査",
-    "Text": "[Survey] Planet Geology",
+    "Text": "(조사) 행성 지질 조사",
     "Enabled": true
   },
   "700026": {
     "OriginalText": "［採集］炎の高地結晶採集",
-    "Text": "[Collect] Flame Highlands Crystals",
+    "Text": "(채집) 불꽃의 고지 결정 채집",
     "Enabled": true
   },
   "700027": {
     "OriginalText": "［エネミー］アルキュオネ討伐",
-    "Text": "[Enemy] Alcyone Suppression",
+    "Text": "(에너미) 알키오네 토벌",
     "Enabled": true
   },
   "700028": {
     "OriginalText": "［食材調達］銅の荒野食材調達",
-    "Text": "[Gather] Steel Wastelands Ingredients",
-    "Enabled": true
+    "Text": "(식재료) 강철의 황야 식재료 조달",
+    "Enabled": false
   },
   "700029": {
     "OriginalText": "［エネミー］ギガンテス捜索討伐",
-    "Text": "[Enemy] Gigantes Search and Suppress",
+    "Text": "(에너미) 기간테스 수색 토벌",
     "Enabled": true
   },
   "700030": {
     "OriginalText": "［調査］古代都市生態調査",
-    "Text": "[Survey] Ancient City Ecology",
+    "Text": "(조사) 고대 도시 생태 조사",
     "Enabled": true
   },
   "700031": {
     "OriginalText": "［採集］銅の荒野稀少鉱石採集",
-    "Text": "[Collect] Steel Wastelands Rare Ore",
-    "Enabled": true
+    "Text": "(채집) 강철의 황야 희귀 광석 채집",
+    "Enabled": false
   },
   "700032": {
     "OriginalText": "［エネミー］原生種討伐",
-    "Text": "[Enemy] Natives Suppression",
+    "Text": "(에너미) 원생종 토벌",
     "Enabled": true
   },
   "700033": {
     "OriginalText": "［食材調達］グラン水装食材調達",
-    "Text": "[Gather] Gran Water Rig Ingredients",
-    "Enabled": true
+    "Text": "(식재료) 그란 수원 식재료 조달",
+    "Enabled": false
   },
   "700034": {
     "OriginalText": "［エネミー］グラン水装機械生洋討伐",
-    "Text": "[Enemy] Gran Water Rig Machine Suppression",
-    "Enabled": true
+    "Text": "(에너미) 그란 수원 기계 생물 토벌",
+    "Enabled": false
   },
   "700035": {
     "OriginalText": "［調査］原生種の牙採集調査",
-    "Text": "[Survey] Native Fangs",
+    "Text": "(조사) 원생종 송곳니 채집 조사",
     "Enabled": true
   },
   "700036": {
     "OriginalText": "［採集］グラン水装稀少鉱石採集",
-    "Text": "[Collect] Gran Water Rig Rare Ore",
-    "Enabled": true
+    "Text": "(채집) 그란 수원 희귀 광석 채집",
+    "Enabled": false
   },
   "700037": {
     "OriginalText": "［エネミー］大尖塔原生膜β類討伐",
-    "Text": "[Enemy] Large Spire Natives β Suppression",
-    "Enabled": true
+    "Text": "(에너미) 대첨탑 원생 파충류 토벌",
+    "Enabled": false
   },
   "700038": {
     "OriginalText": "［食材調達］炎の高地高難度食材採集",
-    "Text": "[Gather] Flame Highlands Rare Ingredients",
+    "Text": "(식재료) 불꽃의 고지 고난도 식재료 채집",
     "Enabled": true
   },
   "700039": {
     "OriginalText": "［エネミー］惑星本体ギガンテス討伐",
-    "Text": "[Enemy] Planet Gigantes Suppression",
+    "Text": "(에너미) 행성 본체 기간테스 토벌",
     "Enabled": true
   },
   "700040": {
     "OriginalText": "［調査］ギガンテス素材調査",
-    "Text": "[Survey] Gigantes Material",
+    "Text": "(조사) 기간테스 소재 조사",
     "Enabled": true
   },
   "700041": {
     "OriginalText": "［採集］炎の高地輝石採集",
-    "Text": "[Collect] Flame Highlands Pyroxene",
+    "Text": "(채집) 불꽃의 고지 휘석 채집",
     "Enabled": true
   },
   "700042": {
     "OriginalText": "［エネミー］エネミー危険調査討伐",
-    "Text": "[Enemy] Dangerous Enemies Suppression",
+    "Text": "(에너미) 에너미 위험 조사 토벌",
     "Enabled": true
   },
   "700043": {
     "OriginalText": "［食材調達］大尖塔植洋食材採集",
-    "Text": "[Gather] Large Spire Plant Ingredients",
-    "Enabled": true
+    "Text": "(식재료) 대첨탑 식물 식재료 채집",
+    "Enabled": false
   },
   "700044": {
     "OriginalText": "［エネミー］大尖塔エネミー討伐",
-    "Text": "[Enemy] Large Spire Suppression",
+    "Text": "(에너미) 대첨탑 에너미 토벌",
     "Enabled": true
   },
   "700045": {
     "OriginalText": "［調査］古代都市地質調査",
-    "Text": "[Survey] Ancient City Geology",
+    "Text": "(조사) 고대 도시 지질 조사",
     "Enabled": true
   },
   "700046": {
     "OriginalText": "［採集］大尖塔遺洋調査採集",
-    "Text": "[Collect] Large Spire Ore",
-    "Enabled": true
+    "Text": "(채집) 대첨탑 유물 조사 채집",
+    "Enabled": false
   },
   "700047": {
     "OriginalText": "［食材調達］古代都市食材調達",
-    "Text": "[Gather] Ancient City Ingredients",
+    "Text": "(식재료) 고대 도시 식재료 조달",
     "Enabled": true
   },
   "700048": {
     "OriginalText": "［エネミー］モストカーネベア討伐",
-    "Text": "[Enemy] Mosst Carnnebear Suppression",
+    "Text": "(에너미) 모스트 카네베어 토벌",
     "Enabled": true
   },
   "700049": {
     "OriginalText": "［調査］ダーカー素材調査",
-    "Text": "[Survey] Darker Material",
+    "Text": "(조사) 다커 소재 조사",
     "Enabled": true
   },
   "700050": {
     "OriginalText": "［採集］古代都市資材回収",
-    "Text": "[Collect] Ancient City Materials",
+    "Text": "(채집) 고대 도시 자재 회수",
     "Enabled": true
   },
   "700051": {
     "OriginalText": "［食材調達］銅の荒野膜β類食材調達",
-    "Text": "[Gather] Steel Wastelands Natives β Suppression",
-    "Enabled": true
+    "Text": "(식재료) 강철의 황야 파충류 식재료 조달",
+    "Enabled": false
   },
   "700052": {
     "OriginalText": "［エネミー］銅の荒野原生種大量討伐",
-    "Text": "[Enemy] Steel Wastelands Natives Extermination",
-    "Enabled": true
+    "Text": "(에너미) 강철의 황야 원생종 대량 토벌",
+    "Enabled": false
   },
   "700053": {
     "OriginalText": "［調査］膜β類エネミー素材調査",
-    "Text": "[Survey] Reptile Enemy Material",
-    "Enabled": true
+    "Text": "(조사) 파충류 에너미 소재 조사",
+    "Enabled": false
   },
   "700054": {
     "OriginalText": "［食材調達］グラン水装肉食材調達",
-    "Text": "[Gather] Gran Water Rig Meat",
-    "Enabled": true
+    "Text": "(식재료) 그란 수원 고기 식재료 조달",
+    "Enabled": false
   },
   "700055": {
     "OriginalText": "［エネミー］グラン水装ギガンテス討伐",
-    "Text": "[Enemy] Gran Water Rig Gigantes Suppression",
-    "Enabled": true
+    "Text": "(에너미) 그란 수원 기간테스 토벌",
+    "Enabled": false
   },
   "700056": {
     "OriginalText": "［調査］エネミー素材調査",
-    "Text": "[Survey] Enemy Material",
+    "Text": "(조사) 에너미 소재 조사",
     "Enabled": true
   },
   "700057": {
     "OriginalText": "［食材調達］炎の高地水晶竜食材調達",
-    "Text": "[Gather] Flame Highlands Earth Crystal Dragon Ingredients",
+    "Text": "(식재료) 불꽃의 고지 수정룡 식재료 조달",
     "Enabled": true
   },
   "700058": {
     "OriginalText": "［エネミー］炎の高地大型エネミー討伐",
-    "Text": "[Enemy] Flame Highlands Large Enemies Suppression",
+    "Text": "(에너미) 불꽃의 고지 대형 에너미 토벌",
     "Enabled": true
   },
   "700059": {
     "OriginalText": "［エネミー］大尖塔大型エネミー討伐",
-    "Text": "[Enemy] Large Spire Large Enemies Suppression",
+    "Text": "(에너미) 대첨탑 대형 에너미 토벌",
     "Enabled": true
   },
   "700060": {
     "OriginalText": "［食材調達］大尖塔食材調査",
-    "Text": "[Gather] Large Spire Ingredients",
+    "Text": "(식재료) 대첨탑 식재료 조사",
     "Enabled": true
   },
   "700061": {
     "OriginalText": "［エネミー］ゴルドス討伐",
-    "Text": "[Enemy] Gordes Suppression",
+    "Text": "(에너미) 골도스 토벌",
     "Enabled": true
   },
   "700062": {
     "OriginalText": "［エネミー］ガラティオン討伐",
-    "Text": "[Enemy] Garation Suppression",
+    "Text": "(에너미) 갈라티온 토벌",
     "Enabled": true
   },
   "700063": {
     "OriginalText": "［食材調達］古代都市鳥食材調達",
-    "Text": "[Gather] Ancient City Bird Ingredients",
+    "Text": "(식재료) 고대 도시 조류 식재료 조달",
     "Enabled": true
   },
   "700064": {
     "OriginalText": "［エネミー］古代都市掃討作戦",
-    "Text": "[Enemy] Ancient City Suppression",
+    "Text": "(에너미) 고대 도시 소탕 작전",
     "Enabled": true
   },
   "700065": {
     "OriginalText": "［調査］高難度鉱石回収",
-    "Text": "[Survey] Rare Ore Collection",
+    "Text": "(조사) 고난도 광석 회수",
     "Enabled": true
   },
   "700066": {
     "OriginalText": "［食材調達］アグリオスのたまご調達",
-    "Text": "[Gather] Agrios Eggs",
+    "Text": "(식재료) 아그리오스 알 조달",
     "Enabled": true
   },
   "700067": {
     "OriginalText": "［エネミー］銅の荒野原生種討伐",
-    "Text": "[Enemy] Steel Wastelands Suppression",
-    "Enabled": true
+    "Text": "(에너미) 강철의 황야 원생종 토벌",
+    "Enabled": false
   },
   "700068": {
     "OriginalText": "［調査］銅の荒野広域調査",
-    "Text": "[Survey] Steel Wastelands Area",
-    "Enabled": true
+    "Text": "(조사) 강철의 황야 광역 조사",
+    "Enabled": false
   },
   "700069": {
     "OriginalText": "［採集］銅の荒野鉱石採集",
-    "Text": "[Collect] Steel Wastelands Ore",
-    "Enabled": true
+    "Text": "(채집) 강철의 황야 광석 채집",
+    "Enabled": false
   },
   "700070": {
     "OriginalText": "［エネミー］銅の荒野機械生洋討伐",
-    "Text": "[Enemy] Steel Wastelands Machine Suppression",
-    "Enabled": true
+    "Text": "(에너미) 강철의 황야 기계 생물 토벌",
+    "Enabled": false
   },
   "700071": {
     "OriginalText": "［食材調達］グラン水装大量食材調達",
-    "Text": "[Gather] Gran Water Rig Numerous Ingredients",
-    "Enabled": true
+    "Text": "(식재료) 그란 수원 식재료 대량 조달",
+    "Enabled": false
   },
   "700072": {
     "OriginalText": "［エネミー］グラン水装ギガンテス捜索",
-    "Text": "[Enemy] Gran Water Rig Gigantes Search",
-    "Enabled": true
+    "Text": "(에너미) 그란 수원 기간테스 수색",
+    "Enabled": false
   },
   "700073": {
     "OriginalText": "［調査］グラン水装の生態系調査",
-    "Text": "[Survey] Gran Ecosystem",
-    "Enabled": true
+    "Text": "(조사) 그란 수원 생태계 조사",
+    "Enabled": false
   },
   "700074": {
     "OriginalText": "［採集］グラン水装鉱石大捜索採集",
-    "Text": "[Collect] Gran Water Rig Large Ore",
-    "Enabled": true
+    "Text": "(채집) 그란 수원 광석 대규모 수색 채집",
+    "Enabled": false
   },
   "700075": {
     "OriginalText": "［エネミー］グラン水装原生種討伐",
-    "Text": "[Enemy] Gran Water Rig Natives Suppression",
-    "Enabled": true
+    "Text": "(에너미) 그란 수원 원생종 토벌",
+    "Enabled": false
   },
   "700076": {
     "OriginalText": "［食材調達］竜族のたまご調達",
-    "Text": "[Gather] Dragon Eggs",
+    "Text": "(식재료) 용족 알 조달",
     "Enabled": true
   },
   "700077": {
     "OriginalText": "［エネミー］炎の高地アルキュオネ討伐",
-    "Text": "[Enemy] Flame Highlands Alcyone Suppression",
+    "Text": "(에너미) 불꽃의 고지 알키오네 토벌",
     "Enabled": true
   },
   "700078": {
     "OriginalText": "［調査］炎の高地機械生洋素材調査",
-    "Text": "[Survey] Flame Highlands Machine Materials",
-    "Enabled": true
+    "Text": "(조사) 불꽃의 고지 기계 생물 소재 조사",
+    "Enabled": false
   },
   "700079": {
     "OriginalText": "［採集］炎の高地輝石大捜索採集",
-    "Text": "[Collect] Flame Highlands Large Pyroxene",
+    "Text": "(채집) 불꽃의 고지 휘석 대규모 수색 채집",
     "Enabled": true
   },
   "700080": {
     "OriginalText": "［エネミー］惑星ギガンテス捜索討伐",
-    "Text": "[Enemy] Planet Gigantes Search and Suppress",
+    "Text": "(에너미) 행성 기간테스 수색 토벌",
     "Enabled": true
   },
   "700081": {
     "OriginalText": "［食材調達］大尖塔食材調達",
-    "Text": "[Gather] Large Spire Ingredients",
+    "Text": "(식재료) 대첨탑 식재료 조달",
     "Enabled": true
   },
   "700082": {
     "OriginalText": "［エネミー］大尖塔原生種クリーン作戦",
-    "Text": "[Enemy] Large Spire Natives Clean Suppression",
+    "Text": "(에너미) 대첨탑 원생종 정리 작전",
     "Enabled": true
   },
   "700083": {
     "OriginalText": "［調査］大尖塔で調査用樹木伐採",
-    "Text": "[Survey] Large Spire Trees",
+    "Text": "(조사) 대첨탑 조사용 수목 벌채",
     "Enabled": true
   },
   "700084": {
     "OriginalText": "［採集］大尖塔資材採集",
-    "Text": "[Collect] Large Spire Materials",
+    "Text": "(채집) 대첨탑 자재 채집",
     "Enabled": true
   },
   "700085": {
     "OriginalText": "［エネミー］大尖塔原生種討伐",
-    "Text": "[Enemy] Large Spire Natives Suppression",
+    "Text": "(에너미) 대첨탑 원생종 토벌",
     "Enabled": true
   },
   "700086": {
     "OriginalText": "［食材調達］古代都市食材調達",
-    "Text": "[Gather] Ancient City Ingredients",
+    "Text": "(식재료) 고대 도시 식재료 조달",
     "Enabled": true
   },
   "700087": {
     "OriginalText": "［エネミー］古代都市大型エネミー討伐",
-    "Text": "[Enemy] Ancient City Large Enemies Suppression",
+    "Text": "(에너미) 고대 도시 대형 에너미 토벌",
     "Enabled": true
   },
   "700088": {
     "OriginalText": "［エネミー］デェフキュオネ討伐",
-    "Text": "[Enemy] Defcyone Suppression",
+    "Text": "(에너미) 데프큐오네 토벌",
     "Enabled": true
   },
   "700089": {
     "OriginalText": "［採集］古代都市鉄柱採集",
-    "Text": "[Collect] Ancient City Shellfish",
+    "Text": "(채집) 고대 도시 철기둥 채집",
     "Enabled": true
   },
   "700090": {
     "OriginalText": "［エネミー］ギガンテス討伐",
-    "Text": "[Enemy] Gigantes Suppression",
+    "Text": "(에너미) 기간테스 토벌",
     "Enabled": true
   },
   "700091": {
     "OriginalText": "［食材調達］ノヴァ内部食材調達",
-    "Text": "[Gather] Nova Interior Ingredients",
+    "Text": "(식재료) 노바 내부 식재료 조달",
     "Enabled": true
   },
   "700092": {
     "OriginalText": "［エネミー］ノヴァ内部エネミー討伐",
-    "Text": "[Enemy] Nova Interior Suppression",
+    "Text": "(에너미) 노바 내부 에너미 토벌",
     "Enabled": true
   },
   "700093": {
     "OriginalText": "［調査］ノヴァ内部地質調査",
-    "Text": "[Survey] Nova Interior Geology",
+    "Text": "(조사) 노바 내부 지질 조사",
     "Enabled": true
   },
   "700094": {
     "OriginalText": "［採集］ミグマタイト採集",
-    "Text": "[Collect] Migmatite",
+    "Text": "(채집) 미그마타이트 채집",
     "Enabled": true
   },
   "700095": {
     "OriginalText": "［エネミー］ノヴァ内部掃討作戦",
-    "Text": "[Enemy] Nova Interior Extermination",
+    "Text": "(에너미) 노바 내부 소탕 작전",
     "Enabled": true
   },
   "700096": {
     "OriginalText": "［食材調達］ノヴァ内部食材調達",
-    "Text": "[Gather] Nova Interior Ingredients",
+    "Text": "(식재료) 노바 내부 식재료 조달",
     "Enabled": true
   },
   "700097": {
     "OriginalText": "［エネミー］ファンアフォル討伐",
-    "Text": "[Enemy] Fan'aphol Suppression",
+    "Text": "(에너미) 판아포르 토벌",
     "Enabled": true
   },
   "700098": {
     "OriginalText": "［調査］ノヴァ内部危険度調査",
-    "Text": "[Survey] Nova Interior Risk",
+    "Text": "(조사) 노바 내부 위험도 조사",
     "Enabled": true
   },
   "700099": {
     "OriginalText": "［採集］クリソベル石採集",
-    "Text": "[Collect] Cymophane Stone",
+    "Text": "(채집) 크리소벨석 채집",
     "Enabled": true
   },
   "700100": {
     "OriginalText": "［エネミー］ギガティオン討伐",
-    "Text": "[Enemy] Gigation Suppression",
+    "Text": "(에너미) 기가티온 토벌",
     "Enabled": true
   },
   "700101": {
     "OriginalText": "［採集］フラグメント採集",
-    "Text": "[Collect] Fragments",
+    "Text": "(채집) 프래그먼트 채집",
     "Enabled": true
   },
   "700102": {
     "OriginalText": "［採集］地上フラグメント採集",
-    "Text": "[Collect] Ground Fragments",
+    "Text": "(채집) 지상 프래그먼트 채집",
     "Enabled": true
   },
   "700103": {
     "OriginalText": "［採集］惑星本体フラグメント採集",
-    "Text": "[Collect] Planet Fragments",
+    "Text": "(채집) 행성 본체 프래그먼트 채집",
     "Enabled": true
   },
   "700104": {
     "OriginalText": "［採集］フラグメントＣ～Ｄ採集",
-    "Text": "[Collect] C～D Fragments",
+    "Text": "(채집) 프래그먼트 C~D 채집",
     "Enabled": true
   },
   "700105": {
     "OriginalText": "［採集］フラグメントＥ～Ｆ採集",
-    "Text": "[Collect] E～F Fragments",
+    "Text": "(채집) 프래그먼트 E~F 채집",
     "Enabled": true
   },
   "700106": {
     "OriginalText": "［採集］フラグメントＧ～Ｈ採集",
-    "Text": "[Collect] G～H Fragments",
+    "Text": "(채집) 프래그먼트 G~H 채집",
     "Enabled": true
   },
   "700107": {
     "OriginalText": "［採集］フラグメントＩ～Ｊ採集",
-    "Text": "[Collect] I～J Fragments",
+    "Text": "(채집) 프래그먼트 I~J 채집",
     "Enabled": true
-  },
-  "710000": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
   },
   "710001": {
     "OriginalText": "銅の荒野へ食村の調達に向かう。\n今回は小型原生種を標的にするため任務としては\n比較的安全だが、気を抜かず慎重に作戦遂行する。\n結果は追って報告する。",
-    "Text": "Monster Flesh × 3\nReptile Egg × 3\nReptile Extract × 3",
+    "Text": "강철의 황야로 식재료를 조달하러 간다.\n이번엔 소형 원생종이 표적이라 비교적 안전한\n임무지만, 방심하지 않고 신중히 작전을 수행한다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710002": {
     "OriginalText": "銅の荒野全域の危険度調査に向かう。\n大きな反応を示す未調査エリアを含めた本格調査で\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "G-El Ahda Wings × 4\nVi Maphrezer Claw × 4\nGigantes Laser Piece × 4",
-    "Enabled": true
+    "Text": "강철의 황야 전역의 위험도를 조사하러 간다.\n큰 반응이 나타나는 미조사 에어리어까지 포함한 본격 조사로,\n미확인 생명체와 마주칠 가능성도 있다.\n귀환 후 신속히 조사 결과를 정리해 제출한다.",
+    "Enabled": false
   },
   "710003": {
     "OriginalText": "グラン水装の調査に向かう。\n未調査エリアも含めた本格調査であり、\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "G-El Ahda Stinger × 4\nG-Dagan Carapace × 4\nGran Piece (Light) × 4",
-    "Enabled": true
+    "Text": "그란 수원을 조사하러 간다.\n미조사 에어리어까지 포함하는 본격적인 조사로,\n피할 수 없는 사태에 직면할 가능성도 있다.\n귀환 후 신속히 조사 결과를 정리해 제출한다.",
+    "Enabled": false
   },
   "710004": {
     "OriginalText": "銅の荒野へグランピースの採集に向かう。\n現時点で多数の反応を確認しており、\n属性を帯びた個体の発見が見込まれている。\n結果は追って報告する。",
-    "Text": "Gran Piece (Light) × 4\nGran Piece (Lightning) × 4",
-    "Enabled": true
+    "Text": "강철의 황야로 그란 피스를 채집하러 간다.\n현재 다수의 반응이 확인되어,\n속성을 띤 개체를 발견할 수 있을 것으로 보인다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710005": {
     "OriginalText": "グラン水装へ代用食村の調達に向かう。\n食肉が不足していることもあり、取り急ぎ危険領域を\n回避し、入手が容易な食村を探す予定である。\n結果は追って報告する。",
-    "Text": "Darker Meat × 4\nDarker Node × 4\nMagavulum Goo × 4",
-    "Enabled": true
+    "Text": "그란 수원으로 대체 식재료를 조달하러 간다.\n고기가 부족한 만큼 우선 위험 구역을 피해\n쉽게 구할 수 있는 식재료를 찾을 예정이다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710006": {
     "OriginalText": "グラン水装へ機械生洋の撃破に向かう。\n現地にてかなりの規物の反応を確認しており、\n若干の危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Ase Rabbisaw Motor × 4\nMagavulum Cannon × 4\nOui Rove Rappy Main Wing × 4",
-    "Enabled": true
+    "Text": "그란 수원으로 기계 생물을 격파하러 간다.\n현지에서 상당한 규모의 반응이 확인되어,\n다소 위험이 따르는 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710007": {
     "OriginalText": "惑星全域の概要を把握する調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Memory Fragment E × 4\nGigantes Meat × 4",
+    "Text": "행성 전역의 개요를 파악하러 간다.\n미확인 에어리어까지 포함하는 본격적인 조사로,\n피할 수 없는 사태에 직면할 가능성도 있다.\n귀환 후 신속히 조사 결과를 정리해 제출한다.",
     "Enabled": true
   },
   "710008": {
     "OriginalText": "グラン水装でグランピースを採集する。\n現時点で多数の反応を確認しており、\n属性を帯びた個体の発見が見込まれている。\n結果は追って報告する。",
-    "Text": "Gran Piece (Ice) × 4\nGran Piece (Wind) × 4",
-    "Enabled": true
+    "Text": "그란 수원에서 그란 피스를 채집한다.\n현재 다수의 반응이 확인되어,\n속성을 띤 개체를 발견할 수 있을 것으로 보인다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710009": {
     "OriginalText": "炎の高地へ食用になるものの調達を行う。\n安全を優先し標的は小型原生種に限定する。\n速やかに現地へ向かい、慎重に作戦遂行する。\n結果は追って報告する。",
-    "Text": "Glowing Leaves × 4\nReptile Extract × 4\nReptile Crest × 4",
+    "Text": "불꽃의 고지로 먹을거리를 조달하러 간다.\n안전을 우선해 표적은 소형 원생종으로 한정한다.\n신속히 현지로 가서 신중히 작전을 수행한다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710010": {
     "OriginalText": "炎の高地へコラル・ドラゴンの撃破に向かう。\n現地にて強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Coral Dragon Blood × 4\nCrystalized Dragon Crystal × 4\nCrystalized Dragon Silicon × 4",
+    "Text": "불꽃의 고지로 코랄 드래곤을 격파하러 간다.\n현지에서 강한 반응이 확인되어,\n상당히 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710011": {
     "OriginalText": "惑星全域の大気組成の調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Torrimp Meat × 4\nRapiliston × 4",
+    "Text": "행성 전역의 대기 조성을 조사하러 간다.\n미확인 에어리어까지 포함하는 본격적인 조사로,\n피할 수 없는 사태에 직면할 가능성도 있다.\n귀환 후 신속히 조사 결과를 정리해 제출한다.",
     "Enabled": true
   },
   "710012": {
     "OriginalText": "炎の高地でグランピースを採集する。\n現時点で多数の反応を確認しており、\n属性を帯びた個体の発見が見込まれている。\n結果は追って報告する。",
-    "Text": "Gran Piece (Fire) × 4\nGran Piece (Dark) × 4",
+    "Text": "불꽃의 고지에서 그란 피스를 채집한다.\n현재 다수의 반응이 확인되어,\n속성을 띤 개체를 발견할 수 있을 것으로 보인다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710013": {
     "OriginalText": "銅の荒野へ食肉の調達に向かう。\n安全を優先し標的は小型原生種に限定する。\n速やかに現地へ向かい、慎重に作戦遂行する。\n結果は追って報告する。",
-    "Text": "Darker Node × 4\nDarker Meat × 4\nDarker Antennae × 4",
-    "Enabled": true
+    "Text": "강철의 황야로 고기를 조달하러 간다.\n안전을 우선해 표적은 소형 원생종으로 한정한다.\n신속히 현지로 가서 신중히 작전을 수행한다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710014": {
     "OriginalText": "銅の荒野へ原生種の撃破に向かう。\n現地における反応はそれほど強くなく、大きな危険は\nないと予想するが、慎重に作戦を遂行する。\n結果は追って報告する。",
-    "Text": "Lar Aviadino Claw × 4\nDarker Sword Fin × 4\nSilve Carnnebear Fur × 4",
-    "Enabled": true
+    "Text": "강철의 황야로 원생종을 격파하러 간다.\n현지 반응은 그리 강하지 않아 큰 위험은\n없을 것으로 보이나, 신중히 작전을 수행한다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710015": {
     "OriginalText": "銅の荒野全域の生態系調査に向かう。\n未調査エリアも含めた本格調査であり、\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Darker Antennae × 4\nGran Piece (Lightning) × 4\nGigantes Missile Piece × 4",
-    "Enabled": true
+    "Text": "강철의 황야 전역의 생태계를 조사하러 간다.\n미조사 에어리어까지 포함하는 본격적인 조사로,\n미확인 생명체와 마주칠 가능성도 있다.\n귀환 후 신속히 조사 결과를 정리해 제출한다.",
+    "Enabled": false
   },
   "710016": {
     "OriginalText": "銅の荒野にて鉱石の採集に向かう。\n現地にて強いエネミー反応を確認しており、\n採集中に戦闘になる可能性が高い。\n結果は追って報告する。",
-    "Text": "Rapiliston × 4\nSilicified Wood × 4",
-    "Enabled": true
+    "Text": "강철의 황야로 광석을 채집하러 간다.\n현지에서 강한 에너미 반응이 확인되어,\n채집 중 전투가 벌어질 가능성이 높다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710017": {
     "OriginalText": "銅の荒野へアグリオスの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Darker Exoskeleton × 4\nGigantes Missile Piece × 4\nAgrios Horn × 4",
-    "Enabled": true
+    "Text": "강철의 황야로 아그리오스를 격파하러 간다.\n현지에서 확인된 반응은 매우 커,\n매우 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710018": {
     "OriginalText": "グラン水装へ食肉の調達に向かう。\n現地にて大量の反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Monster Flesh × 4\nReptile Extract × 4\nShellfish × 4",
-    "Enabled": true
+    "Text": "그란 수원으로 고기를 조달하러 간다.\n현지에서 대량의 반응이 확인되어,\n상당히 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710019": {
     "OriginalText": "グラン水装へＧダーク・ラグネの撃破に向かう。\n現地にて強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "G-Dark Ragne Talon × 4\nEder Crittro Fur × 4\nG-Dark Ragne Hard Feeler × 4",
-    "Enabled": true
+    "Text": "그란 수원으로 G 다크 라그네를 격파하러 간다.\n현지에서 강한 반응이 확인되어,\n상당히 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710020": {
     "OriginalText": "惑星全域の気候調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Reptile Egg × 4\nPerovuskite Stone × 4",
+    "Text": "행성 전역의 기후를 조사하러 간다.\n미확인 에어리어까지 포함하는 본격적인 조사로,\n피할 수 없는 사태에 직면할 가능성도 있다.\n귀환 후 신속히 조사 결과를 정리해 제출한다.",
     "Enabled": true
   },
   "710021": {
     "OriginalText": "グラン水装にて鉱石の採集に向かう。\n現地にて強いエネミー反応を確認しており、\n採集中に戦闘になる可能性が高い。\n結果は追って報告する。",
-    "Text": "Wood Opal × 4\nRed Growing Flower Crystal × 4",
-    "Enabled": true
+    "Text": "그란 수원으로 광석을 채집하러 간다.\n현지에서 강한 에너미 반응이 확인되어,\n채집 중 전투가 벌어질 가능성이 높다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710022": {
     "OriginalText": "グラン水装へエウリュードの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Eurude Barrel × 4\nGigantes Laser Piece × 4\nLarge Eurude Warhead × 4",
-    "Enabled": true
+    "Text": "그란 수원으로 에우류드를 격파하러 간다.\n현지에서 확인된 반응은 매우 커,\n매우 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710023": {
     "OriginalText": "炎の高地へ代用食村の調達に向かう。\n洋資全般が不足しており、食村の確保を優先し\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
-    "Text": "Reptile Crest × 4\nShellfish × 4\nCoral Dragon Blood × 4",
-    "Enabled": true
+    "Text": "불꽃의 고지로 대체 식재료를 조달하러 간다.\n물자 전반이 부족해 식재료 확보를 우선하며,\n상황에 따라서는 위험 구역에 진입한다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710024": {
     "OriginalText": "炎の高地へ原生種の撃破に向かう。\n現地において大量の反応を確認しているが、\nそれほど強くなく危険は少ないと予想される。\n結果は追って報告する。",
-    "Text": "Poly Jurrakia Bone × 4\nMar Valdinas Magazine × 4\nGigantes Cracker Fragment × 4",
+    "Text": "불꽃의 고지로 원생종을 격파하러 간다.\n현지에서 대량의 반응이 확인되었으나,\n그리 강하지 않아 위험은 적을 것으로 보인다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710025": {
     "OriginalText": "惑星全域の地質調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Reptile Extract × 4\nMemory Fragment D × 4",
+    "Text": "행성 전역의 지질을 조사하러 간다.\n미확인 에어리어까지 포함하는 본격적인 조사로,\n피할 수 없는 사태에 직면할 가능성도 있다.\n귀환 후 신속히 조사 결과를 정리해 제출한다.",
     "Enabled": true
   },
   "710026": {
     "OriginalText": "炎の高地へ鉱石の採集に向かう。\n現時点で反応は確認済みであり、\n希少な鉱石の発見が見込まれている。\n結果は追って報告する。",
-    "Text": "Frigid Burning Metal Crystal × 4\nRed Growing Flower Crystal × 4",
+    "Text": "불꽃의 고지로 광석을 채집하러 간다.\n현재 반응이 확인되어,\n희귀 광석을 발견할 수 있을 것으로 보인다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710027": {
     "OriginalText": "炎の高地へアルキュオネの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Alcyone's Levitator × 1\nAlcyone Arm Piece × 1\nAlcyone Ink Sac × 1",
+    "Text": "불꽃의 고지로 알키오네를 격파하러 간다.\n현지에서 확인된 반응은 매우 커,\n매우 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710028": {
     "OriginalText": "銅の荒野へ食村の調達に向かう。\n食用となるものが見つかり次第回収していく予定で\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
-    "Text": "Juicy Fruit × 5\nReptile Crest × 5\nAgrios Egg × 5",
-    "Enabled": true
+    "Text": "강철의 황야로 식재료를 조달하러 간다.\n먹을거리를 찾는 대로 회수할 예정이며,\n상황에 따라서는 위험 구역에 진입한다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710029": {
     "OriginalText": "ギガンテスの捜索討伐に向かう。\n行き先は限定せず、反応の探索、\n追跡と殲滅を行う。\n結果は追って報告する。",
-    "Text": "Large Gygante Gun Part × 5\nAlcyone Arm Piece × 5\nAgrios Blade Platform × 5",
+    "Text": "기간테스를 수색해 토벌하러 간다.\n행선지는 한정하지 않고 반응을 탐색해\n추적한 뒤 섬멸한다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710030": {
     "OriginalText": "古代都市の調査に向かう。\n生息するエネミーの調査を行う。\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Flobegulf Hair × 4\nJurrakia Bone × 4\nMad Aviadino Sharp Nail × 4",
+    "Text": "고대 도시를 조사하러 간다.\n그곳에 서식하는 에너미를 조사한다.\n미확인 생명체와 마주칠 가능성도 있다.\n귀환 후 신속히 조사 결과를 정리해 제출한다.",
     "Enabled": true
   },
   "710031": {
     "OriginalText": "銅の荒野へ鉱石の採集に向かう。\n現時点で多数の反応を確認しており、\n希少な鉱石の発見が見込まれている。\n結果は追って報告する。",
-    "Text": "Gran Piece (Light) × 5\nGran Piece (Lightning) × 5\nCrystalline Pyrope × 5",
-    "Enabled": true
+    "Text": "강철의 황야로 광석을 채집하러 간다.\n현재 다수의 반응이 확인되어,\n희귀 광석을 발견할 수 있을 것으로 보인다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710032": {
     "OriginalText": "パトロールを兼ねたエネミーの討伐に向かう。\n行き先は限定せず、反応の探索、\n追跡と殲滅を行う。\n結果は追って報告する。",
-    "Text": "Med Jurrakia Bone × 4\nGu Rozad Fin × 4\nRap Mysteroon Sharp Wing × 4",
+    "Text": "순찰을 겸해 에너미를 토벌하러 간다.\n행선지는 한정하지 않고 반응을 탐색해\n추적한 뒤 섬멸한다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710033": {
     "OriginalText": "グラン水装へ食肉の調達に向かう。\n食用となる柔らかな肉類を求められており、\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
-    "Text": "Rove Rappy Meat × 5\nGiant Monster Flesh × 5\nBanther Bone × 5",
-    "Enabled": true
+    "Text": "그란 수원으로 고기를 조달하러 간다.\n식용으로 쓸 부드러운 고기를 요청받았으며,\n상황에 따라서는 위험 구역에 진입한다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710034": {
     "OriginalText": "グラン水装へ機械生洋の撃破に向かう。\n現地において大量の反応を確認しているが、\nそれほど強くなく危険は少ないと予想される。\n結果は追って報告する。",
-    "Text": "Rabbisaw Main Motor × 5\nRabbisaw Hard Ear Chain × 5\nRay Banther Pointed Horn × 5",
-    "Enabled": true
+    "Text": "그란 수원으로 기계 생물을 격파하러 간다.\n현지에서 대량의 반응이 확인되었으나,\n그리 강하지 않아 위험은 적을 것으로 보인다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710035": {
     "OriginalText": "大尖塔のエネミーから牙を採取する。\n現地にてかなり強い反応を確認しており、\n若干の危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Fury Ra Oodan Sharp Fang × 4\nBanther Fang × 4\nBanther Sharp Fang × 4",
+    "Text": "대첨탑의 에너미에게서 송곳니를 채취한다.\n현지에서 상당히 강한 반응이 확인되어,\n다소 위험이 따르는 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710036": {
     "OriginalText": "グラン水装へ岩石の採集に向かう。\n現地にて反応を確認済みだが、\n同時に強めのエネミー反応も確認している。\n安全確保に留意しつつ作戦を遂行する。",
-    "Text": "Gran Piece (Wind) × 5\nGran Piece (Ice) × 5\nDull Silica Corundum × 5",
-    "Enabled": true
+    "Text": "그란 수원으로 암석을 채집하러 간다.\n현지 반응을 확인했지만,\n동시에 제법 강한 에너미 반응도 확인되었다.\n안전 확보에 유의하며 작전을 수행한다.",
+    "Enabled": false
   },
   "710037": {
     "OriginalText": "大尖塔へ原生膜β類の撃破に向かう。\n現地にてかなり強い反応を確認しており、\n若干の危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Huy Maphrezer Sharp Hook Claw × 4\nNoibaridran'na Sharp Claw × 4\nWindiras Large Tail × 4",
-    "Enabled": true
+    "Text": "대첨탑으로 원생 파충류를 격파하러 간다.\n현지에서 상당히 강한 반응이 확인되어,\n다소 위험이 따르는 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710038": {
     "OriginalText": "炎の高地へ原生種の食村調達に向かう。\n採集が困難とされる食村に狙いを絞って採集を行う。\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Dragonkin Meat × 5\nTorrimp Meat × 5\nAlcyone's Jelly × 5",
-    "Enabled": true
+    "Text": "불꽃의 고지로 원생종 식재료를 조달하러 간다.\n채집하기 어렵다는 식재료만을 노려 채집한다.\n상당히 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710039": {
     "OriginalText": "惑星本体でギガンテスの捜索討伐に向かう。\n行き先は限定せず、反応の探索、\n追跡と殲滅を行う。\n結果は追って報告する。",
-    "Text": "Greios's Main Cannon × 5\nSharp Greios Horn × 5\nGaration Metal Wire × 5",
+    "Text": "행성 본체로 기간테스를 수색해 토벌하러 간다.\n행선지는 한정하지 않고 반응을 탐색해\n추적한 뒤 섬멸한다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710040": {
     "OriginalText": "惑星全域に出現するギガンテス調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Gigantes Missile Piece × 5\nVivryude Claw × 5\nDefcyone Tentacle × 5",
+    "Text": "행성 전역에 출현하는 기간테스를 조사하러 간다.\n미확인 에어리어까지 포함하는 본격적인 조사로,\n피할 수 없는 사태에 직면할 가능성도 있다.\n귀환 후 신속히 조사 결과를 정리해 제출한다.",
     "Enabled": true
   },
   "710041": {
     "OriginalText": "炎の高地へ輝石の採集に向かう。\n現地にて確認されているエネミー反応が非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Gran Piece (Dark) × 5\nGran Piece (Fire) × 5\nHeated Rhodium Pyroxene × 5",
+    "Text": "불꽃의 고지로 휘석을 채집하러 간다.\n현지에서 확인된 에너미 반응이 매우 커,\n매우 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710042": {
     "OriginalText": "大尖塔へ原生生洋の撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "G-Dahgash Tail Fin × 4\nLeu Rove Rappy Large Fat × 4\nLeu Rove Rappy Wing × 4",
-    "Enabled": true
+    "Text": "대첨탑으로 원생 생물을 격파하러 간다.\n현지에서 확인된 반응은 매우 커,\n매우 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710043": {
     "OriginalText": "大尖塔で食用できる植洋を採集する。\n現地にて確認されているエネミー反応が非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Moss × 4\nRice × 4\nLarge Mushroom × 4",
-    "Enabled": true
+    "Text": "대첨탑에서 먹을 수 있는 식물을 채집한다.\n현지에서 확인된 에너미 반응이 매우 커,\n매우 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710044": {
     "OriginalText": "大尖塔へ原生種の撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Fury Ra Oodan Pelt × 4\nMysteroon Sharp Wing × 4\nHard G-El Ahda Feeler × 4",
+    "Text": "대첨탑으로 원생종을 격파하러 간다.\n현지에서 확인된 반응은 매우 커,\n매우 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710045": {
     "OriginalText": "古代都市の地域の調査に向かう。\n予備調査データでは未確認のエリアが点在しており\n若干の危険を伴う任務になると予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Flobegulf Hair × 5\nYeden Pelt × 5\nFlo Fonbegulf Hair × 5",
+    "Text": "고대 도시 지역을 조사하러 간다. 예비 조사\n데이터상 미확인 에어리어가 곳곳에 있어,\n다소 위험이 따르는 임무가 될 것으로 보인다.\n귀환 후 신속히 조사 결과를 정리해 제출한다.",
     "Enabled": true
   },
   "710046": {
     "OriginalText": "大尖塔へ遺洋収集に向かう。\n現地を調査し収集可能な遺洋を回収する。\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
-    "Text": "Obelisk Fragment × 4\nLarge Spire's Wire × 4\nDyed Ceramics × 4",
-    "Enabled": true
+    "Text": "대첨탑으로 유물을 수집하러 간다.\n현지를 조사해 수집할 수 있는 유물을 회수한다.\n상황에 따라서는 위험 구역에 진입한다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710047": {
     "OriginalText": "古代都市の食村調達に向かう。\n植洋由来の食村に絞って調達を行う。\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Small Tree Nuts × 4\nTomato × 4\nMoss × 4",
-    "Enabled": true
+    "Text": "고대 도시로 식재료를 조달하러 간다.\n식물에서 얻는 식재료로 한정해 조달한다.\n미확인 생명체와 마주칠 가능성도 있다.\n귀환 후 신속히 조사 결과를 정리해 제출한다.",
+    "Enabled": false
   },
   "710048": {
     "OriginalText": "古代都市へモストカーネベアの撃破に向かう。\n現地にて強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Yeden Pelt × 5\nMossed Carnnebear Pelt × 5\nMossed Carnnebear Cannon × 5",
+    "Text": "고대 도시로 모스트 카네베어를 격파하러 간다.\n현지에서 강한 반응이 확인되어,\n상당히 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710049": {
     "OriginalText": "惑星全域の出現するダーカー調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "G-Kuklonahda Tail × 5\nG-Predicahda Blade × 5\nG-Kuklonahda Arm × 5",
-    "Enabled": true
+    "Text": "행성 전역에 출현하는 다커를 조사하러 간다.\n미확인 에어리어까지 포함하는 본격적인 조사로,\n피할 수 없는 사태에 직면할 가능성도 있다.\n귀환 후 신속히 조사 결과를 정리해 제출한다.",
+    "Enabled": false
   },
   "710050": {
     "OriginalText": "古代都市へ資村の採集に向かう。\n調査報告によると現地に反応が認められるが、\nエネミー反応が非常に大きく\n大いなる危険を伴う任務になると予想される。",
-    "Text": "Steel Layered Sheet × 5\nWild Tree × 5\nBlack Shell-less Shellfish × 5",
-    "Enabled": true
+    "Text": "고대 도시로 자재를 채집하러 간다.\n조사 보고상 현지에서 반응이 감지되나,\n에너미 반응이 매우 커,\n매우 위험한 임무가 될 것으로 보인다.",
+    "Enabled": false
   },
   "710051": {
     "OriginalText": "銅の荒野へ食肉の調達に向かう。\n今回は大型原生種を標的にするため、若干の危険を\n伴うものと予想され、慎重に作戦遂行する。\n結果は追って報告する。",
-    "Text": "Reptile Extract × 5\nReptile Crest × 5\nGiant Monster Flesh × 5",
-    "Enabled": true
+    "Text": "강철의 황야로 고기를 조달하러 간다.\n이번엔 대형 원생종이 표적이라 다소 위험이\n따를 것으로 보이며, 신중히 작전을 수행한다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710052": {
     "OriginalText": "銅の荒野で大量発生した原生種の討伐に向かう。\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Monster Flesh × 5\nGu Rozad Claw × 5\nLarge Ra Oodan Pelt × 5",
-    "Enabled": true
+    "Text": "강철의 황야에서 대량 발생한 원생종을 토벌한다.\n상당히 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710053": {
     "OriginalText": "膜β類の生態系調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Reptile Meat × 5\nHard Vi Maphrezer Membrane × 5\nLarge Baridran'na Glowing Ball × 5",
-    "Enabled": true
+    "Text": "파충류의 생태계를 조사하러 간다.\n미확인 에어리어까지 포함하는 본격적인 조사로,\n피할 수 없는 사태에 직면할 가능성도 있다.\n귀환 후 신속히 조사 결과를 정리해 제출한다.",
+    "Enabled": false
   },
   "710054": {
     "OriginalText": "グラン水装へ食村の調達に向かう。\n食用となる柔らかな肉類を求められており、\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
-    "Text": "Monster Flesh × 5\nRove Rappy Meat × 5\nFish Gigantes Meat × 5",
-    "Enabled": true
+    "Text": "그란 수원으로 식재료를 조달하러 간다.\n식용으로 쓸 부드러운 고기를 요청받았으며,\n상황에 따라서는 위험 구역에 진입한다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710055": {
     "OriginalText": "グラン水装に出現した巨大な反応の撃破に向かう。\nどのタイプかは確定できていないが\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Gigantes Hide × 5\nDietoas Compression Bag × 5\nVivryude Gun Barrel × 5",
-    "Enabled": true
+    "Text": "그란 수원에 출현한 거대한 반응을 격파하러 간다.\n어느 유형인지는 확정하지 못했지만,\n매우 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710056": {
     "OriginalText": "惑星全域の生態系調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Eder Crittro Fur × 5\nSwole Ban'qu Gem × 5\nEl Maphrezer Sharp Hook Claw × 5",
+    "Text": "행성 전역의 생태계를 조사하러 간다.\n미확인 에어리어까지 포함하는 본격적인 조사로,\n피할 수 없는 사태에 직면할 가능성도 있다.\n귀환 후 신속히 조사 결과를 정리해 제출한다.",
     "Enabled": true
   },
   "710057": {
     "OriginalText": "食料としてコラル・ドラゴンの撃破に向かう。\n翼の付け根の肉は柔らかくて美味だが\n一体から取れる量は冷めて少量。\n結果は追って報告する。",
-    "Text": "Dragonkin Meat × 5\nMagavulum Goo × 5\nCoral Dragon Blood × 5",
-    "Enabled": true
+    "Text": "식량으로 쓸 코랄 드래곤을 격파하러 간다.\n날개 뿌리의 고기는 부드럽고 맛있지만,\n한 마리에서 얻는 양은 극히 적다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710058": {
     "OriginalText": "炎の高地で検知された大型エネミーの討伐を行う。\nギガンテスの可能性もあるため、\nかなりの危険を伴うことが予想される。\n結果は追って報告する。",
-    "Text": "Alcyone Shoulder Armor × 5\nDefcyone Ink Sac × 5\nCrystalized Dragon Silicon × 5",
+    "Text": "불꽃의 고지에서 탐지된 대형 에너미를 토벌한다.\n기간테스일 가능성도 있어,\n상당한 위험이 따를 것으로 보인다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710059": {
     "OriginalText": "大尖塔へ大型エネミーの撃破に向かう。\n現地にてかなり強い反応を確認しており、\n若干の危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Banther Pointed Horn × 5\nRay Banther Sharp Hook Claw × 5\nResol Carnnebear Large Pelt × 5",
+    "Text": "대첨탑으로 대형 에너미를 격파하러 간다.\n현지에서 상당히 강한 반응이 확인되어,\n다소 위험이 따르는 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710060": {
     "OriginalText": "大尖塔へ食料の調達に向かう。\n食用にできるものの調査を兼ねた探索を行う。\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
-    "Text": "Darker Meat × 5\nRice × 5\nRock Salt × 5",
+    "Text": "대첨탑으로 식량을 조달하러 간다.\n먹을거리를 조사하면서 탐색한다.\n상황에 따라서는 위험 구역에 진입한다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710061": {
     "OriginalText": "大尖塔へゴルドスの撃破に向かう。\n現地にて復数の強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Su Rozad Sharp Claw × 5\nGordes Sharp Assault Spike × 5\nGordes Hard Control Rod × 5",
-    "Enabled": true
+    "Text": "대첨탑으로 골도스를 격파하러 간다.\n현지에서 여러 강한 반응이 확인되어,\n상당히 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710062": {
     "OriginalText": "大尖塔へガラティオンの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Gigantes Meat × 5\nGaration's Sharp Saw Blade × 5\nGaration Frame × 5",
+    "Text": "대첨탑으로 갈라티온을 격파하러 간다.\n현지에서 확인된 반응은 매우 커,\n매우 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710063": {
     "OriginalText": "古代都市へ食肉の調達に向かう。\n厨房からの意向で鳥類の確保を目指すが\n安全を優先し危険生洋の生息域を避けて行動する。\n結果は追って報告する。",
-    "Text": "Small Tree Nuts × 5\nJurrakia Cartilage × 5\nBird Meat × 5",
-    "Enabled": true
+    "Text": "고대 도시로 고기를 조달하러 간다.\n주방의 요청에 따라 조류 확보를 목표로 삼되,\n안전을 우선해 위험 생물 서식지를 피해 행동한다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710064": {
     "OriginalText": "古代都市のエネミー掃討作戦に向かう。\n現地にて強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Large Torrimp Pectoral Fin × 5\nJurrakia Bone × 5\nSharp G-Shalurayda Arm Blade × 5",
+    "Text": "고대 도시의 에너미 소탕 작전에 나선다.\n현지에서 강한 반응이 확인되어,\n상당히 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710065": {
     "OriginalText": "惑星全域の地質調査に向かう。\n未確認エリアも含めた本格調査であり\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Dull Silica Corundum × 5\nCrystalline Pyrope × 5\nHeated Rhodium Pyroxene × 5",
+    "Text": "행성 전역의 지질을 조사하러 간다.\n미확인 에어리어까지 포함하는 본격적인 조사로,\n피할 수 없는 사태에 직면할 가능성도 있다.\n귀환 후 신속히 조사 결과를 정리해 제출한다.",
     "Enabled": true
   },
   "710066": {
     "OriginalText": "アグリオスのたまごの調達に向かう。\nたまごを守るアグリオスとの戦闘は大いに危険を伴うと\n予想され、慎重に作戦遂行する。\n結果は追って報告する。",
-    "Text": "Reptile Meat × 5\nReptile Egg × 5\nAgrios Egg × 5",
+    "Text": "아그리오스의 알을 조달하러 간다.\n알을 지키는 아그리오스와의 전투는 매우 위험할\n것으로 보이며, 신중히 작전을 수행한다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710067": {
     "OriginalText": "銅の荒野で偵察目的の原生種討伐に向かう。\n現地における反応はそれほど強くなく、大きな危険は\nないと予想するが、慎重に作戦を遂行する。\n結果は追って報告する。",
-    "Text": "Aviadino Sharp Claw × 6\nPol Torrimp Large Pectoral Fin × 6\nGargranv Hard Mucus Crystal × 6",
-    "Enabled": true
+    "Text": "강철의 황야로 정찰을 위해 원생종을 토벌하러 간다.\n현지 반응은 그리 강하지 않아 큰 위험은\n없을 것으로 보이나, 신중히 작전을 수행한다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710068": {
     "OriginalText": "銅の荒野全域の調査に向かう。\n未調査エリアも含めた本格調査であり、\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Crystalline Pyrope × 6\nAgrios' Gun × 6",
-    "Enabled": true
+    "Text": "강철의 황야 전역을 조사하러 간다.\n미조사 에어리어까지 포함하는 본격적인 조사로,\n피할 수 없는 사태에 직면할 가능성도 있다.\n귀환 후 신속히 조사 결과를 정리해 제출한다.",
+    "Enabled": false
   },
   "710069": {
     "OriginalText": "銅の荒野へ岩石の採集に向かう。\n現地にて反応を確認済みだが、\n同時に強めのエネミー反応も確認している。\n安全確保に留意しつつ作戦を遂行する。",
-    "Text": "Gran Piece (Light) × 6\nGran Piece (Lightning) × 6\nCrystalline Pyrope × 6",
-    "Enabled": true
+    "Text": "강철의 황야로 암석을 채집하러 간다.\n현지 반응을 확인했지만,\n동시에 제법 강한 에너미 반응도 확인되었다.\n안전 확보에 유의하며 작전을 수행한다.",
+    "Enabled": false
   },
   "710070": {
     "OriginalText": "銅の荒野へ機械生洋の撃破に向かう。\n現地において大量の反応を確認しているが、\nそれほど強くなく危険は少ないと予想される。\n結果は追って報告する。",
-    "Text": "Gigantes Missile Piece × 8\nLar Valdinas Large Optics × 8\nLarge Ray Banther Cannon × 8",
-    "Enabled": true
+    "Text": "강철의 황야로 기계 생물을 격파하러 간다.\n현지에서 대량의 반응이 확인되었으나,\n그리 강하지 않아 위험은 적을 것으로 보인다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710071": {
     "OriginalText": "グラン水装へ大量の食村の調達に向かう。\n周囲にギガンテスの反応を検知しているが、\n運悪く遭遇した場合は捕食者がどちらになるか……\n結果は追って報告する。",
-    "Text": "Monster Milk × 6\nFish Gigantes Meat × 6\nBanther Bone × 6",
-    "Enabled": true
+    "Text": "그란 수원으로 대량의 식재료를 조달하러 간다.\n주변에서 기간테스 반응이 탐지되는데,\n운 나쁘게 마주치면 어느 쪽이 포식자가 될지…\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710072": {
     "OriginalText": "復数のギガンテスの目撃されている地域の捜索と\nその撃破に向かう。\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Dietoas Compression Bag × 8\nLarge Gygante Gun Part × 8\nDietoas Lens × 8",
-    "Enabled": true
+    "Text": "기간테스 여러 마리가 목격된 지역을 수색해\n이를 격파하러 간다.\n매우 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710073": {
     "OriginalText": "グラン水装全域の生態系調査に向かう。\n未調査エリアも含めた本格調査であり、\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Eder Crittro Fur × 6\nLarge Ray Banther Cannon × 6",
-    "Enabled": true
+    "Text": "그란 수원 전역의 생태계를 조사하러 간다.\n미조사 에어리어까지 포함하는 본격적인 조사로,\n미확인 생명체와 마주칠 가능성도 있다.\n귀환 후 신속히 조사 결과를 정리해 제출한다.",
+    "Enabled": false
   },
   "710074": {
     "OriginalText": "グラン水装で広域の鉱洋の採集に向かう。\n人産戦術による早期鉱洋発見を目指すが、\nエネミーとの遭遇の確率も上がってしまう。\n安全確保に留意しつつ作戦を遂行する。",
-    "Text": "Gran Piece (Wind) × 6\nGran Piece (Ice) × 6\nDull Silica Corundum × 6",
-    "Enabled": true
+    "Text": "그란 수원에서 넓은 범위의 광물을 채집하러 간다.\n인해전술로 광물을 빨리 찾으려 하지만,\n에너미와 마주칠 확률도 높아지고 만다.\n안전 확보에 유의하며 작전을 수행한다.",
+    "Enabled": false
   },
   "710075": {
     "OriginalText": "グラン水装へ大型エネミーの撃破に向かう。\n捜索と撃破の両方が要求されるため\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Gigantes Shell Fragment × 10\nDarker Pelt × 10\nSmar Crittro Sharp Claw × 10",
-    "Enabled": true
+    "Text": "그란 수원으로 대형 에너미를 격파하러 간다.\n수색과 격파를 모두 수행해야 하므로,\n상당히 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710076": {
     "OriginalText": "炎の高地のコラル・ドラゴンの巣穴を強襲、\nそのたまごの奪取を狙う。\n相当の危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Torrimp Meat × 6\nCoral Dragon Blood × 6\nDragonkin Egg × 6",
+    "Text": "불꽃의 고지에 있는 코랄 드래곤의 둥지를 급습해\n알을 빼앗는 것을 노린다.\n상당히 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710077": {
     "OriginalText": "炎の高地へアルキュオネの撃破に向かう。\nかなりの危険を伴うが、こちらも持てる最大の戦力を\n投入してこれの撃破に当たる。\n結果は追って報告する。",
-    "Text": "Gigantes Engine Gear × 10\nAlcyone's Levitator × 10\nAlcyone's Jelly × 10",
+    "Text": "불꽃의 고지로 알키오네를 격파하러 간다.\n상당히 위험하지만, 이쪽도 가용 전력을\n최대한 투입해 격파에 나선다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710078": {
     "OriginalText": "炎の高地全域の機械生洋調査に向かう。\n未調査エリアも含めた本格調査であり、\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Mech Armor Fragment × 6\nMachinery Fragment × 6\nCrude Engine Frame × 6",
-    "Enabled": true
+    "Text": "불꽃의 고지 전역의 기계 생물을 조사하러 간다.\n미조사 에어리어까지 포함하는 본격적인 조사로,\n미확인 생명체와 마주칠 가능성도 있다.\n귀환 후 신속히 조사 결과를 정리해 제출한다.",
+    "Enabled": false
   },
   "710079": {
     "OriginalText": "炎の高地で広域の鉱洋の採集に向かう。\n人産戦術による早期鉱洋発見を目指すが、\nエネミーとの遭遇の確率も上がってしまう。\n安全確保に留意しつつ作戦を遂行する。",
-    "Text": "Gran Piece (Dark) × 6\nGran Piece (Fire) × 6\nHeated Rhodium Pyroxene × 6",
-    "Enabled": true
+    "Text": "불꽃의 고지에서 넓은 범위의 광물을 채집한다.\n인해전술로 광물을 빨리 찾으려 하지만,\n에너미와 마주칠 확률도 높아지고 만다.\n안전 확보에 유의하며 작전을 수행한다.",
+    "Enabled": false
   },
   "710080": {
     "OriginalText": "ギガンテスの広範囲捜索討伐に向かう。\n行き先は限定せず、反応の探索、\n追跡と殲滅を行う。\n結果は追って報告する。",
-    "Text": "Gigantes Cracker Fragment × 8\nGigantes Missile Piece × 8\nGigantes Laser Piece × 8",
+    "Text": "기간테스를 광범위하게 수색해 토벌하러 간다.\n행선지는 한정하지 않고 반응을 탐색해\n추적한 뒤 섬멸한다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710081": {
-    "OriginalText": "大尖塔へ食料の調達に向かう。\nとにかく植洋由来の素村が厨房から熱望されており、\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
-    "Text": "Rice × 5\nMoss × 5\nGigantes Rib × 5",
+    "OriginalText": "大尖塔へ食料の調達に向かう。\nとにかく植物由来の素材が厨房から熱望されており、\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
+    "Text": "대첨탑으로 식량을 조달하러 간다.\n주방에서 식물성 소재를 간절히 바라고 있어,\n상황에 따라서는 위험 구역에 진입한다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710082": {
     "OriginalText": "大尖塔へ大型原生種の撃破に向かう。\n現地において大量の反応を確認しているが、\nこちらも大量の人員を繰り出すので恐れるに足りない。\n結果は追って報告する。",
-    "Text": "Large Ray Banther Cannon × 6\nNoibaridran'na Sharp Claw × 6\nGordes Sharp Assault Spike × 6",
+    "Text": "대첨탑으로 대형 원생종을 격파하러 간다.\n현지에서 대량의 반응이 확인되었으나,\n이쪽도 대규모 인원을 투입하니 두려울 것 없다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710083": {
     "OriginalText": "大尖塔で天然樹木の伐採を行う。\n近くに大型エネミーの反応を確認しているが、\n邪魔するようなら一緒に伐採する予定。\n結果は追って報告する。",
-    "Text": "Wild Tree × 6\nGordes Sharp Assault Spike × 6",
+    "Text": "대첨탑에서 천연 수목을 벌채한다.\n근처에서 대형 에너미 반응이 확인되었으나,\n방해하면 함께 벌채할 예정이다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710084": {
     "OriginalText": "大尖塔へ資村採集に向かう。\n現地を調査し収集可能な資村を回収する。\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
-    "Text": "Gran Piece (Light) × 8\nDyed Ceramics × 8",
-    "Enabled": true
+    "Text": "대첨탑으로 자재를 채집하러 간다.\n현지를 조사해 수집할 수 있는 자재를 회수한다.\n상황에 따라서는 위험 구역에 진입한다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710085": {
     "OriginalText": "大尖塔で原生生洋の討伐に向かう。\n現地にて復数の強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Monster Pelt × 5\nAviadino Large Polyp × 5\nAga Mysteroon Sharp Horn × 5",
-    "Enabled": true
+    "Text": "대첨탑으로 원생 생물을 토벌하러 간다.\n현지에서 여러 강한 반응이 확인되어,\n상당히 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710086": {
     "OriginalText": "古代都市へ食村の調達に向かう。\n厨房からの意向で鳥類の確保を目指すが\nやむを得ず危険領域に侵入する。\n結果は追って報告する。",
-    "Text": "Gigantes Rib × 5\nJurrakia Cartilage × 5\nBird Meat × 5",
-    "Enabled": true
+    "Text": "고대 도시로 식재료를 조달하러 간다.\n주방의 요청에 따라 조류 확보를 목표로 삼지만,\n부득이하게 위험 구역에 진입한다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710087": {
     "OriginalText": "古代都市で検知された大型エネミー撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "G-Dark Ragne Large Carapace × 8\nOui Valdinas Large Magazine × 8\nResol Carnnebear Large Pelt × 8",
+    "Text": "고대 도시에서 탐지된 대형 에너미를 격파한다.\n현지에서 확인된 반응은 매우 커,\n매우 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710088": {
     "OriginalText": "古代都市へデェフキュオネの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Alcyone's Jelly × 6\nDefcyone Ink Sac × 6\nDefcyone Hard Shoulder Carapace × 6",
+    "Text": "고대 도시로 데프큐오네를 격파하러 간다.\n현지에서 확인된 반응은 매우 커,\n매우 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710089": {
     "OriginalText": "古代都市へ貝ちない黒い鉄柱の採集に向かう。\n調査報告によると現地に反応が認められるが、\nエネミー反応が非常に大きく\n大いなる危険を伴う任務になると予想される。",
-    "Text": "Gran Piece (Dark) × 8\nBlack Shell-less Shellfish × 8",
-    "Enabled": true
+    "Text": "고대 도시의 썩지 않는 검은 철기둥 채집에 나선다.\n조사 보고상 현지에서 반응이 감지되나,\n에너미 반응이 매우 커,\n매우 위험한 임무가 될 것으로 보인다.",
+    "Enabled": false
   },
   "710090": {
     "OriginalText": "古代都市へ復数のギガンテスの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Gigantes Shell × 10\nGigantes Meat × 10\nGigantes Hide × 10",
-    "Enabled": true
+    "Text": "고대 도시로 기간테스 여러 마리를 격파하러 간다.\n현지에서 확인된 반응은 매우 커,\n매우 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710091": {
     "OriginalText": "ノヴァ内部へ食肉調達に向かう。\n厨房からのこんにゃくが求められており\n場合によっては危険領域に侵入する。\n結果は追って報告する。",
-    "Text": "Rock Salt × 5\nTomato × 5\nShellfish × 5",
-    "Enabled": true
+    "Text": "노바 내부로 고기를 조달하러 간다.\n주방에서 곤약을 구해 달라고 요청했으며,\n상황에 따라서는 위험 구역에 진입한다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710092": {
     "OriginalText": "ノヴァ内部へ偵察を兼ねたエネミー討伐に向かう。\n現地にてかなり強い反応を確認しており、\n若干の危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Reptile Meat × 6\nEag Mandel Large Whisker × 6\nLe Equsage T Large Eyeball × 6",
+    "Text": "노바 내부로 정찰을 겸한 에너미 토벌에 나선다.\n현지에서 상당히 강한 반응이 확인되어,\n다소 위험이 따르는 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710093": {
     "OriginalText": "ノヴァ内部の調査に向かう。\n未調査エリアも含めた本格調査であり、\n回避不可能な事態との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Gran Piece (Dark) × 6\nReptile Meat × 6\nPulsating Migmatite × 6",
+    "Text": "노바 내부를 조사하러 간다.\n미조사 에어리어까지 포함하는 본격적인 조사로,\n피할 수 없는 사태에 직면할 가능성도 있다.\n귀환 후 신속히 조사 결과를 정리해 제출한다.",
     "Enabled": true
   },
   "710094": {
     "OriginalText": "ノヴァ内部で鉱石を採集する。\n現地にて反応を確認済みだが、\n同時に強いエネミー反応も確認している。\n安全確保に留意しつつ作戦を遂行する。",
-    "Text": "Gran Piece (Fire) × 8\nPulsating Migmatite × 8",
+    "Text": "노바 내부에서 광석을 채집한다.\n현지 반응을 확인했지만,\n동시에 강한 에너미 반응도 확인되었다.\n안전 확보에 유의하며 작전을 수행한다.",
     "Enabled": true
   },
   "710095": {
     "OriginalText": "ノヴァ内部でのエネミー掃討作戦を行う。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Le Equsage T Large Eyeball × 8\nVad Dogios Hard Shell × 8\nVad Dogios Shield × 8",
+    "Text": "노바 내부에서 에너미 소탕 작전을 수행한다.\n현지에서 확인된 반응은 매우 커,\n매우 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710096": {
     "OriginalText": "ノヴァ内部へ珍味として味わえる食村調達に向かう。\n厨房の意向を叶えるべく、あえて危険領域に侵入する。\n結果は追って報告する。",
-    "Text": "Rock Salt × 5\nReptile Meat × 5\nMagavulum Goo × 5",
-    "Enabled": true
+    "Text": "노바 내부로 별미가 될 식재료를 조달하러 간다.\n주방의 뜻에 따라 일부러 위험 구역에 진입한다.\n결과는 추후 보고한다.",
+    "Enabled": false
   },
   "710097": {
     "OriginalText": "ノヴァ内部へファンアフォルの撃破に向かう。\n現地にて強い反応を確認しており、\nかなりの危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Gigantes Laser Piece × 8\nFan'aphol Large Wing × 8\nFan'aphol Large Rectrix × 8",
+    "Text": "노바 내부로 판아포르를 격파하러 간다.\n현지에서 강한 반응이 확인되어,\n상당히 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710098": {
     "OriginalText": "ノヴァ内部全域の危険度調査に向かう。\n大きな反応を示す未調査エリアを含めた本格調査で\n未確認生命体との遭遇も予想される。\n帰還後、速やかに調査結果をまとめて提出する。",
-    "Text": "Twinkling Cymophane Stone × 10\nVad Dogios Shield × 10\nFan'aphol Large Rectrix × 10",
+    "Text": "노바 내부 전역의 위험도를 조사하러 간다.\n큰 반응이 나타나는 미조사 에어리어까지 포함한 본격 조사로,\n미확인 생명체와 마주칠 가능성도 있다.\n귀환 후 신속히 조사 결과를 정리해 제출한다.",
     "Enabled": true
   },
   "710099": {
     "OriginalText": "ノヴァ内部で瞬くクリソベル石を採集する。\n現地にて確認されているエネミー反応が非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Gran Piece (Ice) × 6\nTwinkling Cymophane Stone × 6",
+    "Text": "노바 내부에서 반짝이는 크리소벨석을 채집한다.\n현지에서 확인된 에너미 반응이 매우 커,\n매우 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710100": {
     "OriginalText": "ノヴァ内部へギガティオンの撃破に向かう。\n現地にて確認されている反応は非常に大きく\n大いなる危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Garation's Sharp Saw Blade × 10\nGigation Wire × 10\nGigation Sharp Saw Blade × 10",
+    "Text": "노바 내부로 기가티온을 격파하러 간다.\n현지에서 확인된 반응은 매우 커,\n매우 위험한 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710101": {
     "OriginalText": "メモリーフラグメントＡ、Ｂの採集に向かう。\n行き先は限定せず、安全を優先しながら\n現地調査の状況により判断する。\n結果は追って報告する。",
-    "Text": "Memory Fragment A × 10\nMemory Fragment B × 10\nMemory Fragment B × 10",
+    "Text": "메모리 프래그먼트 A, B를 채집하러 간다.\n행선지는 한정하지 않고 안전을 우선하며,\n현지 조사 상황에 따라 판단한다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710102": {
     "OriginalText": "地上でメモリーフラグメントＣ、Ｄの採集に向かう。\n行き先は限定せず、安全を優先しながら\n現地調査の状況により判断する。\n結果は追って報告する。",
-    "Text": "Memory Fragment C × 10\nMemory Fragment D × 10\nMemory Fragment E × 10",
+    "Text": "지상에서 메모리 프래그먼트 C, D를 채집한다.\n행선지는 한정하지 않고 안전을 우선하며,\n현지 조사 상황에 따라 판단한다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710103": {
     "OriginalText": "惑星本体でメモリーフラグメントＦ、Ｈの採集を行う。\n行き先は限定せず、安全を優先しながら\n現地調査の状況により判断する。\n結果は追って報告する。",
-    "Text": "Memory Fragment F × 10\nMemory Fragment G × 10\nMemory Fragment H × 10",
+    "Text": "행성 본체에서 메모리 프래그먼트 F, H를 채집한다.\n행선지는 한정하지 않고 안전을 우선하며,\n현지 조사 상황에 따라 판단한다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710104": {
     "OriginalText": "地上でメモリーフラグメントの採集に向かう。\nエネミーのランクをハード帯に絞って採集し、\nフラグメントＣ、Ｄの獲得を目指す。\n結果は追って報告する。",
-    "Text": "Memory Fragment C × 20\nMemory Fragment D × 20\nMemory Fragment E × 20",
+    "Text": "지상에서 메모리 프래그먼트를 채집하러 간다.\n에너미 랭크를 하드로 한정해 채집하며,\n프래그먼트 C, D 획득을 목표로 삼는다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710105": {
     "OriginalText": "メモリーフラグメントＥ、Ｆの採集に向かう。\n地上と惑星本体に隊を分割し、安全を優先しながら\n現地調査の状況により判断する。\n結果は追って報告する。",
-    "Text": "Memory Fragment E × 20\nMemory Fragment F × 20\nMemory Fragment F × 20",
+    "Text": "메모리 프래그먼트 E, F를 채집하러 간다.\n지상과 행성 본체로 부대를 나눠 안전을 우선하며,\n현지 조사 상황에 따라 판단한다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710106": {
     "OriginalText": "メモリーフラグメントＧ、Ｈの採集に向かう。\n高レベルのエネミーが対象になるため、\n危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Memory Fragment G × 20\nMemory Fragment H × 20\nMemory Fragment I × 20",
+    "Text": "메모리 프래그먼트 G, H를 채집하러 간다.\n고레벨 에너미를 대상으로 삼으므로,\n위험이 따르는 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "710107": {
     "OriginalText": "メモリーフラグメントＩ、Ｊの採集に向かう。\n高レベルのエネミーが対象になるため、\n危険を伴う任務になると予想される。\n結果は追って報告する。",
-    "Text": "Memory Fragment I × 20\nMemory Fragment J × 5\nMemory Fragment K × 3",
+    "Text": "메모리 프래그먼트 I, J를 채집하러 간다.\n고레벨 에너미를 대상으로 삼으므로,\n위험이 따르는 임무가 될 것으로 보인다.\n결과는 추후 보고한다.",
     "Enabled": true
   },
   "730101": {
     "OriginalText": "準備万端です！\nいつでも声かけてくださいね。",
-    "Text": "I'm ready!\nPlease call me anytime.",
+    "Text": "준비는 완벽해요!\n언제든 불러 주세요.",
     "Enabled": true
   },
   "730102": {
     "OriginalText": "探索隊を出動させるの？\nまぁかまわないよ。",
-    "Text": "Do you want to dispatch the Search\nTeam? I don't mind.",
+    "Text": "탐색대를 출동시키려고?\n뭐, 상관없어.",
     "Enabled": true
   },
   "730103": {
     "OriginalText": "今度はどこに探索しに行けばいいんだ？",
-    "Text": "Where should I go to search this\ntime?",
+    "Text": "이번엔 어디로 탐색하러 가면 되지?",
     "Enabled": true
   },
   "730104": {
     "OriginalText": "知らない場所にいくのってワクワクするよな。",
-    "Text": "It's exciting to go to an unknown\nplace.",
+    "Text": "모르는 곳에 가면 두근거리지 않냐?",
     "Enabled": true
   },
   "730105": {
     "OriginalText": "僕が探索隊のリーダーだなんて……。",
-    "Text": "Finally, I'm a Leader of the\nSearch Team...",
+    "Text": "내가 탐색대 리더라니…",
     "Enabled": true
   },
   "730106": {
     "OriginalText": "ここからなら、シャロンさんが\n見えるかな？",
-    "Text": "Can you see Sharon from here?",
+    "Text": "여기서라면 샤론 씨가\n보이려나?",
     "Enabled": true
   },
   "730107": {
     "OriginalText": "探索隊を動かしたいのかい？",
-    "Text": "Do you want to commence the\nSearch Team operation?",
+    "Text": "탐색대를 움직이고 싶은 거야?",
     "Enabled": true
   },
   "730108": {
     "OriginalText": "なんだ、出撃でもさせんのか？",
-    "Text": "Why don't you let me sortie?",
+    "Text": "뭐야, 출격이라도 시키려고?",
     "Enabled": true
   },
   "730109": {
     "OriginalText": "何なりとお命じください。",
-    "Text": "Please order me anything.",
+    "Text": "무엇이든 명령해 주십시오.",
     "Enabled": true
   },
   "730110": {
     "OriginalText": "ん、探索隊を出すのか？",
-    "Text": "Hmm, are you gonna send out a\nSearch Team?",
+    "Text": "응, 탐색대를 내보내려고?",
     "Enabled": true
   },
   "730111": {
     "OriginalText": "ワシの探索隊の実力を見たいのじゃろう。",
-    "Text": "You want to see the power of the\nmy Search Team.",
+    "Text": "내 탐색대의 실력을 보고 싶은 게로구나.",
     "Enabled": true
   },
   "730112": {
     "OriginalText": "探索中の動きは俺に任せてもらおう。\nとやかく言われる好きではない。",
-    "Text": "Let me take care of the search.\nI don't like being told anyway.",
-    "Enabled": true
+    "Text": "탐색 중 행동은 내게 맡겨라.\n이래라저래라 하는 말을 듣는 건 좋아하지 않는다.",
+    "Enabled": false
   },
   "730113": {
     "OriginalText": "探索にはいい頃合い。\nあなたもそう思うでしょ？",
-    "Text": "It's a good time to search.\nYou think so too, right?",
+    "Text": "탐색하기 딱 좋은 때네.\n너도 그렇게 생각하지?",
     "Enabled": true
   },
   "730114": {
     "OriginalText": "探索活動向きの人や\nそうでない人もいます。\nそれを見冷めるのがあなたの仕事ですよ。",
-    "Text": "Not all people are good at \nsearching. It's your job to cool\nit down.",
-    "Enabled": true
+    "Text": "탐색 활동에 맞는 사람도,\n그렇지 않은 사람도 있어요.\n그걸 가려내는 게 당신의 일이에요.",
+    "Enabled": false
   },
   "730115": {
     "OriginalText": "そろそろ探索したく\nなっちゃたんじゃないですか？\nどんどん任せてください！",
-    "Text": "Isn't it time to search?\nPlease leave it all to me.",
-    "Enabled": true
+    "Text": "슬슬 탐색하고\n싶어지신 거 아닌가요?\n얼마든지 맡겨 주세요!",
+    "Enabled": false
   },
   "730116": {
     "OriginalText": "探索隊に任せっきりじゃなく\nちょっとは手龍ってよね。",
-    "Text": "Don't leave it all to the Search\nTeam, have a little discretion.",
-    "Enabled": true
+    "Text": "탐색대에만 맡기지 말고\n너도 좀 도와줘.",
+    "Enabled": false
   },
   "730117": {
     "OriginalText": "探索隊を出撃させますか？",
-    "Text": "Do you want to sortie the\nSearch Team?",
+    "Text": "탐색대를 출격시키시겠어요?",
     "Enabled": true
   },
   "730118": {
     "OriginalText": "ガンガン探索行っちゃうよ！\nせっかくなら一緒に行かない？",
-    "Text": "I'm going to search hard!\nWould you go with me?",
+    "Text": "신나게 탐색하러 갈게!\n이왕이면 같이 갈래?",
     "Enabled": true
   },
   "730119": {
     "OriginalText": "あらあらっ、探索いっちゃう？",
-    "Text": "My my, are we going to search?",
+    "Text": "어머어머, 탐색하러 갈까?",
     "Enabled": true
   },
   "730120": {
     "OriginalText": "私を探索隊のリーダーに据えるとは\n見る目あるんじゃないかしら。",
-    "Text": "I wonder if it's easy to be a\nleader of Search Team.",
+    "Text": "나를 탐색대 리더로 삼다니,\n보는 눈이 좀 있네.",
     "Enabled": true
   },
   "730121": {
     "OriginalText": "探索への出撃準備は出来ています。\nいつでもご指示をお願いします。",
-    "Text": "I'm ready to sortie. Please give\nus instructions any time.",
+    "Text": "탐색 출격 준비는 되어 있습니다.\n언제든 지시해 주십시오.",
     "Enabled": true
   },
   "730122": {
     "OriginalText": "探索とはなかなか\n忍耐のいる任務なんだぞ。",
-    "Text": "Searching is a very patient task.",
+    "Text": "탐색은 꽤\n인내가 필요한 임무다.",
     "Enabled": true
   },
   "730123": {
     "OriginalText": "良き探索者とは、探索におけるあらゆる\n失敗を冒した人洋のことかもしれんの。\n要は臆せず、まずは試してみることじゃ。",
-    "Text": "Any good searcher made a mistake\nat some point. The point is, don't\nbe afraid, try it first.",
-    "Enabled": true
+    "Text": "좋은 탐색가란 탐색 중 온갖 실패를\n겪어 본 사람일지도 모르지.\n겁내지 말고 먼저 시도해 보는 게야.",
+    "Enabled": false
   },
   "730124": {
     "OriginalText": "心配しなくでも準備は万端さね。",
-    "Text": "Don't worry, I'm ready to go.",
-    "Enabled": true
+    "Text": "걱정 안 해도 준비는 완벽해.",
+    "Enabled": false
   },
   "730125": {
     "OriginalText": "なんだ、探索隊を出撃させるのか？",
-    "Text": "What? You're going to sortie the\nSearch Team?",
+    "Text": "뭐야, 탐색대를 출격시키려고?",
     "Enabled": true
   },
   "730126": {
     "OriginalText": "探索隊の準備は出来てるよ。",
-    "Text": "The Search Team is ready.",
+    "Text": "탐색대는 준비됐어.",
     "Enabled": true
   },
   "730127": {
     "OriginalText": "へへっ、探索隊の準備は\nいつでも万全だぜ！",
-    "Text": "Hehe, the Search Team is\nalways ready!",
+    "Text": "헤헤, 탐색대 준비는\n언제든 완벽하다고!",
     "Enabled": true
   },
   "730128": {
-    "OriginalText": "探索隊にお手龍いできることある？",
-    "Text": "Is there anything I can do for the\nSearch Team?",
+    "OriginalText": "探索隊にお手伝いできることある？",
+    "Text": "탐색대에 내가 도와줄 일 있어?",
     "Enabled": true
   },
   "730201": {
     "OriginalText": "それでは行ってきます！",
-    "Text": "Let's go!",
+    "Text": "그럼 다녀올게요!",
     "Enabled": true
   },
   "730202": {
     "OriginalText": "まぁ、期待しないで待っててよ。",
-    "Text": "Well, don't expect to wait.",
+    "Text": "뭐, 기대하지 말고 기다려.",
     "Enabled": true
   },
   "730203": {
     "OriginalText": "じゃっ、行ってくる！",
-    "Text": "Well, I'm going!",
+    "Text": "그럼 다녀올게!",
     "Enabled": true
   },
   "730204": {
     "OriginalText": "おーっし！ 行ってくるぜ！",
-    "Text": "Woah! I'm going!",
+    "Text": "좋았어! 다녀온다!",
     "Enabled": true
   },
   "730205": {
     "OriginalText": "えっと……、た、探索隊行ってきます！",
-    "Text": "Um... I'm going with the\nSearch Team!",
+    "Text": "저기… 타, 탐색대 다녀오겠습니다!",
     "Enabled": true
   },
   "730206": {
     "OriginalText": "この探索から帰ったら、\nシャロンさんに……。",
-    "Text": "After the search I'll be going\nhome...,\nto Sharon...",
+    "Text": "이번 탐색에서 돌아오면\n샤론 씨에게…",
     "Enabled": true
   },
   "730207": {
     "OriginalText": "別にかまわないよ、行って来るね。",
-    "Text": "It doesn't matter, I'll go.",
+    "Text": "별로 상관없어. 다녀올게.",
     "Enabled": true
   },
   "730208": {
     "OriginalText": "しゃあねぇな、行って来てやるよ。",
-    "Text": "I'm gonna go.",
+    "Text": "어쩔 수 없군. 다녀와 주지.",
     "Enabled": true
   },
   "730209": {
     "OriginalText": "かしこまりました。\nふふ、期待には応えますよ。",
-    "Text": "Understood. Haha,\nI will meet your expectations.",
+    "Text": "알겠습니다.\n후후, 기대에 부응하겠습니다.",
     "Enabled": true
   },
   "730210": {
     "OriginalText": "探索隊、一同出撃！ってか\nさすがにガラじゃねぇな。",
-    "Text": "All the Search Team sortied!\nIt wasn't really appropriate.",
+    "Text": "탐색대, 전원 출격! 이랄까.\n역시 내 성격엔 안 맞네.",
     "Enabled": true
   },
   "730211": {
     "OriginalText": "ワシに任せておけば、万事問題なしじゃ。\n大船に乗ったつもりで待つが良い！",
-    "Text": "Leave it to me, it will be fine.\nJust wait for my reliable plan.",
+    "Text": "내게 맡기면 만사 문제없느니라.\n든든한 배를 탄 셈 치고 기다려라!",
     "Enabled": true
   },
   "730212": {
     "OriginalText": "まぁ、いいだろう。\n出撃する。",
-    "Text": "Well, that's fine.\nI'm going to sortie.",
+    "Text": "뭐, 좋다.\n출격한다.",
     "Enabled": true
   },
   "730213": {
     "OriginalText": "そう、あなたの決断を信じるわ。",
-    "Text": "Yes, I believe in your decision.",
+    "Text": "그래, 네 결정을 믿겠어.",
     "Enabled": true
   },
   "730214": {
     "OriginalText": "命令ならば仕方ないわね。",
-    "Text": "Can't be helped if it's an order.",
+    "Text": "명령이라면 어쩔 수 없네.",
     "Enabled": true
   },
   "730215": {
     "OriginalText": "まだ見ぬ新天地へ～！！\n頑張りますよ！",
-    "Text": "To the unknown world!!\nI will do my best!",
+    "Text": "아직 못 본 신천지로~!!\n열심히 할게요!",
     "Enabled": true
   },
   "730216": {
     "OriginalText": "しょうがないわね。\n行って来るから待ってなさい。",
-    "Text": "Nothing I can do about it.\nI'm going, just you wait.",
+    "Text": "어쩔 수 없네.\n다녀올 테니 기다려.",
     "Enabled": true
   },
   "730217": {
     "OriginalText": "何事になければ良いのですが。",
-    "Text": "I hope something good will happen.",
-    "Enabled": true
+    "Text": "아무 일도 없으면 좋겠네요.",
+    "Enabled": false
   },
   "730218": {
     "OriginalText": "それでは行ってきまーす！",
-    "Text": "Well then let's go!",
+    "Text": "그럼 다녀올게요~!",
     "Enabled": true
   },
   "730219": {
     "OriginalText": "じゃあ、楽しみに待ってね！",
-    "Text": "Then, I'm look forward to it.",
+    "Text": "그럼 기대하면서 기다려!",
     "Enabled": true
   },
   "730220": {
     "OriginalText": "たまにはあなたに従って\nあげてもよくってよ。",
-    "Text": "I can follow you once in a while.",
+    "Text": "가끔은 네 말을 따라\n주는 것도 나쁘지 않겠네.",
     "Enabled": true
   },
   "730221": {
     "OriginalText": "ご期待に敷えるように\n頑張りますね。",
-    "Text": "I'll do my best to meet your\nexpectations.",
-    "Enabled": true
+    "Text": "기대에 부응할 수 있도록\n열심히 할게요.",
+    "Enabled": false
   },
   "730222": {
     "OriginalText": "では、いってきてやろう。",
-    "Text": "So, let's go.",
+    "Text": "그럼 다녀와 주지.",
     "Enabled": true
   },
   "730223": {
     "OriginalText": "心配することはない。\nおぬしは目的地を示した。そこへ至る道は\nわしら探索隊が柘いていってやろうて。",
-    "Text": "Don't worry. I will find our\ndestination. The way to get there\nwill be found by our Search Team.",
-    "Enabled": true
+    "Text": "걱정할 것 없다.\n자네는 목적지를 알려 줬지. 그곳까지 가는 길은\n우리 탐색대가 열어 주겠네.",
+    "Enabled": false
   },
   "730224": {
     "OriginalText": "まっ、そんな心配しなくて大丈夫だよ。\nいい結果を持ってきてあげるからさ。",
-    "Text": "Well, you don't have to worry about\nit. I'll bring you good results.",
+    "Text": "뭐, 그렇게 걱정하지 않아도 돼.\n좋은 결과를 가져다줄 테니까.",
     "Enabled": true
   },
   "730225": {
     "OriginalText": "大将は心配せずに\nどーんと構えて待ってろってな。",
-    "Text": "Don't worry, the boss should hold\non and wait.",
+    "Text": "대장은 걱정 말고\n느긋하게 기다리라고.",
     "Enabled": true
   },
   "730226": {
     "OriginalText": "それじゃ頑張って来るね。",
-    "Text": "Then I'll do my best.",
+    "Text": "그럼 열심히 하고 올게.",
     "Enabled": true
   },
   "730227": {
     "OriginalText": "期待して待ってろよ！",
-    "Text": "Expect and wait!",
+    "Text": "기대하면서 기다려!",
     "Enabled": true
   },
   "730228": {
     "OriginalText": "それじゃあ、しゅっぱーつ！",
-    "Text": "Well then, let's start!",
+    "Text": "그럼 출바~알!",
     "Enabled": true
   },
   "730301": {
     "OriginalText": "探索の結果をお話しさせていただきます。",
-    "Text": "I will tell you the result of\nthe search.",
+    "Text": "탐색 결과를 말씀드리겠습니다.",
     "Enabled": true
   },
   "730302": {
     "OriginalText": "探索結果を報告するよ。",
-    "Text": "I will report the search results.",
+    "Text": "탐색 결과를 보고할게.",
     "Enabled": true
   },
   "730303": {
     "OriginalText": "探索隊、無事帰ったぜ。",
-    "Text": "The Search Team returned safely.",
+    "Text": "탐색대, 무사히 돌아왔다.",
     "Enabled": true
   },
   "730304": {
     "OriginalText": "今回の探索もなかなかおもしろかったぜ！",
-    "Text": "This search was quite interesting!",
+    "Text": "이번 탐색도 꽤 재미있었어!",
     "Enabled": true
   },
   "730305": {
     "OriginalText": "はぁぁ、なんとか無事帰ってきました……。",
-    "Text": "Humph, I returned safely....",
+    "Text": "하아, 어떻게든 무사히 돌아왔네요…",
     "Enabled": true
   },
   "730306": {
     "OriginalText": "探索の成果を聞きたいのかい？\nぜひシャロンさんに話したいところだけど\nまぁキミでもいいか。",
-    "Text": "Do you want to hear the search\nresults? I definitely want to talk\nto Sharon, but would you listen?",
+    "Text": "탐색 성과를 듣고 싶어?\n샤론 씨에게 꼭 말하고 싶지만,\n뭐, 너라도 괜찮겠지.",
     "Enabled": true
   },
   "730307": {
     "OriginalText": "まずまずの成果なんじゃないかな？",
-    "Text": "Isn't it a decent result?",
+    "Text": "그럭저럭 괜찮은 성과 아닐까?",
     "Enabled": true
   },
   "730308": {
     "OriginalText": "探索の結果報告？\n何だ、めんどくせぇな。",
-    "Text": "Report the search results?\n What a hassle.",
+    "Text": "탐색 결과 보고?\n뭐야, 귀찮게.",
     "Enabled": true
   },
   "730309": {
     "OriginalText": "無事戻りました。\n結果をお聞きになられますか？",
-    "Text": "I returned safely.\nWould you listen to the results?",
+    "Text": "무사히 돌아왔습니다.\n결과를 들으시겠습니까?",
     "Enabled": true
   },
   "730310": {
     "OriginalText": "探索結果出てるぜ、聞いてけよ。",
-    "Text": "The search results are out,\nplease listen.",
+    "Text": "탐색 결과 나왔어. 듣고 가.",
     "Enabled": true
   },
   "730311": {
     "OriginalText": "探索の結果じゃ。\n心して聞くのじゃぞ！",
-    "Text": "This is the result of the search.\nListen carefully!",
+    "Text": "탐색 결과니라.\n마음 단단히 먹고 듣거라!",
     "Enabled": true
   },
   "730312": {
     "OriginalText": "探索の結果報告だ。",
-    "Text": "The report of the search results\nis ready.",
+    "Text": "탐색 결과 보고다.",
     "Enabled": true
   },
   "730313": {
     "OriginalText": "ふふ、この結果は探索に行く前から\n見えていたわ。",
-    "Text": "Hehe, the results can be seen\nalready before the search.",
+    "Text": "후후, 이 결과는 탐색하러 가기 전부터\n보였어.",
     "Enabled": true
   },
   "730314": {
     "OriginalText": "探索の報告が欲しいの？",
-    "Text": "Do you want a report of the search?",
+    "Text": "탐색 보고를 받고 싶어?",
     "Enabled": true
   },
   "730315": {
     "OriginalText": "はい、探索の結果報告であります！",
-    "Text": "Yes, it is the report of the\nsearch results.",
+    "Text": "네, 탐색 결과 보고하겠습니다!",
     "Enabled": true
   },
   "730316": {
     "OriginalText": "無事、帰ってきたわよ。\n……って別にそのことを褒めて欲しい\nとかそういうのじゃないからね。",
-    "Text": "I returned safely. It's not like I\nwant you to praise me.",
+    "Text": "무사히 돌아왔어.\n…딱히 그걸 칭찬해 달라거나\n그러는 건 아니니까.",
     "Enabled": true
   },
   "730317": {
     "OriginalText": "探索の結果、お聞きになりますか？",
-    "Text": "Do you want to hear the\nsearch results?",
+    "Text": "탐색 결과를 들으시겠어요?",
     "Enabled": true
   },
   "730318": {
     "OriginalText": "ねぇねぇ、探索の成果聞いてってよ。",
-    "Text": "Hey, listen to the search results.",
+    "Text": "있잖아, 탐색 성과 듣고 가.",
     "Enabled": true
   },
   "730319": {
     "OriginalText": "じゃあ、探索の結果を\n披露しちゃうわね。",
-    "Text": "Then, I'll show you the result of\nthe search.",
+    "Text": "그럼 탐색 결과를\n공개할게.",
     "Enabled": true
   },
   "730320": {
     "OriginalText": "結果を報告？\nふぅ、面倒ね。",
-    "Text": "Report the results?\nPhew, how troublesome.",
+    "Text": "결과 보고?\n휴, 귀찮네.",
     "Enabled": true
   },
   "730321": {
     "OriginalText": "それでは探索の結果報告を\nさせていただきますね。",
-    "Text": "Then I will report the result of\nthe search.",
+    "Text": "그럼 탐색 결과를\n보고드릴게요.",
     "Enabled": true
   },
   "730322": {
     "OriginalText": "よく聞け、探索の結果報告だ。",
-    "Text": "Listen carefully, this is the\nreport of the results of the\nsearch.",
+    "Text": "잘 들어라. 탐색 결과 보고다.",
     "Enabled": true
   },
   "730323": {
     "OriginalText": "失敗に失敗を重ねた先に\n成功があるとしたら、\n失敗も成功も等価言えんかの。",
-    "Text": "If there is success after making\nmistakes, then failure and success\nis equal.",
-    "Enabled": true
+    "Text": "실패에 실패를 거듭한 끝에\n성공이 있다면,\n실패와 성공의 가치도 같지 않겠는가.",
+    "Enabled": false
   },
   "730324": {
     "OriginalText": "結果報告だね、待ってたよ。",
-    "Text": "It's the result report you've\nbeen waiting.",
+    "Text": "결과 보고구나. 기다리고 있었어.",
     "Enabled": true
   },
   "730325": {
     "OriginalText": "探索の成果でも聞きたいのか？",
-    "Text": "Do you want to hear the results of\nyour search?",
+    "Text": "탐색 성과라도 듣고 싶은 거냐?",
     "Enabled": true
   },
   "730326": {
     "OriginalText": "えっと、探索の結果報告だよね。",
-    "Text": "Um, it's the report of the results\nof the search.",
+    "Text": "저기, 탐색 결과 보고였지?",
     "Enabled": true
   },
   "730327": {
     "OriginalText": "探索の結果報告するぜ！",
-    "Text": "I will report the result of\nthe search.",
+    "Text": "탐색 결과 보고할게!",
     "Enabled": true
   },
   "730328": {
     "OriginalText": "あっ、探索報告だよね、ええっと……。",
-    "Text": "Oh, it's a search report, um....",
+    "Text": "아, 탐색 보고였지. 그러니까…",
     "Enabled": true
   },
   "730401": {
     "OriginalText": "今は探索の命令は出ていません。",
-    "Text": "No search order has been issued now.",
+    "Text": "지금은 탐색 명령이 내려오지 않았어요.",
     "Enabled": true
   },
   "730402": {
     "OriginalText": "今は外に出る気にはならないね。",
-    "Text": "I don't feel like going out now.",
+    "Text": "지금은 밖에 나갈 기분이 아니네.",
     "Enabled": true
   },
   "730403": {
     "OriginalText": "今は探索隊は休憩中だぞ。",
-    "Text": "The Search Team is taking a\nbreak now.",
+    "Text": "지금 탐색대는 쉬는 중이야.",
     "Enabled": true
   },
   "730404": {
     "OriginalText": "今の間にトレーニングにでも\n行ってこよっかな？",
-    "Text": "Should I go training in the\nmeantime?",
+    "Text": "틈을 타서 훈련이라도\n하러 가 볼까?",
     "Enabled": true
   },
   "730405": {
     "OriginalText": "このままずっと出撃命令が\nなければいいのに……。",
-    "Text": "I wish I don't have a sortie order\nall the time.",
+    "Text": "이대로 쭉 출격 명령이\n안 나오면 좋을 텐데…",
     "Enabled": true
   },
   "730406": {
     "OriginalText": "探索から帰った時にボクを迎えてくれる\nシャロンさんの笑顔……。\nいやーたまらないね！！",
-    "Text": "Sharon's smile welcomes me when I\nreturn from the search....\nNo! I can't resist it!",
+    "Text": "탐색에서 돌아온 나를 맞아 주는\n샤론 씨의 미소…\n이야, 정말 못 참겠네!!",
     "Enabled": true
   },
   "730407": {
     "OriginalText": "今は休憩中。\n出撃命令は受け付けてないよ。",
-    "Text": "I'm taking a break now.\nI'm not accepting sortie orders.",
+    "Text": "지금은 쉬는 중이야.\n출격 명령은 안 받아.",
     "Enabled": true
   },
   "730408": {
     "OriginalText": "なんだよ、探索の命令はないのか。",
-    "Text": "Why is there no search orders?",
+    "Text": "뭐야, 탐색 명령은 없는 거야?",
     "Enabled": true
   },
   "730409": {
     "OriginalText": "穏やかな時間は良いですよね。\nまぁ戦場も嫌いではないのですが。",
-    "Text": "Quite times are good. Well, I don't\nhate the battlefield either.",
+    "Text": "평온한 시간은 좋지요.\n뭐, 전장도 싫지는 않습니다만.",
     "Enabled": true
   },
   "730410": {
     "OriginalText": "今は出撃命令がないんでね。\n骨休めって奴だ",
-    "Text": "I don't have a sortie order right\nnow. I'm relieved.",
+    "Text": "지금은 출격 명령이 없어서 말이지.\n몸 좀 쉬고 있어.",
     "Enabled": true
   },
   "730411": {
     "OriginalText": "なぬっ、さぼっている訳ではないぞ、\n休息も仕事のうちじゃ！",
-    "Text": "What, I'm not skipping, rest is\npart of my work!",
+    "Text": "뭐라, 농땡이 치는 게 아니니라.\n휴식도 일의 일부인 게야!",
     "Enabled": true
   },
   "730412": {
     "OriginalText": "命令のない時間は\n俺の好きにさせてもらう。",
-    "Text": "I will let you like me when there\nis no order.",
+    "Text": "명령이 없는 동안은\n내 마음대로 하겠다.",
     "Enabled": true
   },
   "730413": {
     "OriginalText": "休み、英気を養う。\n探索の成功に不可欠なものね。",
-    "Text": "Taking a break and rest. It's\nessential to the success of the\nsearch.",
+    "Text": "쉬면서 기운을 되찾는 것.\n탐색 성공에는 꼭 필요하지.",
     "Enabled": true
   },
   "730414": {
     "OriginalText": "こんなところで待ちぼうけなんて……。\n人村の有効活用に関して、提案する\n必要があるかもしれないですね。",
-    "Text": "I don't want to wait....\nIt may be necessary to suggest on\nthe effectiveness of the personnel.",
-    "Enabled": true
+    "Text": "이런 데서 마냥 기다리다니…\n인재를 효율적으로 활용하도록\n제안해야 할지도 모르겠네요.",
+    "Enabled": false
   },
   "730415": {
     "OriginalText": "あれれ、今日は探索の命令は\nないんですね。",
-    "Text": "Wow, there are no search orders\ntoday.",
+    "Text": "어라, 오늘은 탐색 명령이\n없네요.",
     "Enabled": true
   },
   "730416": {
     "OriginalText": "私達、探索隊の成果で\nここでの生活が支えられてるって\nあんたちゃんとわかってるの？",
-    "Text": "Do you know that the results of the\nSearch Team that support our lives here?",
+    "Text": "여기서 사는 게 우리 탐색대 성과\n덕분이라는 건\n너도 제대로 알고 있어?",
     "Enabled": true
   },
   "730417": {
     "OriginalText": "探索の命令がない時間は\n気が緩んでいけませんね。",
-    "Text": "You shouldn't relax even when you\ndon't have search orders.",
+    "Text": "탐색 명령이 없으면\n긴장이 풀려서 곤란하네요.",
     "Enabled": true
   },
   "730418": {
     "OriginalText": "暇だよね、\nちょっと遊びにいってきていい？",
-    "Text": "You're free right,\ncan you come and visit us?",
+    "Text": "심심하네.\n잠깐 놀러 갔다 와도 돼?",
     "Enabled": true
   },
   "730419": {
     "OriginalText": "命令はまだなの？\nもう、待ちくたびれちゃうわ。",
-    "Text": "Is there an order yet?\nI'm tired of waiting.",
+    "Text": "명령은 아직이야?\n정말, 기다리다 지치겠어.",
     "Enabled": true
   },
   "730420": {
     "OriginalText": "はぁぁ……。\n探索の命令がないと眠くなっていけないわ。",
-    "Text": "Waaa.. I can't sleep\nwithout a search order.",
+    "Text": "하아…\n탐색 명령이 없으면 졸려서 곤란해.",
     "Enabled": true
   },
   "730421": {
     "OriginalText": "現在、探索隊は休憩中です。\nまたの機会を。",
-    "Text": "The Search Team is currently taking\na break. It will be another chance\nfor them.",
+    "Text": "현재 탐색대는 휴식 중입니다.\n다음 기회에 부탁드립니다.",
     "Enabled": true
   },
   "730422": {
     "OriginalText": "まぁそう急く必要はなかろう。",
-    "Text": "Well, I don't need to hurry.",
+    "Text": "뭐, 그리 서두를 필요는 없지 않겠는가.",
     "Enabled": true
   },
   "730423": {
     "OriginalText": "出発をそう急かすものではないよ。\n最初の踏み出す足の向きが\n任務の出来を左右したりすることもある。",
-    "Text": "I'm not rushing to leave. My first\nsteps may affect the mission.",
+    "Text": "그렇게 출발을 재촉하는 게 아니야.\n첫발을 어느 쪽으로 내딛느냐가\n임무의 성과를 좌우할 때도 있거든.",
     "Enabled": true
   },
   "730424": {
     "OriginalText": "よく働いて、よく休む。\nいいアークスの基本だよ。",
-    "Text": "Work hard and rest well.\nIt's the basics of ARKS.",
+    "Text": "잘 일하고 잘 쉬는 것.\n좋은 아크스의 기본이야.",
     "Enabled": true
   },
   "730425": {
     "OriginalText": "お前もちょっとは休めよ。\n気を張りすぎるってのは良くねえからな。",
-    "Text": "You need a little rest.\nIt's not bad to be too careful.",
+    "Text": "너도 좀 쉬어.\n너무 긴장하는 건 좋지 않으니까.",
     "Enabled": true
   },
   "730426": {
     "OriginalText": "今の時間は探索隊は休憩中だよ。",
-    "Text": "The Search Team is taking a break\nat this time.",
+    "Text": "지금 탐색대는 쉬는 중이야.",
     "Enabled": true
   },
   "730427": {
     "OriginalText": "えっ、さぼってるって？\nち、違うよ、身体を休めるのは\n仕事のうちってやつだろ？",
-    "Text": "Eh, am I skipping? No, it's part of\nthe job to rest your body, right?",
+    "Text": "뭐, 농땡이 친다고?\n아, 아니야. 몸을 쉬게 하는 것도\n일의 일부라잖아?",
     "Enabled": true
   },
   "730428": {
     "OriginalText": "しー、今は探索隊はお休み中だから\n静かにしてあげてね。",
-    "Text": "Shh, the Search Team is on break\nnow, please be quite.",
+    "Text": "쉿, 지금 탐색대는 쉬고 있으니까\n조용히 해 줘.",
     "Enabled": true
   }
 }

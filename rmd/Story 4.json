@@ -1,1377 +1,1377 @@
 {
   "400000030100410": {
     "OriginalText": "おっし、まずは基本の移動の確認だ。\n準備は出来てるか、新人！",
-    "Text": "First, we'll go over the movement basics.\nLet's get to it, rookie!",
+    "Text": "좋아, 먼저 기본 이동부터 확인하자.\n준비됐나, 신참!",
     "Enabled": true
   },
   "400000030100420": {
     "OriginalText": "次は攻撃動作の確認だな。\nシミュレーターで敵を出すから\n倒していけ！",
-    "Text": "Next, we'll review attacking.\nI'm going to spawn some enemies in\nthe simulator. Defeat them!",
+    "Text": "다음은 공격 동작을 확인하겠다.\n시뮬레이터로 적을 내보낼 테니\n쓰러뜨려 봐!",
     "Enabled": true
   },
   "400000030100430": {
     "OriginalText": "そろそろ体が起きてきただろ？\n今度は敵の攻撃からの\n回避方法の確認をするぞ。",
-    "Text": "Has your body adjusted by now?\nI'm going to spawn some attacking\nenemies. Avoid or block their attacks.",
+    "Text": "슬슬 몸이 풀렸겠지?\n이번에는 적의 공격을\n회피하는 방법을 확인하자.",
     "Enabled": true
   },
   "400000030100440": {
     "OriginalText": "よし、これで最後だ。\n後は好きなように敵をぶっ倒してやれ。\nもちろんアイテムの使用も自由だ。",
-    "Text": "Well, this ends the training.\nI'll spawn some more enemies, feel free to\ndefeat them any way you choose.",
+    "Text": "좋아, 이게 마지막이다.\n이제 원하는 대로 적을 쓰러뜨려 봐.\n물론 아이템도 자유롭게 써도 된다.",
     "Enabled": true
   },
   "401010020100110": {
     "OriginalText": "フィルディア隊長達は先に行っちゃったみたい。\n急いで追いかけるよ、[ruby]相棒[/ruby]！",
-    "Text": "",
-    "Enabled": false
+    "Text": "필디아 대장님 일행은 먼저 가신 것 같아.\n서둘러 따라가자, 파트너!",
+    "Enabled": true
   },
   "401010020200110": {
     "OriginalText": "あ、あれっ？ どうなってんの！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "어, 어라? 어떻게 된 거야!?",
+    "Enabled": true
   },
   "401010020200120": {
     "OriginalText": "フォトンが出な……出ろっ！ ええい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "포톤이 안 나... 나와라! 에잇!",
+    "Enabled": true
   },
   "401010020200130": {
     "OriginalText": "これじゃまともに戦えないよ！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "이래선 제대로 싸울 수 없어!!",
+    "Enabled": true
   },
   "401010020300110": {
     "OriginalText": "な、なんとか勝った……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "어, 어떻게든 이겼다...!",
+    "Enabled": true
   },
   "401010020300120": {
     "OriginalText": "どういうこと？\nフォトンが使えないなんて……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "어떻게 된 거야?\n포톤을 쓸 수 없다니...!",
+    "Enabled": true
   },
   "401010030100110": {
     "OriginalText": "うん、これならフォトン……、\nううん、グランが使える！\n[ruby]相棒[/ruby]！ さっさと倒して先に進むよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "응, 이거라면 포톤...\n아니, 그란을 쓸 수 있어!\n파트너! 빨리 쓰러뜨리고 앞으로 가자!",
+    "Enabled": true
   },
   "401010030100120": {
     "OriginalText": "フォトン・アーツが使える……\nいや、グラン、ていうんだっけ……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "포톤 아츠를 쓸 수 있어...\n아니, 그란이라고 했던가...",
+    "Enabled": true
   },
   "401010030100130": {
     "OriginalText": "この力があれば……戦える！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "이 힘만 있으면... 싸울 수 있어!!",
+    "Enabled": true
   },
   "401010040100410": {
     "OriginalText": "あいつ、フォトン・アーツを！？\nいや、あの力は違うぞ……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "저 녀석, 포톤 아츠를!?\n아니, 저건 다른 힘이다...!",
+    "Enabled": true
   },
   "401010040100420": {
     "OriginalText": "どうなってやがる？\nオレにはできないことをあいつらは……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "어떻게 된 거지?\n내가 할 수 없는 일을 저 녀석들이...!",
+    "Enabled": true
   },
   "402020015100710": {
     "OriginalText": "あなた達の前方に\n巨大エネミーの出現を確認！\n援軍を派遣したわ、それまで逃げなさい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "너희 앞에 거대한 에너미가 나타난 걸 확인했어!\n지원군을 보냈으니, 도착할 때까지 도망쳐!",
+    "Enabled": true
   },
   "402020015200710": {
     "OriginalText": "援軍が到着したわ！\n援軍と一緒に急いで拠点に\n帰還なさい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "지원군이 도착했어!\n지원군과 함께 서둘러\n거점으로 돌아오렴!",
+    "Enabled": true
   },
   "402020015300710": {
     "OriginalText": "あと少し！ 回復も憎しまず使い切りなさい！",
-    "Text": "",
+    "Text": "조금만 더 버텨! 회복도 아끼지 말고 다 써!",
     "Enabled": false
   },
   "402020015400110": {
     "OriginalText": "何なの？ 何なのよあれは！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "뭐야? 저건 대체 뭐냐고!?",
+    "Enabled": true
   },
   "402020015400210": {
     "OriginalText": "だめだ、攻撃が効いてる気がしねえ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "안 돼. 공격이 먹히는 것 같지도 않아!",
+    "Enabled": true
   },
   "402020015400310": {
     "OriginalText": "大きすぎます……この火力では……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "너무 커요... 이 화력으로는...!",
+    "Enabled": true
   },
   "402020015500110": {
     "OriginalText": "無理だよ……死んじゃうよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "무리야... 이러다 죽겠어!",
+    "Enabled": true
   },
   "402020015500210": {
     "OriginalText": "くそっ、一撃もらっちまった！ なんて威力だ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "젠장, 한 방 맞았어! 무슨 위력이 이래!",
+    "Enabled": true
   },
   "402020015500310": {
     "OriginalText": "どう攻めていいか、分かりません……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "어떻게 공격해야 할지 모르겠어요...!",
+    "Enabled": true
   },
   "402020020100110": {
     "OriginalText": "何なの？ 何なのよあれは！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "뭐야? 저건 대체 뭐냐고!?",
+    "Enabled": true
   },
   "402020020100120": {
     "OriginalText": "無理だよ……死んじゃうよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "무리야... 이러다 죽겠어!",
+    "Enabled": true
   },
   "402020020100210": {
     "OriginalText": "だめだ、攻撃が効いてる気がしねえ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "안 돼. 공격이 먹히는 것 같지도 않아!",
+    "Enabled": true
   },
   "402020020100220": {
     "OriginalText": "くそっ、一撃もらっちまった！\nなんて威力だ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "젠장, 한 방 맞았어!\n무슨 위력이 이래!",
+    "Enabled": true
   },
   "402020020100310": {
     "OriginalText": "どう攻めていいか、分かりません……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "어떻게 공격해야 할지 모르겠어요...!",
+    "Enabled": true
   },
   "402020020100320": {
     "OriginalText": "大きすぎます……この火力では……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "너무 커요... 이 화력으로는...!",
+    "Enabled": true
   },
   "402020040200710": {
     "OriginalText": "援軍がそちらに向かったわ。\n到着まで生きなさい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "지원군이 그쪽으로 갔어.\n도착할 때까지 살아남아!",
+    "Enabled": true
   },
   "402020040300720": {
     "OriginalText": "笑ったりしないから、逃げ回りなさい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "비웃지 않을 테니까 도망 다니렴!",
+    "Enabled": true
   },
   "402020040400730": {
     "OriginalText": "あと少し！\n回復も憎しまず使い切りなさい！",
-    "Text": "",
+    "Text": "조금만 더 버텨!\n회복도 아끼지 말고 다 써!",
     "Enabled": false
   },
   "402040013100110": {
     "OriginalText": "いけそうだよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "될 것 같아!",
+    "Enabled": true
   },
   "402040013100210": {
     "OriginalText": "よっしゃ！ 登るぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "좋아! 올라간다!",
+    "Enabled": true
   },
   "402040013100310": {
     "OriginalText": "テストと同じ効果を確認。いけます！",
-    "Text": "",
-    "Enabled": false
+    "Text": "시험과 같은 효과를 확인했어요. 가능합니다!",
+    "Enabled": true
   },
   "402040013100410": {
     "OriginalText": "よしよし、いい出来だぞ、シャロン！",
-    "Text": "",
-    "Enabled": false
+    "Text": "좋아, 좋아. 잘 만들었어, 샤론!",
+    "Enabled": true
   },
   "402040013100420": {
     "OriginalText": "仕留めるぞ！ オレに続け！",
-    "Text": "",
-    "Enabled": false
+    "Text": "끝장을 내자! 날 따라와!",
+    "Enabled": true
   },
   "402040013200710": {
     "OriginalText": "数種類のギガンテスが観測されているわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여러 종류의 기간테스가 관측되고 있어.",
+    "Enabled": true
   },
   "402040013200720": {
     "OriginalText": "似後、あの型のギガンテスは\n「ギガンテス・アグリオス」と\n呼称します。",
-    "Text": "",
+    "Text": "앞으로 저 유형의 기간테스는\n'기간테스 아그리오스'라고\n부르겠어.",
     "Enabled": false
   },
   "402040013200730": {
     "OriginalText": "ヘイロウを使って、\nさっさとのしてやりなさい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "헤일로를 써서\n어서 쓰러뜨려 버리렴.",
+    "Enabled": true
   },
   "403030030100110": {
     "OriginalText": "セイル！ 前に出る時は言ってね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "세일! 앞으로 나갈 때는 말해 줘!",
+    "Enabled": true
   },
   "403030030100120": {
     "OriginalText": "[ruby]相棒[/ruby]！\nまだ回復は余裕あるから安心して！",
-    "Text": "",
-    "Enabled": false
+    "Text": "파트너!\n아직 회복할 여유는 있으니 안심해!",
+    "Enabled": true
   },
   "403030030100210": {
     "OriginalText": "ルティナを信じて、凝り強くだ！\n落ち着いていくぜ！",
-    "Text": "",
+    "Text": "루티나를 믿고 끈기 있게 버티자!\n침착하게 가자고!",
     "Enabled": false
   },
   "403030030100220": {
     "OriginalText": "フォーメーションは崩さねえ！\n不倒のセイルの真価を見せてやる！",
-    "Text": "",
-    "Enabled": false
+    "Text": "진형은 무너뜨리지 않겠어!\n불굴의 세일의 진가를 보여 주지!",
+    "Enabled": true
   },
   "403030030100310": {
     "OriginalText": "ルティナさんはわたしが守ってみせます！",
-    "Text": "",
-    "Enabled": false
+    "Text": "루티나 씨는 제가 지킬게요!",
+    "Enabled": true
   },
   "403030030100320": {
     "OriginalText": "ギガンテスの注意をひきます！",
-    "Text": "",
-    "Enabled": false
+    "Text": "기간테스의 주의를 끌겠어요!",
+    "Enabled": true
   },
   "403030030200710": {
     "OriginalText": "あの軟体生洋っぽいのは新型のギガンテスね。",
-    "Text": "",
+    "Text": "저 연체동물 같은 건 신형 기간테스네.",
     "Enabled": false
   },
   "403030030200720": {
     "OriginalText": "今後このタイプは\n「ギガンテス・アルキュオネ」と\n呼称します。",
-    "Text": "",
-    "Enabled": false
+    "Text": "앞으로 이 유형은\n'기간테스 알키오네'라고\n부르겠어.",
+    "Enabled": true
   },
   "403030030200730": {
     "OriginalText": "ルティナ、\nびびってないで立ち向かいなさい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "루티나,\n겁먹지 말고 맞서 싸워!",
+    "Enabled": true
   },
   "403030030200810": {
     "OriginalText": "大変です！新型です！\n新型のギガンテスがいます！",
-    "Text": "",
-    "Enabled": false
+    "Text": "큰일이에요! 신형이에요!\n신형 기간테스가 있어요!",
+    "Enabled": true
   },
   "403030030200820": {
     "OriginalText": "みなさん、危険です！\n十分に注意してください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "여러분, 위험해요!\n충분히 조심하세요!",
+    "Enabled": true
   },
   "403030030200830": {
     "OriginalText": "えっと、識別名は\n「ギガンテス・アルキュオネ」で\nよいでしょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "음, 식별명은\n'기간테스 알키오네'로\n하면 될까요?",
+    "Enabled": true
   },
   "403210030100710": {
     "OriginalText": "今度の新型ギガンテスは祟分巨大ね。",
-    "Text": "",
+    "Text": "이번 신형 기간테스는 정말 크네.",
     "Enabled": false
   },
   "403210030100720": {
     "OriginalText": "識別名は、「ギガンテス・ギュゲンテ」！",
-    "Text": "",
-    "Enabled": false
+    "Text": "식별명은 '기간테스 규겐테'야!",
+    "Enabled": true
   },
   "403210030100730": {
     "OriginalText": "粉々に破壊してあげるといいわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "산산조각 내 주면 좋겠네.",
+    "Enabled": true
   },
   "403210030100810": {
     "OriginalText": "すみません。\n今、こちらでも新型のギガンテスの\n反応を確認しました！",
-    "Text": "",
-    "Enabled": false
+    "Text": "죄송해요.\n지금 여기서도 신형 기간테스의\n반응을 확인했어요!",
+    "Enabled": true
   },
   "403210030100820": {
     "OriginalText": "あの巨体の名前は\n「ギガンテス・ギュゲンテ」に\nしましょう！",
-    "Text": "",
-    "Enabled": false
+    "Text": "저 거대한 녀석의 이름은\n'기간테스 규겐테'로\n하죠!",
+    "Enabled": true
   },
   "403210030100830": {
     "OriginalText": "レイヴァン副長ともども\n無事に帰ってきてください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "레이반 부함장님과 함께\n무사히 돌아와 주세요!",
+    "Enabled": true
   },
   "404030030100110": {
     "OriginalText": "まだもう１体は気付いてないわ！\n今のうちに！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "다른 한 마리는 아직 눈치 못 챘어!\n지금이 기회야!!",
+    "Enabled": true
   },
   "404030030100210": {
     "OriginalText": "今だけは不倒の二つ名は返上だ！\n猛攻のセイルでいくぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "지금만큼은 불굴이란 별명은 내려놓는다!\n맹공의 세일로 간다!",
+    "Enabled": true
   },
   "404030030100310": {
     "OriginalText": "攻撃を集中！急いでください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "공격을 집중하세요! 서둘러요!",
+    "Enabled": true
   },
   "404030030200110": {
     "OriginalText": "よし！ この戦い方で次も行こう！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "좋아! 다음도 이렇게 싸우자!!",
+    "Enabled": true
   },
   "404030030200210": {
     "OriginalText": "まだ油断できねえな！\nおかわり、いくぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "아직 방심할 수 없어!\n한 판 더 간다!",
+    "Enabled": true
   },
   "404030030200310": {
     "OriginalText": "最大の危機は去りました！\n落ち着いてもう一体を！",
-    "Text": "",
-    "Enabled": false
+    "Text": "가장 큰 위기는 넘겼어요!\n침착하게 나머지 한 마리도!",
+    "Enabled": true
   },
   "404040055100710": {
     "OriginalText": "新型ギガンテス接近中！",
-    "Text": "",
-    "Enabled": false
+    "Text": "신형 기간테스 접근 중!",
+    "Enabled": true
   },
   "404040055100720": {
     "OriginalText": "あの型の識別名は、\n「ギガンテス・エウリュード」と\nするわ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "저 기체의 식별명은\n'기간테스 에우류드'로\n하겠어!",
+    "Enabled": true
   },
   "404040055100730": {
     "OriginalText": "さっさと捕獲して、拠点に帰還なさい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "얼른 포획하고 거점으로 귀환해!",
+    "Enabled": true
   },
   "404040055100810": {
     "OriginalText": "あ、あの反応は……\n新型のギガンテスだと思います！",
-    "Text": "",
-    "Enabled": false
+    "Text": "저, 저 반응은...\n신형 기간테스인 것 같아요!",
+    "Enabled": true
   },
   "404040055100820": {
     "OriginalText": "識別名は、「ギガンテス・エウリュード」に\nしようと思います。",
-    "Text": "",
-    "Enabled": false
+    "Text": "식별명은 '기간테스 에우류드'로\n하려고 해요.",
+    "Enabled": true
   },
   "404040055100830": {
     "OriginalText": "ギガンテスの捕獲をお願いします。\nあぁ、でもあんな大きなエネミーを\nどこで酒うのでしょうか？",
-    "Text": "",
+    "Text": "기간테스를 포획해 주세요.\n아, 그런데 저렇게 큰 에너미는\n어디서 기르죠?",
     "Enabled": false
   },
   "405010020100110": {
     "OriginalText": "イズナの支援、的確なんだけど……\nう～ん……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "이즈나의 지원은 정확하긴 한데...\n으음...",
+    "Enabled": true
   },
   "405010020100210": {
     "OriginalText": "そうか、オレの動きを見てるんだな、\nイズナは……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "그렇군, 이즈나는\n내 움직임을 보고 있는 거야...",
+    "Enabled": true
   },
   "405010020100310": {
     "OriginalText": "次……どうしましょうか……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "다음엔... 어떻게 할까요...",
+    "Enabled": true
   },
   "405010020100320": {
     "OriginalText": "えっと……あ、援護します！",
-    "Text": "",
-    "Enabled": false
+    "Text": "저기... 아, 엄호할게요!",
+    "Enabled": true
   },
   "405010030100110": {
     "OriginalText": "イズナがリードしてる……？\nうん！ 合わせるよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "이즈나가 이끌고 있어...?\n응! 맞춰 줄게!",
+    "Enabled": true
   },
   "405010030100210": {
     "OriginalText": "イズナが積冷的に攻撃の起点を作る……\nこれまでなかった形だな！",
-    "Text": "",
+    "Text": "이즈나가 적극적으로 공격의 기점을 만든다...\n지금까지와는 다른 방식이군!",
     "Enabled": false
   },
   "405010030100310": {
     "OriginalText": "遠慮はなしでいきますよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "거리낌 없이 가겠어요!",
+    "Enabled": true
   },
   "406020025100710": {
     "OriginalText": "撃破を確認！ 次、急ぎなさい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "격파 확인! 서둘러 다음 적을 상대해!",
+    "Enabled": true
   },
   "406020025100810": {
     "OriginalText": "やっつけましたね！ 次もお願いします！",
-    "Text": "",
-    "Enabled": false
+    "Text": "쓰러뜨렸네요! 다음 적도 부탁해요!",
+    "Enabled": true
   },
   "406020025200710": {
     "OriginalText": "そのギガンテスの砲撃を\n止めないと拠点が破壊されるわ！\n早急に黙らせて！",
-    "Text": "",
-    "Enabled": false
+    "Text": "저 기간테스의 포격을 막지 못하면\n거점이 파괴될 거야!\n어서 입을 막아!",
+    "Enabled": true
   },
   "406020025200810": {
     "OriginalText": "それが大砲を撃ってくる\nギガンテスですよ！ \n拠点が破壊される前にやっつけないと！",
-    "Text": "",
-    "Enabled": false
+    "Text": "저게 대포를 쏘는\n기간테스예요!\n거점이 파괴되기 전에 쓰러뜨려야 해요!",
+    "Enabled": true
   },
   "406020025300710": {
     "OriginalText": "ギガンテスからの砲撃、着弾！\nこんなの何発も保たないわよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "기간테스의 포격, 거점에 명중!\n이런 건 여러 발 버티지 못해!",
+    "Enabled": true
   },
   "406020025300810": {
     "OriginalText": "大砲の弾が拠点に飛んできました！\n被害は……大変みたいです！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "대포의 포탄이 거점에 날아왔어요!\n피해가... 심각한 것 같아요!!",
+    "Enabled": true
   },
   "406020025400710": {
     "OriginalText": "砲撃、止まらないわよ！\nなにしてるの！！\n帰る家がなくなるわよ！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "포격이 멈추지 않잖아!\n뭐 하는 거야!!\n돌아갈 집이 없어지겠어!!",
+    "Enabled": true
   },
   "406020025400810": {
     "OriginalText": "拠点の被害が広がっています！\nどうしていいか分かりません！",
-    "Text": "",
-    "Enabled": false
+    "Text": "거점 피해가 커지고 있어요!\n어떻게 해야 할지 모르겠어요!",
+    "Enabled": true
   },
   "406020025500710": {
     "OriginalText": "拠点は限界よ！\nもう一発も撃たせないで！ 絶対に！",
-    "Text": "",
-    "Enabled": false
+    "Text": "거점이 한계야!\n한 발도 더 쏘게 하지 마! 절대로!",
+    "Enabled": true
   },
   "406020025500810": {
     "OriginalText": "も、もうだめです！\nあと一発大砲を撃たれたら……\nみなさんがんばって！",
-    "Text": "",
-    "Enabled": false
+    "Text": "이, 이제 안 돼요!\n대포를 한 발만 더 맞으면...\n여러분, 힘내 주세요!",
+    "Enabled": true
   },
   "406020025600710": {
     "OriginalText": "拠点壊滅……ここまでね……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "거점 괴멸... 여기까지네...",
+    "Enabled": true
   },
   "406020025600810": {
     "OriginalText": "拠点がやられてしまいました……\nみなさんも戦線を離脱して下さい……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "거점이 파괴됐어요...\n여러분도 전선에서 이탈해 주세요...",
+    "Enabled": true
   },
   "406020025700410": {
     "OriginalText": "オレだ！ デカブツを１匹仕留めたぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "나다! 덩치 큰 놈 하나 해치웠어!",
+    "Enabled": true
   },
   "406020025700420": {
     "OriginalText": "オレだ！ ３匹狩った！\nじゃんじゃんいくぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "나다! 세 마리 잡았어!\n계속 간다!",
+    "Enabled": true
   },
   "406020025700430": {
     "OriginalText": "オレだ！ おい、今のでいくつだ？\n５？ ５匹目だとさ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "나다! 야, 방금 게 몇 마리째지?\n다섯? 다섯 마리째래!",
+    "Enabled": true
   },
   "406020025700440": {
     "OriginalText": "オレだ！ たぶん今ので７匹目だ！\nだいぶ殺り方が分かってきたぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "나다! 아마 방금 게 일곱 마리째야!\n어떻게 죽이는지 감이 잡히는군!",
+    "Enabled": true
   },
   "406020025700450": {
     "OriginalText": "オレだ！ たぶん今ので９匹目だ！\nあとちょいで片付くぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "나다! 아마 방금 게 아홉 마리째야!\n조금만 더 하면 끝이야!",
+    "Enabled": true
   },
   "406020025700460": {
     "OriginalText": "オレだ！ だいたい終わったぞ！\nそっちはどうだ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "나다! 대충 끝났어!\n그쪽은 어때?",
+    "Enabled": true
   },
   "407030025100110": {
     "OriginalText": "レイヴァン副長！\nあなたは何をやっているか\n分かっているんですか！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "레이반 부함장님!\n지금 무슨 짓을 하는지\n알고 계신 거예요!?",
+    "Enabled": true
   },
   "407030025100120": {
     "OriginalText": "どうしちゃったっていうの……？",
-    "Text": "",
-    "Enabled": false
+    "Text": "대체 어떻게 되신 거예요...?",
+    "Enabled": true
   },
   "407030025100210": {
     "OriginalText": "おい副長！\nギガンテスはオレ達の敵だろ！\n違うのかよ！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "야, 부함장!\n기간테스는 우리 적이잖아!\n아니야?!",
+    "Enabled": true
   },
   "407030025100220": {
     "OriginalText": "くそっ、こいつをさっさと\n仕留めて副長を捕まえねえと！",
-    "Text": "",
-    "Enabled": false
+    "Text": "젠장, 이놈을 빨리\n해치우고 부함장을 잡아야 해!",
+    "Enabled": true
   },
   "407030025100310": {
     "OriginalText": "副長……あれから一体何が……？",
-    "Text": "",
-    "Enabled": false
+    "Text": "부함장님... 그 뒤 무슨 일이 있었던 거죠...?",
+    "Enabled": true
   },
   "407030025100320": {
     "OriginalText": "あれは本当に\nレイヴァン副長なのでしょうか……？",
-    "Text": "",
-    "Enabled": false
+    "Text": "저분이 정말\n레이반 부함장님일까요...?",
+    "Enabled": true
   },
   "407030025100510": {
     "OriginalText": "お前達は何も知る必要は無い。",
-    "Text": "",
-    "Enabled": false
+    "Text": "너희는 아무것도 알 필요 없다.",
+    "Enabled": true
   },
   "407030025100520": {
     "OriginalText": "理解など求めぬよ……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "이해해 달라고는 하지 않겠다...",
+    "Enabled": true
   },
   "407030025100530": {
     "OriginalText": "この戦闘も……無意味なのだがな……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "이 싸움도... 무의미한데...",
+    "Enabled": true
   },
   "407100020100710": {
     "OriginalText": "新型ギガンテスを捕捉！",
-    "Text": "",
-    "Enabled": false
+    "Text": "신형 기간테스 포착!",
+    "Enabled": true
   },
   "407100020100720": {
     "OriginalText": "似降あの型は\n「ギガンテス・ガラティオン」と呼称！",
-    "Text": "",
+    "Text": "앞으로 저 기종은\n'기간테스 갈라티온'이라고 부르겠어!",
     "Enabled": false
   },
   "407100020100730": {
     "OriginalText": "新型のギガンテスまでいるなんて\nおもしろそうな塔ね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "신형 기간테스까지 있다니,\n재미있는 탑이네.",
+    "Enabled": true
   },
   "407100020100810": {
     "OriginalText": "やはり、下の惑星本体にも新型ギガンテスが！",
-    "Text": "",
-    "Enabled": false
+    "Text": "역시 아래 행성 본체에도 신형 기간테스가 있어요!",
+    "Enabled": true
   },
   "407100020100820": {
     "OriginalText": "あの新型の識別名は、\n「ギガンテス・ガラティオン」です！",
-    "Text": "",
-    "Enabled": false
+    "Text": "저 신형의 식별명은\n'기간테스 갈라티온'이에요!",
+    "Enabled": true
   },
   "407100020100830": {
     "OriginalText": "あんな刃洋がいっぱい……。\nみなさん、気をつけて！",
-    "Text": "",
+    "Text": "날붙이가 저렇게 많다니...\n다들 조심하세요!",
     "Enabled": false
   },
   "407120020100310": {
     "OriginalText": "ええと、これはですね……",
-    "Text": "",
-    "Enabled": false
+    "Text": "음, 이건 말이죠...",
+    "Enabled": true
   },
   "407120020100320": {
     "OriginalText": "読んでみますね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "한번 읽어 볼게요.",
+    "Enabled": true
   },
   "407120050050310": {
     "OriginalText": "さぁ、宝石を集めましょ！\n『一摘の光陰軽んずべからず』ですよ！",
-    "Text": "",
+    "Text": "자, 보석을 모으죠!\n'시간은 금'이잖아요!",
     "Enabled": false
   },
   "407120050100310": {
     "OriginalText": "ここには、この[ruby ほし]惑星[/ruby]の人々と異星人との\n戦争について書かれています。\n侵略を受け、為す術がなかったようです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "여기에는 이 행성 사람들과 외계인의\n전쟁이 적혀 있어요.\n침략을 받고 속수무책이었던 것 같아요.",
+    "Enabled": true
   },
   "407120050200310": {
     "OriginalText": "ここには、古代人たちが開発した新技術と\n兵器に関することが記寸されています。\n星間戦争に勝利するための秘策だったとか。",
-    "Text": "",
+    "Text": "여기에는 고대인이 개발한 신기술과\n병기에 관한 내용이 있어요.\n성간 전쟁에서 승리할 비책이었다네요.",
     "Enabled": false
   },
   "407120050300310": {
     "OriginalText": "ここには、グランについて書かれています！\nグランとギガンテスにより、異星人の侵略を退け、\n古代人は平和と載栄を手に入れたようです。",
-    "Text": "",
+    "Text": "여기에는 그란에 관한 내용이 있어요! 고대인은\n그란과 기간테스로 외계인의 침략을 막고,\n평화와 번영을 얻은 것 같아요.",
     "Enabled": false
   },
   "407120050400310": {
     "OriginalText": "これは、ギガンテスに関することのようです。\nギガンテスは制御不能なほど進化成長し\n古代人は生活の場を奪われてしまったと。",
-    "Text": "",
-    "Enabled": false
+    "Text": "기간테스에 관한 내용 같아요.\n기간테스가 제어할 수 없을 만큼 진화하고 성장해,\n고대인은 삶의 터전을 빼앗겼다고 해요.",
+    "Enabled": true
   },
   "407120050500310": {
     "OriginalText": "古代人はギガンテスへの対抗策を構想するも\n実を結ぶことはなく、ある人洋に未来を託す\nことになった、と、そのような記寸のようです。",
-    "Text": "",
+    "Text": "고대인은 기간테스에 맞설 방법을 구상했지만,\n성과를 거두지 못해서 어느 한 사람에게\n미래를 맡겼다는 기록인 것 같아요.",
     "Enabled": false
   },
   "407120050600310": {
-    "OriginalText": "これは、古代人による最後の記録のようです。\n古代人の人口はさらに滅少し、その多くも\n聖地であるこの地を守り、亡くなったそうです。",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "これは、古代人による最後の記録のようです。\n古代人の人口はさらに減少し、その多くも\n聖地であるこの地を守り、亡くなったそうです。",
+    "Text": "고대인의 마지막 기록 같아요.\n인구가 더 줄어들고, 남은 이들도 대부분\n성지인 이곳을 지키다가 죽었다고 해요.",
+    "Enabled": true
   },
   "407210030100110": {
     "OriginalText": "すぐ行くからね、ユノ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "금방 갈게, 유노!",
+    "Enabled": true
   },
   "407210030100120": {
     "OriginalText": "今度はあたしがユノに\n教えてあげる番なんだ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "이번에는 내가 유노에게\n가르쳐 줄 차례야!",
+    "Enabled": true
   },
   "407210030100130": {
     "OriginalText": "邪魔なのよ！ ユノのところに行かせなさい！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "방해하지 마! 유노한테 가게 해!!",
+    "Enabled": true
   },
   "408120020100610": {
     "OriginalText": "レイヴァン……\nお前の仕事にしては繁撰だな……！",
-    "Text": "",
+    "Text": "레이반...\n네 솜씨치고는 허술하군...!",
     "Enabled": false
   },
   "408120020100910": {
     "OriginalText": "ギガンテスとお友達とはな！\nどうやって酒い慣らしたんだ？",
-    "Text": "",
+    "Text": "기간테스랑 친구라니!\n어떻게 길들인 거야?",
     "Enabled": false
   },
   "408140020101010": {
     "OriginalText": "レイヴァン、こいつでオレ達を\n倒せると思っちゃいないだろうな？",
-    "Text": "",
-    "Enabled": false
+    "Text": "레이반, 이 녀석으로 우리를\n쓰러뜨릴 수 있다고 생각하진 않겠지?",
+    "Enabled": true
   },
   "408140020101110": {
     "OriginalText": "はて、レイヴァンさんは\nシーフードがお好みでしたかな？",
-    "Text": "",
-    "Enabled": false
+    "Text": "그러고 보니 레이반 씨는\n해산물을 좋아하셨던가요?",
+    "Enabled": true
   },
   "408150020101210": {
     "OriginalText": "どうして……わからない……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "어째서... 모르겠어요...",
+    "Enabled": true
   },
   "408150020101220": {
     "OriginalText": "私のこと、本当に覚えていないのですか……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "정말 저를 기억하지 못하시나요...?",
+    "Enabled": true
   },
   "409020020100110": {
     "OriginalText": "こんなもので、止められるもんか！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "이런 걸로 우릴 막을 수는 없어!!",
+    "Enabled": true
   },
   "409020020100210": {
     "OriginalText": "レイヴァンよぉ！\n自力じゃ戦えねえってのは悲しいもんだな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "레이반!\n자기 힘으로 싸울 수 없다니 참 딱하네!",
+    "Enabled": true
   },
   "409020020100310": {
     "OriginalText": "レイヴァンさん……\nこちらも全力でいきますよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "레이반 씨...\n우리도 온 힘을 다하겠어요!",
+    "Enabled": true
   },
   "409020020100510": {
     "OriginalText": "ユノ……その名は……私の……何だ……？",
-    "Text": "",
-    "Enabled": false
+    "Text": "유노... 그 이름은... 나의... 뭐지... ?",
+    "Enabled": true
   },
   "409020020101310": {
     "OriginalText": "レイヴァン……私の声を聞いて下さい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "레이반... 제 목소리를 들어요!",
+    "Enabled": true
   },
   "409030010100110": {
     "OriginalText": "進むしかないんだ！ あたし達は！",
-    "Text": "",
-    "Enabled": false
+    "Text": "나아갈 수밖에 없어! 우리는!",
+    "Enabled": true
   },
   "409030010100210": {
     "OriginalText": "オレは誰かを悲しませる奴には\n容赦しないぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "난 누군가를 슬프게 만드는 놈은\n용서하지 않아!",
+    "Enabled": true
   },
   "409030010100310": {
     "OriginalText": "気持ちで負けるわけには……\nいかないんです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "마음에서부터 질 수는...\n없어요!",
+    "Enabled": true
   },
   "409030010100510": {
     "OriginalText": "姿などどうでもいい……\n大切なのは……何だ……？",
-    "Text": "",
-    "Enabled": false
+    "Text": "모습 따위는 상관없다...\n중요한 건... 뭐지... ?",
+    "Enabled": true
   },
   "409030010101310": {
     "OriginalText": "思い出してレイヴァン！\nあなたは、人なのですよ！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "기억해요, 레이반!\n당신은 사람이잖아요!!",
+    "Enabled": true
   },
   "409040010100110": {
     "OriginalText": "レイヴァン！\nあんたの顔、絶対見てやるんだからね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "레이반!\n네 얼굴, 반드시 보고 말겠어!",
+    "Enabled": true
   },
   "409040010100210": {
     "OriginalText": "レイヴァン！\n勝ったつもりになるのはまだ早ぇからな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "레이반!\n이겼다고 생각하기엔 아직 이르다고!",
+    "Enabled": true
   },
   "409040010100310": {
     "OriginalText": "記憶をなくしたあなたに……\nわたし達の強さは分からない！",
-    "Text": "",
-    "Enabled": false
+    "Text": "기억을 잃은 당신은...\n우리의 힘을 알 수 없어요!",
+    "Enabled": true
   },
   "409040010101310": {
     "OriginalText": "レイヴァン、あなたが望んだのは\nこんな力ではなかったはず……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "레이반, 당신이 바랐던 건\n이런 힘이 아니었을 텐데...!",
+    "Enabled": true
   },
   "409040010101320": {
     "OriginalText": "こんな姿……見たくはありませんでした……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "이런 모습은... 보고 싶지 않았어요...",
+    "Enabled": true
   },
   "411020010100110": {
     "OriginalText": "うん……しっくりくる……\n闘志がみなぎってきたよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "응... 손에 익네...\n투지가 솟아올라!",
+    "Enabled": true
   },
   "411020010100120": {
     "OriginalText": "やっぱりコブシはいいね……\nスイッチ入った！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "역시 주먹이 좋아...\n스위치 켜졌어!!",
+    "Enabled": true
   },
   "411020010100130": {
     "OriginalText": "ルティナさんのコンボお見せしちゃうよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "루티나의 콤보를 보여 줄게!",
+    "Enabled": true
   },
   "412020010100210": {
     "OriginalText": "不倒のセイルってのは、\nオレの誇りについた名だ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "불굴의 세일이란 이름에는\n내 자부심이 담겨 있어!",
+    "Enabled": true
   },
   "412020010100220": {
     "OriginalText": "倒れないのは仲間のためでもあり、\n己の意地のためでもある！",
-    "Text": "",
-    "Enabled": false
+    "Text": "쓰러지지 않는 건 동료를 위해서이기도 하고,\n내 고집 때문이기도 해!",
+    "Enabled": true
   },
   "412020010100230": {
     "OriginalText": "オレを簡単に倒せると思うなよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "날 쉽게 쓰러뜨릴 수 있다고 생각하지 마!",
+    "Enabled": true
   },
   "413020010100310": {
     "OriginalText": "なるべく多くチーズの村料を用意して、\nいいものを作らないと……。",
-    "Text": "",
+    "Text": "치즈 재료를 최대한 많이 준비해서,\n좋은 걸 만들어야겠어...",
     "Enabled": false
   },
   "413020010100320": {
     "OriginalText": "チーズの酸味を強めにするか、\nそれとも果枚で調節……？",
-    "Text": "",
+    "Text": "치즈의 신맛을 강하게 할까,\n아니면 과일로 조절할까...?",
     "Enabled": false
   },
   "413020010100330": {
     "OriginalText": "砂糖も、いいものがほしいな……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "설탕도 좋은 걸로 구하고 싶어...",
+    "Enabled": true
   },
   "416020010100610": {
     "OriginalText": "ほぼ予定通り……順調だ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "거의 예정대로... 순조롭군.",
+    "Enabled": true
   },
   "416020010100620": {
     "OriginalText": "早く終われば仕事が前倒せるが……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "일찍 끝나면 업무도 앞당길 수 있는데...",
+    "Enabled": true
   },
   "416020010100630": {
     "OriginalText": "自由なフィールドワークも\nたまには悪くない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "자유로운 현장 조사도\n가끔은 나쁘지 않군.",
+    "Enabled": true
   },
   "419020010100910": {
     "OriginalText": "よし、ちゃんと出力は設計通り出てるな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "좋아, 출력도 제대로 설계대로 나오는군.",
+    "Enabled": true
   },
   "419020010100920": {
     "OriginalText": "武器が不調なら言ってくれ。\n調整するからな。",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기에 문제가 있으면 말해.\n조정해 줄 테니까.",
+    "Enabled": true
   },
   "419020010100930": {
     "OriginalText": "武器も使えてこそいい職人、てな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기도 다룰 줄 알아야 좋은 장인이지!",
+    "Enabled": true
   },
   "420020010101010": {
     "OriginalText": "緊張しすぎるな。力むと当たるもんも当たらんぞ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "너무 긴장하지 마.\n힘을 주면 맞힐 것도 못 맞힌다고.",
+    "Enabled": true
   },
   "420020010101020": {
     "OriginalText": "背中と頭のてっぺんにも\n目がついてるつもりでな。\nって、難しいか。",
-    "Text": "",
-    "Enabled": false
+    "Text": "등과 정수리에도\n눈이 달렸다고 생각해.\n...어려운가.",
+    "Enabled": true
   },
   "420020010101030": {
     "OriginalText": "武器を構えてる時が一番生きてるって\n気がするんだよな……。",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기를 겨눌 때가 가장 살아 있다는\n느낌이 든단 말이야...",
+    "Enabled": true
   },
   "421020010101110": {
     "OriginalText": "ほっほっほ、狙い撃っちゃいますぞー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "호호호, 딱 겨눠서 쏴 드리지요!",
+    "Enabled": true
   },
   "421020010101120": {
     "OriginalText": "当たらなきゃ痛くありませんよ。\n当てますけど。",
-    "Text": "",
-    "Enabled": false
+    "Text": "안 맞으면 아프지 않습니다.\n맞힐 테지만요.",
+    "Enabled": true
   },
   "421020010101130": {
     "OriginalText": "食べられそうな獲洋は急所を\nはずさねばなりませんな。",
-    "Text": "",
+    "Text": "먹을 수 있을 듯한 사냥감은\n급소를 피해서 쏴야지요.",
     "Enabled": false
   },
   "422020010101210": {
     "OriginalText": "判断の速さが戦場では大切ですね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "전장에서는 빠른 판단이 중요하죠.",
+    "Enabled": true
   },
   "422020010101220": {
     "OriginalText": "慌てず騒がず、思考は早く、です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "당황하거나 소란 떨지 말고, 생각은 빠르게요.",
+    "Enabled": true
   },
   "422020010101230": {
     "OriginalText": "本能で戦える人はすごいと思います。",
-    "Text": "",
-    "Enabled": false
+    "Text": "본능으로 싸우는 사람은 대단한 것 같아요.",
+    "Enabled": true
   },
   "425010010100410": {
     "OriginalText": "あっははっ！ 楽しいなあ！\nいくぜいくぜー！",
-    "Text": "",
-    "Enabled": false
+    "Text": "아하하! 재미있네!\n간다, 간다!",
+    "Enabled": true
   },
   "425010010100420": {
     "OriginalText": "頼りになる奴と組むって、\nいいもんだよな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "믿음직한 녀석과 함께 싸우는 건\n좋은 일이야!",
+    "Enabled": true
   },
   "425010010100430": {
     "OriginalText": "おい、楽しんでるか？\n必死な顔なんかすんなよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "어이, 즐기고 있어?\n죽기 살기로 매달리는 표정은 짓지 마!",
+    "Enabled": true
   },
   "498000000100710": {
     "OriginalText": "エネミー反応を確認。警戒レベル高へ移行。",
-    "Text": "",
-    "Enabled": false
+    "Text": "에너미 반응 확인. 경계 레벨을 '높음'으로 전환한다.",
+    "Enabled": true
   },
   "498000000100720": {
     "OriginalText": "周囲に反応あり。総員、警戒態勢をとれ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "주변에 반응이 있다. 전원 경계 태세를 취해.",
+    "Enabled": true
   },
   "498000000100730": {
     "OriginalText": "環境値上昇、突発事象に留意。",
-    "Text": "",
-    "Enabled": false
+    "Text": "환경 수치 상승. 돌발 상황에 주의해.",
+    "Enabled": true
   },
   "498000000100740": {
     "OriginalText": "警戒レベル、高。\nふふ、面倒なことが起こりそうね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "경계 레벨 높음.\n후후, 귀찮은 일이 생기겠는걸.",
+    "Enabled": true
   },
   "498000000100810": {
     "OriginalText": "大変です！\nみなさん、注意してください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "큰일이에요!\n여러분, 조심하세요!",
+    "Enabled": true
   },
   "498000000100820": {
     "OriginalText": "あれは、何です？！\nとにかく周囲に警戒を！",
-    "Text": "",
-    "Enabled": false
+    "Text": "저건 뭐죠?!\n일단 주변을 경계해 주세요!",
+    "Enabled": true
   },
   "498000000100830": {
     "OriginalText": "あぁ、数値が！ 何か起きそうです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "아, 수치가! 뭔가 일어날 것 같아요!",
+    "Enabled": true
   },
   "498000000100840": {
     "OriginalText": "こんな反応見たことありません。\n気を付けてください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "이런 반응은 처음 봐요.\n조심하세요!",
+    "Enabled": true
   },
   "498000000110710": {
     "OriginalText": "環境値変動！ 戦闘態勢への移行を指示。",
-    "Text": "",
-    "Enabled": false
+    "Text": "환경 수치 변동! 전투 태세로 전환해.",
+    "Enabled": true
   },
   "498000000110720": {
     "OriginalText": "目標ダーカーを確認。対処を要請する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "목표 다커 확인. 대응 바란다.",
+    "Enabled": true
   },
   "498000000110730": {
     "OriginalText": "ダーカー発生の予随あり。速やかに排除。",
-    "Text": "",
+    "Text": "다커 발생 징후가 있다. 신속히 제거해.",
     "Enabled": false
   },
   "498000000110740": {
     "OriginalText": "こんなに強い反応が……早急に対処を！",
-    "Text": "",
-    "Enabled": false
+    "Text": "이렇게 강한 반응이라니... 서둘러 대응해!",
+    "Enabled": true
   },
   "498000000110810": {
     "OriginalText": "まわりに反応あり！\nええと……いっぱいです。",
-    "Text": "",
-    "Enabled": false
+    "Text": "주변에 반응이 있어요!\n그러니까... 엄청 많아요.",
+    "Enabled": true
   },
   "498000000110820": {
     "OriginalText": "ええと、この反応は……ダーカー！？",
-    "Text": "",
-    "Enabled": false
+    "Text": "음, 이 반응은... 다커!?",
+    "Enabled": true
   },
   "498000000110830": {
     "OriginalText": "すごい勢いでこちらに向かってます！\nダーカーです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "굉장한 속도로 이쪽에 오고 있어요!\n다커예요!",
+    "Enabled": true
   },
   "498000000110840": {
     "OriginalText": "うわっ、うわわっ！\nなんですかこれは？！",
-    "Text": "",
-    "Enabled": false
+    "Text": "우왓, 우와아!\n이게 대체 뭐죠?!",
+    "Enabled": true
   },
   "498000000120710": {
     "OriginalText": "ギガンテスの出現を確認。警戒レベル最大！",
-    "Text": "",
-    "Enabled": false
+    "Text": "기간테스 출현 확인. 경계 레벨 최대!",
+    "Enabled": true
   },
   "498000000120720": {
     "OriginalText": "ギガンテス接近。交戦態勢を。",
-    "Text": "",
-    "Enabled": false
+    "Text": "기간테스 접근 중. 교전 태세를 취해.",
+    "Enabled": true
   },
   "498000000120730": {
     "OriginalText": "広域警戒警報発令。総員、速やかに移行。",
-    "Text": "",
-    "Enabled": false
+    "Text": "광역 경계 경보 발령. 전원 신속히 전환해.",
+    "Enabled": true
   },
   "498000000120740": {
     "OriginalText": "んっ……ソイツは危険そうね。\n総員、厳戒態勢を取れ",
-    "Text": "",
-    "Enabled": false
+    "Text": "흠... 저 녀석은 위험해 보이네.\n전원 엄중한 경계 태세를 취해.",
+    "Enabled": true
   },
   "498000000120810": {
     "OriginalText": "気をつけてください！\nギガンテスの反応があります！",
-    "Text": "",
-    "Enabled": false
+    "Text": "조심하세요!\n기간테스 반응이 있어요!",
+    "Enabled": true
   },
   "498000000120820": {
     "OriginalText": "危ないのです！\nみなさん、ギガンテスです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "위험해요!\n여러분, 기간테스예요!",
+    "Enabled": true
   },
   "498000000120830": {
     "OriginalText": "まさか、こんなことが……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "설마 이런 일이...!",
+    "Enabled": true
   },
   "498000000120840": {
     "OriginalText": "みなさん、危険です、逃げてください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "여러분, 위험해요. 도망치세요!",
+    "Enabled": true
   },
   "498000000200710": {
     "OriginalText": "総員に通達！",
-    "Text": "",
-    "Enabled": false
+    "Text": "전원에게 알린다!",
+    "Enabled": true
   },
   "498000000200720": {
     "OriginalText": "連絡事区あり。",
-    "Text": "",
+    "Text": "전달 사항이 있다.",
     "Enabled": false
   },
   "498000000200730": {
     "OriginalText": "緊急連絡！",
-    "Text": "",
-    "Enabled": false
+    "Text": "긴급 연락!",
+    "Enabled": true
   },
   "498000000200740": {
     "OriginalText": "機密連絡！\n一回しか言わないからちゃんと聞きなさい！",
-    "Text": "",
-    "Enabled": false
+    "Text": "기밀 연락!\n한 번만 말할 테니 똑똑히 들어!",
+    "Enabled": true
   },
   "498000000200810": {
     "OriginalText": "えっと、連絡事区なのです。",
-    "Text": "",
+    "Text": "음, 전달할 사항이 있어요.",
     "Enabled": false
   },
   "498000000200820": {
     "OriginalText": "お話聞いてもらってもいいですか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "잠깐 얘기를 들어주실래요?",
+    "Enabled": true
   },
   "498000000200830": {
     "OriginalText": "みなさん、聞こえていますか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "여러분, 들리시나요?",
+    "Enabled": true
   },
   "498000000200840": {
     "OriginalText": "すみません。ご報告し忘れていました！",
-    "Text": "",
-    "Enabled": false
+    "Text": "죄송해요. 보고하는 걸 깜빡했어요!",
+    "Enabled": true
   },
   "498000000300710": {
     "OriginalText": "緊急任務発令！",
-    "Text": "",
-    "Enabled": false
+    "Text": "긴급 임무 발령!",
+    "Enabled": true
   },
   "498000000300720": {
     "OriginalText": "至急、任務につけ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "즉시 임무에 나서!",
+    "Enabled": true
   },
   "498000000300810": {
     "OriginalText": "に、任務発令です。\n怪我しないようにしてください！",
-    "Text": "",
-    "Enabled": false
+    "Text": "이, 임무가 내려왔어요.\n다치지 않게 조심하세요!",
+    "Enabled": true
   },
   "498000000300820": {
     "OriginalText": "任務をお願いします。\nあー、でも無理は央洋です！",
-    "Text": "",
+    "Text": "임무를 부탁드려요.\n아, 그래도 무리는 금물이에요!",
     "Enabled": false
   },
   "498000000310710": {
     "OriginalText": "目標達成を確認。通常任務へ戻れ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "목표 달성 확인. 통상 임무로 복귀해.",
+    "Enabled": true
   },
   "498000000310720": {
     "OriginalText": "任務完了確認。ふふ、やるじゃない。",
-    "Text": "",
-    "Enabled": false
+    "Text": "임무 완료 확인. 후후, 제법이네.",
+    "Enabled": true
   },
   "498000000310810": {
     "OriginalText": "お疲れ様です！目標達成を確認しました。",
-    "Text": "",
-    "Enabled": false
+    "Text": "수고하셨어요! 목표 달성을 확인했어요.",
+    "Enabled": true
   },
   "498000000310820": {
     "OriginalText": "みなさん、やりました！\n通常任務もお気をつけて！",
-    "Text": "",
-    "Enabled": false
+    "Text": "여러분, 해냈어요!\n통상 임무에서도 조심하세요!",
+    "Enabled": true
   },
   "498000000320710": {
     "OriginalText": "任務の失敗を確認。\n通常任務へ移行を要請する。",
-    "Text": "",
-    "Enabled": false
+    "Text": "임무 실패 확인.\n통상 임무로 전환하기 바란다.",
+    "Enabled": true
   },
   "498000000320720": {
     "OriginalText": "任務失敗を把握。\n……あとで覚悟することね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "임무 실패 확인.\n...나중에 각오해 둬.",
+    "Enabled": true
   },
   "498000000320810": {
     "OriginalText": "任務失敗の件了解です。\n怪我がないのが一番です。",
-    "Text": "",
-    "Enabled": false
+    "Text": "임무 실패 보고 확인했어요.\n다치지 않는 게 가장 중요하죠.",
+    "Enabled": true
   },
   "498000000320820": {
     "OriginalText": "失敗ですか。\n仕方ありません、\n無理してもいいことありませんよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "실패했나요?\n어쩔 수 없죠.\n무리해 봐야 좋을 게 없어요.",
+    "Enabled": true
   },
   "498000000330710": {
     "OriginalText": "環境値、さらに変動。引き続き警戒を。",
-    "Text": "",
-    "Enabled": false
+    "Text": "환경 수치 추가 변동. 계속 경계해.",
+    "Enabled": true
   },
   "498000000330720": {
     "OriginalText": "新たな反応多数。戦闘態勢、続行！",
-    "Text": "",
-    "Enabled": false
+    "Text": "새 반응이 다수 발생. 전투 태세를 유지해!",
+    "Enabled": true
   },
   "498000000330810": {
     "OriginalText": "あれ？ \nええと、あれは新しい反応でしょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "어라?\n음, 저건 새로운 반응일까요?",
+    "Enabled": true
   },
   "498000000330820": {
     "OriginalText": "危険です！ \nまだ終わってなかったみたいです！",
-    "Text": "",
-    "Enabled": false
+    "Text": "위험해요!\n아직 끝난 게 아닌 것 같아요!",
+    "Enabled": true
   },
   "498000000400710": {
     "OriginalText": "目標達成。拠点への帰還を許可。",
-    "Text": "",
-    "Enabled": false
+    "Text": "목표 달성. 거점 귀환을 허가한다.",
+    "Enabled": true
   },
   "498000000400720": {
     "OriginalText": "帰還許可あり。\n胸を張って帰ってこられるレベルかしら？",
-    "Text": "",
-    "Enabled": false
+    "Text": "귀환 허가가 나왔어.\n당당하게 돌아올 만한 성과는 냈겠지?",
+    "Enabled": true
   },
   "498000000400810": {
     "OriginalText": "帰還の許可が出ました。\nみなさんが無事で本当によかった。",
-    "Text": "",
-    "Enabled": false
+    "Text": "귀환 허가가 나왔어요.\n여러분이 무사해서 정말 다행이에요.",
+    "Enabled": true
   },
   "498000000400820": {
     "OriginalText": "帰りも気をつけてください。\n帰るまでが任務ですよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "돌아오실 때도 조심하세요.\n귀환할 때까지가 임무랍니다.",
+    "Enabled": true
   },
   "498000000410710": {
     "OriginalText": "任務続行不可を確認。速やかに撤退を。",
-    "Text": "",
-    "Enabled": false
+    "Text": "임무 지속 불가 확인. 신속히 철수해.",
+    "Enabled": true
   },
   "498000000410720": {
     "OriginalText": "任務は失敗。\nどの面さげて帰ってくるか楽しみだわ",
-    "Text": "",
-    "Enabled": false
+    "Text": "임무 실패.\n어떤 낯짝으로 돌아올지 기대할게.",
+    "Enabled": true
   },
   "498000000410810": {
     "OriginalText": "オペレートが悪いせいで失敗に……\nごめんなさい。\n帰還をお願いします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "제가 지원을 못 해서 실패한 거죠...\n미안해요.\n귀환해 주세요.",
+    "Enabled": true
   },
   "498000000410820": {
     "OriginalText": "任務続行は難しそうですね。\n一度帰還をお願いします。",
-    "Text": "",
-    "Enabled": false
+    "Text": "임무를 계속하기는 어려울 것 같네요.\n일단 귀환해 주세요.",
+    "Enabled": true
   },
   "498000000500710": {
     "OriginalText": "グランリンク達成を確認。捕獲行動に移行。",
-    "Text": "",
-    "Enabled": false
+    "Text": "그란 링크 달성 확인. 포획에 들어가.",
+    "Enabled": true
   },
   "498000000500810": {
     "OriginalText": "グランリンクを達成しました！\nこれで捕獲ができますね！",
-    "Text": "",
-    "Enabled": false
+    "Text": "그란 링크를 달성했어요!\n이제 포획할 수 있겠네요!",
+    "Enabled": true
   },
   "498000000510710": {
     "OriginalText": "ギガンテス捕獲！\nその調子で頑張りなさい。",
-    "Text": "",
-    "Enabled": false
+    "Text": "기간테스 포획!\n그 기세로 계속 힘내.",
+    "Enabled": true
   },
   "498000000510810": {
     "OriginalText": "おめでとうごいます！\nギガンテスを捕獲が完了しました！",
-    "Text": "",
+    "Text": "축하드려요!\n기간테스 포획이 완료됐어요!",
     "Enabled": false
   },
   "498000000510910": {
     "OriginalText": "やったー！ギガンテス捕獲成功！",
-    "Text": "",
-    "Enabled": false
+    "Text": "해냈다! 기간테스 포획 성공!",
+    "Enabled": true
   },
   "498000000511010": {
     "OriginalText": "ギガンテス、捕獲！！\nさすがの手際の良さだな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "기간테스 포획!!\n역시 솜씨가 대단하군!",
+    "Enabled": true
   },
   "498000000511110": {
     "OriginalText": "ギガンテス捕獲できました！\nお疲れ様です！",
-    "Text": "",
-    "Enabled": false
+    "Text": "기간테스를 포획했어요!\n수고하셨어요!",
+    "Enabled": true
   },
   "498000000511210": {
     "OriginalText": "デカブツを捕獲したか？\nなかなかやるな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "덩치 큰 놈을 포획했나?\n제법 하는구나!",
+    "Enabled": true
   },
   "498000000511310": {
     "OriginalText": "ギガンテスを捕獲したようですね。\n拠点がにぎやかになるのは好きですわ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "기간테스를 포획한 모양이군요.\n거점이 북적이는 건 마음에 들어요.",
+    "Enabled": true
   },
   "498000000511410": {
     "OriginalText": "ギガンテスが捕獲できたようだな。\n悪くない手際だった。",
-    "Text": "",
-    "Enabled": false
+    "Text": "기간테스를 포획한 모양이군.\n나쁘지 않은 솜씨였다.",
+    "Enabled": true
   },
   "498000000520710": {
     "OriginalText": "ターゲットの攻撃パターンを解祈",
-    "Text": "",
+    "Text": "목표의 공격 패턴 분석.",
     "Enabled": false
   },
   "498000000520810": {
     "OriginalText": "えっと、敵の攻撃パターンを\n解祈できそうです。",
-    "Text": "",
+    "Text": "음, 적의 공격 패턴을\n분석할 수 있을 것 같아요.",
     "Enabled": false
   },
   "499000000100110": {
     "OriginalText": "いっくわよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "간다!",
+    "Enabled": true
   },
   "499000000100120": {
     "OriginalText": "落ち着いていけば、大丈夫……！",
-    "Text": "",
-    "Enabled": false
+    "Text": "침착하게 하면 괜찮아...!",
+    "Enabled": true
   },
   "499000000100130": {
     "OriginalText": "[ruby]相棒[/ruby]と一緒だから、心強いよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "파트너랑 함께라 든든해!",
+    "Enabled": true
   },
   "499000000100140": {
     "OriginalText": "うええっ！！ でたーっ！\nもうタコいやーっ！！ ",
-    "Text": "",
-    "Enabled": false
+    "Text": "으엑!! 나왔다!\n문어는 이제 싫어!!",
+    "Enabled": true
   },
   "499000000100210": {
     "OriginalText": "オレ様が一番強い奴とやるぜ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "제일 강한 놈은 이 몸이 맡는다!",
+    "Enabled": true
   },
   "499000000100220": {
     "OriginalText": "まだまだ余裕だな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "아직 여유롭군!",
+    "Enabled": true
   },
   "499000000100230": {
     "OriginalText": "モノメイトは……まだあるな！",
-    "Text": "",
-    "Enabled": false
+    "Text": "모노메이트는... 아직 있군!",
+    "Enabled": true
   },
   "499000000100240": {
     "OriginalText": "きつい奴はオレの後ろで休んでいいぞ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "힘든 녀석은 내 뒤에서 쉬어도 돼!",
+    "Enabled": true
   },
   "499000000100310": {
     "OriginalText": "有為転変\n状況の変化に注意しましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "모든 것은 변하기 마련이죠.\n상황 변화에 주의하세요.",
+    "Enabled": true
   },
   "499000000100320": {
     "OriginalText": "先制攻撃は大事ですよね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "선제공격은 중요하죠.",
+    "Enabled": true
   },
   "499000000100330": {
     "OriginalText": "このチームの戦術は……と。",
-    "Text": "",
-    "Enabled": false
+    "Text": "이 팀의 전술은... 어디 보자.",
+    "Enabled": true
   },
   "499000000100340": {
     "OriginalText": "回復は早めを心がけましょう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "회복은 미리미리 하도록 해요.",
+    "Enabled": true
   },
   "499000000100610": {
     "OriginalText": "動きを読み切れば、どうとでもなる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "움직임만 완전히 읽으면 어떻게든 된다.",
+    "Enabled": true
   },
   "499000000100620": {
     "OriginalText": "あせることはない……勝機は確実にある。",
-    "Text": "",
-    "Enabled": false
+    "Text": "서두를 것 없다... 승산은 분명히 있어.",
+    "Enabled": true
   },
   "499000000100910": {
     "OriginalText": "この武器はこう使うんだよっ！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "이 무기는 이렇게 쓰는 거야!!",
+    "Enabled": true
   },
   "499000000100920": {
     "OriginalText": "オレもグランを使いこなせてるだろ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "나도 그란을 잘 다루고 있지?",
+    "Enabled": true
   },
   "499000000101010": {
     "OriginalText": "ほらっ！ お前さん達、ガンガン攻めろ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "자! 너희들, 거침없이 공격해!",
+    "Enabled": true
   },
   "499000000101020": {
     "OriginalText": "回復まで面倒みねえからな。\nしっかりよけろよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "회복까지 챙겨주진 않는다.\n제대로 피해!",
+    "Enabled": true
   },
   "499000000101110": {
     "OriginalText": "わたくし、なかなか上手でしょ？",
-    "Text": "",
-    "Enabled": false
+    "Text": "저, 제법 잘하죠?",
+    "Enabled": true
   },
   "499000000101120": {
     "OriginalText": "意外とタフなんですよ。ほっほっほ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "보기보다 튼튼하답니다. 호호호!",
+    "Enabled": true
   },
   "499000000101210": {
     "OriginalText": "状況分祈を最優先。\nバックアップを担当します。",
-    "Text": "",
+    "Text": "상황 분석을 최우선으로.\n지원을 맡겠습니다.",
     "Enabled": false
   },
   "499000000101220": {
     "OriginalText": "隙を確実に狙いましょう！",
-    "Text": "",
-    "Enabled": false
+    "Text": "빈틈을 확실히 노리죠!",
+    "Enabled": true
   },
   "499000000200110": {
     "OriginalText": "拠点に戻ろう、[ruby]相棒[/ruby]！",
-    "Text": "",
-    "Enabled": false
+    "Text": "거점으로 돌아가자, 파트너!",
+    "Enabled": true
   },
   "499000000200120": {
     "OriginalText": "終わりだね！ 帰ろ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "끝났네! 돌아가자!",
+    "Enabled": true
   },
   "499000000200210": {
     "OriginalText": "じゃ、帰るとするか！",
-    "Text": "",
-    "Enabled": false
+    "Text": "그럼 돌아갈까!",
+    "Enabled": true
   },
   "499000000200220": {
     "OriginalText": "ぼちぼち引き上げだ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "슬슬 철수하자!",
+    "Enabled": true
   },
   "499000000200310": {
     "OriginalText": "帰りましょうか？",
-    "Text": "",
-    "Enabled": false
+    "Text": "돌아갈까요?",
+    "Enabled": true
   },
   "499000000200320": {
     "OriginalText": "もうここですることはありませんね。",
-    "Text": "",
-    "Enabled": false
+    "Text": "이제 여기서 할 일은 없네요.",
+    "Enabled": true
   },
   "499999999999010": {
     "OriginalText": "任務を開始するよ！\nとりあえず、周辺を探索してみようよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "임무를 시작하자!\n일단 주변부터 탐색해 보자.",
+    "Enabled": true
   },
   "499999999999020": {
     "OriginalText": "エネミーが現れたね。\nさくっと殲滅しちゃうよ！",
-    "Text": "",
-    "Enabled": false
+    "Text": "에너미가 나타났네.\n단숨에 섬멸하자!",
+    "Enabled": true
   },
   "499999999999030": {
     "OriginalText": "大丈夫、怪我してない？\n怪我したら、モノメイトを\n使って回復だよ。",
-    "Text": "",
-    "Enabled": false
+    "Text": "괜찮아? 다친 데는 없어?\n다쳤으면 모노메이트를\n써서 회복해.",
+    "Enabled": true
   },
   "499999999999040": {
     "OriginalText": "武器切替 [f 7c][f 7d] で\n[a 07]武器を切り替えられる[b]よ。\nいろいろな武器を使って倒してみよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "무기 전환 [f 7c][f 7d]로\n[a 07]무기를 바꿀 수 있어[b].\n다양한 무기로 쓰러뜨려 보자.",
+    "Enabled": true
   },
   "499999999999050": {
     "OriginalText": "ギガンテス……。\n攻撃を受けないようにうまく\n回避するよう注意して！",
-    "Text": "",
-    "Enabled": false
+    "Text": "기간테스...\n공격에 맞지 않도록\n회피에 신경 써!",
+    "Enabled": true
   },
   "499999999999060": {
     "OriginalText": "ギガンテスになんとか登れないかな……。\n武器切替 [f 7c][f 7d] で[a 07]武器をヘイロウに変えて[b]\n[f 74] で足場を作ってみよう。",
-    "Text": "",
-    "Enabled": false
+    "Text": "기간테스에 올라갈 수 없을까...?\n무기 전환 [f 7c][f 7d]로 [a 07]무기를 헤일로로 바꾸고[b]\n[f 74]로 발판을 만들어 보자.",
+    "Enabled": true
   },
   "499999999999070": {
     "OriginalText": "ヘイロウで足場は作れた？\n足場の下に[a 07]立ち止まって[b]\n[f 76] で[a 07]登れる[b]よ！！",
-    "Text": "",
-    "Enabled": false
+    "Text": "헤일로로 발판은 만들었어?\n발판 아래에 [a 07]멈춰 서서[b]\n[f 76]를 누르면 [a 07]올라갈 수 있어[b]!!",
+    "Enabled": true
   },
   "499999999999080": {
     "OriginalText": "黄色く光ってる部分が\n弱点みたい。\n集中的に狙おう！",
-    "Text": "",
-    "Enabled": false
+    "Text": "노랗게 빛나는 부분이\n약점인 것 같아.\n집중해서 노리자!",
+    "Enabled": true
   }
 }

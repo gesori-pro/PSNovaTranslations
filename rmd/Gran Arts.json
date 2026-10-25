@@ -1,752 +1,752 @@
 {
   "560000": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "560001": {
     "OriginalText": "通常攻撃",
-    "Text": "Normal Attack",
+    "Text": "통상 공격",
     "Enabled": true
   },
   "560002": {
     "OriginalText": "ライジングエッジ",
-    "Text": "Rising Edge",
+    "Text": "라이징 엣지",
     "Enabled": true
   },
   "560003": {
     "OriginalText": "ツイスターフォール",
-    "Text": "Twister Fall",
+    "Text": "트위스터 폴",
     "Enabled": true
   },
   "560004": {
     "OriginalText": "ノヴァストライク",
-    "Text": "Nova Strike",
+    "Text": "노바 스트라이크",
     "Enabled": true
   },
   "560005": {
     "OriginalText": "オーバーエンド",
-    "Text": "Over End",
+    "Text": "오버엔드",
     "Enabled": true
   },
   "560006": {
     "OriginalText": "スタンコンサイド",
-    "Text": "Stun Concido",
+    "Text": "스턴 콘사이드",
     "Enabled": true
   },
   "560007": {
     "OriginalText": "ソニックアロウ",
-    "Text": "Sonic Arrow",
+    "Text": "소닉 애로우",
     "Enabled": true
   },
   "560008": {
     "OriginalText": "トルネードメテオ",
-    "Text": "Tornado Meteor",
+    "Text": "토네이도 미티어",
     "Enabled": true
   },
   "560009": {
     "OriginalText": "通常攻撃",
-    "Text": "Normal Attack",
+    "Text": "통상 공격",
     "Enabled": true
   },
   "560010": {
     "OriginalText": "スライドシェイカー",
-    "Text": "Slide Shaker",
+    "Text": "슬라이드 셰이커",
     "Enabled": true
   },
   "560011": {
     "OriginalText": "スピードレイン",
-    "Text": "Speed Rain",
+    "Text": "스피드 레인",
     "Enabled": true
   },
   "560012": {
     "OriginalText": "ライジングフラッグ",
-    "Text": "Rising Flag",
+    "Text": "라이징 플래그",
     "Enabled": true
   },
   "560013": {
     "OriginalText": "スライドエンド",
-    "Text": "Slide End",
+    "Text": "슬라이드 엔드",
     "Enabled": true
   },
   "560014": {
     "OriginalText": "アサルトバスター",
-    "Text": "Assault Buster",
+    "Text": "어설트 버스터",
     "Enabled": true
   },
   "560015": {
     "OriginalText": "バンタースナッチ",
-    "Text": "Bandersnatch",
+    "Text": "밴터 스내치",
     "Enabled": true
   },
   "560016": {
     "OriginalText": "オーバースライサー",
-    "Text": "Over Slicer",
+    "Text": "오버슬라이서",
     "Enabled": true
   },
   "560017": {
     "OriginalText": "通常攻撃",
-    "Text": "Normal Attack",
+    "Text": "통상 공격",
     "Enabled": true
   },
   "560018": {
     "OriginalText": "シザーエッジ",
-    "Text": "Scissor Edge",
+    "Text": "시저 엣지",
     "Enabled": true
   },
   "560019": {
     "OriginalText": "ランブリングムーン",
-    "Text": "Rumbling Moon",
+    "Text": "럼블링 문",
     "Enabled": true
   },
   "560020": {
     "OriginalText": "イリュージョンレイヴ",
-    "Text": "Illusion Rave",
+    "Text": "일루전 레이브",
     "Enabled": true
   },
   "560021": {
     "OriginalText": "サプライズダンク",
-    "Text": "Surprise Dunk",
+    "Text": "서프라이즈 덩크",
     "Enabled": true
   },
   "560022": {
     "OriginalText": "デッドリーアーチャー",
-    "Text": "Deadly Archer",
+    "Text": "데들리 아처",
     "Enabled": true
   },
   "560023": {
     "OriginalText": "アクロエフェクト",
-    "Text": "Acro Effect",
+    "Text": "아크로 이펙트",
     "Enabled": true
   },
   "560024": {
     "OriginalText": "ムーンサルトラッシュ",
-    "Text": "Moonsault Rush",
+    "Text": "문설트 러시",
     "Enabled": true
   },
   "560025": {
     "OriginalText": "通常攻撃",
-    "Text": "Normal Attack",
+    "Text": "통상 공격",
     "Enabled": true
   },
   "560026": {
     "OriginalText": "ダッキングブロウ",
-    "Text": "Ducking Blow",
+    "Text": "더킹 블로우",
     "Enabled": true
   },
   "560027": {
     "OriginalText": "フリッカージャブ",
-    "Text": "Flicker Jab",
+    "Text": "플리커 잽",
     "Enabled": true
   },
   "560028": {
     "OriginalText": "ペンデュラムロール",
-    "Text": "Pendulum Roll",
+    "Text": "펜듈럼 롤",
     "Enabled": true
   },
   "560029": {
     "OriginalText": "スライドアッパー",
-    "Text": "Slide Upper",
+    "Text": "슬라이드 어퍼",
     "Enabled": true
   },
   "560030": {
     "OriginalText": "ストレイトチャージ",
-    "Text": "Straight Charge",
+    "Text": "스트레이트 차지",
     "Enabled": true
   },
   "560031": {
     "OriginalText": "サプライズナックル",
-    "Text": "Surprise Knuckle",
+    "Text": "서프라이즈 너클",
     "Enabled": true
   },
   "560032": {
     "OriginalText": "ヘルクラッシュ",
-    "Text": "Hell Crash",
+    "Text": "헬 크래시",
     "Enabled": true
   },
   "560033": {
     "OriginalText": "ヘルクラッシュ",
-    "Text": "Hell Crash",
-    "Enabled": true
+    "Text": "헬 크래시",
+    "Enabled": false
   },
   "560034": {
     "OriginalText": "ピアッシングシェル",
-    "Text": "Piercing Shell",
+    "Text": "피어싱 쉘",
     "Enabled": true
   },
   "560035": {
     "OriginalText": "グレネードシェル",
-    "Text": "Grenade Shell",
+    "Text": "그레네이드 쉘",
     "Enabled": true
   },
   "560036": {
     "OriginalText": "ワンポイント",
-    "Text": "One Point",
+    "Text": "원 포인트",
     "Enabled": true
   },
   "560037": {
     "OriginalText": "インパクトスライダー",
-    "Text": "Impact Slider",
+    "Text": "임팩트 슬라이더",
     "Enabled": true
   },
   "560038": {
     "OriginalText": "スニークシューター",
-    "Text": "Sneak Shooter",
+    "Text": "스닉 슈터",
     "Enabled": true
   },
   "560039": {
     "OriginalText": "グローリーレイン",
-    "Text": "Glorious Rain",
+    "Text": "글로리 레인",
     "Enabled": true
   },
   "560040": {
     "OriginalText": "リフレクトイージス",
-    "Text": "Reflect Aegis",
+    "Text": "리플렉트 이지스",
     "Enabled": true
   },
   "560041": {
     "OriginalText": "通常攻撃",
-    "Text": "Normal Attack",
+    "Text": "통상 공격",
     "Enabled": true
   },
   "560042": {
     "OriginalText": "エリアルシューティング",
-    "Text": "Aerial Shooting",
+    "Text": "에어리얼 슈팅",
     "Enabled": true
   },
   "560043": {
     "OriginalText": "バレットスコール",
-    "Text": "Bullet Squall",
+    "Text": "불릿 스콜",
     "Enabled": true
   },
   "560044": {
     "OriginalText": "インフィニティファイア",
-    "Text": "Infinity Fire",
+    "Text": "인피니티 파이어",
     "Enabled": true
   },
   "560045": {
     "OriginalText": "サテライトエイム",
-    "Text": "Satellite Aim",
+    "Text": "새틀라이트 에임",
     "Enabled": true
   },
   "560046": {
     "OriginalText": "エルダーリベリオン",
-    "Text": "Elder Rebellion",
+    "Text": "엘더 리벨리온",
     "Enabled": true
   },
   "560047": {
     "OriginalText": "リバースタップ",
-    "Text": "Reverse Tap",
+    "Text": "리버스 탭",
     "Enabled": true
   },
   "560048": {
     "OriginalText": "ダンシングスイープ",
-    "Text": "Dancing Sweep",
+    "Text": "댄싱 스위프",
     "Enabled": true
   },
   "560049": {
     "OriginalText": "通常攻撃",
-    "Text": "Normal Attack",
+    "Text": "통상 공격",
     "Enabled": true
   },
   "560050": {
     "OriginalText": "通常攻撃",
-    "Text": "Normal Attack",
+    "Text": "통상 공격",
     "Enabled": true
   },
   "560051": {
     "OriginalText": "通常攻撃",
-    "Text": "Normal Attack",
+    "Text": "통상 공격",
     "Enabled": true
   },
   "560052": {
     "OriginalText": "通常攻撃",
-    "Text": "Normal Attack",
+    "Text": "통상 공격",
     "Enabled": true
   },
   "560053": {
     "OriginalText": "パイルシューター",
-    "Text": "Pile Shooter",
+    "Text": "파일 슈터",
     "Enabled": true
   },
   "560054": {
     "OriginalText": "パイルラッシュ",
-    "Text": "Pile Rush",
+    "Text": "파일 러시",
     "Enabled": true
   },
   "560055": {
     "OriginalText": "パイルストーム",
-    "Text": "Pile Storm",
+    "Text": "파일 스톰",
     "Enabled": true
   },
   "560056": {
     "OriginalText": "ブーストダンク",
-    "Text": "Boost Dunk",
+    "Text": "부스트 덩크",
     "Enabled": true
   },
   "560057": {
     "OriginalText": "ブーストブリッツ",
-    "Text": "Boost Blitz",
+    "Text": "부스트 블리츠",
     "Enabled": true
   },
   "560058": {
     "OriginalText": "ライジングインパクト",
-    "Text": "Rising Impact",
+    "Text": "라이징 임팩트",
     "Enabled": true
   },
   "560059": {
     "OriginalText": "バーンスマッシュ",
-    "Text": "Burn Smash",
+    "Text": "번 스매시",
     "Enabled": true
   },
   "560060": {
     "OriginalText": "通常攻撃",
-    "Text": "Normal Attack",
+    "Text": "통상 공격",
     "Enabled": true
   },
   "560061": {
     "OriginalText": "リングフィールド",
-    "Text": "Ring Field",
+    "Text": "링 필드",
     "Enabled": true
   },
   "560062": {
     "OriginalText": "プロテクションウォール",
-    "Text": "Protection Wall",
+    "Text": "프로텍션 월",
     "Enabled": true
   },
   "560063": {
     "OriginalText": "アグレッシブケイジ",
-    "Text": "Aggressive Cage",
+    "Text": "어그레시브 케이지",
     "Enabled": true
   },
   "560064": {
     "OriginalText": "スネアゲート",
-    "Text": "Snare Gate",
+    "Text": "스네어 게이트",
     "Enabled": true
   },
   "560065": {
     "OriginalText": "アッパービート",
-    "Text": "Upper Beat",
+    "Text": "어퍼 비트",
     "Enabled": true
   },
   "560066": {
     "OriginalText": "サテライトビット",
-    "Text": "Satellite Bit",
+    "Text": "새틀라이트 비트",
     "Enabled": true
   },
   "560067": {
     "OriginalText": "レゾナンスキャノン",
-    "Text": "Resonance Cannon",
+    "Text": "레조넌스 캐논",
     "Enabled": true
   },
   "560068": {
     "OriginalText": "通常攻撃",
-    "Text": "Normal Attack",
+    "Text": "통상 공격",
     "Enabled": true
   },
   "560069": {
     "OriginalText": "ダッキングブロウ",
-    "Text": "Ducking Blow",
+    "Text": "더킹 블로우",
     "Enabled": true
   },
   "560070": {
     "OriginalText": "バーストショット",
-    "Text": "Burst Shot",
+    "Text": "버스트 샷",
     "Enabled": true
   },
   "560071": {
     "OriginalText": "シングルショット",
-    "Text": "Single Shot",
+    "Text": "싱글 샷",
     "Enabled": true
   },
   "560072": {
     "OriginalText": "フルオートショット",
-    "Text": "Full Auto Shot",
+    "Text": "풀오토 샷",
     "Enabled": true
   },
   "560073": {
     "OriginalText": "ファングラッシュ",
-    "Text": "Fang Rush",
+    "Text": "팽 러시",
     "Enabled": true
   },
   "560074": {
     "OriginalText": "ソニックフィンガー",
-    "Text": "Sonic Finger",
+    "Text": "소닉 핑거",
     "Enabled": true
   },
   "560075": {
     "OriginalText": "ソニックスラップ",
-    "Text": "Sonic Slap",
+    "Text": "소닉 슬랩",
     "Enabled": true
   },
   "570000": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "570001": {
     "OriginalText": "前方の広範囲と、近距離のエネミーに\n対して攻撃が可能。",
-    "Text": "Hits enemies in a wide area\nin front of you.",
+    "Text": "전방의 넓은 범위와 가까이 있는 에너미를\n공격할 수 있다.",
     "Enabled": true
   },
   "570002": {
     "OriginalText": "目標を打ち上げて空中コンボへ\n連携する。",
-    "Text": "Slashes the target with a coordinated\naerial combo.",
+    "Text": "목표를 띄워 올려 공중 콤보로\n이어 간다.",
     "Enabled": true
   },
   "570003": {
     "OriginalText": "高く飛び上がり、回転攻撃を行った後に\n衝撃波を伴う降下攻撃を行う。",
-    "Text": "Jumps high, performs a spinning attack\nand sends a shockwave upon descent.",
+    "Text": "높이 뛰어올라 회전 공격을 한 뒤,\n충격파를 동반한 하강 공격을 한다.",
     "Enabled": true
   },
   "570004": {
     "OriginalText": "勢いよく回転しながら吹き飛ばし攻撃を\n行う。",
-    "Text": "Performs a spinning blowing attack.",
+    "Text": "힘차게 회전하며 적을 날려 버리는\n공격을 한다.",
     "Enabled": true
   },
   "570005": {
     "OriginalText": "グランによって具現化させた\n極大の刃で目標を斬りつける。",
-    "Text": "Slashes the target with a large blade\nmade up of Gran.",
+    "Text": "그란으로 구현한 거대한 칼날로\n목표를 벤다.",
     "Enabled": true
   },
   "570006": {
     "OriginalText": "目標を刃の腹で強打し、気絶させる。\n気絶状態の目標は無防備となる。",
-    "Text": "Smites the enemies with the blade\nto make them faint and defenseless.",
+    "Text": "칼날의 넓은 면으로 목표를 강타해 기절시킨다.\n기절한 목표는 무방비 상태가 된다.",
     "Enabled": true
   },
   "570007": {
     "OriginalText": "弓を引くように身体を振り絞り\n目標へ向けて斬撃を飛ばす。",
-    "Text": "Pulls the body to muster a flying\nslash attack toward the target.",
+    "Text": "활시위를 당기듯 온몸에 힘을 모아\n목표를 향해 참격을 날린다.",
     "Enabled": true
   },
   "570008": {
     "OriginalText": "空中にいる敵さえも叩き落とし、\n逢かなる高みから獲物に襲いかかる。",
-    "Text": "Attacks the target and knocks\nenemies down in midair.",
-    "Enabled": true
+    "Text": "공중에 있는 적마저 떨어뜨리고,\n아득히 높은 곳에서 목표를 덮친다.",
+    "Enabled": false
   },
   "570009": {
     "OriginalText": "攻撃できる角度が狭いが、\n空中に存在するエネミーにも\n攻撃を当てることが可能。",
-    "Text": "Can hit enemies in midair, but it\nhas a narrow angle of attack.",
+    "Text": "공격할 수 있는 각도는 좁지만,\n공중에 있는 에너미에게도\n공격을 맞힐 수 있다.",
     "Enabled": true
   },
   "570010": {
     "OriginalText": "武器を振り回すことで、自身の周囲に\n存在する目標にダメージを与える。",
-    "Text": "Swings the weapon and damages all\nthe enemies around you.",
+    "Text": "무기를 휘둘러 자신의 주변에 있는\n목표에게 데미지를 준다.",
     "Enabled": true
   },
   "570011": {
     "OriginalText": "長さを活かした鋭い攻撃を繰り出し\n復数の斬撃を飛ばす。",
-    "Text": "A stab attack that makes use of the\n weapon's length then sends out multiple\nslashing attacks.",
-    "Enabled": true
+    "Text": "무기의 길이를 살려 날카롭게 공격하며\n여러 참격을 날린다.",
+    "Enabled": false
   },
   "570012": {
     "OriginalText": "柄で目標を殴り、怯んだ隙に\n斬り上げて、天高く打ち上げる。",
-    "Text": "Hits the target with the handle\nthen slashes it within the gap and\nlaunches it in the air.",
+    "Text": "자루로 목표를 때리고, 움찔하는 틈에\n베어 올려 하늘 높이 띄운다.",
     "Enabled": true
   },
   "570013": {
     "OriginalText": "一閃とばかりの、真横なぎ払い攻撃。",
-    "Text": "Attacks directly in a flash.",
+    "Text": "한순간에 수평으로 휩쓸어 베는 공격.",
     "Enabled": true
   },
   "570014": {
     "OriginalText": "一足のもと、間合いをつめた\n刺突攻撃を繰り出す。",
-    "Text": "A short ranged, charged thrust\nattack.",
+    "Text": "단숨에 거리를 좁혀\n찌르기 공격을 한다.",
     "Enabled": true
   },
   "570015": {
     "OriginalText": "二度の斬撃を見舞った後に舞うように\n攻撃し、距離を取る。",
-    "Text": "Two slash attacks after a whirling\nattack.",
+    "Text": "두 번 벤 뒤 춤추듯 공격하며\n거리를 벌린다.",
     "Enabled": true
   },
   "570016": {
     "OriginalText": "穂先にグランの力を集中させ、\n強力な連撃で貴く。",
-    "Text": "Concentrates Gran on the tip of the\nweapon then releases powerful\ncontinuous attacks.",
-    "Enabled": true
+    "Text": "무기 끝에 그란의 힘을 집중해\n강력한 연속 공격으로 꿰뚫는다.",
+    "Enabled": false
   },
   "570017": {
     "OriginalText": "振り回して近距離のエネミーに対し\n多段攻撃を当てることが可能。",
-    "Text": "Hits enemies close by with a\nwbarrage of attacks.",
+    "Text": "무기를 휘둘러 가까이 있는 에너미에게\n여러 번 공격을 맞힐 수 있다.",
     "Enabled": true
   },
   "570018": {
     "OriginalText": "目標を打ち上げたのち、連撃で迎え、\n落下とともに斬り刻む。",
-    "Text": "Launches the target then approaches\nit with multiple slashes as it falls.",
+    "Text": "목표를 띄워 올린 뒤 연속 공격을 가하고,\n낙하와 함께 난도질한다.",
     "Enabled": true
   },
   "570019": {
     "OriginalText": "両剣を弄びながら、目標に向けて\n強力な連続攻撃を見舞う。",
-    "Text": "Fiddles with both blades then hits\nwith powerful continuous attacks\ntoward the enemy.",
+    "Text": "더블 세이버를 자유롭게 다루며 목표에게\n강력한 연속 공격을 가한다.",
     "Enabled": true
   },
   "570020": {
     "OriginalText": "肉体と両剣の輪舞によって\n目標を微塵に斬り刻む。",
-    "Text": "Minces the target with a round dance\nof both blades.",
+    "Text": "몸과 더블 세이버가 함께 춤추듯 움직이며\n목표를 잘게 베어 낸다.",
     "Enabled": true
   },
   "570021": {
     "OriginalText": "跳躍し、目標へ両剣を振り下ろす。\n攻撃と同時に、周囲に衝撃波が発生。",
-    "Text": "Jump and swings the blades downward\nonto the target then sends out \nshockwaves around.",
+    "Text": "뛰어올라 목표에게 더블 세이버를 내리친다.\n공격과 동시에 주변에 충격파가 발생한다.",
     "Enabled": true
   },
   "570022": {
     "OriginalText": "膂力を振り絞っての両剣投項攻撃。",
-    "Text": "A throwing blade attack that is\nmustered by one's own strength.",
-    "Enabled": true
+    "Text": "온 힘을 다해 더블 세이버를 던지는 공격.",
+    "Enabled": false
   },
   "570023": {
     "OriginalText": "素早く二度斬りつけた後、\n華麗に後方へと転進する。",
-    "Text": "Splendidly shifts position after a\nquick two-slash attack.",
+    "Text": "빠르게 두 번 벤 뒤,\n우아하게 뒤로 물러난다.",
     "Enabled": true
   },
   "570024": {
     "OriginalText": "華麗に攻撃を交わしながら、\n周囲の敵を攻撃する攻防一体の技。",
-    "Text": "An offensive and defensive\nintersecting splendid attack that\nhits surrounding enemies.",
-    "Enabled": true
+    "Text": "우아하게 공격을 피하며 주변의 적을 공격하는\n공격과 방어가 하나 된 기술.",
+    "Enabled": false
   },
   "570025": {
     "OriginalText": "超近距離で左ジャブ、右フック、\n左アッパーを素速く打ち込む。",
-    "Text": "A very short-ranged quick attack\nconsisting of a left jab, right hook,\nand left uppercut.",
-    "Enabled": true
+    "Text": "아주 가까운 거리에서 왼손 잽, 오른손 훅,\n왼손 어퍼를 빠르게 날린다.",
+    "Enabled": false
   },
   "570026": {
     "OriginalText": "攻撃をかいくぐる動きを見せつつ接近し\n渾身の一撃を叩き込む。",
-    "Text": "Moves to evade an attack\nwhile approaching and hitting\nthe enemy with all your might.",
+    "Text": "공격을 파고들며 접근해\n혼신의 일격을 날린다.",
     "Enabled": true
   },
   "570027": {
     "OriginalText": "素早くリーチの長い攻撃で\n目標を釘付けにする。",
-    "Text": "A long quick reach attack that nails\ndown the target.",
+    "Text": "빠르고 사거리가 긴 공격으로\n목표의 움직임을 묶는다.",
     "Enabled": true
   },
   "570028": {
     "OriginalText": "８の字を描くように身体を振り回し\n腰の入った攻撃を連続で繰り出す。",
-    "Text": "Swings the body in an 8-shape\nthen lets out continuous attacks to\nthe enemy's waist.",
+    "Text": "8자를 그리듯 몸을 움직이며\n허리의 힘을 실은 공격을 연속으로 날린다.",
     "Enabled": true
   },
   "570029": {
     "OriginalText": "身体をねじ込むように回転させ\nその勢いと共にアッパーを放つ。",
-    "Text": "Rotates the body like a screw then\nreleases an uppercut with the\nmomentum.",
+    "Text": "몸을 비틀어 넣듯 회전하며\n그 기세를 실어 어퍼를 날린다.",
     "Enabled": true
   },
   "570030": {
     "OriginalText": "一足の下、目標との距離を詰め\n溜めた力を挙に乗せて叩き込む。",
-    "Text": "A short range attack that releases\ncharged energy to enemies in\nthe area.",
-    "Enabled": true
+    "Text": "단숨에 목표와의 거리를 좁혀\n모아 둔 힘을 주먹에 실어 내지른다.",
+    "Enabled": false
   },
   "570031": {
     "OriginalText": "身体を捻りながら、目標に対して\n裏挙を三連続で放つ。",
-    "Text": "While twisting the body, hits the\ntarget three times.",
-    "Enabled": true
+    "Text": "몸을 비틀며 목표에게\n주먹 뒷면으로 세 번 연속 공격한다.",
+    "Enabled": false
   },
   "570032": {
     "OriginalText": "左右の連打によって\n己の集中力を極限まで高め、\n最後に強力な一撃を放つ。",
-    "Text": "Increases concentration to the\nlimit by hitting left and right.",
+    "Text": "좌우 연타로\n자신의 집중력을 극한까지 높인 뒤,\n마지막으로 강력한 일격을 날린다.",
     "Enabled": true
   },
   "570033": {
     "OriginalText": "アサルトライフルの通常攻撃。",
-    "Text": "Assault Rifle normal attack.",
+    "Text": "어설트 라이플의 통상 공격.",
     "Enabled": true
   },
   "570034": {
     "OriginalText": "貴通性能のある弾丸を装填、発射する。\n集束された一撃の威力は高い。",
-    "Text": "Loads a piercing bullet and\nfires it. A powerful focused blast.",
-    "Enabled": true
+    "Text": "관통하는 탄환을 장전해 발사한다.\n힘을 집중한 일격의 위력이 높다.",
+    "Enabled": false
   },
   "570035": {
     "OriginalText": "着弾炸裂する弾丸を装填、発射する。\n爆発に多くの目標を巻き込む事が可能。",
-    "Text": "Loads then fires a bullet with an\nexplosive impact. Can affect many\ntargets with its explosion.",
+    "Text": "명중하면 폭발하는 탄환을 장전해 발사한다.\n폭발에 여러 목표를 휘말리게 할 수 있다.",
     "Enabled": true
   },
   "570036": {
     "OriginalText": "一点に射撃を集中させる。\nシンプルな分、純粋火力は高い。",
-    "Text": "Concentrates attacks in one point\nfor pure firepower.",
+    "Text": "한 지점에 사격을 집중한다.\n단순한 만큼 순수 화력이 높다.",
     "Enabled": true
   },
   "570037": {
     "OriginalText": "スライディングしながら銃弾をばらまく\n移動を兼ねた技。",
-    "Text": "A move that scatters bullets while\nsliding.",
+    "Text": "슬라이딩하며 총탄을 쏟아붓는,\n이동을 겸한 기술.",
     "Enabled": true
   },
   "570038": {
     "OriginalText": "匍匐前進の後、任意のタイミングで\n不意打ち射撃を行うことが出来る。",
-    "Text": "After crawling, you can shoot\nunexpectedly at any time.",
+    "Text": "포복 전진한 뒤 원하는 타이밍에\n기습 사격을 할 수 있다.",
     "Enabled": true
   },
   "570039": {
     "OriginalText": "銃弾を天へと向かい、ばらまいて\n無数の弾を雨のように降らせる。",
-    "Text": "Fires bullets to the air and\nmakes them fall like rain.",
+    "Text": "하늘을 향해 총탄을 흩뿌려\n무수한 탄환을 비처럼 쏟아지게 한다.",
     "Enabled": true
   },
   "570040": {
     "OriginalText": "遠距離攻撃を遮断するシールドを\n展開する。打撃攻撃には脆いので注意。",
-    "Text": "Deploys a shield that blocks off\nlong range attacks ",
+    "Text": "원거리 공격을 차단하는 실드를 펼친다.\n타격 공격에는 약하므로 주의해야 한다.",
     "Enabled": true
   },
   "570041": {
     "OriginalText": "中近距離に対しての射撃。",
-    "Text": "Shoots at a short range.",
+    "Text": "중거리와 근거리를 향한 사격.",
     "Enabled": true
   },
   "570042": {
     "OriginalText": "強力な蹴撃で目標を打ち上げる。",
-    "Text": "Launches the target with a powerful\nkick.",
+    "Text": "강력한 발차기로 목표를 띄워 올린다.",
     "Enabled": true
   },
   "570043": {
     "OriginalText": "目標を地に叩き伏せ、\n弾丸の雨を降らせる。",
-    "Text": "Knocks the target to the ground then\nrains bullets on it.",
+    "Text": "목표를 땅에 내리친 뒤,\n탄환을 비처럼 쏟아붓는다.",
     "Enabled": true
   },
   "570044": {
     "OriginalText": "移動しながら無数の銃弾を放つ。",
-    "Text": "Fires countless bullets while\nmoving.",
+    "Text": "이동하며 무수한 총탄을 발사한다.",
     "Enabled": true
   },
   "570045": {
     "OriginalText": "深く腰を落とし、空を射貴くような\n強力な射撃を行う。",
-    "Text": "Crouches deeply then shoots\npowerfully in the air.",
-    "Enabled": true
+    "Text": "허리를 깊게 낮추고 하늘을 꿰뚫듯\n강력한 사격을 한다.",
+    "Enabled": false
   },
   "570046": {
     "OriginalText": "目標に対し、肉薄するほどの距離で\n銃と肉体の連動した連続攻撃を放つ。",
-    "Text": "Fires continuous attacks while\nclosing in on the target.",
+    "Text": "목표에게 바짝 다가가\n총과 몸을 함께 사용해 연속 공격을 한다.",
     "Enabled": true
   },
   "570047": {
     "OriginalText": "逆立ちの体勢をとり、\n周囲に回転蹴りを放つ。",
-    "Text": "Hits surroundings with a spinning\nkick while in a handstand pose.",
+    "Text": "물구나무선 자세로\n주변에 회전 발차기를 한다.",
     "Enabled": true
   },
   "570048": {
     "OriginalText": "高く飛び上がり攻撃を回避し、\n近付いてきた敵をなぎ倒す。",
-    "Text": "Jumps high to evade an attack then\nsweeps the enemies nearby.",
+    "Text": "높이 뛰어올라 공격을 회피하고,\n다가온 적을 쓰러뜨린다.",
     "Enabled": true
   },
   "570049": {
     "OriginalText": "振り上げと振り下ろしによって\nテクニックを発動する。リーチが長い。",
-    "Text": "Activates a long range technique by\nswinging up and down.",
+    "Text": "무기를 올렸다 내리며\n테크닉을 발동한다. 사거리가 길다.",
     "Enabled": true
   },
   "570050": {
     "OriginalText": "遠距離に対してテクニックを\n撃つことが出来る。",
-    "Text": "A technique you can shoot at long\ndistances.",
+    "Text": "멀리 있는 목표에게 테크닉을\n발사할 수 있다.",
     "Enabled": true
   },
   "570051": {
     "OriginalText": "振り上げと振り下ろしによって\nテクニックを発動する。リーチは短いが\n強力なダメージを与える。",
-    "Text": "Activates a short range powerful\ntechnique by swinging up and down.",
+    "Text": "무기를 올렸다 내리며\n테크닉을 발동한다. 사거리는 짧지만\n강력한 데미지를 준다.",
     "Enabled": true
   },
   "570052": {
     "OriginalText": "正面に向かい、ブーストの勢いで\n体当たりのような突進で攻撃する。",
-    "Text": "A rushing attack like a boosted\nramming attack to the front.",
+    "Text": "부스트의 기세로 정면을 향해\n몸통 박치기처럼 돌진하며 공격한다.",
     "Enabled": true
   },
   "570053": {
     "OriginalText": "杭を３発射出して敵に打ち込む。",
-    "Text": "Shoots 3 piles that stick to the\nenemy.",
+    "Text": "말뚝을 3발 발사해 적에게 박아 넣는다.",
     "Enabled": true
   },
   "570054": {
     "OriginalText": "敵に接近して杭を打ち込み、\nバーニアの勢いで吹き飛ばす。",
-    "Text": "Approach the enemy to drive the\npile then blasts away with the force\nfrom the thrusters.",
+    "Text": "적에게 접근해 말뚝을 박고,\n버니어의 기세로 날려 버린다.",
     "Enabled": true
   },
   "570055": {
     "OriginalText": "周囲に杭を射出して\n復数の敵に杭を打ち込む。",
-    "Text": "Drive the pile to the enemy then\nshoots multiple piles to the\nsurroundings.",
-    "Enabled": true
+    "Text": "주변에 말뚝을 발사해\n여러 적에게 말뚝을 박아 넣는다.",
+    "Enabled": false
   },
   "570056": {
     "OriginalText": "バーニアの勢いで強力な\n体当たり攻撃を行う。",
-    "Text": "Performs a powerful ramming attack\nwith the force of the thrusters.",
+    "Text": "버니어의 기세로 강력한\n몸통 박치기를 한다.",
     "Enabled": true
   },
   "570057": {
     "OriginalText": "力を貯め込み、弾速の速い\n強力な一撃で杭を打ち込む。",
-    "Text": "Charges energy then fires a quick\nand powerful pile.",
+    "Text": "힘을 모아 탄속이 빠른\n강력한 일격으로 말뚝을 박아 넣는다.",
     "Enabled": true
   },
   "570058": {
     "OriginalText": "ジャンプして空中で方向転換し、\nバーニアの勢いで蹴撃を放ちながら、\n至近距離から杭を射出して打ち込む。",
-    "Text": "Hits a kick with the thrusters and\nshoots a pile in close range. The\ndirection can be changed in midair.",
+    "Text": "점프해 공중에서 방향을 바꾸고,\n버니어의 기세로 발차기를 하며\n아주 가까운 거리에서 말뚝을 쏘아 박는다.",
     "Enabled": true
   },
   "570059": {
     "OriginalText": "バーニアの勢いで正面をなぎ払う。",
-    "Text": "Attacks the front with the force of\nthe thrusters.",
+    "Text": "버니어의 기세로 정면을 휩쓴다.",
     "Enabled": true
   },
   "570060": {
     "OriginalText": "活性化されたリングを射出する。",
-    "Text": "Shoots a stimulating ring.",
+    "Text": "활성화된 링을 발사한다.",
     "Enabled": true
   },
   "570061": {
     "OriginalText": "ギガンテスに打ち込むことで\n足場【リングフィールド】を作成する。",
-    "Text": "Creates a \"Ring Field\" platform\nto attack the Gigantes.",
+    "Text": "기간테스에 박아 넣어\n발판인 '링 필드'를 만든다.",
     "Enabled": true
   },
   "570062": {
     "OriginalText": "周囲に絶対防御の空間を作り出す。\nただし打撃攻撃には脆いので注意。",
-    "Text": "Creates a surrounding defensive\nspace. However, it's weak against\nmelee attacks.",
+    "Text": "주변에 절대 방어 공간을 만든다.\n단, 타격 공격에는 약하므로 주의해야 한다.",
     "Enabled": true
   },
   "570063": {
     "OriginalText": "範囲内に侵入した敵に継続ダメージを\n与える空間を作り出し、目標に放つ。",
-    "Text": "Shoots the target and creates a\nsubspace that damages the enemies\nwho enter.",
+    "Text": "범위 안에 들어온 적에게 지속 데미지를 주는\n공간을 만들어 목표에게 발사한다.",
     "Enabled": true
   },
   "570064": {
     "OriginalText": "周囲にバインドの状態異常を\n与える空間を作り出す。",
-    "Text": "Creates a subspace that inflicts bind status.",
+    "Text": "주변에 바인드 상태이상을\n일으키는 공간을 만든다.",
     "Enabled": true
   },
   "570065": {
     "OriginalText": "目標に瞬間移動し接近攻撃を行う。",
-    "Text": "Teleports to the target and does a\nmelee attack.",
+    "Text": "목표에게 순간이동해 근접 공격을 한다.",
     "Enabled": true
   },
   "570066": {
     "OriginalText": "目標へ向け追尾攻撃するグランの塊を\n頭上に発生させる。",
-    "Text": "Generates a mass of Gran overhead\nthat tracks and attacks the target.",
+    "Text": "목표를 추적하며 공격하는 그란 덩어리를\n머리 위에 만든다.",
     "Enabled": true
   },
   "570067": {
     "OriginalText": "腰溜めに構えてグランを蓄え、\n前方に手を突き出すと共に\nグランをレーザー状に放出する。",
-    "Text": "Charges Gran and releases a Gran\nLaser Beam with both hands.",
+    "Text": "허리 높이로 자세를 잡아 그란을 모으고,\n손을 앞으로 내밀며\n그란을 레이저 형태로 방출한다.",
     "Enabled": true
   },
   "570068": {
     "OriginalText": "素手による殴打で左ジャブ、右フック、\n左アッパーを素速く打ち込むが、\n武器を持たないため打撃力は強くない。",
-    "Text": "A left jab, right hook, and a quick\nleft uppercut with bare hands. Has\nlow damage without a weapon equipped.",
-    "Enabled": true
+    "Text": "맨손으로 왼손 잽, 오른손 훅,\n왼손 어퍼를 빠르게 날리지만,\n무기가 없어 타격력은 높지 않다.",
+    "Enabled": false
   },
   "570069": {
     "OriginalText": "攻撃をかいくぐる動きを見せつつ接近し\n渾身の一撃を叩き込む。",
-    "Text": "Moves and evades the\nattack while approaching and hitting\nthe enemy with all your might.",
+    "Text": "공격을 파고들며 접근해\n혼신의 일격을 날린다.",
     "Enabled": true
   },
   "570070": {
     "OriginalText": "前方直線上への射撃。\n銃弾を3発、3段攻撃で発射する。\n広い範囲に対して攻撃が可能。",
-    "Text": "Shoots straight ahead. Fires 3\nbullets with a 3-step attack. Can\nattack in a wide range.",
+    "Text": "전방 일직선상으로 사격한다.\n총탄 3발을 3단 공격으로 발사한다.\n넓은 범위를 공격할 수 있다.",
     "Enabled": true
   },
   "570071": {
     "OriginalText": "前方直線上への射撃。\n銃弾を1発、発射する。",
-    "Text": "Shoots straight ahead.\nFires 1 bullet.",
+    "Text": "전방 일직선상으로 사격한다.\n총탄을 1발 발사한다.",
     "Enabled": true
   },
   "570072": {
     "OriginalText": "前方直線上への射撃。\n銃弾を12発、発射する。",
-    "Text": "Shoots straight ahead.\nFires 12 bullets.",
+    "Text": "전방 일직선상으로 사격한다.\n총탄을 12발 발사한다.",
     "Enabled": true
   },
   "570073": {
     "OriginalText": "一瞬で標的との間合いを詰め、\n突きを放って隙を作らせたところに\n追撃の一太刀を浴びせる。",
-    "Text": "Throws the weapon to stab the\ntarget then closes the gap\ninstantly.",
+    "Text": "순식간에 목표와의 거리를 좁히고,\n찌르기로 빈틈을 만든 뒤\n추가로 한 번 더 베어 버린다.",
     "Enabled": true
   }
 }

@@ -1,1967 +1,1962 @@
 {
-  "500000": {
-    "OriginalText": "---",
-    "Text": "",
-    "Enabled": false
-  },
   "500001": {
     "OriginalText": "種族と性別を選択",
-    "Text": "Select Race and Sex",
+    "Text": "종족과 성별 선택",
     "Enabled": true
   },
   "500002": {
     "OriginalText": "クラスを選択",
-    "Text": "Select Class",
+    "Text": "클래스 선택",
     "Enabled": true
   },
   "500003": {
     "OriginalText": "キャラベースを選択",
-    "Text": "Select Base Character",
+    "Text": "캐릭터 베이스 선택",
     "Enabled": true
   },
   "500004": {
     "OriginalText": "ボイスを選択",
-    "Text": "Select Voice",
+    "Text": "보이스 선택",
     "Enabled": true
   },
   "500005": {
     "OriginalText": "キャラクター名入力",
-    "Text": "Enter Character Name",
+    "Text": "캐릭터 이름 입력",
     "Enabled": true
   },
   "500006": {
     "OriginalText": "スタイルを選択",
-    "Text": "Select Style",
+    "Text": "스타일 선택",
     "Enabled": true
   },
   "500007": {
     "OriginalText": "キャラクター特微選択",
-    "Text": "Select Traits",
-    "Enabled": true
+    "Text": "캐릭터 특징 선택",
+    "Enabled": false
   },
   "500008": {
     "OriginalText": "こだわり編集",
-    "Text": "Edit Character",
+    "Text": "세부 편집",
     "Enabled": true
   },
   "500009": {
     "OriginalText": "ランダムで選択",
-    "Text": "Randomize",
+    "Text": "랜덤 선택",
     "Enabled": true
   },
   "500010": {
     "OriginalText": "顔と髪を編集",
-    "Text": "Edit Face and Hair",
+    "Text": "얼굴과 헤어 편집",
     "Enabled": true
   },
   "500011": {
     "OriginalText": "体型の編集",
-    "Text": "Edit Body",
+    "Text": "체형 편집",
     "Enabled": true
   },
   "500012": {
     "OriginalText": "ファッションを選択",
-    "Text": "Edit Costume",
+    "Text": "패션 선택",
     "Enabled": true
   },
   "500013": {
     "OriginalText": "編集内容の確認と取消",
-    "Text": "Review Edits",
+    "Text": "편집 내용 확인 및 취소",
     "Enabled": true
   },
   "500014": {
     "OriginalText": "ストーリー開始",
-    "Text": "Start the Game",
+    "Text": "스토리 시작",
     "Enabled": true
   },
   "500015": {
     "OriginalText": "編集完了",
-    "Text": "Finish Editing",
+    "Text": "편집 완료",
     "Enabled": true
   },
   "500016": {
     "OriginalText": "ボイスピッチを調整",
-    "Text": "Voice Pitch",
+    "Text": "보이스 높낮이 조절",
     "Enabled": true
   },
   "500017": {
     "OriginalText": "顔バリエーション選択",
-    "Text": "Select Face Type",
+    "Text": "얼굴 바리에이션 선택",
     "Enabled": true
   },
   "500018": {
     "OriginalText": "顔の詳細を編集",
-    "Text": "Edit Facial Details",
+    "Text": "얼굴 상세 편집",
     "Enabled": true
   },
   "500019": {
     "OriginalText": "ヘアスタイル編集",
-    "Text": "Edit Hair",
+    "Text": "헤어스타일 편집",
     "Enabled": true
   },
   "500020": {
     "OriginalText": "ヘッドパーツ編集",
-    "Text": "Edit Head Part",
+    "Text": "헤드 파츠 편집",
     "Enabled": true
   },
   "500021": {
     "OriginalText": "メイクパターン１選択",
-    "Text": "Select Makeup Pattern 1",
+    "Text": "메이크 업 패턴 1 선택",
     "Enabled": true
   },
   "500022": {
     "OriginalText": "メイクパターン２選択",
-    "Text": "Select Makeup Pattern 2",
+    "Text": "메이크 업 패턴 2 선택",
     "Enabled": true
   },
   "500023": {
     "OriginalText": "体型の詳細を編集",
-    "Text": "Edit Body Details",
+    "Text": "체형 상세 편집",
     "Enabled": true
   },
   "500024": {
     "OriginalText": "ボディ選択",
-    "Text": "Select Body Part",
+    "Text": "바디 선택",
     "Enabled": true
   },
   "500025": {
     "OriginalText": "アーム選択",
-    "Text": "Select Arm Part",
+    "Text": "암 선택",
     "Enabled": true
   },
   "500026": {
     "OriginalText": "レッグ選択",
-    "Text": "Select Leg Part",
+    "Text": "레그 선택",
     "Enabled": true
   },
   "500027": {
     "OriginalText": "走行方法選択",
-    "Text": "Select Running Animation",
+    "Text": "이동 방식 선택",
     "Enabled": true
   },
   "500028": {
     "OriginalText": "ボディペイント選択",
-    "Text": "Select Tattoo",
+    "Text": "바디 페인트 선택",
     "Enabled": true
   },
   "500029": {
     "OriginalText": "コスチューム選択",
-    "Text": "Select Costume",
+    "Text": "코스튬 선택",
     "Enabled": true
   },
   "500030": {
     "OriginalText": "コスチュームカラー設定",
-    "Text": "Edit Costume Color",
+    "Text": "코스튬 컬러 설정",
     "Enabled": true
   },
   "500031": {
     "OriginalText": "メインカラーを設定",
-    "Text": "Edit Main Color",
+    "Text": "메인 컬러 설정",
     "Enabled": true
   },
   "500032": {
     "OriginalText": "サブカラー１を設定",
-    "Text": "Edit Sub Color 1",
+    "Text": "서브 컬러 1 설정",
     "Enabled": true
   },
   "500033": {
     "OriginalText": "サブカラー２を設定",
-    "Text": "Edit Sub Color 2",
+    "Text": "서브 컬러 2 설정",
     "Enabled": true
   },
   "500034": {
     "OriginalText": "サブカラー３を設定",
-    "Text": "Edit Sub Color 3",
+    "Text": "서브 컬러 3 설정",
     "Enabled": true
   },
   "500035": {
     "OriginalText": "アクセサリー１選択",
-    "Text": "Accessory 1",
+    "Text": "악세서리 1 선택",
     "Enabled": true
   },
   "500036": {
     "OriginalText": "アクセサリー２選択",
-    "Text": "Accessory 2",
+    "Text": "악세서리 2 선택",
     "Enabled": true
   },
   "500037": {
     "OriginalText": "アクセサリー３選択",
-    "Text": "Accessory 3",
+    "Text": "악세서리 3 선택",
     "Enabled": true
   },
   "500038": {
     "OriginalText": "オールランダム選択",
-    "Text": "Randomize Everything",
+    "Text": "전체 랜덤 선택",
     "Enabled": true
   },
   "500039": {
     "OriginalText": "顔をランダム選択",
-    "Text": "Randomize Face",
+    "Text": "얼굴 랜덤 선택",
     "Enabled": true
   },
   "500040": {
     "OriginalText": "体をランダム選択",
-    "Text": "Randomize Body",
+    "Text": "체형 랜덤 선택",
     "Enabled": true
   },
   "500041": {
     "OriginalText": "ファッションランダム選択",
-    "Text": "Randomize Costume",
+    "Text": "패션 랜덤 선택",
     "Enabled": true
   },
   "500042": {
     "OriginalText": "顔全体を調整",
-    "Text": "Edit Entire Face",
+    "Text": "얼굴 전체 조절",
     "Enabled": true
   },
   "500043": {
     "OriginalText": "目を調整",
-    "Text": "Edit Eyes",
+    "Text": "눈 조절",
     "Enabled": true
   },
   "500044": {
     "OriginalText": "瞳を選択",
-    "Text": "Select Eye Type",
+    "Text": "눈동자 선택",
     "Enabled": true
   },
   "500045": {
     "OriginalText": "瞳カラーを設定",
-    "Text": "Edit Eye Color",
+    "Text": "눈동자 컬러 설정",
     "Enabled": true
   },
   "500046": {
     "OriginalText": "まゆを選択",
-    "Text": "Select Eyebrows",
+    "Text": "눈썹 선택",
     "Enabled": true
   },
   "500047": {
     "OriginalText": "まゆカラーを設定",
-    "Text": "Edit Eyebrow Color",
+    "Text": "눈썹 컬러 설정",
     "Enabled": true
   },
   "500048": {
     "OriginalText": "まつげを選択",
-    "Text": "Select Eyelashes",
+    "Text": "속눈썹 선택",
     "Enabled": true
   },
   "500049": {
     "OriginalText": "鼻を調整",
-    "Text": "Edit Nose",
+    "Text": "코 조절",
     "Enabled": true
   },
   "500050": {
     "OriginalText": "耳を調整",
-    "Text": "Edit Ears",
+    "Text": "귀 조절",
     "Enabled": true
   },
   "500051": {
     "OriginalText": "口を調整",
-    "Text": "Edit Lips",
+    "Text": "입 조절",
     "Enabled": true
   },
   "500052": {
     "OriginalText": "肌カラーを設定",
-    "Text": "Edit Skin Color",
+    "Text": "피부 컬러 설정",
     "Enabled": true
   },
   "500053": {
     "OriginalText": "ヘアスタイルを選択",
-    "Text": "Select Hairstyle",
+    "Text": "헤어스타일 선택",
     "Enabled": true
   },
   "500054": {
     "OriginalText": "ヘアカラーを設定",
-    "Text": "Edit Hair Color",
+    "Text": "헤어 컬러 설정",
     "Enabled": true
   },
   "500055": {
     "OriginalText": "ヘッドパーツを選択",
-    "Text": "Select Head Part",
+    "Text": "헤드 파츠 선택",
     "Enabled": true
   },
   "500056": {
     "OriginalText": "ヘッドパーツカラー設定",
-    "Text": "Edit Head Part Color",
+    "Text": "헤드 파츠 컬러 설정",
     "Enabled": true
   },
   "500057": {
     "OriginalText": "体全体を調整",
-    "Text": "Edit Entire Body",
+    "Text": "체형 전체 조절",
     "Enabled": true
   },
   "500058": {
     "OriginalText": "腕を調整",
-    "Text": "Edit Arms",
+    "Text": "팔 조절",
     "Enabled": true
   },
   "500059": {
     "OriginalText": "脚を調整",
-    "Text": "Edit Legs",
+    "Text": "다리 조절",
     "Enabled": true
   },
   "500060": {
     "OriginalText": "バストを調整",
-    "Text": "Edit Breasts",
+    "Text": "가슴 조절",
     "Enabled": true
   },
   "500061": {
     "OriginalText": "筋肉表現を調整",
-    "Text": "Edit Muscle Mass",
+    "Text": "근육 표현 조절",
     "Enabled": true
   },
   "500062": {
     "OriginalText": "顔の長さ",
-    "Text": "Face Length",
+    "Text": "얼굴 길이",
     "Enabled": true
   },
   "500063": {
     "OriginalText": "顔の横幅",
-    "Text": "Face Width",
+    "Text": "얼굴 너비",
     "Enabled": true
   },
   "500064": {
     "OriginalText": "アゴの大きさ",
-    "Text": "Jaw Size",
+    "Text": "턱 크기",
     "Enabled": true
   },
   "500065": {
     "OriginalText": "目鼻口の距離",
-    "Text": "Eye Position",
+    "Text": "눈, 코, 입 간격",
     "Enabled": true
   },
   "500066": {
     "OriginalText": "両目の間隔",
-    "Text": "Eye Distance",
+    "Text": "양쪽 눈 간격",
     "Enabled": true
   },
   "500067": {
     "OriginalText": "まゆの位置",
-    "Text": "Eyebrows Position",
+    "Text": "눈썹 위치",
     "Enabled": true
   },
   "500068": {
     "OriginalText": "横長/縦長",
-    "Text": "Horizontal/Vertical",
+    "Text": "가로/세로 비율",
     "Enabled": true
   },
   "500069": {
     "OriginalText": "目の大きさ",
-    "Text": "Eye Size",
+    "Text": "눈 크기",
     "Enabled": true
   },
   "500070": {
     "OriginalText": "瑞り目/践れ目",
-    "Text": "Eye Hanging/Drooping",
-    "Enabled": true
+    "Text": "올라간 눈/처진 눈",
+    "Enabled": false
   },
   "500071": {
     "OriginalText": "鼻の横幅",
-    "Text": "Nose Width",
+    "Text": "코 너비",
     "Enabled": true
   },
   "500072": {
     "OriginalText": "鼻筋の長さ",
-    "Text": "Nose Bridge Length",
+    "Text": "콧대 길이",
     "Enabled": true
   },
   "500073": {
     "OriginalText": "鼻の高さ",
-    "Text": "Nose Depth",
+    "Text": "코 높이",
     "Enabled": true
   },
   "500074": {
     "OriginalText": "鼻の丸み",
-    "Text": "Nose Roundness",
+    "Text": "코의 둥근 정도",
     "Enabled": true
   },
   "500075": {
     "OriginalText": "下向き/上向き",
-    "Text": "Downwards/Upwards",
+    "Text": "아래쪽/위쪽",
     "Enabled": true
   },
   "500076": {
     "OriginalText": "縦幅",
-    "Text": "Vertical Width",
+    "Text": "세로폭",
     "Enabled": true
   },
   "500077": {
     "OriginalText": "横幅",
-    "Text": "Width",
+    "Text": "가로폭",
     "Enabled": true
   },
   "500078": {
     "OriginalText": "角度",
-    "Text": "Angle",
+    "Text": "각도",
     "Enabled": true
   },
   "500079": {
     "OriginalText": "唇の厚さ",
-    "Text": "Lips Thickness",
+    "Text": "입술 두께",
     "Enabled": true
   },
   "500080": {
     "OriginalText": "口の横幅",
-    "Text": "Lips Width",
+    "Text": "입 너비",
     "Enabled": true
   },
   "500081": {
     "OriginalText": "口元の表情",
-    "Text": "Mouth Expression",
+    "Text": "입가 표정",
     "Enabled": true
   },
   "500082": {
     "OriginalText": "身長",
-    "Text": "Height",
+    "Text": "신장",
     "Enabled": true
   },
   "500083": {
     "OriginalText": "肉付き",
-    "Text": "Body Shape Adjustment",
+    "Text": "살집",
     "Enabled": true
   },
   "500084": {
     "OriginalText": "上半身の大きさ",
-    "Text": "Upper Body Height",
+    "Text": "상체 크기",
     "Enabled": true
   },
   "500085": {
     "OriginalText": "腕の長さ",
-    "Text": "Arm Length",
+    "Text": "팔 길이",
     "Enabled": true
   },
   "500086": {
     "OriginalText": "腕の太さ",
-    "Text": "Arm Thickness",
+    "Text": "팔 굵기",
     "Enabled": true
   },
   "500087": {
     "OriginalText": "脚の長さ",
-    "Text": "Leg Length",
+    "Text": "다리 길이",
     "Enabled": true
   },
   "500088": {
     "OriginalText": "脚の太さ",
-    "Text": "Leg Thickness",
+    "Text": "다리 굵기",
     "Enabled": true
   },
   "500089": {
     "OriginalText": "大きさのバランス",
-    "Text": "Weight Distribution",
+    "Text": "크기 밸런스",
     "Enabled": true
   },
   "500090": {
     "OriginalText": "バストの大きさ",
-    "Text": "Breast Size",
+    "Text": "가슴 크기",
     "Enabled": true
   },
   "500091": {
     "OriginalText": "バストの高さ",
-    "Text": "Breast Height",
+    "Text": "가슴 높이",
     "Enabled": true
   },
   "500092": {
     "OriginalText": "バストの向き",
-    "Text": "Breast Orientation",
+    "Text": "가슴 방향",
     "Enabled": true
   },
   "500093": {
     "OriginalText": "筋肉表現",
-    "Text": "Muscle Mass",
+    "Text": "근육 표현",
     "Enabled": true
   },
   "500094": {
     "OriginalText": "二足歩行",
-    "Text": "Bipedal Walking",
+    "Text": "이족 보행",
     "Enabled": true
   },
   "500095": {
     "OriginalText": "ホバー",
-    "Text": "Hover",
+    "Text": "호버",
     "Enabled": true
   },
   "500096": {
     "OriginalText": "色を選択する",
-    "Text": "Edit Color",
+    "Text": "색상 선택",
     "Enabled": true
   },
   "500097": {
     "OriginalText": "ヘアカラーに合わせる",
-    "Text": "Match With Hair Color",
+    "Text": "헤어 컬러에 맞추기",
     "Enabled": true
   },
   "500098": {
     "OriginalText": "発光カラー設定",
-    "Text": "Edit Costume Detail Color",
+    "Text": "발광 컬러 설정",
     "Enabled": true
   },
   "500099": {
     "OriginalText": "小鼻の大きさ",
-    "Text": "Nostril Size",
+    "Text": "콧방울 크기",
     "Enabled": true
   },
   "500100": {
     "OriginalText": "ヘッドパーツカラーに合わせる",
-    "Text": "Match to Head Part Color",
+    "Text": "헤드 파츠 컬러에 맞추기",
     "Enabled": true
   },
   "500107": {
     "OriginalText": "身長",
-    "Text": "Height",
+    "Text": "신장",
     "Enabled": true
   },
   "500108": {
-    "OriginalText": "キャラクターの名前を入力してください。\n倣字、半角カナ、一部記号は使えません。\n入力された場合、その文字は省かれます。",
-    "Text": "Please enter the name of your character.\nIf you enter an invalid symbol, it will\nbe removed.",
+    "OriginalText": "キャラクターの名前を入力してください。\n漢字、半角カナ、一部記号は使えません。\n入力された場合、その文字は省かれます。",
+    "Text": "캐릭터의 이름을 입력해 주세요.\n한자, 반각 가나와 일부 기호는 쓸 수 없습니다.\n입력한 경우 해당 문자는 제외됩니다.",
     "Enabled": true
   },
   "500109": {
     "OriginalText": "チェックをはずした項目を\nベース状態に戻して表示します。",
-    "Text": "Select an item to toggle ON/OFF.",
+    "Text": "체크를 해제한 항목은\n베이스 상태로 되돌려 표시합니다.",
     "Enabled": true
   },
   "500110": {
     "OriginalText": "編集した項目はありません。",
-    "Text": "No edited items.",
+    "Text": "편집한 항목이 없습니다.",
     "Enabled": true
   },
   "500111": {
     "OriginalText": "この名前で登録します。\n\nよろしいですか？",
-    "Text": "Do you want to register this name?",
+    "Text": "이 이름으로 등록합니다.\n\n진행하시겠습니까?",
     "Enabled": true
   },
   "500112": {
     "OriginalText": "無効な名前が入力されています。",
-    "Text": "An invalid name has been entered.",
+    "Text": "사용할 수 없는 이름을 입력했습니다.",
     "Enabled": true
   },
   "500113": {
     "OriginalText": "現在おこなっている編集作業を\n編集開始の状態に戻します。\nよろしいですか？",
-    "Text": "By doing this, all your current edits and changes will be lost.\n\nContinue?",
+    "Text": "현재 편집 중인 내용을\n편집 시작 시의 상태로 되돌립니다.\n진행하시겠습니까?",
     "Enabled": true
   },
   "500114": {
     "OriginalText": "チェックをはずした項目を\nベース状態に戻して\nトップメニューに戻ります。\nよろしいですか？",
-    "Text": "This will save only the checked changes. All others will be lost.\n\nContinue?",
+    "Text": "체크를 해제한 항목을\n베이스 상태로 되돌리고\n첫 메뉴로 돌아갑니다.\n진행하시겠습니까?",
     "Enabled": true
   },
   "500115": {
     "OriginalText": "キャラクタークリエイトを\n中断しタイトルに戻ります。\n\nよろしいですか？",
-    "Text": "This will cancel character editing and go back to the main menu.\nAll edits will be lost.\n\nContinue?",
+    "Text": "캐릭터 크리에이트를 중단하고\n타이틀로 돌아갑니다.\n\n진행하시겠습니까?",
     "Enabled": true
   },
   "500116": {
     "OriginalText": "エステを中断します。\n編集内容は反映されません。\n\nよろしいですか？",
-    "Text": "This will end the makeover. Changes will not be saved.\n\nContinue?",
+    "Text": "에스테 이용을 중단합니다.\n편집한 내용은 반영되지 않습니다.\n\n진행하시겠습니까?",
     "Enabled": true
   },
   "500117": {
     "OriginalText": "この情報でキャラクターを\n決定します。\n\nよろしいですか？",
-    "Text": "The character you have designed will be saved.\n\nContinue?",
+    "Text": "이 내용으로 캐릭터를\n결정합니다.\n\n진행하시겠습니까?",
     "Enabled": true
   },
   "500118": {
     "OriginalText": "この内容をキャラクターに\n反映します。\n\nよろしいですか？",
-    "Text": "The changes you've made will be saved.\n\nContinue?",
+    "Text": "이 내용을 캐릭터에\n반영합니다.\n\n진행하시겠습니까?",
     "Enabled": true
   },
   "500119": {
     "OriginalText": "種族やクラスを変更しようとしています。\nこだわり編集でおこなった編集内容は\n破棄されますがよろしいですか？",
-    "Text": "Edits will be discarded if you change your race/class.\n\nContinue?",
+    "Text": "종족이나 클래스를 변경하려고 합니다.\n세부 편집에서 변경한 내용이 삭제됩니다.\n진행하시겠습니까?",
     "Enabled": true
   },
   "500120": {
     "OriginalText": "ベースタイプを変更しようとしています。\nこだわり編集でおこなった編集内容は\n破棄されますがよろしいですか？",
-    "Text": "Edits will be discarded if you change your base type.\n\nContinue?",
+    "Text": "베이스 타입을 변경하려고 합니다.\n세부 편집에서 변경한 내용이 삭제됩니다.\n진행하시겠습니까?",
     "Enabled": true
   },
   "500121": {
     "OriginalText": "使用できない単語が含まれています。\n名前を修正してください。",
-    "Text": "Your name contains characters that cannot be used.",
+    "Text": "사용할 수 없는 단어가 포함되어 있습니다.\n이름을 수정해 주세요.",
     "Enabled": true
   },
   "500122": {
     "OriginalText": "取り消しを反映",
-    "Text": "Confirm Cancel",
+    "Text": "취소 내용 반영",
     "Enabled": true
   },
   "500123": {
     "OriginalText": "戻る",
-    "Text": "Return",
+    "Text": "뒤로",
     "Enabled": true
   },
   "500124": {
     "OriginalText": "ランダム選択メニューを開きます。\n\nランダム選択をおこなうと、\nカスタマイズした各要素が\nすべてランダムに書きかえられます。",
-    "Text": "This will open the randomization menu.\nWhen you choose a random selection,\neach item selected will be randomized.",
+    "Text": "랜덤 선택 메뉴를 엽니다.\n\n랜덤 선택을 실행하면\n커스터마이즈한 모든 요소가\n랜덤으로 변경됩니다.",
     "Enabled": true
   },
   "500125": {
     "OriginalText": "まゆの色をヘアカラーと同じにしました。",
-    "Text": "Eyebrow color matched to hair.",
+    "Text": "눈썹 컬러를 헤어 컬러와 같게 설정했습니다.",
     "Enabled": true
   },
   "500126": {
     "OriginalText": "キャラクターセレクトを\n中断しメニューに戻ります。\n\nよろしいですか？",
-    "Text": "Leaving character select to return to the menu.\n\nContinue?",
+    "Text": "캐릭터 선택을 중단하고\n메뉴로 돌아갑니다.\n\n진행하시겠습니까?",
     "Enabled": true
   },
   "500127": {
-    "OriginalText": "倣字、半角カナ、一部記号は使えません。\n入力された場合、その文字は省かれます。",
-    "Text": "You have entered invalid characters which have been omitted.",
+    "OriginalText": "漢字、半角カナ、一部記号は使えません。\n入力された場合、その文字は省かれます。",
+    "Text": "한자, 반각 가나와 일부 기호는 쓸 수 없습니다.\n입력한 경우 해당 문자는 제외됩니다.",
     "Enabled": true
   },
   "500260": {
     "OriginalText": "全体的な能力のバランスに優れ、環境への適応能力が\n高い種族。\n身体の強さとフォトンへの適合力の釣り合いが取れて\nおり、あらゆるクラスに適応することが可能で、安定\n性に優れている。",
-    "Text": "Balanced traits allow survival in any\nsituation. Capable in the use of\nstriking weapons, firearms, and\ntechniques.",
+    "Text": "전반적인 능력의 균형이 뛰어나고 환경에 대한\n적응력이 높은 종족.\n신체 능력과 포톤 적합도가 균형을 이루어\n모든 클래스에 적응할 수 있으며,\n안정성이 뛰어나다.",
     "Enabled": true
   },
   "500261": {
-    "OriginalText": "全体的な能力のバランスに優れ、環境への適応能力が\n高い種族。\n身体の強さとフォトンへの適合性を活かし、あらゆる\nクラスへの適性を見せ、満用性に富んだ能力を持つ。",
-    "Text": "Balanced traits allow survival in any\nsituation. Physically tough and capable\nof utilizing photons, and is rich in\nversatility.",
+    "OriginalText": "全体的な能力のバランスに優れ、環境への適応能力が\n高い種族。\n身体の強さとフォトンへの適合性を活かし、あらゆる\nクラスへの適性を見せ、汎用性に富んだ能力を持つ。",
+    "Text": "전반적인 능력의 균형이 뛰어나고\n환경에 대한 적응력이 높은 종족.\n강한 신체와 포톤 적합성으로 모든 클래스에\n적성을 보이며, 다방면에 활용할 능력을 갖췄다.",
     "Enabled": true
   },
   "500262": {
-    "OriginalText": "フォトンの扱いに長けており、その使役、適応に才を\n見せる種族。\n身体の脆弱さを補って余りあるフォトンに対する感応\n力の高さを見せ、その扱いに関しては他の種族の追祟\nを許さない。",
-    "Text": "Heavily adapted towards the handling of\nphotons. Physically frail, but unmatched\nby any other race at the Force class.",
+    "OriginalText": "フォトンの扱いに長けており、その使役、適応に才を\n見せる種族。\n身体の脆弱さを補って余りあるフォトンに対する感応\n力の高さを見せ、その扱いに関しては他の種族の追随\nを許さない。",
+    "Text": "포톤을 다루는 데 능하며, 포톤의 활용과 적응에\n재능을 보이는 종족.\n약한 신체를 보완하고도 남을 만큼\n포톤에 대한 감응력이 높아,\n포톤 활용 능력은 다른 종족의 추종을 불허한다.",
     "Enabled": true
   },
   "500263": {
     "OriginalText": "フォトンの扱いに長けており、その使役、適応に才を\n見せる種族。\nことフォトンの扱いにおいては、どの種族よりも繊細\nで丁寧であり、非力な身体をフォトンの使役により強\n化し、補っている。",
-    "Text": "Heavily adapted towards the handling of\nphotons. Dainty and frail, but shows\ngreat ability at the Force class.",
+    "Text": "포톤을 다루는 데 능하며, 포톤의 활용과 적응에\n재능을 보이는 종족.\n포톤을 다루는 솜씨가 어떤 종족보다도\n섬세하고 정교하며, 포톤을 활용하여\n약한 신체를 강화하고 보완한다.",
     "Enabled": true
   },
   "500264": {
     "OriginalText": "機械によって構成された屈強な身体を持ち、継戦性に\n優れた種族。\n人工的な身体であるため、若干フォトンの扱いを苦手\nとしているが、それを補って余りあるほどの精緻かつ\n強固な身体をウリとしている。",
-    "Text": "Machine-made, machine tough. Due to\ntheir artificial nature, has weak photon\nability, but can achieve great physical\nstrength.",
+    "Text": "기계로 이루어진 강인한 신체를 지니고,\n지속적인 전투에 뛰어난 종족.\n인공적인 신체 탓에 포톤을 다루는 데는\n다소 서툴지만, 이를 보완하고도 남을 만큼\n정밀하고 튼튼한 신체를 자랑한다.",
     "Enabled": true
   },
   "500265": {
     "OriginalText": "機械によって構成された屈強な身体を持ち、継戦性に\n優れた種族。\nその身体は堅固な機械によるもので、近接戦闘や射撃\n戦において高いポテンシャルを発揮する。\n反面、フォトンの扱いは苦手。",
-    "Text": "Machine-made, machine tough. Shows great\npotential in both close-range and\nfirearms combat, but is poor at\nutilizing photons.",
+    "Text": "기계로 이루어진 강인한 신체를 지니고,\n지속적인 전투에 뛰어난 종족.\n견고한 기계로 이루어진 신체는 근접 전투와\n사격전에서 높은 잠재력을 발휘한다.\n반면 포톤을 다루는 데는 서툴다.",
     "Enabled": true
   },
   "500266": {
     "OriginalText": "対ギガンテス用に作られた新たなクラス。\nパイルやヘイロウをはじめ、全ての武器を使いこなし\nて様々な戦闘スタイルを確立できる。",
-    "Text": "",
-    "Enabled": false
+    "Text": "대 기간테스전을 위해 만들어진 새로운 클래스.\n파일과 헤일로를 비롯한 모든 무기를 다루며,\n다양한 전투 스타일을 구사할 수 있다.",
+    "Enabled": true
   },
   "500335": {
     "OriginalText": "男性満用ボイス1",
-    "Text": "Male Voice 1",
-    "Enabled": true
+    "Text": "남성 공용 보이스 1",
+    "Enabled": false
   },
   "500336": {
     "OriginalText": "男性満用ボイス2",
-    "Text": "Male Voice 2",
-    "Enabled": true
+    "Text": "남성 공용 보이스 2",
+    "Enabled": false
   },
   "500337": {
     "OriginalText": "男性満用ボイス3",
-    "Text": "Male Voice 3",
-    "Enabled": true
+    "Text": "남성 공용 보이스 3",
+    "Enabled": false
   },
   "500338": {
     "OriginalText": "男性満用ボイス4",
-    "Text": "Male Voice 4",
-    "Enabled": true
+    "Text": "남성 공용 보이스 4",
+    "Enabled": false
   },
   "500339": {
     "OriginalText": "男性満用ボイス5",
-    "Text": "Male Voice 5",
-    "Enabled": true
+    "Text": "남성 공용 보이스 5",
+    "Enabled": false
   },
   "500340": {
     "OriginalText": "男性満用ボイス6",
-    "Text": "Male Voice 6",
-    "Enabled": true
+    "Text": "남성 공용 보이스 6",
+    "Enabled": false
   },
   "500341": {
     "OriginalText": "男性満用ボイス7",
-    "Text": "Male Voice 7",
-    "Enabled": true
+    "Text": "남성 공용 보이스 7",
+    "Enabled": false
   },
   "500342": {
     "OriginalText": "男性満用ボイス8",
-    "Text": "Male Voice 8",
-    "Enabled": true
+    "Text": "남성 공용 보이스 8",
+    "Enabled": false
   },
   "500343": {
     "OriginalText": "男性満用ボイス9",
-    "Text": "Male Voice 9",
-    "Enabled": true
+    "Text": "남성 공용 보이스 9",
+    "Enabled": false
   },
   "500344": {
     "OriginalText": "男性満用ボイス10",
-    "Text": "Male Voice 10",
-    "Enabled": true
+    "Text": "남성 공용 보이스 10",
+    "Enabled": false
   },
   "500345": {
     "OriginalText": "男性満用ボイス11",
-    "Text": "Male Voice 11",
-    "Enabled": true
+    "Text": "남성 공용 보이스 11",
+    "Enabled": false
   },
   "500346": {
     "OriginalText": "男性満用ボイス12",
-    "Text": "Male Voice 12",
-    "Enabled": true
+    "Text": "남성 공용 보이스 12",
+    "Enabled": false
   },
   "500347": {
     "OriginalText": "男性満用ボイス13",
-    "Text": "Male Voice 13",
-    "Enabled": true
+    "Text": "남성 공용 보이스 13",
+    "Enabled": false
   },
   "500348": {
     "OriginalText": "男性満用ボイス14",
-    "Text": "Male Voice 14",
-    "Enabled": true
+    "Text": "남성 공용 보이스 14",
+    "Enabled": false
   },
   "500349": {
     "OriginalText": "男性満用ボイス15",
-    "Text": "Male Voice 15",
-    "Enabled": true
+    "Text": "남성 공용 보이스 15",
+    "Enabled": false
   },
   "500350": {
     "OriginalText": "男性満用ボイス16",
-    "Text": "Male Voice 16",
-    "Enabled": true
+    "Text": "남성 공용 보이스 16",
+    "Enabled": false
   },
   "500351": {
     "OriginalText": "男性満用ボイス17",
-    "Text": "Male Voice 17",
-    "Enabled": true
+    "Text": "남성 공용 보이스 17",
+    "Enabled": false
   },
   "500352": {
     "OriginalText": "男性満用ボイス18",
-    "Text": "Male Voice 18",
-    "Enabled": true
+    "Text": "남성 공용 보이스 18",
+    "Enabled": false
   },
   "500353": {
     "OriginalText": "男性満用ボイス19",
-    "Text": "Male Voice 19",
-    "Enabled": true
+    "Text": "남성 공용 보이스 19",
+    "Enabled": false
   },
   "500354": {
     "OriginalText": "男性満用ボイス20",
-    "Text": "Male Voice 20",
-    "Enabled": true
+    "Text": "남성 공용 보이스 20",
+    "Enabled": false
   },
   "500355": {
     "OriginalText": "男性満用ボイス21",
-    "Text": "Male Voice 21",
-    "Enabled": true
+    "Text": "남성 공용 보이스 21",
+    "Enabled": false
   },
   "500356": {
     "OriginalText": "男性満用ボイス22",
-    "Text": "Male Voice 22",
-    "Enabled": true
+    "Text": "남성 공용 보이스 22",
+    "Enabled": false
   },
   "500357": {
     "OriginalText": "男性満用ボイス23",
-    "Text": "Male Voice 23",
-    "Enabled": true
+    "Text": "남성 공용 보이스 23",
+    "Enabled": false
   },
   "500358": {
     "OriginalText": "男性満用ボイス24",
-    "Text": "Male Voice 24",
-    "Enabled": true
+    "Text": "남성 공용 보이스 24",
+    "Enabled": false
   },
   "500359": {
     "OriginalText": "男性満用ボイス25",
-    "Text": "Male Voice 25",
-    "Enabled": true
+    "Text": "남성 공용 보이스 25",
+    "Enabled": false
   },
   "500360": {
     "OriginalText": "男性満用ボイス26",
-    "Text": "Male Voice 26",
-    "Enabled": true
+    "Text": "남성 공용 보이스 26",
+    "Enabled": false
   },
   "500361": {
     "OriginalText": "男性満用ボイス27",
-    "Text": "Male Voice 27",
-    "Enabled": true
+    "Text": "남성 공용 보이스 27",
+    "Enabled": false
   },
   "500362": {
     "OriginalText": "男性満用ボイス28",
-    "Text": "Male Voice 28",
-    "Enabled": true
+    "Text": "남성 공용 보이스 28",
+    "Enabled": false
   },
   "500363": {
     "OriginalText": "男性満用ボイス29",
-    "Text": "Male Voice 29",
-    "Enabled": true
+    "Text": "남성 공용 보이스 29",
+    "Enabled": false
   },
   "500364": {
     "OriginalText": "男性満用ボイス30",
-    "Text": "Male Voice 30",
-    "Enabled": true
+    "Text": "남성 공용 보이스 30",
+    "Enabled": false
   },
   "500365": {
     "OriginalText": "女性満用ボイス1",
-    "Text": "Female Voice 1",
-    "Enabled": true
+    "Text": "여성 공용 보이스 1",
+    "Enabled": false
   },
   "500366": {
     "OriginalText": "女性満用ボイス2",
-    "Text": "Female Voice 2",
-    "Enabled": true
+    "Text": "여성 공용 보이스 2",
+    "Enabled": false
   },
   "500367": {
     "OriginalText": "女性満用ボイス3",
-    "Text": "Female Voice 3",
-    "Enabled": true
+    "Text": "여성 공용 보이스 3",
+    "Enabled": false
   },
   "500368": {
     "OriginalText": "女性満用ボイス4",
-    "Text": "Female Voice 4",
-    "Enabled": true
+    "Text": "여성 공용 보이스 4",
+    "Enabled": false
   },
   "500369": {
     "OriginalText": "女性満用ボイス5",
-    "Text": "Female Voice 5",
-    "Enabled": true
+    "Text": "여성 공용 보이스 5",
+    "Enabled": false
   },
   "500370": {
     "OriginalText": "女性満用ボイス6",
-    "Text": "Female Voice 6",
-    "Enabled": true
+    "Text": "여성 공용 보이스 6",
+    "Enabled": false
   },
   "500371": {
     "OriginalText": "女性満用ボイス7",
-    "Text": "Female Voice 7",
-    "Enabled": true
+    "Text": "여성 공용 보이스 7",
+    "Enabled": false
   },
   "500372": {
     "OriginalText": "女性満用ボイス8",
-    "Text": "Female Voice 8",
-    "Enabled": true
+    "Text": "여성 공용 보이스 8",
+    "Enabled": false
   },
   "500373": {
     "OriginalText": "女性満用ボイス9",
-    "Text": "Female Voice 9",
-    "Enabled": true
+    "Text": "여성 공용 보이스 9",
+    "Enabled": false
   },
   "500374": {
     "OriginalText": "女性満用ボイス10",
-    "Text": "Female Voice 10",
-    "Enabled": true
+    "Text": "여성 공용 보이스 10",
+    "Enabled": false
   },
   "500375": {
     "OriginalText": "女性満用ボイス11",
-    "Text": "Female Voice 11",
-    "Enabled": true
+    "Text": "여성 공용 보이스 11",
+    "Enabled": false
   },
   "500376": {
     "OriginalText": "女性満用ボイス12",
-    "Text": "Female Voice 12",
-    "Enabled": true
+    "Text": "여성 공용 보이스 12",
+    "Enabled": false
   },
   "500377": {
     "OriginalText": "女性満用ボイス13",
-    "Text": "Female Voice 13",
-    "Enabled": true
+    "Text": "여성 공용 보이스 13",
+    "Enabled": false
   },
   "500378": {
     "OriginalText": "女性満用ボイス14",
-    "Text": "Female Voice 14",
-    "Enabled": true
+    "Text": "여성 공용 보이스 14",
+    "Enabled": false
   },
   "500379": {
     "OriginalText": "女性満用ボイス15",
-    "Text": "Female Voice 15",
-    "Enabled": true
+    "Text": "여성 공용 보이스 15",
+    "Enabled": false
   },
   "500380": {
     "OriginalText": "女性満用ボイス16",
-    "Text": "Female Voice 16",
-    "Enabled": true
+    "Text": "여성 공용 보이스 16",
+    "Enabled": false
   },
   "500381": {
     "OriginalText": "女性満用ボイス17",
-    "Text": "Female Voice 17",
-    "Enabled": true
+    "Text": "여성 공용 보이스 17",
+    "Enabled": false
   },
   "500382": {
     "OriginalText": "女性満用ボイス18",
-    "Text": "Female Voice 18",
-    "Enabled": true
+    "Text": "여성 공용 보이스 18",
+    "Enabled": false
   },
   "500383": {
     "OriginalText": "女性満用ボイス19",
-    "Text": "Female Voice 19",
-    "Enabled": true
+    "Text": "여성 공용 보이스 19",
+    "Enabled": false
   },
   "500384": {
     "OriginalText": "女性満用ボイス20",
-    "Text": "Female Voice 20",
-    "Enabled": true
+    "Text": "여성 공용 보이스 20",
+    "Enabled": false
   },
   "500385": {
     "OriginalText": "女性満用ボイス21",
-    "Text": "Female Voice 21",
-    "Enabled": true
+    "Text": "여성 공용 보이스 21",
+    "Enabled": false
   },
   "500386": {
     "OriginalText": "女性満用ボイス22",
-    "Text": "Female Voice 22",
-    "Enabled": true
+    "Text": "여성 공용 보이스 22",
+    "Enabled": false
   },
   "500387": {
     "OriginalText": "女性満用ボイス23",
-    "Text": "Female Voice 23",
-    "Enabled": true
+    "Text": "여성 공용 보이스 23",
+    "Enabled": false
   },
   "500388": {
     "OriginalText": "女性満用ボイス24",
-    "Text": "Female Voice 24",
-    "Enabled": true
+    "Text": "여성 공용 보이스 24",
+    "Enabled": false
   },
   "500389": {
     "OriginalText": "女性満用ボイス25",
-    "Text": "Female Voice 25",
-    "Enabled": true
+    "Text": "여성 공용 보이스 25",
+    "Enabled": false
   },
   "500390": {
     "OriginalText": "女性満用ボイス26",
-    "Text": "Female Voice 26",
-    "Enabled": true
+    "Text": "여성 공용 보이스 26",
+    "Enabled": false
   },
   "500391": {
     "OriginalText": "女性満用ボイス27",
-    "Text": "Female Voice 27",
-    "Enabled": true
+    "Text": "여성 공용 보이스 27",
+    "Enabled": false
   },
   "500392": {
     "OriginalText": "女性満用ボイス28",
-    "Text": "Female Voice 28",
-    "Enabled": true
+    "Text": "여성 공용 보이스 28",
+    "Enabled": false
   },
   "500393": {
     "OriginalText": "女性満用ボイス29",
-    "Text": "Female Voice 29",
-    "Enabled": true
+    "Text": "여성 공용 보이스 29",
+    "Enabled": false
   },
   "500394": {
     "OriginalText": "女性満用ボイス30",
-    "Text": "Female Voice 30",
-    "Enabled": true
+    "Text": "여성 공용 보이스 30",
+    "Enabled": false
   },
   "500395": {
     "OriginalText": "キャスト男性ボイス1",
-    "Text": "Male Cast Voice 1",
+    "Text": "캐스트 남성 보이스 1",
     "Enabled": true
   },
   "500396": {
     "OriginalText": "キャスト男性ボイス2",
-    "Text": "Male Cast Voice 2",
+    "Text": "캐스트 남성 보이스 2",
     "Enabled": true
   },
   "500397": {
     "OriginalText": "キャスト男性ボイス3",
-    "Text": "Male Cast Voice 3",
+    "Text": "캐스트 남성 보이스 3",
     "Enabled": true
   },
   "500398": {
     "OriginalText": "キャスト男性ボイス4",
-    "Text": "Male Cast Voice 4",
+    "Text": "캐스트 남성 보이스 4",
     "Enabled": true
   },
   "500399": {
     "OriginalText": "キャスト男性ボイス5",
-    "Text": "Male Cast Voice 5",
+    "Text": "캐스트 남성 보이스 5",
     "Enabled": true
   },
   "500400": {
     "OriginalText": "キャスト男性ボイス6",
-    "Text": "Male Cast Voice 6",
+    "Text": "캐스트 남성 보이스 6",
     "Enabled": true
   },
   "500401": {
     "OriginalText": "キャスト男性ボイス7",
-    "Text": "Male Cast Voice 7",
+    "Text": "캐스트 남성 보이스 7",
     "Enabled": true
   },
   "500402": {
     "OriginalText": "キャスト男性ボイス8",
-    "Text": "Male Cast Voice 8",
+    "Text": "캐스트 남성 보이스 8",
     "Enabled": true
   },
   "500403": {
     "OriginalText": "キャスト男性ボイス9",
-    "Text": "Male Cast Voice 9",
+    "Text": "캐스트 남성 보이스 9",
     "Enabled": true
   },
   "500404": {
     "OriginalText": "キャスト男性ボイス10",
-    "Text": "Male Cast Voice 10",
+    "Text": "캐스트 남성 보이스 10",
     "Enabled": true
   },
   "500405": {
     "OriginalText": "キャスト男性ボイス11",
-    "Text": "Male Cast Voice 11",
+    "Text": "캐스트 남성 보이스 11",
     "Enabled": true
   },
   "500406": {
     "OriginalText": "キャスト男性ボイス12",
-    "Text": "Male Cast Voice 12",
+    "Text": "캐스트 남성 보이스 12",
     "Enabled": true
   },
   "500407": {
     "OriginalText": "キャスト男性ボイス13",
-    "Text": "Male Cast Voice 13",
+    "Text": "캐스트 남성 보이스 13",
     "Enabled": true
   },
   "500408": {
     "OriginalText": "キャスト男性ボイス14",
-    "Text": "Male Cast Voice 14",
+    "Text": "캐스트 남성 보이스 14",
     "Enabled": true
   },
   "500409": {
     "OriginalText": "キャスト男性ボイス15",
-    "Text": "Male Cast Voice 15",
+    "Text": "캐스트 남성 보이스 15",
     "Enabled": true
   },
   "500410": {
     "OriginalText": "キャスト男性ボイス16",
-    "Text": "Male Cast Voice 16",
+    "Text": "캐스트 남성 보이스 16",
     "Enabled": true
   },
   "500411": {
     "OriginalText": "キャスト男性ボイス17",
-    "Text": "Male Cast Voice 17",
+    "Text": "캐스트 남성 보이스 17",
     "Enabled": true
   },
   "500412": {
     "OriginalText": "キャスト男性ボイス18",
-    "Text": "Male Cast Voice 18",
+    "Text": "캐스트 남성 보이스 18",
     "Enabled": true
   },
   "500413": {
     "OriginalText": "キャスト男性ボイス19",
-    "Text": "Male Cast Voice 19",
+    "Text": "캐스트 남성 보이스 19",
     "Enabled": true
   },
   "500414": {
     "OriginalText": "キャスト男性ボイス20",
-    "Text": "Male Cast Voice 20",
+    "Text": "캐스트 남성 보이스 20",
     "Enabled": true
   },
   "500415": {
     "OriginalText": "キャスト男性ボイス21",
-    "Text": "Male Cast Voice 21",
+    "Text": "캐스트 남성 보이스 21",
     "Enabled": true
   },
   "500416": {
     "OriginalText": "キャスト男性ボイス22",
-    "Text": "Male Cast Voice 22",
+    "Text": "캐스트 남성 보이스 22",
     "Enabled": true
   },
   "500417": {
     "OriginalText": "キャスト男性ボイス23",
-    "Text": "Male Cast Voice 23",
+    "Text": "캐스트 남성 보이스 23",
     "Enabled": true
   },
   "500418": {
     "OriginalText": "キャスト男性ボイス24",
-    "Text": "Male Cast Voice 24",
+    "Text": "캐스트 남성 보이스 24",
     "Enabled": true
   },
   "500419": {
     "OriginalText": "キャスト男性ボイス25",
-    "Text": "Male Cast Voice 25",
+    "Text": "캐스트 남성 보이스 25",
     "Enabled": true
   },
   "500420": {
     "OriginalText": "キャスト男性ボイス26",
-    "Text": "Male Cast Voice 26",
+    "Text": "캐스트 남성 보이스 26",
     "Enabled": true
   },
   "500421": {
     "OriginalText": "キャスト男性ボイス27",
-    "Text": "Male Cast Voice 27",
+    "Text": "캐스트 남성 보이스 27",
     "Enabled": true
   },
   "500422": {
     "OriginalText": "キャスト男性ボイス28",
-    "Text": "Male Cast Voice 28",
+    "Text": "캐스트 남성 보이스 28",
     "Enabled": true
   },
   "500423": {
     "OriginalText": "キャスト男性ボイス29",
-    "Text": "Male Cast Voice 29",
+    "Text": "캐스트 남성 보이스 29",
     "Enabled": true
   },
   "500424": {
     "OriginalText": "キャスト男性ボイス30",
-    "Text": "Male Cast Voice 30",
+    "Text": "캐스트 남성 보이스 30",
     "Enabled": true
   },
   "500425": {
     "OriginalText": "キャスト女性ボイス1",
-    "Text": "Female Cast Voice 1",
+    "Text": "캐스트 여성 보이스 1",
     "Enabled": true
   },
   "500426": {
     "OriginalText": "キャスト女性ボイス2",
-    "Text": "Female Cast Voice 2",
+    "Text": "캐스트 여성 보이스 2",
     "Enabled": true
   },
   "500427": {
     "OriginalText": "キャスト女性ボイス3",
-    "Text": "Female Cast Voice 3",
+    "Text": "캐스트 여성 보이스 3",
     "Enabled": true
   },
   "500428": {
     "OriginalText": "キャスト女性ボイス4",
-    "Text": "Female Cast Voice 4",
+    "Text": "캐스트 여성 보이스 4",
     "Enabled": true
   },
   "500429": {
     "OriginalText": "キャスト女性ボイス5",
-    "Text": "Female Cast Voice 5",
+    "Text": "캐스트 여성 보이스 5",
     "Enabled": true
   },
   "500430": {
     "OriginalText": "キャスト女性ボイス6",
-    "Text": "Female Cast Voice 6",
+    "Text": "캐스트 여성 보이스 6",
     "Enabled": true
   },
   "500431": {
     "OriginalText": "キャスト女性ボイス7",
-    "Text": "Female Cast Voice 7",
+    "Text": "캐스트 여성 보이스 7",
     "Enabled": true
   },
   "500432": {
     "OriginalText": "キャスト女性ボイス8",
-    "Text": "Female Cast Voice 8",
+    "Text": "캐스트 여성 보이스 8",
     "Enabled": true
   },
   "500433": {
     "OriginalText": "キャスト女性ボイス9",
-    "Text": "Female Cast Voice 9",
+    "Text": "캐스트 여성 보이스 9",
     "Enabled": true
   },
   "500434": {
     "OriginalText": "キャスト女性ボイス10",
-    "Text": "Female Cast Voice 10",
+    "Text": "캐스트 여성 보이스 10",
     "Enabled": true
   },
   "500435": {
     "OriginalText": "キャスト女性ボイス11",
-    "Text": "Female Cast Voice 11",
+    "Text": "캐스트 여성 보이스 11",
     "Enabled": true
   },
   "500436": {
     "OriginalText": "キャスト女性ボイス12",
-    "Text": "Female Cast Voice 12",
+    "Text": "캐스트 여성 보이스 12",
     "Enabled": true
   },
   "500437": {
     "OriginalText": "キャスト女性ボイス13",
-    "Text": "Female Cast Voice 13",
+    "Text": "캐스트 여성 보이스 13",
     "Enabled": true
   },
   "500438": {
     "OriginalText": "キャスト女性ボイス14",
-    "Text": "Female Cast Voice 14",
+    "Text": "캐스트 여성 보이스 14",
     "Enabled": true
   },
   "500439": {
     "OriginalText": "キャスト女性ボイス15",
-    "Text": "Female Cast Voice 15",
+    "Text": "캐스트 여성 보이스 15",
     "Enabled": true
   },
   "500440": {
     "OriginalText": "キャスト女性ボイス16",
-    "Text": "Female Cast Voice 16",
+    "Text": "캐스트 여성 보이스 16",
     "Enabled": true
   },
   "500441": {
     "OriginalText": "キャスト女性ボイス17",
-    "Text": "Female Cast Voice 17",
+    "Text": "캐스트 여성 보이스 17",
     "Enabled": true
   },
   "500442": {
     "OriginalText": "キャスト女性ボイス18",
-    "Text": "Female Cast Voice 18",
+    "Text": "캐스트 여성 보이스 18",
     "Enabled": true
   },
   "500443": {
     "OriginalText": "キャスト女性ボイス19",
-    "Text": "Female Cast Voice 19",
+    "Text": "캐스트 여성 보이스 19",
     "Enabled": true
   },
   "500444": {
     "OriginalText": "キャスト女性ボイス20",
-    "Text": "Female Cast Voice 20",
+    "Text": "캐스트 여성 보이스 20",
     "Enabled": true
   },
   "500445": {
     "OriginalText": "キャスト女性ボイス21",
-    "Text": "Female Cast Voice 21",
+    "Text": "캐스트 여성 보이스 21",
     "Enabled": true
   },
   "500446": {
     "OriginalText": "キャスト女性ボイス22",
-    "Text": "Female Cast Voice 22",
+    "Text": "캐스트 여성 보이스 22",
     "Enabled": true
   },
   "500447": {
     "OriginalText": "キャスト女性ボイス23",
-    "Text": "Female Cast Voice 23",
+    "Text": "캐스트 여성 보이스 23",
     "Enabled": true
   },
   "500448": {
     "OriginalText": "キャスト女性ボイス24",
-    "Text": "Female Cast Voice 24",
+    "Text": "캐스트 여성 보이스 24",
     "Enabled": true
   },
   "500449": {
     "OriginalText": "キャスト女性ボイス25",
-    "Text": "Female Cast Voice 25",
+    "Text": "캐스트 여성 보이스 25",
     "Enabled": true
   },
   "500450": {
     "OriginalText": "キャスト女性ボイス26",
-    "Text": "Female Cast Voice 26",
+    "Text": "캐스트 여성 보이스 26",
     "Enabled": true
   },
   "500451": {
     "OriginalText": "キャスト女性ボイス27",
-    "Text": "Female Cast Voice 27",
+    "Text": "캐스트 여성 보이스 27",
     "Enabled": true
   },
   "500452": {
     "OriginalText": "キャスト女性ボイス28",
-    "Text": "Female Cast Voice 28",
+    "Text": "캐스트 여성 보이스 28",
     "Enabled": true
   },
   "500453": {
     "OriginalText": "キャスト女性ボイス29",
-    "Text": "Female Cast Voice 29",
+    "Text": "캐스트 여성 보이스 29",
     "Enabled": true
   },
   "500454": {
     "OriginalText": "キャスト女性ボイス30",
-    "Text": "Female Cast Voice 30",
+    "Text": "캐스트 여성 보이스 30",
     "Enabled": true
   },
   "500500": {
     "OriginalText": "ヒューマン男性ハンター01",
-    "Text": "Human Male Hunter 1",
+    "Text": "휴먼 남성 헌터 01",
     "Enabled": true
   },
   "500501": {
     "OriginalText": "ヒューマン男性ハンター02",
-    "Text": "Human Male Hunter 2",
+    "Text": "휴먼 남성 헌터 02",
     "Enabled": true
   },
   "500502": {
     "OriginalText": "ヒューマン男性ハンター03",
-    "Text": "Human Male Hunter 3",
+    "Text": "휴먼 남성 헌터 03",
     "Enabled": true
   },
   "500503": {
     "OriginalText": "ヒューマン男性ハンター04",
-    "Text": "Human Male Hunter 4",
+    "Text": "휴먼 남성 헌터 04",
     "Enabled": true
   },
   "500504": {
     "OriginalText": "ヒューマン男性ハンター05",
-    "Text": "Human Male Hunter 5",
+    "Text": "휴먼 남성 헌터 05",
     "Enabled": true
   },
   "500505": {
     "OriginalText": "ヒューマン男性ハンター06",
-    "Text": "Human Male Hunter 6",
+    "Text": "휴먼 남성 헌터 06",
     "Enabled": true
   },
   "500506": {
     "OriginalText": "ヒューマン男性ハンター07",
-    "Text": "Human Male Hunter 7",
+    "Text": "휴먼 남성 헌터 07",
     "Enabled": true
   },
   "500507": {
     "OriginalText": "ヒューマン男性ハンター08",
-    "Text": "Human Male Hunter 8",
+    "Text": "휴먼 남성 헌터 08",
     "Enabled": true
   },
   "500510": {
     "OriginalText": "ヒューマン男性レンジャー01",
-    "Text": "Human Male Ranger 1",
+    "Text": "휴먼 남성 레인저 01",
     "Enabled": true
   },
   "500511": {
     "OriginalText": "ヒューマン男性レンジャー02",
-    "Text": "Human Male Ranger 2",
+    "Text": "휴먼 남성 레인저 02",
     "Enabled": true
   },
   "500512": {
     "OriginalText": "ヒューマン男性レンジャー03",
-    "Text": "Human Male Ranger 3",
+    "Text": "휴먼 남성 레인저 03",
     "Enabled": true
   },
   "500513": {
     "OriginalText": "ヒューマン男性レンジャー04",
-    "Text": "Human Male Ranger 4",
+    "Text": "휴먼 남성 레인저 04",
     "Enabled": true
   },
   "500514": {
     "OriginalText": "ヒューマン男性レンジャー05",
-    "Text": "Human Male Ranger 5",
+    "Text": "휴먼 남성 레인저 05",
     "Enabled": true
   },
   "500515": {
     "OriginalText": "ヒューマン男性レンジャー06",
-    "Text": "Human Male Ranger 6",
+    "Text": "휴먼 남성 레인저 06",
     "Enabled": true
   },
   "500516": {
     "OriginalText": "ヒューマン男性レンジャー07",
-    "Text": "Human Male Ranger 7",
+    "Text": "휴먼 남성 레인저 07",
     "Enabled": true
   },
   "500517": {
     "OriginalText": "ヒューマン男性レンジャー08",
-    "Text": "Human Male Ranger 8",
+    "Text": "휴먼 남성 레인저 08",
     "Enabled": true
   },
   "500520": {
     "OriginalText": "ヒューマン男性フォース01",
-    "Text": "Human Male Force 1",
+    "Text": "휴먼 남성 포스 01",
     "Enabled": true
   },
   "500521": {
     "OriginalText": "ヒューマン男性フォース02",
-    "Text": "Human Male Force 2",
+    "Text": "휴먼 남성 포스 02",
     "Enabled": true
   },
   "500522": {
     "OriginalText": "ヒューマン男性フォース03",
-    "Text": "Human Male Force 3",
+    "Text": "휴먼 남성 포스 03",
     "Enabled": true
   },
   "500523": {
     "OriginalText": "ヒューマン男性フォース04",
-    "Text": "Human Male Force 4",
+    "Text": "휴먼 남성 포스 04",
     "Enabled": true
   },
   "500524": {
     "OriginalText": "ヒューマン男性フォース05",
-    "Text": "Human Male Force 5",
+    "Text": "휴먼 남성 포스 05",
     "Enabled": true
   },
   "500525": {
     "OriginalText": "ヒューマン男性フォース06",
-    "Text": "Human Male Force 6",
+    "Text": "휴먼 남성 포스 06",
     "Enabled": true
   },
   "500526": {
     "OriginalText": "ヒューマン男性フォース07",
-    "Text": "Human Male Force 7",
+    "Text": "휴먼 남성 포스 07",
     "Enabled": true
   },
   "500527": {
     "OriginalText": "ヒューマン男性フォース08",
-    "Text": "Human Male Force 8",
+    "Text": "휴먼 남성 포스 08",
     "Enabled": true
   },
   "500530": {
     "OriginalText": "ヒューマン女性ハンター01",
-    "Text": "Human Female Hunter 1",
+    "Text": "휴먼 여성 헌터 01",
     "Enabled": true
   },
   "500531": {
     "OriginalText": "ヒューマン女性ハンター02",
-    "Text": "Human Female Hunter 2",
+    "Text": "휴먼 여성 헌터 02",
     "Enabled": true
   },
   "500532": {
     "OriginalText": "ヒューマン女性ハンター03",
-    "Text": "Human Female Hunter 3",
+    "Text": "휴먼 여성 헌터 03",
     "Enabled": true
   },
   "500533": {
     "OriginalText": "ヒューマン女性ハンター04",
-    "Text": "Human Female Hunter 4",
+    "Text": "휴먼 여성 헌터 04",
     "Enabled": true
   },
   "500534": {
     "OriginalText": "ヒューマン女性ハンター05",
-    "Text": "Human Female Hunter 5",
+    "Text": "휴먼 여성 헌터 05",
     "Enabled": true
   },
   "500535": {
     "OriginalText": "ヒューマン女性ハンター06",
-    "Text": "Human Female Hunter 6",
+    "Text": "휴먼 여성 헌터 06",
     "Enabled": true
   },
   "500536": {
     "OriginalText": "ヒューマン女性ハンター07",
-    "Text": "Human Female Hunter 7",
+    "Text": "휴먼 여성 헌터 07",
     "Enabled": true
   },
   "500537": {
     "OriginalText": "ヒューマン女性ハンター08",
-    "Text": "Human Female Hunter 8",
+    "Text": "휴먼 여성 헌터 08",
     "Enabled": true
   },
   "500540": {
     "OriginalText": "ヒューマン女性レンジャー01",
-    "Text": "Human Female Ranger 1",
+    "Text": "휴먼 여성 레인저 01",
     "Enabled": true
   },
   "500541": {
     "OriginalText": "ヒューマン女性レンジャー02",
-    "Text": "Human Female Ranger 2",
+    "Text": "휴먼 여성 레인저 02",
     "Enabled": true
   },
   "500542": {
     "OriginalText": "ヒューマン女性レンジャー03",
-    "Text": "Human Female Ranger 3",
+    "Text": "휴먼 여성 레인저 03",
     "Enabled": true
   },
   "500543": {
     "OriginalText": "ヒューマン女性レンジャー04",
-    "Text": "Human Female Ranger 4",
+    "Text": "휴먼 여성 레인저 04",
     "Enabled": true
   },
   "500544": {
     "OriginalText": "ヒューマン女性レンジャー05",
-    "Text": "Human Female Ranger 5",
+    "Text": "휴먼 여성 레인저 05",
     "Enabled": true
   },
   "500545": {
     "OriginalText": "ヒューマン女性レンジャー06",
-    "Text": "Human Female Ranger 6",
+    "Text": "휴먼 여성 레인저 06",
     "Enabled": true
   },
   "500546": {
     "OriginalText": "ヒューマン女性レンジャー07",
-    "Text": "Human Female Ranger 7",
+    "Text": "휴먼 여성 레인저 07",
     "Enabled": true
   },
   "500547": {
     "OriginalText": "ヒューマン女性レンジャー08",
-    "Text": "Human Female Ranger 8",
+    "Text": "휴먼 여성 레인저 08",
     "Enabled": true
   },
   "500550": {
     "OriginalText": "ヒューマン女性フォース01",
-    "Text": "Human Female Force 1",
+    "Text": "휴먼 여성 포스 01",
     "Enabled": true
   },
   "500551": {
     "OriginalText": "ヒューマン女性フォース02",
-    "Text": "Human Female Force 2",
+    "Text": "휴먼 여성 포스 02",
     "Enabled": true
   },
   "500552": {
     "OriginalText": "ヒューマン女性フォース03",
-    "Text": "Human Female Force 3",
+    "Text": "휴먼 여성 포스 03",
     "Enabled": true
   },
   "500553": {
     "OriginalText": "ヒューマン女性フォース04",
-    "Text": "Human Female Force 4",
+    "Text": "휴먼 여성 포스 04",
     "Enabled": true
   },
   "500554": {
     "OriginalText": "ヒューマン女性フォース05",
-    "Text": "Human Female Force 5",
+    "Text": "휴먼 여성 포스 05",
     "Enabled": true
   },
   "500555": {
     "OriginalText": "ヒューマン女性フォース06",
-    "Text": "Human Female Force 6",
+    "Text": "휴먼 여성 포스 06",
     "Enabled": true
   },
   "500556": {
     "OriginalText": "ヒューマン女性フォース07",
-    "Text": "Human Female Force 7",
+    "Text": "휴먼 여성 포스 07",
     "Enabled": true
   },
   "500557": {
     "OriginalText": "ヒューマン女性フォース08",
-    "Text": "Human Female Force 8",
+    "Text": "휴먼 여성 포스 08",
     "Enabled": true
   },
   "500560": {
     "OriginalText": "ニューマン男性ハンター01",
-    "Text": "Newman Male Hunter 1",
+    "Text": "뉴먼 남성 헌터 01",
     "Enabled": true
   },
   "500561": {
     "OriginalText": "ニューマン男性ハンター02",
-    "Text": "Newman Male Hunter 2",
+    "Text": "뉴먼 남성 헌터 02",
     "Enabled": true
   },
   "500562": {
     "OriginalText": "ニューマン男性ハンター03",
-    "Text": "Newman Male Hunter 3",
+    "Text": "뉴먼 남성 헌터 03",
     "Enabled": true
   },
   "500563": {
     "OriginalText": "ニューマン男性ハンター04",
-    "Text": "Newman Male Hunter 4",
+    "Text": "뉴먼 남성 헌터 04",
     "Enabled": true
   },
   "500564": {
     "OriginalText": "ニューマン男性ハンター05",
-    "Text": "Newman Male Hunter 5",
+    "Text": "뉴먼 남성 헌터 05",
     "Enabled": true
   },
   "500565": {
     "OriginalText": "ニューマン男性ハンター06",
-    "Text": "Newman Male Hunter 6",
+    "Text": "뉴먼 남성 헌터 06",
     "Enabled": true
   },
   "500566": {
     "OriginalText": "ニューマン男性ハンター07",
-    "Text": "Newman Male Hunter 7",
+    "Text": "뉴먼 남성 헌터 07",
     "Enabled": true
   },
   "500567": {
     "OriginalText": "ニューマン男性ハンター08",
-    "Text": "Newman Male Hunter 8",
+    "Text": "뉴먼 남성 헌터 08",
     "Enabled": true
   },
   "500570": {
     "OriginalText": "ニューマン男性レンジャー01",
-    "Text": "Newman Male Ranger 1",
+    "Text": "뉴먼 남성 레인저 01",
     "Enabled": true
   },
   "500571": {
     "OriginalText": "ニューマン男性レンジャー02",
-    "Text": "Newman Male Ranger 2",
+    "Text": "뉴먼 남성 레인저 02",
     "Enabled": true
   },
   "500572": {
     "OriginalText": "ニューマン男性レンジャー03",
-    "Text": "Newman Male Ranger 3",
+    "Text": "뉴먼 남성 레인저 03",
     "Enabled": true
   },
   "500573": {
     "OriginalText": "ニューマン男性レンジャー04",
-    "Text": "Newman Male Ranger 4",
+    "Text": "뉴먼 남성 레인저 04",
     "Enabled": true
   },
   "500574": {
     "OriginalText": "ニューマン男性レンジャー05",
-    "Text": "Newman Male Ranger 5",
+    "Text": "뉴먼 남성 레인저 05",
     "Enabled": true
   },
   "500575": {
     "OriginalText": "ニューマン男性レンジャー06",
-    "Text": "Newman Male Ranger 6",
+    "Text": "뉴먼 남성 레인저 06",
     "Enabled": true
   },
   "500576": {
     "OriginalText": "ニューマン男性レンジャー07",
-    "Text": "Newman Male Ranger 7",
+    "Text": "뉴먼 남성 레인저 07",
     "Enabled": true
   },
   "500577": {
     "OriginalText": "ニューマン男性レンジャー08",
-    "Text": "Newman Male Ranger 8",
+    "Text": "뉴먼 남성 레인저 08",
     "Enabled": true
   },
   "500580": {
     "OriginalText": "ニューマン男性フォース01",
-    "Text": "Newman Male Force 1",
+    "Text": "뉴먼 남성 포스 01",
     "Enabled": true
   },
   "500581": {
     "OriginalText": "ニューマン男性フォース02",
-    "Text": "Newman Male Force 2",
+    "Text": "뉴먼 남성 포스 02",
     "Enabled": true
   },
   "500582": {
     "OriginalText": "ニューマン男性フォース03",
-    "Text": "Newman Male Force 3",
+    "Text": "뉴먼 남성 포스 03",
     "Enabled": true
   },
   "500583": {
     "OriginalText": "ニューマン男性フォース04",
-    "Text": "Newman Male Force 4",
+    "Text": "뉴먼 남성 포스 04",
     "Enabled": true
   },
   "500584": {
     "OriginalText": "ニューマン男性フォース05",
-    "Text": "Newman Male Force 5",
+    "Text": "뉴먼 남성 포스 05",
     "Enabled": true
   },
   "500585": {
     "OriginalText": "ニューマン男性フォース06",
-    "Text": "Newman Male Force 6",
+    "Text": "뉴먼 남성 포스 06",
     "Enabled": true
   },
   "500586": {
     "OriginalText": "ニューマン男性フォース07",
-    "Text": "Newman Male Force 7",
+    "Text": "뉴먼 남성 포스 07",
     "Enabled": true
   },
   "500587": {
     "OriginalText": "ニューマン男性フォース08",
-    "Text": "Newman Male Force 8",
+    "Text": "뉴먼 남성 포스 08",
     "Enabled": true
   },
   "500590": {
     "OriginalText": "ニューマン女性ハンター女性01",
-    "Text": "Newman Female Hunter 1",
+    "Text": "뉴먼 여성 헌터 01",
     "Enabled": true
   },
   "500591": {
     "OriginalText": "ニューマン女性ハンター女性02",
-    "Text": "Newman Female Hunter 2",
+    "Text": "뉴먼 여성 헌터 02",
     "Enabled": true
   },
   "500592": {
     "OriginalText": "ニューマン女性ハンター女性03",
-    "Text": "Newman Female Hunter 3",
+    "Text": "뉴먼 여성 헌터 03",
     "Enabled": true
   },
   "500593": {
     "OriginalText": "ニューマン女性ハンター女性04",
-    "Text": "Newman Female Hunter 4",
+    "Text": "뉴먼 여성 헌터 04",
     "Enabled": true
   },
   "500594": {
     "OriginalText": "ニューマン女性ハンター女性05",
-    "Text": "Newman Female Hunter 5",
+    "Text": "뉴먼 여성 헌터 05",
     "Enabled": true
   },
   "500595": {
     "OriginalText": "ニューマン女性ハンター女性06",
-    "Text": "Newman Female Hunter 6",
+    "Text": "뉴먼 여성 헌터 06",
     "Enabled": true
   },
   "500596": {
     "OriginalText": "ニューマン女性ハンター女性07",
-    "Text": "Newman Female Hunter 7",
+    "Text": "뉴먼 여성 헌터 07",
     "Enabled": true
   },
   "500597": {
     "OriginalText": "ニューマン女性ハンター女性08",
-    "Text": "Newman Female Hunter 8",
+    "Text": "뉴먼 여성 헌터 08",
     "Enabled": true
   },
   "500600": {
     "OriginalText": "ニューマン女性レンジャー01",
-    "Text": "Newman Female Ranger 1",
+    "Text": "뉴먼 여성 레인저 01",
     "Enabled": true
   },
   "500601": {
     "OriginalText": "ニューマン女性レンジャー02",
-    "Text": "Newman Female Ranger 2",
+    "Text": "뉴먼 여성 레인저 02",
     "Enabled": true
   },
   "500602": {
     "OriginalText": "ニューマン女性レンジャー03",
-    "Text": "Newman Female Ranger 3",
+    "Text": "뉴먼 여성 레인저 03",
     "Enabled": true
   },
   "500603": {
     "OriginalText": "ニューマン女性レンジャー04",
-    "Text": "Newman Female Ranger 4",
+    "Text": "뉴먼 여성 레인저 04",
     "Enabled": true
   },
   "500604": {
     "OriginalText": "ニューマン女性レンジャー05",
-    "Text": "Newman Female Ranger 5",
+    "Text": "뉴먼 여성 레인저 05",
     "Enabled": true
   },
   "500605": {
     "OriginalText": "ニューマン女性レンジャー06",
-    "Text": "Newman Female Ranger 6",
+    "Text": "뉴먼 여성 레인저 06",
     "Enabled": true
   },
   "500606": {
     "OriginalText": "ニューマン女性レンジャー07",
-    "Text": "Newman Female Ranger 7",
+    "Text": "뉴먼 여성 레인저 07",
     "Enabled": true
   },
   "500607": {
     "OriginalText": "ニューマン女性レンジャー08",
-    "Text": "Newman Female Ranger 8",
+    "Text": "뉴먼 여성 레인저 08",
     "Enabled": true
   },
   "500610": {
     "OriginalText": "ニューマン女性フォース01",
-    "Text": "Newman Female Force 1",
+    "Text": "뉴먼 여성 포스 01",
     "Enabled": true
   },
   "500611": {
     "OriginalText": "ニューマン女性フォース02",
-    "Text": "Newman Female Force 2",
+    "Text": "뉴먼 여성 포스 02",
     "Enabled": true
   },
   "500612": {
     "OriginalText": "ニューマン女性フォース03",
-    "Text": "Newman Female Force 3",
+    "Text": "뉴먼 여성 포스 03",
     "Enabled": true
   },
   "500613": {
     "OriginalText": "ニューマン女性フォース04",
-    "Text": "Newman Female Force 4",
+    "Text": "뉴먼 여성 포스 04",
     "Enabled": true
   },
   "500614": {
     "OriginalText": "ニューマン女性フォース05",
-    "Text": "Newman Female Force ",
+    "Text": "뉴먼 여성 포스 05",
     "Enabled": true
   },
   "500615": {
     "OriginalText": "ニューマン女性フォース06",
-    "Text": "Newman Female Force 6",
+    "Text": "뉴먼 여성 포스 06",
     "Enabled": true
   },
   "500616": {
     "OriginalText": "ニューマン女性フォース07",
-    "Text": "Newman Female Force 7",
+    "Text": "뉴먼 여성 포스 07",
     "Enabled": true
   },
   "500617": {
     "OriginalText": "ニューマン女性フォース08",
-    "Text": "Newman Female Force 8",
+    "Text": "뉴먼 여성 포스 08",
     "Enabled": true
   },
   "500620": {
     "OriginalText": "キャスト男性ハンター01",
-    "Text": "Cast Male Hunter 1",
+    "Text": "캐스트 남성 헌터 01",
     "Enabled": true
   },
   "500621": {
     "OriginalText": "キャスト男性ハンター02",
-    "Text": "Cast Male Hunter 2",
+    "Text": "캐스트 남성 헌터 02",
     "Enabled": true
   },
   "500622": {
     "OriginalText": "キャスト男性ハンター03",
-    "Text": "Cast Male Hunter 3",
+    "Text": "캐스트 남성 헌터 03",
     "Enabled": true
   },
   "500623": {
     "OriginalText": "キャスト男性ハンター04",
-    "Text": "Cast Male Hunter 4",
+    "Text": "캐스트 남성 헌터 04",
     "Enabled": true
   },
   "500624": {
     "OriginalText": "キャスト男性ハンター05",
-    "Text": "Cast Male Hunter 5",
+    "Text": "캐스트 남성 헌터 05",
     "Enabled": true
   },
   "500625": {
     "OriginalText": "キャスト男性ハンター06",
-    "Text": "Cast Male Hunter 6",
+    "Text": "캐스트 남성 헌터 06",
     "Enabled": true
   },
   "500626": {
     "OriginalText": "キャスト男性ハンター07",
-    "Text": "Cast Male Hunter 7",
+    "Text": "캐스트 남성 헌터 07",
     "Enabled": true
   },
   "500627": {
     "OriginalText": "キャスト男性ハンター08",
-    "Text": "Cast Male Hunter 8",
+    "Text": "캐스트 남성 헌터 08",
     "Enabled": true
   },
   "500630": {
     "OriginalText": "キャスト男性レンジャー01",
-    "Text": "Cast Male Ranger 1",
+    "Text": "캐스트 남성 레인저 01",
     "Enabled": true
   },
   "500631": {
     "OriginalText": "キャスト男性レンジャー02",
-    "Text": "Cast Male Ranger 2",
+    "Text": "캐스트 남성 레인저 02",
     "Enabled": true
   },
   "500632": {
     "OriginalText": "キャスト男性レンジャー03",
-    "Text": "Cast Male Ranger 3",
+    "Text": "캐스트 남성 레인저 03",
     "Enabled": true
   },
   "500633": {
     "OriginalText": "キャスト男性レンジャー04",
-    "Text": "Cast Male Ranger 4",
+    "Text": "캐스트 남성 레인저 04",
     "Enabled": true
   },
   "500634": {
     "OriginalText": "キャスト男性レンジャー05",
-    "Text": "Cast Male Ranger 5",
+    "Text": "캐스트 남성 레인저 05",
     "Enabled": true
   },
   "500635": {
     "OriginalText": "キャスト男性レンジャー06",
-    "Text": "Cast Male Ranger 6",
+    "Text": "캐스트 남성 레인저 06",
     "Enabled": true
   },
   "500636": {
     "OriginalText": "キャスト男性レンジャー07",
-    "Text": "Cast Male Ranger 7",
+    "Text": "캐스트 남성 레인저 07",
     "Enabled": true
   },
   "500637": {
     "OriginalText": "キャスト男性レンジャー08",
-    "Text": "Cast Male Ranger 8",
+    "Text": "캐스트 남성 레인저 08",
     "Enabled": true
   },
   "500640": {
     "OriginalText": "キャスト男性フォース01",
-    "Text": "Cast Male Force 1",
+    "Text": "캐스트 남성 포스 01",
     "Enabled": true
   },
   "500641": {
     "OriginalText": "キャスト男性フォース02",
-    "Text": "Cast Male Force 2",
+    "Text": "캐스트 남성 포스 02",
     "Enabled": true
   },
   "500642": {
     "OriginalText": "キャスト男性フォース03",
-    "Text": "Cast Male Force 3",
+    "Text": "캐스트 남성 포스 03",
     "Enabled": true
   },
   "500643": {
     "OriginalText": "キャスト男性フォース04",
-    "Text": "Cast Male Force 4",
+    "Text": "캐스트 남성 포스 04",
     "Enabled": true
   },
   "500644": {
     "OriginalText": "キャスト男性フォース05",
-    "Text": "Cast Male Force 5",
+    "Text": "캐스트 남성 포스 05",
     "Enabled": true
   },
   "500645": {
     "OriginalText": "キャスト男性フォース06",
-    "Text": "Cast Male Force 6",
+    "Text": "캐스트 남성 포스 06",
     "Enabled": true
   },
   "500646": {
     "OriginalText": "キャスト男性フォース07",
-    "Text": "Cast Male Force 7",
+    "Text": "캐스트 남성 포스 07",
     "Enabled": true
   },
   "500647": {
     "OriginalText": "キャスト男性フォース08",
-    "Text": "Cast Male Force 8",
+    "Text": "캐스트 남성 포스 08",
     "Enabled": true
   },
   "500650": {
     "OriginalText": "キャスト女性ハンター01",
-    "Text": "Cast Female Hunter 1",
+    "Text": "캐스트 여성 헌터 01",
     "Enabled": true
   },
   "500651": {
     "OriginalText": "キャスト女性ハンター02",
-    "Text": "Cast Female Hunter 2",
+    "Text": "캐스트 여성 헌터 02",
     "Enabled": true
   },
   "500652": {
     "OriginalText": "キャスト女性ハンター03",
-    "Text": "Cast Female Hunter 3",
+    "Text": "캐스트 여성 헌터 03",
     "Enabled": true
   },
   "500653": {
     "OriginalText": "キャスト女性ハンター04",
-    "Text": "Cast Female Hunter 4",
+    "Text": "캐스트 여성 헌터 04",
     "Enabled": true
   },
   "500654": {
     "OriginalText": "キャスト女性ハンター05",
-    "Text": "Cast Female Hunter 5",
+    "Text": "캐스트 여성 헌터 05",
     "Enabled": true
   },
   "500655": {
     "OriginalText": "キャスト女性ハンター06",
-    "Text": "Cast Female Hunter 6",
+    "Text": "캐스트 여성 헌터 06",
     "Enabled": true
   },
   "500656": {
     "OriginalText": "キャスト女性ハンター07",
-    "Text": "Cast Female Hunter 7",
+    "Text": "캐스트 여성 헌터 07",
     "Enabled": true
   },
   "500657": {
     "OriginalText": "キャスト女性ハンター08",
-    "Text": "Cast Female Hunter 8",
+    "Text": "캐스트 여성 헌터 08",
     "Enabled": true
   },
   "500660": {
     "OriginalText": "キャスト女性レンジャー01",
-    "Text": "Cast Female Ranger 1",
+    "Text": "캐스트 여성 레인저 01",
     "Enabled": true
   },
   "500661": {
     "OriginalText": "キャスト女性レンジャー02",
-    "Text": "Cast Female Ranger 2",
+    "Text": "캐스트 여성 레인저 02",
     "Enabled": true
   },
   "500662": {
     "OriginalText": "キャスト女性レンジャー03",
-    "Text": "Cast Female Ranger 3",
+    "Text": "캐스트 여성 레인저 03",
     "Enabled": true
   },
   "500663": {
     "OriginalText": "キャスト女性レンジャー04",
-    "Text": "Cast Female Ranger 4",
+    "Text": "캐스트 여성 레인저 04",
     "Enabled": true
   },
   "500664": {
     "OriginalText": "キャスト女性レンジャー05",
-    "Text": "Cast Female Ranger 5",
+    "Text": "캐스트 여성 레인저 05",
     "Enabled": true
   },
   "500665": {
     "OriginalText": "キャスト女性レンジャー06",
-    "Text": "Cast Female Ranger 6",
+    "Text": "캐스트 여성 레인저 06",
     "Enabled": true
   },
   "500666": {
     "OriginalText": "キャスト女性レンジャー07",
-    "Text": "Cast Female Ranger 7",
+    "Text": "캐스트 여성 레인저 07",
     "Enabled": true
   },
   "500667": {
     "OriginalText": "キャスト女性レンジャー08",
-    "Text": "Cast Female Ranger 8",
+    "Text": "캐스트 여성 레인저 08",
     "Enabled": true
   },
   "500670": {
     "OriginalText": "キャスト女性フォース01",
-    "Text": "Cast Female Force 1",
+    "Text": "캐스트 여성 포스 01",
     "Enabled": true
   },
   "500671": {
     "OriginalText": "キャスト女性フォース02",
-    "Text": "Cast Female Force 2",
+    "Text": "캐스트 여성 포스 02",
     "Enabled": true
   },
   "500672": {
     "OriginalText": "キャスト女性フォース03",
-    "Text": "Cast Female Force 3",
+    "Text": "캐스트 여성 포스 03",
     "Enabled": true
   },
   "500673": {
     "OriginalText": "キャスト女性フォース04",
-    "Text": "Cast Female Force 4",
+    "Text": "캐스트 여성 포스 04",
     "Enabled": true
   },
   "500674": {
     "OriginalText": "キャスト女性フォース05",
-    "Text": "Cast Female Force 5",
+    "Text": "캐스트 여성 포스 05",
     "Enabled": true
   },
   "500675": {
     "OriginalText": "キャスト女性フォース06",
-    "Text": "Cast Female Force 6",
+    "Text": "캐스트 여성 포스 06",
     "Enabled": true
   },
   "500676": {
     "OriginalText": "キャスト女性フォース07",
-    "Text": "Cast Female Force 7",
+    "Text": "캐스트 여성 포스 07",
     "Enabled": true
   },
   "500677": {
     "OriginalText": "キャスト女性フォース08",
-    "Text": "Cast Female Force 8",
+    "Text": "캐스트 여성 포스 08",
     "Enabled": true
   }
 }

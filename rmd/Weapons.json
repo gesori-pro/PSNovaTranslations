@@ -1,3132 +1,3102 @@
 {
   "90000": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "90001": {
     "OriginalText": "ソード",
-    "Text": "Sword",
+    "Text": "소드",
     "Enabled": true
   },
   "90002": {
     "OriginalText": "アルバギガッシュ",
-    "Text": "Alva Gigush",
+    "Text": "알바 기가슈",
     "Enabled": true
   },
   "90003": {
     "OriginalText": "ヴィタブレイカー",
-    "Text": "Vita Breaker",
+    "Text": "비타 브레이커",
     "Enabled": true
   },
   "90004": {
     "OriginalText": "クレイモア",
-    "Text": "Claymore",
+    "Text": "클레이모어",
     "Enabled": true
   },
   "90005": {
     "OriginalText": "キャリバー",
-    "Text": "Calibur",
+    "Text": "캘리버",
     "Enabled": true
   },
   "90006": {
     "OriginalText": "コートエッジ",
-    "Text": "Coat Edge",
+    "Text": "코트 엣지",
     "Enabled": true
   },
   "90007": {
     "OriginalText": "タルナーダ",
-    "Text": "Tarnada",
+    "Text": "타르나다",
     "Enabled": true
   },
   "90008": {
     "OriginalText": "アーディロウ",
-    "Text": "Ardillo",
+    "Text": "아디로우",
     "Enabled": true
   },
   "90009": {
     "OriginalText": "アリスティン",
-    "Text": "Aristin",
+    "Text": "아리스틴",
     "Enabled": true
   },
   "90010": {
     "OriginalText": "ラムダアリスティン",
-    "Text": "Lambda Aristin",
+    "Text": "람다 아리스틴",
     "Enabled": true
   },
   "90011": {
     "OriginalText": "ザックス",
-    "Text": "Zaxe",
+    "Text": "작스",
     "Enabled": true
   },
   "90012": {
     "OriginalText": "ラストサバイバー",
-    "Text": "Last Survivor",
+    "Text": "라스트 서바이버",
     "Enabled": true
   },
   "90013": {
     "OriginalText": "ザンバ",
-    "Text": "Zanba",
+    "Text": "잔바",
     "Enabled": true
   },
   "90014": {
     "OriginalText": "マダムノアマガサ",
-    "Text": "Madame Umbrella",
+    "Text": "마담의 우산",
     "Enabled": true
   },
   "90015": {
     "OriginalText": "イクタチ",
-    "Text": "Ikutachi",
+    "Text": "이쿠타치",
     "Enabled": true
   },
   "90016": {
     "OriginalText": "ルインシャルム",
-    "Text": "Ruin Charm",
+    "Text": "루인 샤름",
     "Enabled": true
   },
   "90017": {
     "OriginalText": "フォスティプス",
-    "Text": "Fostibus",
+    "Text": "포스티프스",
     "Enabled": true
   },
   "90018": {
     "OriginalText": "スペース・ツナ",
-    "Text": "Space Tuna",
+    "Text": "스페이스 튜나",
     "Enabled": true
   },
   "90019": {
     "OriginalText": "ドラゴンスレイヤー",
-    "Text": "Dragon Slayer",
+    "Text": "드래곤 슬레이어",
     "Enabled": true
   },
   "90020": {
     "OriginalText": "ブリザックス",
-    "Text": "Blizaxe",
+    "Text": "블리작스",
     "Enabled": true
   },
   "90021": {
     "OriginalText": "ガッドライン",
-    "Text": "Goddorine",
+    "Text": "가드라인",
     "Enabled": true
   },
   "90022": {
     "OriginalText": "アグリード",
-    "Text": "Agleed",
+    "Text": "아그리드",
     "Enabled": true
   },
   "90023": {
     "OriginalText": "ゴルニードル",
-    "Text": "Golneedle",
+    "Text": "골 니들",
     "Enabled": true
   },
   "90024": {
     "OriginalText": "ノヴァヌーク",
-    "Text": "Novanuhk",
+    "Text": "노바 누크",
     "Enabled": true
   },
   "90025": {
     "OriginalText": "ヴァルムンク",
-    "Text": "Valmunhk",
+    "Text": "발문크",
     "Enabled": true
   },
   "90026": {
     "OriginalText": "ノーボリー",
-    "Text": "Novori",
+    "Text": "노보리",
     "Enabled": true
   },
   "90027": {
     "OriginalText": "モーニング・レッド",
-    "Text": "Morning Red",
+    "Text": "모닝 레드",
     "Enabled": true
   },
   "90028": {
     "OriginalText": "ガッドラクト",
-    "Text": "Gadract",
+    "Text": "가드락트",
     "Enabled": true
   },
   "90029": {
     "OriginalText": "グレイード",
-    "Text": "Greyd",
+    "Text": "그레이드",
     "Enabled": true
   },
   "90030": {
     "OriginalText": "フォスティオリット",
-    "Text": "Faustiolitt",
+    "Text": "포스티오릿",
     "Enabled": true
   },
   "90031": {
     "OriginalText": "パルチザン",
-    "Text": "Partizan",
+    "Text": "파르티잔",
     "Enabled": true
   },
   "90032": {
     "OriginalText": "アルバハルベルト",
-    "Text": "Alva Halbert",
+    "Text": "알바 할버드",
     "Enabled": true
   },
   "90033": {
     "OriginalText": "ヴィタグレイヴ",
-    "Text": "Vita Glaive",
+    "Text": "비타 글레이브",
     "Enabled": true
   },
   "90034": {
     "OriginalText": "バルディス",
-    "Text": "Bardeos",
+    "Text": "발디스",
     "Enabled": true
   },
   "90035": {
     "OriginalText": "グングニル",
-    "Text": "Gungnir",
+    "Text": "궁니르",
     "Enabled": true
   },
   "90036": {
     "OriginalText": "ライゼノーク",
-    "Text": "Raizenolk",
+    "Text": "라이제노크",
     "Enabled": true
   },
   "90037": {
     "OriginalText": "パティルメリア",
-    "Text": "Patty Lumeria",
+    "Text": "파틸메리아",
     "Enabled": true
   },
   "90038": {
     "OriginalText": "バシレイオン",
-    "Text": "Basilleon",
+    "Text": "바실레이온",
     "Enabled": true
   },
   "90039": {
     "OriginalText": "ロンゴミニアド",
-    "Text": "Rhongomyniad",
+    "Text": "롱고미니아드",
     "Enabled": true
   },
   "90040": {
     "OriginalText": "ソウルイーター",
-    "Text": "Soul Eater",
+    "Text": "소울 이터",
     "Enabled": true
   },
   "90041": {
     "OriginalText": "インペリアルピック",
-    "Text": "Imperial Pick",
+    "Text": "임페리얼 픽",
     "Enabled": true
   },
   "90042": {
     "OriginalText": "グングナアタ",
-    "Text": "Gungnata",
+    "Text": "궁그나아타",
     "Enabled": true
   },
   "90043": {
     "OriginalText": "ラグネアンサラー",
-    "Text": "Ragne Answerer",
+    "Text": "라그네 앤서러",
     "Enabled": true
   },
   "90044": {
     "OriginalText": "クリーンブラシ",
-    "Text": "Clean Brush",
+    "Text": "클린 브러시",
     "Enabled": true
   },
   "90045": {
     "OriginalText": "ヴィジャヤ",
-    "Text": "Vjaya",
+    "Text": "비자야",
     "Enabled": true
   },
   "90046": {
     "OriginalText": "ナイトランサー",
-    "Text": "Knight Lancer",
+    "Text": "나이트 랜서",
     "Enabled": true
   },
   "90047": {
     "OriginalText": "リルソレイフ",
-    "Text": "Riellesleiv",
+    "Text": "릴 솔레이프",
     "Enabled": true
   },
   "90048": {
     "OriginalText": "ガッドベラー",
-    "Text": "Gardvella",
+    "Text": "가드벨러",
     "Enabled": true
   },
   "90049": {
     "OriginalText": "ディートレイ",
-    "Text": "Ditrei",
+    "Text": "디트레이",
     "Enabled": true
   },
   "90050": {
     "OriginalText": "ギュスターク",
-    "Text": "Gestark",
+    "Text": "규스타크",
     "Enabled": true
   },
   "90051": {
     "OriginalText": "ノヴァストラーダ",
-    "Text": "Nova Strahda",
+    "Text": "노바 스트라다",
     "Enabled": true
   },
   "90052": {
     "OriginalText": "パーレモア",
-    "Text": "Parehmore",
+    "Text": "팔레모어",
     "Enabled": true
   },
   "90053": {
     "OriginalText": "タケヤサオダケ",
-    "Text": "Bamboo Pole",
+    "Text": "타케야 사오다케",
     "Enabled": true
   },
   "90054": {
     "OriginalText": "アーリー・ブルー",
-    "Text": "Airy Blue",
+    "Text": "얼리 블루",
     "Enabled": true
   },
   "90055": {
     "OriginalText": "リルソレイラ",
-    "Text": "Lirsoleila",
+    "Text": "릴 솔레이라",
     "Enabled": true
   },
   "90056": {
     "OriginalText": "ガッドベリオ",
-    "Text": "Gardverio",
+    "Text": "가드벨리오",
     "Enabled": true
   },
   "90057": {
     "OriginalText": "リベルスターク",
-    "Text": "Liberstark",
+    "Text": "리벨스타크",
     "Enabled": true
   },
   "90058": {
     "OriginalText": "パーレモッド",
-    "Text": "Parehmod",
+    "Text": "팔레모드",
     "Enabled": true
   },
   "90059": {
     "OriginalText": "ダブルセイバー",
-    "Text": "Double Saber",
+    "Text": "더블 세이버",
     "Enabled": true
   },
   "90060": {
     "OriginalText": "アルバＤバスター",
-    "Text": "Alva D. Buster",
+    "Text": "알바 D버스터",
     "Enabled": true
   },
   "90061": {
     "OriginalText": "ヴィタＤパラッシュ",
-    "Text": "Vita D. Slash",
+    "Text": "비타 D팔라슈",
     "Enabled": true
   },
   "90062": {
     "OriginalText": "ダブルレイピア",
-    "Text": "Double Rapier",
+    "Text": "더블 레이피어",
     "Enabled": true
   },
   "90063": {
     "OriginalText": "ダブルグラディウス",
-    "Text": "Double Gradius",
+    "Text": "더블 글라디우스",
     "Enabled": true
   },
   "90064": {
     "OriginalText": "ラムダスピルティア",
-    "Text": "Lambda Spirita",
+    "Text": "람다 스필티아",
     "Enabled": true
   },
   "90065": {
     "OriginalText": "ヘルフレット",
-    "Text": "Hellfret",
+    "Text": "헬프렛",
     "Enabled": true
   },
   "90066": {
     "OriginalText": "フェザーエッジ",
-    "Text": "Feather Edge",
+    "Text": "페더 엣지",
     "Enabled": true
   },
   "90067": {
     "OriginalText": "ダブルセイバーレガシー",
-    "Text": "Double Saber Legacy",
+    "Text": "더블 세이버 레거시",
     "Enabled": true
   },
   "90068": {
     "OriginalText": "メーレンネンカ",
-    "Text": "Merhenneka",
+    "Text": "메렌넨카",
     "Enabled": true
   },
   "90069": {
     "OriginalText": "ニョイボウ",
-    "Text": "Monkey King Bar",
+    "Text": "여의봉",
     "Enabled": true
   },
   "90070": {
     "OriginalText": "デモリションコメット",
-    "Text": "Demolition Comet",
+    "Text": "데몰리션 코멧",
     "Enabled": true
   },
   "90071": {
     "OriginalText": "ツインブランド",
-    "Text": "Twin Brand",
+    "Text": "트윈 브랜드",
     "Enabled": true
   },
   "90072": {
     "OriginalText": "エクセランブレード",
-    "Text": "Excelan Blade",
+    "Text": "엑셀런 블레이드",
     "Enabled": true
   },
   "90073": {
     "OriginalText": "スピルティア",
-    "Text": "Spirtia",
+    "Text": "스필티아",
     "Enabled": true
   },
   "90074": {
     "OriginalText": "フェイルノート",
-    "Text": "Failnaught",
+    "Text": "페일노트",
     "Enabled": true
   },
   "90075": {
     "OriginalText": "スタッグカットラリ",
-    "Text": "Stag Cutlery",
+    "Text": "스태그 커틀러리",
     "Enabled": true
   },
   "90076": {
     "OriginalText": "ガッドレイ",
-    "Text": "Gardray",
+    "Text": "가드레이",
     "Enabled": true
   },
   "90077": {
     "OriginalText": "クロゼイド",
-    "Text": "Krossade",
+    "Text": "크로제이드",
     "Enabled": true
   },
   "90078": {
     "OriginalText": "アルキュレイバー",
-    "Text": "Alcyraver",
+    "Text": "알큐레이버",
     "Enabled": true
   },
   "90079": {
     "OriginalText": "ゴルトレック",
-    "Text": "Goltrek",
+    "Text": "골트렉",
     "Enabled": true
   },
   "90080": {
     "OriginalText": "ノヴァピレイダ",
-    "Text": "Nova Pyrade",
+    "Text": "노바 피레이다",
     "Enabled": true
   },
   "90081": {
     "OriginalText": "フォルティミーラー",
-    "Text": "Faulty Mirror",
+    "Text": "포르티미라",
     "Enabled": true
   },
   "90082": {
     "OriginalText": "サンセツコン",
-    "Text": "Sansetsukon",
+    "Text": "삼절곤",
     "Enabled": true
   },
   "90083": {
     "OriginalText": "ガッドレオ",
-    "Text": "Gadray",
+    "Text": "가드레오",
     "Enabled": true
   },
   "90084": {
     "OriginalText": "ウロゼイド",
-    "Text": "Urozeid",
+    "Text": "우로제이드",
     "Enabled": true
   },
   "90085": {
     "OriginalText": "ディゴルトレック",
-    "Text": "Digoltrek",
+    "Text": "디골트렉",
     "Enabled": true
   },
   "90086": {
     "OriginalText": "フォルティマイラー",
-    "Text": "Faulty Mylar",
+    "Text": "포르티마이라",
     "Enabled": true
   },
   "90087": {
     "OriginalText": "ナックル",
-    "Text": "Knuckle",
+    "Text": "너클",
     "Enabled": true
   },
   "90088": {
     "OriginalText": "アルバクランチャー",
-    "Text": "Alva Cruncher",
+    "Text": "알바 크런처",
     "Enabled": true
   },
   "90089": {
     "OriginalText": "ヴィタブレスティン",
-    "Text": "Vita Bracetin",
+    "Text": "비타 브레스틴",
     "Enabled": true
   },
   "90090": {
     "OriginalText": "ブレイクル",
-    "Text": "Breackle",
+    "Text": "브레이클",
     "Enabled": true
   },
   "90091": {
     "OriginalText": "クラシェルブ",
-    "Text": "Crashelb",
+    "Text": "크라셸브",
     "Enabled": true
   },
   "90092": {
     "OriginalText": "エイヴィンド",
-    "Text": "Aevind",
+    "Text": "에이빈드",
     "Enabled": true
   },
   "90093": {
     "OriginalText": "リドルモール",
-    "Text": "Riddle Mole",
+    "Text": "리들 몰",
     "Enabled": true
   },
   "90094": {
     "OriginalText": "スターハンド",
-    "Text": "Star Hand",
+    "Text": "스타 핸드",
     "Enabled": true
   },
   "90095": {
     "OriginalText": "ポラールハンド",
-    "Text": "Polar Hand",
+    "Text": "폴라 핸드",
     "Enabled": true
   },
   "90096": {
     "OriginalText": "エイトオンス",
-    "Text": "Eight Ounce",
+    "Text": "에이트 온스",
     "Enabled": true
   },
   "90097": {
     "OriginalText": "スパイクスラッガー",
-    "Text": "Spike Slugger",
+    "Text": "스파이크 슬러거",
     "Enabled": true
   },
   "90098": {
     "OriginalText": "バイティガー",
-    "Text": "Bietiger",
+    "Text": "바이티거",
     "Enabled": true
   },
   "90099": {
     "OriginalText": "ラムダバイティガー",
-    "Text": "Lambda Bietiger",
+    "Text": "람다 바이티거",
     "Enabled": true
   },
   "90100": {
     "OriginalText": "ガッドロック",
-    "Text": "Gaddroc",
+    "Text": "가드록",
     "Enabled": true
   },
   "90101": {
     "OriginalText": "エレマンドーグ",
-    "Text": "Elemandog",
+    "Text": "엘레만도그",
     "Enabled": true
   },
   "90102": {
     "OriginalText": "カクタスル",
-    "Text": "Cacthrough",
+    "Text": "칵타슬",
     "Enabled": true
   },
   "90103": {
     "OriginalText": "アグリック",
-    "Text": "Aglic",
+    "Text": "아그릭",
     "Enabled": true
   },
   "90104": {
     "OriginalText": "ガラティマニア",
-    "Text": "Galactimania",
+    "Text": "갈라티마니아",
     "Enabled": true
   },
   "90105": {
     "OriginalText": "エウデバイド",
-    "Text": "Eudivide",
+    "Text": "에우디바이드",
     "Enabled": true
   },
   "90106": {
     "OriginalText": "ノヴァクローグ",
-    "Text": "Novaclogg",
+    "Text": "노바 클로그",
     "Enabled": true
   },
   "90107": {
     "OriginalText": "ファイバーレイ",
-    "Text": "Fibreay",
+    "Text": "파이버레이",
     "Enabled": true
   },
   "90108": {
     "OriginalText": "ソニックパンチ",
-    "Text": "Sonic Punch",
+    "Text": "소닉 펀치",
     "Enabled": true
   },
   "90109": {
     "OriginalText": "ガッドロキア",
-    "Text": "Gaddrocia",
+    "Text": "가드로키아",
     "Enabled": true
   },
   "90110": {
     "OriginalText": "イーグマンドーグ",
-    "Text": "Eagmandig",
+    "Text": "이그만도그",
     "Enabled": true
   },
   "90111": {
     "OriginalText": "グレイック",
-    "Text": "Glaike",
+    "Text": "그레이크",
     "Enabled": true
   },
   "90112": {
     "OriginalText": "ヴィヴデバイド",
-    "Text": "Vivudivide",
+    "Text": "비브디바이드",
     "Enabled": true
   },
   "90113": {
     "OriginalText": "ファイバーロア",
-    "Text": "Fiber Lower",
+    "Text": "파이버로어",
     "Enabled": true
   },
   "90114": {
     "OriginalText": "ライフル",
-    "Text": "Rifle",
+    "Text": "라이플",
     "Enabled": true
   },
   "90115": {
     "OriginalText": "アルバスナイパー",
-    "Text": "Alva Sniper",
+    "Text": "알바 스나이퍼",
     "Enabled": true
   },
   "90116": {
     "OriginalText": "ヴィタブラスター",
-    "Text": "Vita Blaster",
+    "Text": "비타 블래스터",
     "Enabled": true
   },
   "90117": {
     "OriginalText": "ビーム",
-    "Text": "Beam",
+    "Text": "빔",
     "Enabled": true
   },
   "90118": {
     "OriginalText": "レーザー",
-    "Text": "Laser",
+    "Text": "레이저",
     "Enabled": true
   },
   "90119": {
     "OriginalText": "フルシリンダー",
-    "Text": "Full Cylinder",
+    "Text": "풀 실린더",
     "Enabled": true
   },
   "90120": {
     "OriginalText": "ティグリドル",
-    "Text": "Tigredor",
+    "Text": "티그리돌",
     "Enabled": true
   },
   "90121": {
     "OriginalText": "シュヴァーン",
-    "Text": "Schwann",
+    "Text": "슈반",
     "Enabled": true
   },
   "90122": {
     "OriginalText": "シュトラウス",
-    "Text": "Strauss",
+    "Text": "슈트라우스",
     "Enabled": true
   },
   "90123": {
     "OriginalText": "ヤスミノコフ３０００Ｒ",
-    "Text": "Yasminkov 3000R",
+    "Text": "야스미노코프 3000R",
     "Enabled": true
   },
   "90124": {
     "OriginalText": "ファイアーアームズ",
-    "Text": "Fire Arms",
+    "Text": "파이어 암즈",
     "Enabled": true
   },
   "90125": {
     "OriginalText": "アヴェンジャー",
-    "Text": "Avenger",
+    "Text": "어벤저",
     "Enabled": true
   },
   "90126": {
     "OriginalText": "エッジブレイザー",
-    "Text": "Edge Blazer",
+    "Text": "엣지 블레이저",
     "Enabled": true
   },
   "90127": {
     "OriginalText": "ディブルカーン",
-    "Text": "Divulcan",
+    "Text": "디블 칸",
     "Enabled": true
   },
   "90128": {
     "OriginalText": "ホーリーレイ",
-    "Text": "Holy Ray",
+    "Text": "홀리 레이",
     "Enabled": true
   },
   "90129": {
     "OriginalText": "ガッドショット",
-    "Text": "Guard Shot",
+    "Text": "가드샷",
     "Enabled": true
   },
   "90130": {
     "OriginalText": "トルリオール",
-    "Text": "Tolriol",
+    "Text": "토르리올",
     "Enabled": true
   },
   "90131": {
     "OriginalText": "アサルタルス",
-    "Text": "Assaultrus",
+    "Text": "어설탈스",
     "Enabled": true
   },
   "90132": {
     "OriginalText": "ギュブナード",
-    "Text": "Gubenade",
+    "Text": "규브나드",
     "Enabled": true
   },
   "90133": {
     "OriginalText": "ディートラフト",
-    "Text": "Ditraft",
+    "Text": "디트라프트",
     "Enabled": true
   },
   "90134": {
     "OriginalText": "ノヴァスレイブル",
-    "Text": "Nova Slabel",
+    "Text": "노바 슬레이블",
     "Enabled": true
   },
   "90135": {
     "OriginalText": "サグスナイト",
-    "Text": "Sagusanight",
+    "Text": "사그스나이트",
     "Enabled": true
   },
   "90136": {
     "OriginalText": "フリントロック",
-    "Text": "Flintlock",
+    "Text": "플린트록",
     "Enabled": true
   },
   "90137": {
     "OriginalText": "サイレントバイオレット",
-    "Text": "Silent Violet",
+    "Text": "사일런트 바이올렛",
     "Enabled": true
   },
   "90138": {
     "OriginalText": "ガッドエメラル",
-    "Text": "Gardemeral",
+    "Text": "가드에메랄",
     "Enabled": true
   },
   "90139": {
     "OriginalText": "ポルトルリオール",
-    "Text": "Poltolriol",
+    "Text": "폴토르리올",
     "Enabled": true
   },
   "90140": {
     "OriginalText": "テュルトラフト",
-    "Text": "Tyrtraft",
+    "Text": "튜르트라프트",
     "Enabled": true
   },
   "90141": {
     "OriginalText": "サグスフレア",
-    "Text": "Sagus Flase",
+    "Text": "사그스플레어",
     "Enabled": true
   },
   "90142": {
     "OriginalText": "ツインマシンガン",
-    "Text": "Twin Machineguns",
+    "Text": "트윈 머신 건",
     "Enabled": true
   },
   "90143": {
     "OriginalText": "アルバＴアサルト",
-    "Text": "Alva T. Machineguns",
+    "Text": "알바 T어설트",
     "Enabled": true
   },
   "90144": {
     "OriginalText": "ヴィタＴリピーター",
-    "Text": "Vita T. Repeater",
+    "Text": "비타 T리피터",
     "Enabled": true
   },
   "90145": {
     "OriginalText": "ツインガトリング",
-    "Text": "Twin Gatling",
+    "Text": "트윈 개틀링",
     "Enabled": true
   },
   "90146": {
     "OriginalText": "ラムダラディエグル",
-    "Text": "Lambda Radiegle",
+    "Text": "람다 라디에글",
     "Enabled": true
   },
   "90147": {
     "OriginalText": "サークウェイド",
-    "Text": "Sarcueid",
+    "Text": "서크웨이드",
     "Enabled": true
   },
   "90148": {
     "OriginalText": "フユジオン",
-    "Text": "Fuyusion",
+    "Text": "퓨지온",
     "Enabled": true
   },
   "90149": {
     "OriginalText": "アレスヴィス",
-    "Text": "Aresvis",
+    "Text": "아레스비스",
     "Enabled": true
   },
   "90150": {
     "OriginalText": "ラムダアレスヴィス",
-    "Text": "Lambda Aresvis",
+    "Text": "람다 아레스비스",
     "Enabled": true
   },
   "90151": {
     "OriginalText": "Ｈ＆Ｓ２５ジャスティス",
-    "Text": "H＆S25 Justice",
+    "Text": "H&S25 저스티스",
     "Enabled": true
   },
   "90152": {
     "OriginalText": "Ｔヤスミノコフ２０００Ｈ",
-    "Text": "T. Yasminkov 2000H",
+    "Text": "T야스미노코프 2000H",
     "Enabled": true
   },
   "90153": {
     "OriginalText": "ヤスミノコフ９０００Ｍ",
-    "Text": "Yasminkov 9000M",
+    "Text": "야스미노코프 9000M",
     "Enabled": true
   },
   "90154": {
     "OriginalText": "イシュライ",
-    "Text": "Ishurai",
+    "Text": "이슈라이",
     "Enabled": true
   },
   "90155": {
     "OriginalText": "トールマリンカ",
-    "Text": "Tourmalinca",
+    "Text": "톨마린카",
     "Enabled": true
   },
   "90156": {
     "OriginalText": "エッグブラスター",
-    "Text": "Egg Blasters",
+    "Text": "에그 블래스터",
     "Enabled": true
   },
   "90157": {
     "OriginalText": "ツインバルカン",
-    "Text": "Twin Vulcan",
+    "Text": "트윈 발칸",
     "Enabled": true
   },
   "90158": {
     "OriginalText": "ガルド・ミラ",
-    "Text": "Guld Milla",
+    "Text": "갈드 미라",
     "Enabled": true
   },
   "90159": {
     "OriginalText": "パンドラエクストリーム",
-    "Text": "Pandora Extreme",
+    "Text": "판도라 익스트림",
     "Enabled": true
   },
   "90160": {
     "OriginalText": "ラムダサークウェイド",
-    "Text": "Lambda Sarcueid",
+    "Text": "람다 서크웨이드",
     "Enabled": true
   },
   "90161": {
     "OriginalText": "ガッドナフト",
-    "Text": "Gadnaft",
+    "Text": "가드나프트",
     "Enabled": true
   },
   "90162": {
     "OriginalText": "バレダレクト",
-    "Text": "Baredrect",
+    "Text": "바레다렉트",
     "Enabled": true
   },
   "90163": {
     "OriginalText": "ガラティグア",
-    "Text": "Colortigua",
+    "Text": "갈라티구아",
     "Enabled": true
   },
   "90164": {
     "OriginalText": "アグリタフ",
-    "Text": "Agrituf",
+    "Text": "아그리타프",
     "Enabled": true
   },
   "90165": {
     "OriginalText": "エウリュボックス",
-    "Text": "Euryabox",
+    "Text": "에우류복스",
     "Enabled": true
   },
   "90166": {
     "OriginalText": "ノヴァトーク",
-    "Text": "Nova Talk",
+    "Text": "노바 토크",
     "Enabled": true
   },
   "90167": {
     "OriginalText": "シリアルコレフト",
-    "Text": "Serial Coleft",
+    "Text": "시리얼 코레프트",
     "Enabled": true
   },
   "90168": {
     "OriginalText": "ロケットパンチャー",
-    "Text": "Rocket Puncher",
+    "Text": "로켓 펀처",
     "Enabled": true
   },
   "90169": {
     "OriginalText": "ガッドナフティア",
-    "Text": "Gardnaftia",
+    "Text": "가드나프티아",
     "Enabled": true
   },
   "90170": {
     "OriginalText": "ヴィヴリュボックス",
-    "Text": "Vivylbox",
+    "Text": "비브류복스",
     "Enabled": true
   },
   "90171": {
     "OriginalText": "シリアルコライト",
-    "Text": "Serial Collite",
-    "Enabled": true
-  },
-  "90172": {
-    "OriginalText": "B-84",
-    "Text": "B-84",
-    "Enabled": true
-  },
-  "90173": {
-    "OriginalText": "45-AUTO",
-    "Text": "45-AUTO",
-    "Enabled": true
-  },
-  "90174": {
-    "OriginalText": "SMG-05",
-    "Text": "SMG-05",
+    "Text": "시리얼 코라이트",
     "Enabled": true
   },
   "90175": {
     "OriginalText": "ロッド",
-    "Text": "Rod",
+    "Text": "로드",
     "Enabled": true
   },
   "90176": {
     "OriginalText": "アルバポール",
-    "Text": "Alva Pole",
+    "Text": "알바 폴",
     "Enabled": true
   },
   "90177": {
     "OriginalText": "ヴィタパイラー",
-    "Text": "Vita Piler",
+    "Text": "비타 파일러",
     "Enabled": true
   },
   "90178": {
     "OriginalText": "ガーランド",
-    "Text": "Garland",
+    "Text": "갈란드",
     "Enabled": true
   },
   "90179": {
     "OriginalText": "デモニックフォーク",
-    "Text": "Demonic Fork",
+    "Text": "데모닉 포크",
     "Enabled": true
   },
   "90180": {
     "OriginalText": "パンプキンロッド",
-    "Text": "Pumpkin Rod",
+    "Text": "펌프킨 로드",
     "Enabled": true
   },
   "90181": {
     "OriginalText": "セイテンバイセ",
-    "Text": "Seitenweise",
+    "Text": "세이텐바이세",
     "Enabled": true
   },
   "90182": {
     "OriginalText": "ヴァイフロース",
-    "Text": "Vifroze",
+    "Text": "바이프로스",
     "Enabled": true
   },
   "90183": {
     "OriginalText": "グラマシェント",
-    "Text": "Gramascient",
+    "Text": "그라마셴트",
     "Enabled": true
   },
   "90184": {
     "OriginalText": "マイク・スタンド",
-    "Text": "Mic Stand",
+    "Text": "마이크 스탠드",
     "Enabled": true
   },
   "90185": {
     "OriginalText": "ステラトゥインクル",
-    "Text": "Stella Twinkle",
+    "Text": "스텔라 트윙클",
     "Enabled": true
   },
   "90186": {
     "OriginalText": "クラーリタ・ヴィサス",
-    "Text": "Clarita Visas",
+    "Text": "클라리타 비서스",
     "Enabled": true
   },
   "90187": {
     "OriginalText": "トワイライトルーン",
-    "Text": "Twilight Rune",
+    "Text": "트와일라이트 룬",
     "Enabled": true
   },
   "90188": {
     "OriginalText": "サルバドール",
-    "Text": "Salvador",
+    "Text": "살바도르",
     "Enabled": true
   },
   "90189": {
     "OriginalText": "ガッドローラル",
-    "Text": "Gaddroller",
+    "Text": "가드로럴",
     "Enabled": true
   },
   "90190": {
     "OriginalText": "ファンファーレ",
-    "Text": "Fanfare",
+    "Text": "팡파레",
     "Enabled": true
   },
   "90191": {
     "OriginalText": "フラワーグ",
-    "Text": "Flowerg",
+    "Text": "플라워그",
     "Enabled": true
   },
   "90192": {
     "OriginalText": "ガラティール",
-    "Text": "Galateel",
+    "Text": "갈라티르",
     "Enabled": true
   },
   "90193": {
     "OriginalText": "アグリーグラ",
-    "Text": "Agrigula",
+    "Text": "아그리그라",
     "Enabled": true
   },
   "90194": {
     "OriginalText": "ノヴァチェイン",
-    "Text": "Nova Chain",
+    "Text": "노바 체인",
     "Enabled": true
   },
   "90195": {
     "OriginalText": "アロルティラー",
-    "Text": "Aroltila",
+    "Text": "아롤티라",
     "Enabled": true
   },
   "90196": {
     "OriginalText": "ストップサイン",
-    "Text": "Stop Sign",
+    "Text": "스톱 사인",
     "Enabled": true
   },
   "90197": {
     "OriginalText": "エバーグリーン",
-    "Text": "Evergreen",
+    "Text": "에버그린",
     "Enabled": true
   },
   "90198": {
     "OriginalText": "ガッドローテクト",
-    "Text": "Gaddrotique",
+    "Text": "가드로텍트",
     "Enabled": true
   },
   "90199": {
     "OriginalText": "ウィルファーレ",
-    "Text": "Will Faret",
+    "Text": "윌파레",
     "Enabled": true
   },
   "90200": {
     "OriginalText": "アルテイーグラ",
-    "Text": "Alteagula",
+    "Text": "알테이그라",
     "Enabled": true
   },
   "90201": {
     "OriginalText": "アロルティフラー",
-    "Text": "Arolt Flare",
+    "Text": "아롤티플라",
     "Enabled": true
   },
   "90202": {
     "OriginalText": "タリス",
-    "Text": "Talis",
+    "Text": "탈리스",
     "Enabled": true
   },
   "90203": {
     "OriginalText": "アルバトリビュート",
-    "Text": "Alva Tribute",
+    "Text": "알바 트리뷰트",
     "Enabled": true
   },
   "90204": {
     "OriginalText": "ヴィタスプレイン",
-    "Text": "Vita Sprain",
+    "Text": "비타 스프레인",
     "Enabled": true
   },
   "90205": {
     "OriginalText": "オブサイド",
-    "Text": "Obside",
+    "Text": "옵사이드",
     "Enabled": true
   },
   "90206": {
     "OriginalText": "ディフューズ",
-    "Text": "Diffuse",
+    "Text": "디퓨즈",
     "Enabled": true
   },
   "90207": {
     "OriginalText": "ヴィスバーン",
-    "Text": "Visburn",
+    "Text": "비스번",
     "Enabled": true
   },
   "90208": {
     "OriginalText": "ローザクレイン",
-    "Text": "Rosa Crane",
+    "Text": "로자크레인",
     "Enabled": true
   },
   "90209": {
     "OriginalText": "ハードクォーツ",
-    "Text": "Hard Quartz",
+    "Text": "하드 쿼츠",
     "Enabled": true
   },
   "90210": {
     "OriginalText": "ワンダーコレット",
-    "Text": "Wonder Collet",
+    "Text": "원더 콜렛",
     "Enabled": true
   },
   "90211": {
     "OriginalText": "タリスレガシー",
-    "Text": "Talis Legacy",
+    "Text": "탈리스 레거시",
     "Enabled": true
   },
   "90212": {
     "OriginalText": "マフ",
-    "Text": "Mahu",
+    "Text": "마프",
     "Enabled": true
   },
   "90213": {
     "OriginalText": "ヒトガタ",
-    "Text": "Hitogata",
+    "Text": "히토가타",
     "Enabled": true
   },
   "90214": {
     "OriginalText": "マイセン",
-    "Text": "Maisen",
+    "Text": "마이센",
     "Enabled": true
   },
   "90215": {
     "OriginalText": "デュエルゲイズ",
-    "Text": "Duel Gaze",
+    "Text": "듀얼 게이즈",
     "Enabled": true
   },
   "90216": {
     "OriginalText": "メタリソリドム",
-    "Text": "Metali Solidom",
+    "Text": "메탈리솔리돔",
     "Enabled": true
   },
   "90217": {
     "OriginalText": "ラッピーファンファン",
-    "Text": "Rappy Fan Fan",
+    "Text": "랍피 팡팡",
     "Enabled": true
   },
   "90218": {
     "OriginalText": "ソリッドストレート",
-    "Text": "Solid Straight",
+    "Text": "솔리드 스트레이트",
     "Enabled": true
   },
   "90219": {
     "OriginalText": "ガディアンナ",
-    "Text": "Gadianna",
+    "Text": "가디안나",
     "Enabled": true
   },
   "90220": {
     "OriginalText": "フローレイ",
-    "Text": "Floray",
+    "Text": "플로레이",
     "Enabled": true
   },
   "90221": {
     "OriginalText": "ゴルタナティブ",
-    "Text": "Golternative",
+    "Text": "골터너티브",
     "Enabled": true
   },
   "90222": {
     "OriginalText": "ディートモア",
-    "Text": "Ditmore",
+    "Text": "디트모어",
     "Enabled": true
   },
   "90223": {
     "OriginalText": "ノヴァウォート",
-    "Text": "Nova Wort",
+    "Text": "노바 워트",
     "Enabled": true
   },
   "90224": {
     "OriginalText": "スパイラルビロウ",
-    "Text": "Spiral Billow",
+    "Text": "스파이럴 빌로우",
     "Enabled": true
   },
   "90225": {
     "OriginalText": "ゼニサシ",
-    "Text": "Benisash",
+    "Text": "제니사시",
     "Enabled": true
   },
   "90226": {
     "OriginalText": "フローリア",
-    "Text": "Floria",
+    "Text": "플로리아",
     "Enabled": true
   },
   "90227": {
     "OriginalText": "マグネモア",
-    "Text": "Magnamore",
+    "Text": "마그네모어",
     "Enabled": true
   },
   "90228": {
     "OriginalText": "スパイラルビリア",
-    "Text": "Spiral Billa",
+    "Text": "스파이럴 빌리아",
     "Enabled": true
   },
   "90229": {
     "OriginalText": "ウォンド",
-    "Text": "Wand",
+    "Text": "완드",
     "Enabled": true
   },
   "90230": {
     "OriginalText": "アルバスタッフ",
-    "Text": "Alva Staff",
+    "Text": "알바 스태프",
     "Enabled": true
   },
   "90231": {
     "OriginalText": "ヴィタバトン",
-    "Text": "Vita Baton",
+    "Text": "비타 배턴",
     "Enabled": true
   },
   "90232": {
     "OriginalText": "セプター",
-    "Text": "Scepter",
+    "Text": "셉터",
     "Enabled": true
   },
   "90233": {
     "OriginalText": "ケイン",
-    "Text": "Cane",
+    "Text": "케인",
     "Enabled": true
   },
   "90234": {
     "OriginalText": "レガリア",
-    "Text": "Regalia",
+    "Text": "레갈리아",
     "Enabled": true
   },
   "90235": {
     "OriginalText": "クレスディガー",
-    "Text": "Cless Digger",
+    "Text": "크레스디거",
     "Enabled": true
   },
   "90236": {
     "OriginalText": "ラムダヘキサグラフ",
-    "Text": "Lambda Hexagraph",
+    "Text": "람다 헥사그래프",
     "Enabled": true
   },
   "90237": {
     "OriginalText": "マジカルウォンド",
-    "Text": "Magical Wand",
+    "Text": "매지컬 완드",
     "Enabled": true
   },
   "90238": {
     "OriginalText": "コンサイコン",
-    "Text": "Konsaikon",
+    "Text": "콘사이콘",
     "Enabled": true
   },
   "90239": {
     "OriginalText": "神杖ツクヨミ",
-    "Text": "Divine Tsukuyomi",
+    "Text": "신장 츠쿠요미",
     "Enabled": true
   },
   "90240": {
     "OriginalText": "シュミットール",
-    "Text": "Schmidtore",
+    "Text": "슈미톨",
     "Enabled": true
   },
   "90241": {
     "OriginalText": "コルネリア",
-    "Text": "Cornelia",
+    "Text": "코르넬리아",
     "Enabled": true
   },
   "90242": {
     "OriginalText": "カリーノライト",
-    "Text": "Carino Light",
+    "Text": "카리노 라이트",
     "Enabled": true
   },
   "90243": {
     "OriginalText": "エビルカースト",
-    "Text": "Evil Curst",
+    "Text": "이블 커스트",
     "Enabled": true
   },
   "90244": {
     "OriginalText": "ガッドボール",
-    "Text": "Gaddbowl",
+    "Text": "가드볼",
     "Enabled": true
   },
   "90245": {
     "OriginalText": "バンクゥバー",
-    "Text": "Vancouver",
+    "Text": "방쿠버",
     "Enabled": true
   },
   "90246": {
     "OriginalText": "オールデン",
-    "Text": "Alden",
+    "Text": "올든",
     "Enabled": true
   },
   "90247": {
     "OriginalText": "アルキュラブ",
-    "Text": "Alcylove",
+    "Text": "알큐러브",
     "Enabled": true
   },
   "90248": {
     "OriginalText": "ギュライト",
-    "Text": "Gulite",
+    "Text": "규라이트",
     "Enabled": true
   },
   "90249": {
     "OriginalText": "ノヴァブレア",
-    "Text": "Novablare",
+    "Text": "노바 블레어",
     "Enabled": true
   },
   "90250": {
     "OriginalText": "シャーロイア",
-    "Text": "Charoia",
+    "Text": "샬로이아",
     "Enabled": true
   },
   "90251": {
     "OriginalText": "ラピラピラ",
-    "Text": "Rapirapira",
+    "Text": "라피라피라",
     "Enabled": true
   },
   "90252": {
     "OriginalText": "ガッドスフィア",
-    "Text": "Gaddsphere",
+    "Text": "가드스피어",
     "Enabled": true
   },
   "90253": {
     "OriginalText": "トネルバンクゥバー",
-    "Text": "Tonel Vancouver",
+    "Text": "토넬방쿠버",
     "Enabled": true
   },
   "90254": {
     "OriginalText": "リベルライト",
-    "Text": "Libel Light",
+    "Text": "리벨라이트",
     "Enabled": true
   },
   "90255": {
     "OriginalText": "シャーロワレ",
-    "Text": "Charoware",
+    "Text": "샬로와레",
     "Enabled": true
   },
   "90256": {
     "OriginalText": "パイル",
-    "Text": "Pile",
+    "Text": "파일",
     "Enabled": true
   },
   "90257": {
     "OriginalText": "バーニア",
-    "Text": "Vernier",
+    "Text": "버니어",
     "Enabled": true
   },
   "90258": {
     "OriginalText": "バンカー",
-    "Text": "Bunker",
+    "Text": "벙커",
     "Enabled": true
   },
   "90259": {
     "OriginalText": "パールシャフト",
-    "Text": "Pearl Shaft",
+    "Text": "펄 샤프트",
     "Enabled": true
   },
   "90260": {
     "OriginalText": "アールロイド",
-    "Text": "Alroid",
+    "Text": "알로이드",
     "Enabled": true
   },
   "90261": {
     "OriginalText": "スペキュレイト",
-    "Text": "Space Crater",
+    "Text": "스페큘레이트",
     "Enabled": true
   },
   "90262": {
     "OriginalText": "フェルグレイド",
-    "Text": "Fell Glaive",
+    "Text": "펠글레이드",
     "Enabled": true
   },
   "90263": {
     "OriginalText": "ガッドスコルト",
-    "Text": "Gaddskolt",
+    "Text": "가드스콜트",
     "Enabled": true
   },
   "90264": {
     "OriginalText": "ロヴラーパ",
-    "Text": "Rovrappa",
+    "Text": "로브라파",
     "Enabled": true
   },
   "90265": {
     "OriginalText": "マテリアルティ",
-    "Text": "Materiarusi",
+    "Text": "마테리얼티",
     "Enabled": true
   },
   "90266": {
     "OriginalText": "アグリオークル",
-    "Text": "Agriocher",
+    "Text": "아그리오클",
     "Enabled": true
   },
   "90267": {
     "OriginalText": "エウリストン",
-    "Text": "Elyston",
+    "Text": "에우리 스톤",
     "Enabled": true
   },
   "90268": {
     "OriginalText": "アルキャブナ",
-    "Text": "Alcyaboona",
+    "Text": "알캬브나",
     "Enabled": true
   },
   "90269": {
     "OriginalText": "ギュレーター",
-    "Text": "Gyreta",
+    "Text": "규레이터",
     "Enabled": true
   },
   "90270": {
     "OriginalText": "ガラティロック",
-    "Text": "Galatirock",
+    "Text": "갈라티록",
     "Enabled": true
   },
   "90271": {
     "OriginalText": "ノヴァテンション",
-    "Text": "Nova Tension",
+    "Text": "노바 텐션",
     "Enabled": true
   },
   "90272": {
     "OriginalText": "Ｄヴァリアントバンカー",
-    "Text": "D Valiant Bunker",
+    "Text": "D발리언트 벙커",
     "Enabled": true
   },
   "90273": {
     "OriginalText": "ウィッチブルーム",
-    "Text": "Witch Broom",
+    "Text": "위치 브룸",
     "Enabled": true
   },
   "90274": {
     "OriginalText": "ディオパイル",
-    "Text": "Dio Pile",
+    "Text": "디오 파일",
     "Enabled": true
   },
   "90275": {
     "OriginalText": "パールシャレード",
-    "Text": "Pearl Charade",
+    "Text": "펄 샤레이드",
     "Enabled": true
   },
   "90276": {
     "OriginalText": "バーニクル",
-    "Text": "Bunikulu",
+    "Text": "버니클",
     "Enabled": true
   },
   "90277": {
     "OriginalText": "スペキュレイナー",
-    "Text": "Space Crania",
+    "Text": "스페큘레이너",
     "Enabled": true
   },
   "90278": {
     "OriginalText": "ガッドスコロフ",
-    "Text": "Gaddskolt",
+    "Text": "가드스콜로프",
     "Enabled": true
   },
   "90279": {
     "OriginalText": "レウラーバ",
-    "Text": "Rareva",
+    "Text": "레우라바",
     "Enabled": true
   },
   "90280": {
     "OriginalText": "ヴィヴリストン",
-    "Text": "Vivuliston",
+    "Text": "비브리 스톤",
     "Enabled": true
   },
   "90281": {
     "OriginalText": "ヘイロウ",
-    "Text": "Halo",
+    "Text": "헤일로",
     "Enabled": true
   },
   "90282": {
     "OriginalText": "ハレシオン",
-    "Text": "Halcyon",
+    "Text": "할레시온",
     "Enabled": true
   },
   "90283": {
     "OriginalText": "アーリオル",
-    "Text": "Ariale",
+    "Text": "알리올",
     "Enabled": true
   },
   "90284": {
     "OriginalText": "シルフィード",
-    "Text": "Silpheed",
+    "Text": "실피드",
     "Enabled": true
   },
   "90285": {
     "OriginalText": "イフリータ",
-    "Text": "Iphrita",
+    "Text": "이프리타",
     "Enabled": true
   },
   "90286": {
     "OriginalText": "ヴォーダン",
-    "Text": "Vodan",
+    "Text": "보단",
     "Enabled": true
   },
   "90287": {
     "OriginalText": "ウコンバサラ",
-    "Text": "Ukon Basara",
+    "Text": "우콘바사라",
     "Enabled": true
   },
   "90288": {
     "OriginalText": "エウルサイリンダー",
-    "Text": "Eurcylinder",
+    "Text": "에우르 실린더",
     "Enabled": true
   },
   "90289": {
     "OriginalText": "アグリスラッガー",
-    "Text": "Agri Slugger",
+    "Text": "아그리 슬러거",
     "Enabled": true
   },
   "90290": {
     "OriginalText": "アルキモルスーカ",
-    "Text": "Alcymorska",
+    "Text": "알키모르스카",
     "Enabled": true
   },
   "90291": {
     "OriginalText": "ガラテシェイバー",
-    "Text": "Galateshaver",
+    "Text": "갈라테 셰이버",
     "Enabled": true
   },
   "90292": {
     "OriginalText": "ゲンデヘリケール",
-    "Text": "Gante Helicale",
+    "Text": "겐데헬리켈",
     "Enabled": true
   },
   "90293": {
     "OriginalText": "バンクツイクル",
-    "Text": "Banc Tsuikulu",
+    "Text": "방크트위클",
     "Enabled": true
   },
   "90294": {
     "OriginalText": "フォートシンス",
-    "Text": "Forsyth",
+    "Text": "포트신스",
     "Enabled": true
   },
   "90295": {
     "OriginalText": "カルカンサイト",
-    "Text": "Calcansite",
+    "Text": "칼칸사이트",
     "Enabled": true
   },
   "90296": {
     "OriginalText": "ラブラブビーム",
-    "Text": "Lovey Dovey Beam",
+    "Text": "러브러브 빔",
     "Enabled": true
   },
   "90297": {
     "OriginalText": "カーススクリーム",
-    "Text": "Casscream",
+    "Text": "커스 스크림",
     "Enabled": true
   },
   "90298": {
     "OriginalText": "ノヴァアクシス",
-    "Text": "Nova Axis",
+    "Text": "노바 액시스",
     "Enabled": true
   },
   "90299": {
     "OriginalText": "アルバヘイロウ",
-    "Text": "Alva Halo",
+    "Text": "알바 헤일로",
     "Enabled": true
   },
   "90300": {
     "OriginalText": "ヴィタハレシオン",
-    "Text": "Vita Halation",
+    "Text": "비타 할레시온",
     "Enabled": true
   },
   "90301": {
     "OriginalText": "ラムダイフリータ",
-    "Text": "Lambda Ifreeta",
+    "Text": "람다 이프리타",
     "Enabled": true
   },
   "90302": {
     "OriginalText": "ラムダウォーダン",
-    "Text": "Lambda Warden",
+    "Text": "람다 워단",
     "Enabled": true
   },
   "90303": {
     "OriginalText": "ディオウコンバサラ",
-    "Text": "Dio Ukon Basara",
+    "Text": "디오 우콘바사라",
     "Enabled": true
   },
   "90304": {
     "OriginalText": "エクスバンクツイクル",
-    "Text": "Exbanc Tsuikulu",
+    "Text": "엑스 방크트위클",
     "Enabled": true
   },
   "90305": {
     "OriginalText": "セリスフォートシンス",
-    "Text": "Celis Photosynth",
+    "Text": "세리스 포트신스",
     "Enabled": true
   },
   "90306": {
     "OriginalText": "ソニックフィンガー",
-    "Text": "Sylphid",
+    "Text": "소닉 핑거",
     "Enabled": true
   },
   "90307": {
     "OriginalText": "ソニックスラップ",
-    "Text": "Sonic Slap",
+    "Text": "소닉 슬랩",
     "Enabled": true
   },
   "91000": {
     "OriginalText": "ＳＲＦブレード",
-    "Text": "SRF Blade",
-    "Enabled": true
+    "Text": "SRF 블레이드*",
+    "Enabled": false
   },
   "91001": {
     "OriginalText": "人の剣 神を斬獲せし者",
-    "Text": "Angel Slayer",
-    "Enabled": true
-  },
-  "91002": {
-    "OriginalText": "４５₱ＡＵＴＯ",
-    "Text": "45-AUTO",
-    "Enabled": true
-  },
-  "91003": {
-    "OriginalText": "ＳＭＧ₱０５",
-    "Text": "SMG-05",
-    "Enabled": true
-  },
-  "91004": {
-    "OriginalText": "Ｂ₱８４",
-    "Text": "B-N84",
-    "Enabled": true
+    "Text": "죄인의 검 신을 베어낸 자*",
+    "Enabled": false
   },
   "100000": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "100001": {
     "OriginalText": "アークスで正式採用されている大剣。\n出力は抑えめだが、扱いやすい作りで\n多くのアークスに愛用されている。",
-    "Text": "A Sword adopted by ARKS. Its\npower has been reduced, but it's\nfavored by many for its ease of use.",
+    "Text": "아크스에서 정식 채용한 소드.\n출력은 낮지만 다루기 쉬운 구조로,\n많은 아크스가 애용하고 있다.",
     "Enabled": true
   },
   "100002": {
     "OriginalText": "アークスで使用される改良型の大剣。\n基礎モデルより刀身が長いが、鍔が広く\n安定性が向上している。",
-    "Text": "An improved Sword used by ARKS.\nImprovements in efficiency reduce\ncosts while boosting power.",
+    "Text": "아크스에서 사용하는 개량형 소드.\n기본 모델보다 칼날이 길지만 칼막이가 넓어\n안정성이 향상됐다.",
     "Enabled": true
   },
   "100003": {
     "OriginalText": "アークスで使用される高性能の大剣。\n同型モデル中、最高の堅牢性と攻撃力を\n備え、熟練者に好んで使われている。",
-    "Text": "A Sword that further improves upon\nthe base model. Improved photon\nadherence boosts its attack power.",
+    "Text": "아크스에서 사용하는 고성능 소드.\n동형 모델 중 최고의 견고함과 공격력을\n갖춰 숙련자들이 즐겨 사용한다.",
     "Enabled": true
   },
   "100004": {
     "OriginalText": "外観はしなやかだが攻撃力抜群の大剣。\n前世代では愛用されたが、現在は\n所有者も少なく、入手も難しい。",
-    "Text": "A Sword with a supple appearance\nbut high attack power. Once popular,\nbut has become difficult to find.",
+    "Text": "날렵한 외형과 뛰어난 공격력을 갖춘 소드.\n이전 세대에는 널리 애용됐지만, 지금은\n소유자가 적고 입수도 어렵다.",
     "Enabled": true
   },
   "100005": {
     "OriginalText": "大型ランス形状の特殊な大剣。\n派手な光刃とその攻撃力の高さで\n熟練のアークスに好まれている。",
-    "Text": "A unique Sword shaped like a large\nlance. Widely favored among ARKS\nfor its flashy blade and high power.",
+    "Text": "대형 랜스 형태의 특수 소드.\n화려한 빛의 칼날과 높은 공격력으로\n숙련된 아크스에게 인기가 있다.",
     "Enabled": true
   },
   "100006": {
     "OriginalText": "実体剣に寄せたフォルムを持つ大剣。\nエネルギーで薄く刃を包みこみ\n無駄を抑えつつ、高い攻撃力を保つ。",
-    "Text": "A large Sword that looks like the\nclassic Sword. Kept its high attack\npower while being wrapped in energy.",
+    "Text": "실체검에 가까운 형태를 갖춘 소드.\n에너지로 칼날을 얇게 감싸\n낭비를 줄이면서 높은 공격력을 유지한다.",
     "Enabled": true
   },
   "100007": {
     "OriginalText": "古典と最新鋭技術の合いの子の大剣。\n巨大な見た目に反し携帯性に優れ\n非戦闘時はコンパクトな形に収まる。",
-    "Text": "A Sword that combines older and\ncutting-edge technology. Returns\nto a portable form out of combat.",
+    "Text": "고전 기술과 첨단 기술을 결합한 소드.\n거대한 외형과 달리 휴대성이 뛰어나며,\n전투하지 않을 때는 작은 형태로 접힌다.",
     "Enabled": true
   },
   "100008": {
     "OriginalText": "製造が困難で現存数の少ない巨大大剣。\nまれにしか採堀されない稀少金属が\nベースで、ほとんど流通していない。",
-    "Text": "A huge Sword that is rarely seen.\nThe scarcity of the metal used in its\ncreation means very few exist.",
-    "Enabled": true
+    "Text": "제작이 어려워 현존 수량이 적은 거대 소드.\n아주 드물게만 채굴되는 희귀 금속으로\n만들어져 거의 유통되지 않는다.",
+    "Enabled": false
   },
   "100009": {
     "OriginalText": "高磁性合金で加工した大剣。\n赤い磁性フレアによる反重力作用により\n体感重量が軽く、同種の防具もある。",
-    "Text": "A Sword forged from a magnetic\nalloy. Its magnetism adds an anti-\ngravity effect, making it lightweight.",
+    "Text": "고자성 합금으로 가공한 소드.\n붉은 자성 플레어의 반중력 작용으로\n체감 무게가 가볍다. 같은 계열 방어구도 있다.",
     "Enabled": true
   },
   "100010": {
     "OriginalText": "反重力性能の高い高磁性合金の大剣。\n基本モデルよりさらに体感重量が軽く、\n多くのアークスに人気の特殊な武器。",
-    "Text": "A large Sword made of magnetic alloy\nwith anti-gravity feature. A very\nlight weapon popular among ARKS.",
+    "Text": "반중력 성능이 높은 고자성 합금 소드.\n기본 모델보다 체감 무게가 더욱 가벼워,\n많은 아크스에게 인기 있는 특수 무기.",
     "Enabled": true
   },
   "100011": {
     "OriginalText": "森林伐採用の斧を武器転用した大剣。\n破壊力は抜群だが重量があり、初心者は\n振り上げることすら困難とされている。",
-    "Text": "A woodsman's axe, converted into a\nSword. Outstanding power, but\nbeginners struggle to lift its weight.",
+    "Text": "벌목용 도끼를 무기로 전용한 소드.\n파괴력은 뛰어나지만 무거워, 초보자는\n들어 올리는 것조차 어렵다고 한다.",
     "Enabled": true
   },
   "100012": {
     "OriginalText": "古典技術の粋を集めて作られた大剣。\n鋭いその刃は、グランの助力なしに\n全てを微塵に切り裂いてみせる。",
-    "Text": "A large Sword made in a classic way.\nIt's sharp blade can cut anything\neven without the help of Gran.",
+    "Text": "고전 기술의 정수를 모아 만든 소드.\n날카로운 칼날은 그란의 도움 없이도\n모든 것을 잘게 베어 찢는다.",
     "Enabled": true
   },
   "100013": {
     "OriginalText": "無骨という表現が最も正しい大剣。\n斬るよりも叩き潰すという目的のために\n作り出された。類い稀な破砕力を持つ。",
-    "Text": "A Sword best described as \"barbaric\".\nRather than slashing, this weapon\nwas created to crush opponents.",
+    "Text": "투박하다는 표현이 가장 어울리는 소드.\n베기보다 짓부수기 위해 만들어졌다.\n보기 드문 분쇄력을 지녔다.",
     "Enabled": true
   },
   "100014": {
     "OriginalText": "漂う気品に誰しもが求める大剣。\nマダムの証として広く知れ渡っているが\nマダムでなくても使用が可能。",
-    "Text": "A Sword desired by all for its airy\nelegance. Said to be proof that one\nis a true lady or not.",
+    "Text": "풍기는 기품에 누구나 탐내는 소드.\n마담의 상징으로 널리 알려져 있지만,\n마담이 아니어도 사용할 수 있다.",
     "Enabled": true
   },
   "100015": {
     "OriginalText": "圧倒的な年を重ねた樹木の幹を用い\n長い時間を掛けて熟成させ研磨した\n珠玉の名刀。樹とは思えぬ威力を誇る。",
-    "Text": "A masterpiece forged from an ancient\ntree that has been polished for a\nlong time. It boasts unexpected power.",
+    "Text": "헤아릴 수 없는 세월을 지낸 나무줄기를\n오랜 시간 숙성시키고 연마한\n주옥같은 명검. 나무라고 믿기 힘든 위력이다.",
     "Enabled": true
   },
   "100016": {
     "OriginalText": "謎の遺跡から発堀された大剣。\n持つ者を跡了するような魅しい刀身に\n高麗度のエネルギーを含有している。",
-    "Text": "A large Sword excavated from a\nmysterious ruins. It's fascinating\nblade contains high-quality energy.",
-    "Enabled": true
+    "Text": "수수께끼의 유적에서 발굴된 소드.\n주인을 매료할 만큼 아름다운 칼날에\n고밀도의 에너지를 함유하고 있다.",
+    "Enabled": false
   },
   "100017": {
     "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した大剣。満用パーツを使用し\n基本性能そのままに量汎可能になった。",
-    "Text": "A large Sword originally developed by\nARKS. Can't be used normally but still\npossible to use for basic combat.",
-    "Enabled": true
+    "Text": "기존 무기에 만족하지 못한 아크스가\n독자 개발한 소드. 범용 부품을 사용해\n기본 성능을 유지하면서 양산할 수 있게 됐다.",
+    "Enabled": false
   },
   "100018": {
     "OriginalText": "産海生洋の物型を作っていたはずが\nどこで間違ったのか大剣になった。\n多くのアークスに人気の特殊な武器。",
-    "Text": "A model of a marine life form that\nwas mistakenly made into a Sword.\nA special weapon popular among ARKS.",
-    "Enabled": true
+    "Text": "해양 생물의 모형을 만들고 있었는데,\n어디서 잘못됐는지 소드가 되고 말았다.\n많은 아크스에게 인기 있는 특수 무기.",
+    "Enabled": false
   },
   "100019": {
     "OriginalText": "模を倒した者が手にすると\n言い龍えられている龍説の大剣。\n伝者の力を装に源的な攻撃力を見せる。",
-    "Text": "A legendary Sword owned by one\nwho defeated a dragon. Its wielder\nis granted immense attack power.",
-    "Enabled": true
+    "Text": "용을 쓰러뜨린 자가 손에 넣는다고\n전해지는 전설의 소드.\n착용자의 힘을 원천으로 막강한 공격력을 낸다.",
+    "Enabled": false
   },
   "100020": {
     "OriginalText": "基本モデルの劇氷出力を上げた大剣。\n冷低極による金属収温でサイズが\nコンパクトになり、扱いやすくなった。",
-    "Text": "A Sword that adds a cold effect to\nthe base model. Has contracted due\nto the cold, making it compact.",
-    "Enabled": true
+    "Text": "기본 모델의 얼음 냉각 출력을 높인 소드.\n극저온에 의한 금속 수축으로 크기가\n작아져 다루기 쉬워졌다.",
+    "Enabled": false
   },
   "100021": {
     "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n大剣。効率よくエネルギーを蓄える\n曲面加工で安定した攻撃をくり出す。",
-    "Text": "A large Sword forged from a rare ore.\nIt's curved shape efficiently stores\nenergy to produce stable attacks.",
+    "Text": "일부 우주 영역에 편중된 특수 광석을 단련한\n소드. 에너지를 효율적으로 저장하는\n곡면 가공으로 안정된 공격을 펼친다.",
     "Enabled": true
   },
   "100022": {
     "OriginalText": "アグリオスの伝甲を加工し武器転用した\n大剣。抜群の硬度を誇り重量感あふれる\n攻撃で標的に確実なダメージを与える。",
-    "Text": "A large Sword made from an Agrios\narmor. It's very sturdy and its heavy\nattack deals significant damage.",
-    "Enabled": true
+    "Text": "아그리오스의 장갑을 가공해 무기로 전용한\n소드. 뛰어난 경도를 지녔으며 묵직한\n공격으로 표적에 확실한 데미지를 준다.",
+    "Enabled": false
   },
   "100023": {
     "OriginalText": "ゴルドスの皮を加工し武器転用した\n大剣。甲殻伝甲に対抗し得る強度を\n持つが、取り扱いには注意を要する。",
-    "Text": "A large Sword made from Gordes hide.\nIt has the same strength as its armor\nshell and requires careful handling.",
-    "Enabled": true
+    "Text": "골도스의 가죽을 가공해 무기로 전용한\n소드. 갑각 장갑에 맞설 만한 강도를\n지녔지만 취급에는 주의가 필요하다.",
+    "Enabled": false
   },
   "100024": {
     "OriginalText": "星を覆うギガンテスの器官を組み込み\n試作された大剣。それ自体が生体として\n機能し、使用者の攻撃力を向上させる。",
-    "Text": "A prototype large Sword that uses a\nGigantes organ. It's a living weapon\nthat improves the power of the user.",
+    "Text": "행성을 덮은 기간테스의 기관을 넣어\n시험 제작한 소드. 그 자체가 생체로\n기능하며 사용자의 공격력을 높인다.",
     "Enabled": true
   },
   "100025": {
     "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した大剣。軽量設計ながら\n特殊な環境下でも安定した攻撃が可能。",
-    "Text": "A large Sword originally developed by\nARKS. Despite its lightweight design\nit can produce stable attacks.",
-    "Enabled": true
+    "Text": "기존 무기에 만족하지 못한 아크스가\n독자 개발한 소드. 가볍게 설계됐지만\n특수한 환경에서도 안정적인 공격이 가능하다.",
+    "Enabled": false
   },
   "100026": {
     "OriginalText": "戦意高揚のために開発された大剣。\n仲間が一丸となっての攻撃を盛り立て、\nチームを識別する効果も発揮する。",
-    "Text": "A large Sword forged to raise the\nfighting spirit. Its effect can also\nencourage allies to attack together.",
+    "Text": "전의를 고취하기 위해 개발한 소드.\n동료가 한마음으로 펼치는 공격을 북돋우며,\n팀을 구별하는 효과도 발휘한다.",
     "Enabled": true
   },
   "100027": {
     "OriginalText": "フィルディアが愛用する大剣。気品と\n風格にあふれ抜群の攻撃性能を誇るが\n使いこなすにも抜群の力量が必要。",
-    "Text": "A large Sword that is favored by\nFildia. While both elegant and stylish,\nit requires phenomenal mastery to use.",
+    "Text": "필디아가 애용하는 소드. 기품과\n위엄이 넘치고 공격 성능도 뛰어나지만,\n제대로 다루려면 뛰어난 실력이 필요하다.",
     "Enabled": true
   },
   "100028": {
     "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n大剣。希少金属との組み合わせで\n従来モデルより熱を帯びにくくなった。",
-    "Text": "A large Sword forged from a rare ore.\nMade with rare metals, it's less likely\nto get hot than the common model.",
+    "Text": "일부 우주 영역에 편중된 특수 광석을 단련한\n소드. 희귀 금속을 조합해\n기존 모델보다 열이 덜 나게 됐다.",
     "Enabled": true
   },
   "100029": {
     "OriginalText": "グレイオスの伝甲を加工し武器転用した\n大剣。亜種の生体研究を進める過程で\n試作された従来より軽量なモデル。",
-    "Text": "A large Sword made from a Greios\narmor. A lighter model than the\nBiological Research prototype.",
-    "Enabled": true
+    "Text": "그레이오스의 장갑을 가공해 전용한\n소드. 아종의 생체를 연구하는 과정에서\n시험 제작한 기존보다 가벼운 모델.",
+    "Enabled": false
   },
   "100030": {
     "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した大剣。黒染加工により\n金属腐食への耐久性を向上させた。",
-    "Text": "A large Sword originally developed by\nARKS. The dyeing process improve its\ndurability against metal corrosion.",
-    "Enabled": true
+    "Text": "기존 무기에 만족하지 못한 아크스가\n독자 개발한 소드. 흑색 처리로\n금속 부식에 대한 내구성을 높였다.",
+    "Enabled": false
   },
   "100031": {
     "OriginalText": "アークスで正式採用されている長槍。\n初心者にも扱いやすいシンプルな構造で\nトレーニング用にも使われる。",
-    "Text": "A Partizan adopted by ARKS. Its\neasy handling allows for beginners\nto wield it when used for trainning.",
+    "Text": "아크스에서 정식 채용한 파르티잔.\n초보자도 다루기 쉬운 단순한 구조로,\n훈련용으로도 사용된다.",
     "Enabled": true
   },
   "100032": {
     "OriginalText": "アークスで使用される改良型長槍。\nハルベルト愛用者たちの要望にこたえ\n命中精度に加え攻撃力を向上させた。",
-    "Text": "An improved Partizan used in ARKS. As\nrequested by its users, the attack\npower and accuracy has been improved.",
+    "Text": "아크스에서 사용하는 개량형 파르티잔.\n할버드 애용자들의 요구에 부응해\n명중 정밀도에 더해 공격력도 높였다.",
     "Enabled": true
   },
   "100033": {
     "OriginalText": "基礎モデルに改良を加えた長槍。\n見た目はアルバモデルと大差ないが\n安定性の高い攻撃力を実現させている。",
-    "Text": "An improved Alva model Partizan. Its\nappearance is not much different, but\nit has more stable attack power.",
+    "Text": "기본 모델을 개량한 파르티잔.\n외형은 알바 모델과 큰 차이가 없지만,\n안정적인 공격력을 실현했다.",
     "Enabled": true
   },
   "100034": {
     "OriginalText": "斬るための攻撃性能を追求した長槍。\n従来品より槍頭が幅広で、バランスを\n取るために石突きが大きくなっている。",
-    "Text": "An improved Partizan designed for\nattacking. The lance head is wider and\nthe butt-end is larger for balance.",
+    "Text": "베는 공격 성능을 추구한 파르티잔.\n기존 제품보다 창날이 넓고, 균형을\n맞추기 위해 창끝 반대쪽 쇠붙이도 커졌다.",
     "Enabled": true
   },
   "100035": {
     "OriginalText": "大型の槍頭にこだわった長槍。\n攻撃力は抜群だが、バランスを取るのが\n難しい熟練ハンター向けモデル。",
-    "Text": "A Partizan with a large lance head for\nskilled hunters. It has high attack\npower but is difficult to balance.",
+    "Text": "큰 창날을 고집한 파르티잔.\n공격력은 뛰어나지만 균형 잡기가 어려운\n숙련된 헌터용 모델.",
     "Enabled": true
   },
   "100036": {
     "OriginalText": "美術品としても取引される長槍。\n儀礼用の伝飾槍をベースに開発されたが\n実戦においても驚異的な破壊力を誇る。",
-    "Text": "A work of art Partizan. It was forged\nbased on a ritual spear, but boasts\ntremendous destructive power.",
-    "Enabled": true
+    "Text": "미술품으로도 거래되는 파르티잔.\n의례용 장식 창을 토대로 개발됐지만,\n실전에서도 놀라운 파괴력을 자랑한다.",
+    "Enabled": false
   },
   "100037": {
     "OriginalText": "従来の枠にとらわれない新感覚の長槍。\nソードのような槍先を採用し、多様な\n攻撃をくり出せる特殊モデルの稀少品。",
-    "Text": "A newly designed Partizan. A special\nmodel that adopts a sword-like lance\ntip that can launch various attacks.",
+    "Text": "기존 틀에 얽매이지 않는 새로운 파르티잔.\n소드 같은 창끝을 채용해 다양한\n공격을 펼치는 특수 모델의 희귀품.",
     "Enabled": true
   },
   "100038": {
     "OriginalText": "巨大な刃を威圧的に見せつける長槍。\n研ぎ澄まされた刃に蓄えられたパワーで\n触れるものを難なく切り裂くという。",
-    "Text": "An intimidating Partizan with a\ngigantic blade. The stored power\nis said to shred anything with ease.",
+    "Text": "거대한 칼날로 위압감을 주는 파르티잔.\n예리하게 벼린 칼날에 축적된 힘으로\n닿는 것을 손쉽게 베어 찢는다고 한다.",
     "Enabled": true
   },
   "100039": {
     "OriginalText": "長槍とは思えないほど太く分厚い形が\n特微的な長槍。所有者に負担を強いるが\nその分性能は申し分ない。",
-    "Text": "An unusually thick Partizan. It\nimposes a burden on the user, but its\ncombat performance is great.",
-    "Enabled": true
+    "Text": "파르티잔이라고 믿기 힘들 만큼 굵고 두꺼운\n형태가 특징인 파르티잔. 주인에게 부담을 주지만,\n그만큼 성능은 흠잡을 데 없다.",
+    "Enabled": false
   },
   "100040": {
     "OriginalText": "切り裂いた魂のみならず、\n伝者の魂をも喰らうと言われる長槍。",
-    "Text": "A Partizan that is said to not only\nconsumes the disembodied soul but\nalso serves as a messenger.",
-    "Enabled": true
+    "Text": "베어 찢은 영혼뿐 아니라\n착용자의 영혼마저 먹어 치운다는 파르티잔.",
+    "Enabled": false
   },
   "100041": {
     "OriginalText": "高密度のエネルギーを帯びた長槍。\n両端に伸びた刃は淡い光を放ち、\n敵を一刀のもとに斬り伏せる。",
-    "Text": "A long Partizan with high density\nenergy. Its extending blades gives\noff a faint light when it swings.",
+    "Text": "고밀도 에너지를 머금은 파르티잔.\n양끝으로 뻗은 칼날은 은은한 빛을 내며,\n적을 단칼에 베어 쓰러뜨린다.",
     "Enabled": true
   },
   "100042": {
     "OriginalText": "二叉に分割された刃が特微の長槍。\nエネルギー出力の効率化とともに\n全体のバランスも整えられ精度が高い。",
-    "Text": "A Partizan with a segmented blade.\nWith improved energy output\nefficiency, balance and the accuracy.",
-    "Enabled": true
+    "Text": "두 갈래로 갈라진 칼날이 특징인 파르티잔.\n에너지 출력의 효율을 높이는 동시에\n전체 균형도 조정해 정밀도가 높다.",
+    "Enabled": false
   },
   "100043": {
     "OriginalText": "ダーク・ラグネのデータを基に\nその構成洋質を再現して作った長槍。\n禍々しくねじ曲がった柄が特微。",
-    "Text": "A long Partizan forged based on a data of a\nDark Ragne. Its terrifying twisted\nhandle is extraordinary.",
-    "Enabled": true
+    "Text": "다크 라그네의 데이터를 토대로\n구성 물질을 재현해 만든 파르티잔.\n흉흉하게 뒤틀린 자루가 특징이다.",
+    "Enabled": false
   },
   "100044": {
     "OriginalText": "元は清掃用具だったものが\n紆余曲折を経て長槍になった。\nアークスで広く愛用される特殊な武器。",
-    "Text": "A Partizan which is originally a\ncleaning tool. A special weapon\nwidely used by ARKS.",
+    "Text": "본래 청소 도구였지만,\n우여곡절 끝에 파르티잔이 됐다.\n아크스에서 널리 애용하는 특수 무기.",
     "Enabled": true
   },
   "100045": {
     "OriginalText": "華美な伝飾の施された豪奢な長槍。\n富豪にしか持てないと揶揄されている。",
-    "Text": "A luxurious Partizan with ornate\ndecoration. It is ridiculed that only\nmillionaires can possess it.",
-    "Enabled": true
+    "Text": "화려한 장식을 더한 호화로운 파르티잔.\n부자만 가질 수 있다는 놀림을 받는다.",
+    "Enabled": false
   },
   "100046": {
     "OriginalText": "爆撃弾の追撃が可能な長槍。\n伝者を祝福するその白銀の輝きは\n聖なる騎土すら彷彿させる。",
-    "Text": "A Partizan capable of explosion.\nThe silver sheen that blesses the\nuser is reminiscent of a holy knight.",
-    "Enabled": true
+    "Text": "폭격탄으로 추가 공격이 가능한 파르티잔.\n착용자를 축복하는 그 백은빛은\n성스러운 기사마저 떠올리게 한다.",
+    "Enabled": false
   },
   "100047": {
     "OriginalText": "生命力の強い植洋由来の長槍。\n光合成により機能が強化される。\n一定環境下で使用すると劣化しにくい。",
-    "Text": "A Partizan forged from a strong\nplant. It doesn't deteriorate because\nof its photosynthetic function.",
-    "Enabled": true
+    "Text": "생명력이 강한 식물에서 비롯된 파르티잔.\n광합성으로 기능이 강화된다.\n일정한 환경에서 사용하면 쉽게 열화하지 않는다.",
+    "Enabled": false
   },
   "100048": {
     "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n長槍。青い炎をまとったシルエットは\n「再生」をイメージしたもの。",
-    "Text": "A Partizan forged from a rare ore.\nIt has a silhouette of blue flame\nthat represents [Rebirth].",
+    "Text": "일부 우주 영역에 편중된 특수 광석을 벼려 만든\n파르티잔. 푸른 불꽃을 두른 실루엣은\n'재생'을 형상화한 것이다.",
     "Enabled": true
   },
   "100049": {
     "OriginalText": "ディートアスの生体を組み込んだ長槍。\nブレードと連動し撃しく共振しながら\n標的をえぐる。",
-    "Text": "A Partizan made from a living body of\na Dietoas. Its blade resonates while\nscooping out the target.",
-    "Enabled": true
+    "Text": "디토아스의 생체를 넣은 파르티잔.\n블레이드와 연동해 격렬히 공진하면서\n표적을 도려낸다.",
+    "Enabled": false
   },
   "100050": {
     "OriginalText": "ギュゲンテのパーツを組み込んだ長槍。\n猛毒があり扱いに注意が必要だが\n武器化に際して無害化された。",
-    "Text": "A Partizan carefully made from toxic\nGygante parts. But it becomes\nharmless when made into a weapon.",
+    "Text": "규겐테의 부품을 넣은 파르티잔.\n맹독 때문에 취급에 주의가 필요하지만,\n무기로 만들면서 무해화했다.",
     "Enabled": true
   },
   "100051": {
     "OriginalText": "星を覆うギガンテスの器官を組み込み\n試作された長槍。比類なき硬質銅が\n使用者に当たりの強さを楽しませる。",
-    "Text": "A prototype Partizan made from an organ\nof a giant Gigantes. Its hardness\nenhances the strength of the user.",
-    "Enabled": true
+    "Text": "행성을 덮은 기간테스의 기관을 넣어\n시험 제작한 파르티잔. 비할 데 없는 경질강이\n사용자에게 강한 타격의 즐거움을 선사한다.",
+    "Enabled": false
   },
   "100052": {
     "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した長槍。新発想の槍先は\n瞬間的なエネルギー放出に最適。",
-    "Text": "A Partizan originally made by ARKS.\nIts lance head is ideal for\ninstantaneous energy release.",
-    "Enabled": true
+    "Text": "기존 무기에 만족하지 못한 아크스가\n독자 개발한 파르티잔. 새로운 발상의 창끝은\n순간적인 에너지 방출에 최적이다.",
+    "Enabled": false
   },
   "100053": {
     "OriginalText": "とある惑星由来の長槍。\n洋干し用だったが洋資不足をしのぐため\n先端を加工して武器転用した。",
-    "Text": "A Partizan from a certain planet.\nFormerly used for drying clothes. The\ntip was processed to be weaponize.",
-    "Enabled": true
+    "Text": "어느 행성에서 비롯된 파르티잔.\n빨래를 말리는 도구였지만 물자 부족을 견디려\n끝을 가공해 무기로 전용했다.",
+    "Enabled": false
   },
   "100054": {
     "OriginalText": "セイルの愛用品と同型の長槍。攻撃性能\n抜群で常に最大出力で機動可能。\n強固な造りでどんな撃しい使用に耐えうる。",
-    "Text": "A copy of Sail's favorite partizan.\nAn excellent weapon that always performs\nat its best and withstands anything thrown at it.",
-    "Enabled": true
+    "Text": "세일의 애용품과 동형인 파르티잔. 공격 성능이\n뛰어나며 항상 최대 출력으로 작동한다.\n견고하게 만들어 거친 사용도 견뎌 낸다.",
+    "Enabled": false
   },
   "100055": {
     "OriginalText": "生命力の強い植洋由来の長槍。\n新開発の人工葉を伝着し、光合成による\n機能強化がさらにパワーアップした。",
-    "Text": "A Partizan made from a strong plant.\nEquipped with an artificial leaf, the\nphotosynthetic function is enhanced.",
-    "Enabled": true
+    "Text": "생명력이 강한 식물에서 비롯된 파르티잔.\n새로 개발한 인공 잎을 장착해 광합성에 의한\n기능 강화가 한층 더 강력해졌다.",
+    "Enabled": false
   },
   "100056": {
     "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n長槍。黄色い炎をまとったシルエットは\n「共闘」をイメージしたもの。",
-    "Text": "A Partizan forged from a rare ore.\nThe silhouette of the Yellow Flame\nrepresents [Teamwork].",
+    "Text": "일부 우주 영역에 편중된 특수 광석을 벼려 만든\n파르티잔. 노란 불꽃을 두른 실루엣은\n'공동 전투'를 형상화한 것이다.",
     "Enabled": true
   },
   "100057": {
     "OriginalText": "リベルゲンテのパーツを組み込んだ長槍。\n一部で要望のあった保護色の必要性から\n寒氷地仕様として再設計された、",
-    "Text": "A Partizan made from Libelgante\nparts. Redesigned for cold weather\nfor protection as requested.",
-    "Enabled": true
+    "Text": "리벨겐테의 부품을 넣은 파르티잔.\n일부에서 요구한 보호색의 필요성 때문에\n한랭지 사양으로 다시 설계됐다.",
+    "Enabled": false
   },
   "100058": {
     "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した長槍。黒染加工により\nエネルギー吸着率が向上した。",
-    "Text": "A Partizan originally developed by\nARKS. The energy absorption rate was\nimproved by dyeing it black.",
-    "Enabled": true
+    "Text": "기존 무기에 만족하지 못한 아크스가\n독자 개발한 파르티잔. 흑색 처리로\n에너지 흡착률을 높였다.",
+    "Enabled": false
   },
   "100059": {
     "OriginalText": "アークスで正式採用されている両剣。\n徹底した軽量化により燥作性に優れ\n初心者に扱いやすい入門用モデル。",
-    "Text": "Officially adopted by ARKS. An easy\nto use model due to its weight\nreduction and excellent sharpness.",
-    "Enabled": true
+    "Text": "아크스에서 정식 채용한 더블 세이버.\n철저히 경량화해 조작성이 뛰어나며,\n초보자가 다루기 쉬운 입문용 모델.",
+    "Enabled": false
   },
   "100060": {
     "OriginalText": "アークスで使用される改良型両剣。\n軽量刃を採用し、基礎モデルと同じ\n重量で攻撃性能のみアップさせた。",
-    "Text": "Improved Double Saber used in ARKS.\nIts lightweight blade improves the\nperformance while retaining the weight.",
+    "Text": "아크스에서 사용하는 개량형 더블 세이버.\n가벼운 칼날을 채용해 기본 모델과 같은\n무게를 유지하면서 공격 성능만 높였다.",
     "Enabled": true
   },
   "100061": {
     "OriginalText": "基礎モデルに改良を加えた両剣。\n新技術の三層固着ブレードの採用により\n安定性を向上させた最上級モデル。",
-    "Text": "An improved Double Saber. A top-notch\nmodel with improved stability and an\ninnovative 3-layer blade design.",
+    "Text": "기본 모델을 개량한 더블 세이버.\n새 기술인 3층 고착 블레이드를 채용해\n안정성을 높인 최상급 모델.",
     "Enabled": true
   },
   "100062": {
     "OriginalText": "刃が全体に広がる特殊形状の両剣。\n柄と刃の一体化というコンセプトを基に\n開発されたが、一般への認知度が低い。",
-    "Text": "A Double Saber with a special shape.\nIt was secretly made based on the\nconcept of integrated handle and blade.",
+    "Text": "칼날이 전체에 퍼진 특수 형태의 더블 세이버.\n자루와 칼날의 일체화라는 구상으로\n개발됐지만 일반적인 인지도는 낮다.",
     "Enabled": true
   },
   "100063": {
     "OriginalText": "形状の異なる刃を組み合わせた両剣。\n突き刺し性能と裁断性能の両方を\n追求した実験モデルで、評価が高い。",
-    "Text": "A Double Saber with differently shaped\nblades. A prototype that has high\npiercing and cutting capabilities.",
+    "Text": "형태가 다른 칼날을 조합한 더블 세이버.\n찌르기 성능과 절단 성능을 모두\n추구한 실험 모델로, 평가가 높다.",
     "Enabled": true
   },
   "100064": {
-    "OriginalText": "超硬質素村を成形加工した両剣。\n基礎モデルにあった刃こぼれの問題を\n克服したが生汎量が少ない稀少モデル。",
-    "Text": "A Double Saber made from super-hard\nmaterial. A rare model that overcomes\nthe energy spillage problem.",
+    "OriginalText": "超硬質素材を成形加工した両剣。\n基礎モデルにあった刃こぼれの問題を\n克服したが生産量が少ない稀少モデル。",
+    "Text": "초경질 소재를 성형 가공한 더블 세이버.\n기본 모델의 날이 이지러지는 문제를\n극복했지만 생산량이 적은 희귀 모델.",
     "Enabled": true
   },
   "100065": {
-    "OriginalText": "素村の猛々しさを残して作られた両剣。\nフォルムにこだわらずに設計された刃は\n破断力に優れる。",
-    "Text": "A Double Saber made from an energized\nmaterial. The blade was designed to\nhave an excellent breaking force.",
+    "OriginalText": "素材の猛々しさを残して作られた両剣。\nフォルムにこだわらずに設計された刃は\n破断力に優れる。",
+    "Text": "소재의 거친 느낌을 살려 만든 더블 세이버.\n형태에 얽매이지 않고 설계한 칼날은\n파단력이 뛰어나다.",
     "Enabled": true
   },
   "100066": {
     "OriginalText": "翼をかたどった刃を持つ強力な両剣。\n一振りで幾度も刃が接触し、無数の傷を\n与えることが可能。",
-    "Text": "A powerful Double Saber with a wing-\nshaped blade. It can cause multiple\ndamage with a single swing.",
+    "Text": "날개 모양의 칼날을 갖춘 강력한 더블 세이버.\n한번 휘둘러도 칼날이 여러 번 닿아\n무수한 상처를 입힐 수 있다.",
     "Enabled": true
   },
   "100067": {
     "OriginalText": "高い性能を持った両剣。\n柄の両端に高純度精製ブレードを持つ。\n初心者でも扱いやすい上級モデル。",
-    "Text": "A high performance Double Saber. An\nadvanced model with a refined blades\nand easy to use even for beginners.",
+    "Text": "높은 성능을 갖춘 더블 세이버.\n자루 양끝에 고순도 정제 블레이드가 있다.\n초보자도 다루기 쉬운 상급 모델.",
     "Enabled": true
   },
   "100068": {
     "OriginalText": "神のいたずらと名付けられた両剣。\n戯れの銘ゆえに、性能は測り知れず\nときに滅びすら招き入れるという。",
-    "Text": "A Double Saber that is known\nas divine mischief. Its\nperformance brings doom at times.",
+    "Text": "신의 장난이라는 이름을 가진 더블 세이버.\n장난스러운 이름만큼 성능은 헤아릴 수 없고,\n때로는 멸망마저 불러온다고 한다.",
     "Enabled": true
   },
   "100069": {
     "OriginalText": "伝者の意志で長さを変えるという両剣。\n元々は、広大な河川の深さを\n測るために用いられていた記録がある。",
-    "Text": "A Double Saber said to change\nform at its user's whim. Was once\nused to measure the depth of rivers.",
-    "Enabled": true
+    "Text": "착용자의 의지로 길이가 변한다는 더블 세이버.\n본래 드넓은 강의 깊이를 재는 데\n사용됐다는 기록이 있다.",
+    "Enabled": false
   },
   "100070": {
     "OriginalText": "無数の刃で敵を切り裂く両剣。\nあらゆる方向から繰り出される斬撃を\nくぐり抜けられる者は存在しない。",
-    "Text": "A weapon that shreds enemies with\ncountless photon blades at each of\nits ends.",
+    "Text": "무수한 칼날로 적을 베어 찢는 더블 세이버.\n온갖 방향에서 펼쳐지는 참격을\n빠져나갈 수 있는 자는 없다.",
     "Enabled": true
   },
   "100071": {
     "OriginalText": "手にすることが誉れと言われる両剣。\n鋭く研ぎ澄まされた尖状ブレードは\n触れるものをたちどころに切り裂く。",
-    "Text": "An honorable Double Saber. The sharp\npointed blades instantly cuts through\nanything it touches.",
+    "Text": "손에 넣는 것이 영예라는 더블 세이버.\n예리하게 벼린 뾰족한 블레이드는\n닿는 것을 순식간에 베어 찢는다.",
     "Enabled": true
   },
   "100072": {
     "OriginalText": "ギガディオンのコアをベースに\n巨大で強靭な両剣を作り上げた。\n問答無用とばかりの破壊力を誇る。",
-    "Text": "A weapon formed from the Gigation\nCore. Tough and huge, it holds\ndestructive power.",
+    "Text": "기가디온의 코어를 토대로\n거대하고 강인한 더블 세이버를 만들어 냈다.\n문답무용의 파괴력을 자랑한다.",
     "Enabled": true
   },
   "100073": {
     "OriginalText": "突き出た四本刃が特微的な両剣。\nのこぎりのように標的を深く裁断するが\n慣れないと刃こぼれさせやすい。",
-    "Text": "A special 4-bladed Double Saber. It\ncuts the target deeply, but if not\nused properly, it will degrade faster.",
-    "Enabled": true
+    "Text": "돌출된 네 칼날이 특징인 더블 세이버.\n톱처럼 표적을 깊이 절단하지만,\n익숙하지 않으면 날이 쉽게 이지러진다.",
+    "Enabled": false
   },
   "100074": {
     "OriginalText": "なだらかな弓状の刃を持つ両剣。\n反り返った刃によって振り抜くのに\n抵抗が少なく、扱いやすいと評判。",
-    "Text": "A Double Saber with a bow-shaped\nblade. It's popular because it's easy\nto swing due to its curved blade.",
+    "Text": "완만한 활 모양의 칼날을 갖춘 더블 세이버.\n뒤로 휘어진 칼날 덕에 휘두를 때\n저항이 적어 다루기 쉽다는 평을 받는다.",
     "Enabled": true
   },
   "100075": {
     "OriginalText": "持ち主を選ぶと言われる龍説の両剣。\nその赤い刃は全てを切り裂く。",
-    "Text": "A legendary Double Saber that is said\nlooking for the chosen one. Its red\nblade cuts through anything.",
-    "Enabled": true
+    "Text": "주인을 가린다는 전설의 더블 세이버.\n그 붉은 칼날은 모든 것을 베어 찢는다.",
+    "Enabled": false
   },
   "100076": {
     "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n両剣。やや重めだが重心調整により\n快適な燥作性能を引き出した。",
-    "Text": "A Double Saber forged from a rare ore.\nMaybe a little heavier, it is adjusted\nto bring out better performance.",
-    "Enabled": true
+    "Text": "일부 우주 영역에 편중된 특수 광석을 단련한\n더블 세이버. 조금 무겁지만 무게중심을 조정해\n쾌적한 조작 성능을 이끌어 냈다.",
+    "Enabled": false
   },
   "100077": {
-    "OriginalText": "クロザードの鋭利な素村を織り込んだ\n両剣。しなやかで軽く扱いやすいが\n標的に確実な斬撃を見舞う。",
-    "Text": "A Double Saber made from a Gu Rozad\nmaterial. Flexible and lightweight,\nbut can hit the target effectively.",
+    "OriginalText": "クロザードの鋭利な素材を織り込んだ\n両剣。しなやかで軽く扱いやすいが\n標的に確実な斬撃を見舞う。",
+    "Text": "크로자드의 예리한 소재를 엮어 넣은\n더블 세이버. 유연하고 가벼워 다루기 쉬우면서도\n표적에 확실한 참격을 가한다.",
     "Enabled": true
   },
   "100078": {
     "OriginalText": "アルキュオネ種の伝甲を武器転用した\n両剣。火熱に強く熱を帯びていて、\n敵に灼けるような痛みを与える。",
-    "Text": "A Double Saber made from Alcyone \narmor. It is very hot and can cause\nburning pain to the enemy.",
-    "Enabled": true
+    "Text": "알키오네 종의 장갑을 무기로 전용한\n더블 세이버. 불과 열에 강하고 열기를 머금어,\n적에게 타는 듯한 고통을 준다.",
+    "Enabled": false
   },
   "100079": {
-    "OriginalText": "ゴルドスの素村を加工し武器転用した\n両剣。稀少な角部位は特に硬く鋭利で\nおよそ自然界に斬れないものはない。",
-    "Text": "A Double Saber made from Gordes\nmaterial. Both blades are very hard and sharp,\nit can cut through anything.",
+    "OriginalText": "ゴルドスの素材を加工し武器転用した\n両剣。稀少な角部位は特に硬く鋭利で\nおよそ自然界に斬れないものはない。",
+    "Text": "골도스의 소재를 가공해 무기로 전용한\n더블 세이버. 희귀한 뿔 부위는 특히 단단하고\n예리해 자연계에는 베지 못할 것이 거의 없다.",
     "Enabled": true
   },
   "100080": {
     "OriginalText": "星を覆うギガンテスの器官を組み込み\n試作された両剣。鋭利なブレードは\n半永久的に進化を続ける。",
-    "Text": "A prototype Double Saber made from the\norgans of a giant Gigantes. Its sharp\nblade somehow continues to evolve.",
+    "Text": "행성을 덮은 기간테스의 기관을 넣어\n시험 제작한 더블 세이버. 예리한 블레이드는\n반영구적으로 진화를 계속한다.",
     "Enabled": true
   },
   "100081": {
     "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した両剣。独立した６機構が\n連携し、常に最大出力を確保する。",
-    "Text": "A Double Saber originally made by ARKS.\nIts 6 independent mechanisms work\ntogether to ensure maximum damage.",
-    "Enabled": true
+    "Text": "기존 무기에 만족하지 못한 아크스가\n독자 개발한 더블 세이버. 독립된 6개 기구가\n연동해 항상 최대 출력을 확보한다.",
+    "Enabled": false
   },
   "100082": {
     "OriginalText": "２つの関節部分を持つ両剣。\nただし扱いが難しく接合した状態で\n使用される。",
-    "Text": "A Double Saber with 2 joints.\nHowever, it is difficult to handle\nand must be used in a joined state.",
+    "Text": "2개의 관절 부분을 갖춘 더블 세이버.\n다만 다루기 어려워 접합한 상태로\n사용된다.",
     "Enabled": true
   },
   "100083": {
     "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n両剣。削りの厚みを調整し\n見た目が洗練されたと評判の人気品。",
-    "Text": "A Double Saber made from a rare ore.\nFamous due to its refined appearance\nby tuning the thickness of the blade.",
+    "Text": "일부 우주 영역에 편중된 특수 광석을 단련한\n더블 세이버. 깎아 내는 두께를 조정해\n외형이 세련됐다는 평을 받는 인기품.",
     "Enabled": true
   },
   "100084": {
-    "OriginalText": "ウロザードの鋭利な素村を織り込んだ\n両剣。妖しげな色合いで敵を引きつけ、\n翻弄し、一気に斬りつける。",
-    "Text": "A Double Saber made from Pa Rozad\nmaterial. It attracts the enemies with\nits colors and slashes them after.",
+    "OriginalText": "ウロザードの鋭利な素材を織り込んだ\n両剣。妖しげな色合いで敵を引きつけ、\n翻弄し、一気に斬りつける。",
+    "Text": "우로자드의 예리한 소재를 엮어 넣은\n더블 세이버. 요염한 색감으로 적을 끌어들여\n농락한 뒤 단숨에 베어 버린다.",
     "Enabled": true
   },
   "100085": {
-    "OriginalText": "ディゴルドスの素村を加工し武器転用\nした両剣。磨き抜かれて透きとおる\n青みを帯びたブレードが人気。",
-    "Text": "A Double Saber made from Digordes\nmaterial. It's popular due to its\npolished and transparent bluish blade.",
+    "OriginalText": "ディゴルドスの素材を加工し武器転用\nした両剣。磨き抜かれて透きとおる\n青みを帯びたブレードが人気。",
+    "Text": "디골도스의 소재를 가공해 무기로 전용한\n더블 세이버. 정성껏 연마해 투명하게\n푸른빛을 띠는 블레이드가 인기다.",
     "Enabled": true
   },
   "100086": {
     "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した両剣。独立した６機構の\n連携を強化し、さらに出力が向上した。",
-    "Text": "A Double Saber originally made by\nARKS. The 6 independent mechanism is\nimproved, thus also the performance.",
-    "Enabled": true
+    "Text": "기존 무기에 만족하지 못한 아크스가\n독자 개발한 더블 세이버. 독립된 6개 기구의\n연동을 강화해 출력을 한층 높였다.",
+    "Enabled": false
   },
   "100087": {
     "OriginalText": "アークスで正式採用されている鋼拳。\n攻撃力は標準的だが衝撃吸収に優れ\n初心者でも腕を痛めにくい。",
-    "Text": "Knuckles adopted by ARKS. High\nshock absorption means beginners\ncan use them without risk of injury.",
+    "Text": "아크스에서 정식 채용한 너클.\n공격력은 표준 수준이지만 충격 흡수가 뛰어나\n초보자도 팔을 다칠 가능성이 적다.",
     "Enabled": true
   },
   "100088": {
     "OriginalText": "アークスで使用される改良型鋼拳。\n初心者向けに衝撃吸収力と攻撃力を\nバランス良く向上させた普及モデル。",
-    "Text": "Improved Knuckles used in ARKS.\nPopular due to its well-balanced\nimpact absorption and attack power.",
+    "Text": "아크스에서 사용하는 개량형 너클.\n초보자를 위해 충격 흡수력과 공격력을\n균형 있게 높인 보급 모델.",
     "Enabled": true
   },
   "100089": {
     "OriginalText": "基礎モデルに改良を加えた鋼拳。\n新開発の三層コーティングにより\nフロントカバーをさらに強化している。",
-    "Text": "An improved Knuckles model. The front\ncover is strengthened with a newly\ndeveloped 3-layer coating.",
+    "Text": "기본 모델을 개량한 너클.\n새로 개발한 3층 코팅으로\n전면 커버를 더욱 강화했다.",
     "Enabled": true
   },
   "100090": {
     "OriginalText": "破砕用の工業製品を軍事転用した鋼拳。\n岩石を粉砕する工業用ブレードを配し\n重機並みの破壊力で攻撃を可能にした。",
-    "Text": "A industrial-grade Knuckles meant for\ncrushing. A blade that can crush rocks\nis attached for destructive power.",
+    "Text": "분쇄용 공업 제품을 군용으로 전용한\n너클. 암석 분쇄용 블레이드를 배치해\n중장비에 버금가는 파괴력으로 공격한다.",
     "Enabled": true
   },
   "100091": {
     "OriginalText": "大型工作機械を軍事転用した鋼拳。\n伝着可能な軽量化が図られたが不充分で\n長時間の戦闘が困難。",
-    "Text": "A large mechanical Knuckles. Its weight\nis reduced so it can be worn, but it\nis difficult to use continuously.",
-    "Enabled": true
+    "Text": "대형 공작기계를 군용으로 전용한 너클.\n착용할 수 있게 경량화했으나 충분하지 않아\n장시간 전투가 어렵다.",
+    "Enabled": false
   },
   "100092": {
     "OriginalText": "先端部に攻撃力を集中させた鋼拳。\n無駄を省いたフォルムが人気で\n愛用者も多い名品。",
-    "Text": "A Knuckles that focuses its attack\npower on the tip. Popular among its\nloyal users due to its firm form.",
+    "Text": "앞부분에 공격력을 집중시킨 너클.\n낭비를 줄인 형태가 인기를 끌어\n애용자가 많은 명품.",
     "Enabled": true
   },
   "100093": {
     "OriginalText": "螺旋状の突起洋がつけられた鋼拳。\n絶妙なバランスで調整された螺旋は\n一撃の破壊力を飛躍的に高めた。",
-    "Text": "A Knuckles with a spiral protrusion.\nIts balanced spiral design increases\nthe attack power of a single blow.",
-    "Enabled": true
+    "Text": "나선형 돌기를 더한 너클.\n절묘한 균형으로 조정된 나선은\n한 방의 파괴력을 비약적으로 높였다.",
+    "Enabled": false
   },
   "100094": {
     "OriginalText": "素手と同じ感覚を、と追求した結果\n辿り着いた鋼拳のかたち。\n使用感は非常に良いと好評。",
-    "Text": "A Knuckles that simulates the feeling\nof bare hands. It is popular because\nit has a very good usability.",
+    "Text": "맨손과 같은 감각을 추구한 끝에\n도달한 너클의 형태.\n사용감이 매우 좋다는 호평을 받는다.",
     "Enabled": true
   },
   "100095": {
     "OriginalText": "素手と同じ感覚を、と追求した結果\n辿り着いた鋼拳のかたち。\n違法改造すれすれの特化型モデル。",
-    "Text": "A Knuckles that simulates the feeling\nof bare hands. A heavily modified\nmodel that is borderline illegal.",
+    "Text": "맨손과 같은 감각을 추구한 끝에\n도달한 너클의 형태.\n불법 개조 직전까지 나아간 특화 모델.",
     "Enabled": true
   },
   "100096": {
     "OriginalText": "その昔、闘争の必須武具だった鋼拳。\n身につけるだけで気力が高まっていく。\n時代を超えて愛される特殊な武器。",
-    "Text": "A classic Knuckles from a certain\ntime and loved by many people. Just\nwearing it will increase your energy.",
+    "Text": "오래전 격투에 필수였던 너클.\n착용하는 것만으로 기력이 높아진다.\n시대를 넘어 사랑받는 특수 무기.",
     "Enabled": true
   },
   "100097": {
     "OriginalText": "見た目からして痛々しい形の鋼拳。\nおのずと近寄りがたい雰囲気が生まれ\nワイルドな空気をまとうことができる。",
-    "Text": "A Knuckles with a damaged appearance.\nNaturally, its image gives off wild\natmosphere to the wearer.",
+    "Text": "보기만 해도 아플 듯한 형태의 너클.\n자연히 다가가기 어려운 분위기가 생겨\n와일드한 인상을 풍길 수 있다.",
     "Enabled": true
   },
   "100098": {
     "OriginalText": "くちばしのような特殊形状の鋼拳。\n生洋工学の観点から、原生生洋の強力な\n「噛む」力を応用し攻撃力を再現した。",
-    "Text": "A Knuckles shape like a beak. The\n[gnawing] power of microorganisms was\napplied to increase its attack power.",
-    "Enabled": true
+    "Text": "부리 같은 특수 형태의 너클.\n생물공학의 관점에서 원생 생물의 강력한\n'무는' 힘을 응용해 공격력을 재현했다.",
+    "Enabled": false
   },
   "100099": {
     "OriginalText": "特殊形状の鋼拳の改良試作品。\n強度を重視した超重量級モデル。\n破壊力は抜群だが伝着が困難。",
-    "Text": "An improved prototype Knuckles. Super\nheavyweight model with an emphasis on\nstrength and destructive power.",
-    "Enabled": true
+    "Text": "특수 형태의 너클을 개량한 시제품.\n강도를 중시한 초중량급 모델.\n파괴력은 뛰어나지만 착용이 어렵다.",
+    "Enabled": false
   },
   "100100": {
     "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n鋼拳。ほどよく腕に馴染む重みから\n次世代のスタンダードになる予感。",
-    "Text": "A Knuckles forged from a rare ore.\nExpected to become the next-gen\nstandard due to its comfortable weight.",
+    "Text": "일부 우주 영역에 편중된 특수 광석을 단련한\n너클. 팔에 편안하게 맞는 무게로\n차세대 표준이 될 것 같은 예감이 든다.",
     "Enabled": true
   },
   "100101": {
     "OriginalText": "エレマンデルの頭部を物した鋼拳。\nその邪悪な魂が両腕に宿るかのように\nしつこく迫る強烈な攻撃を浴びせる。",
-    "Text": "A Knuckles with a head of an Err Mandel.\nIts strong attacks comes from the\nwickedness that dwells in both arms.",
-    "Enabled": true
+    "Text": "엘레만델의 머리를 본뜬 너클.\n사악한 영혼이 양팔에 깃든 듯\n끈질기게 밀어붙이는 강렬한 공격을 가한다.",
+    "Enabled": false
   },
   "100102": {
     "OriginalText": "生命力の強い多肉植洋由来の鋼拳。\n過酷な環境下での使用に耐える頑強な\n構造で、鋭利な棘は刺さると痛い。",
-    "Text": "A Knuckles made from a strong plant.\nHas sharp thorns and Its robust form\ncan withstand harsh environments.",
-    "Enabled": true
+    "Text": "생명력이 강한 다육식물에서 비롯된\n너클. 가혹한 환경에도 견고한 구조로,\n날카로운 가시에 찔리면 아프다.",
+    "Enabled": false
   },
   "100103": {
     "OriginalText": "アグリオスの頭部を物した鋼拳。\n突いて良し、殴って良しの\n機能的フォルムはまさに近接戦向き。",
-    "Text": "A Knuckles with a head of an Agrios.\nIts functional form is good for close\ncombat.",
-    "Enabled": true
+    "Text": "아그리오스의 머리를 본뜬 너클.\n찌르기도 좋고 때리기도 좋은\n기능적인 형태는 그야말로 근접전용이다.",
+    "Enabled": false
   },
   "100104": {
     "OriginalText": "ガラティオンの鎖鋸翼を物した鋼拳。\nあらゆる洋を斬り裂く硬回転ブレードで\n新感覚の殴撃を体感することができる。",
-    "Text": "A Knuckles with a Garation chainsaw\nwing. Its hard rotating blades can\ncut through anything.",
-    "Enabled": true
+    "Text": "갈라티온의 사슬톱 날개를 본뜬 너클.\n모든 것을 베어 찢는 단단한 회전 칼날로\n새로운 감각의 주먹 공격을 체험할 수 있다.",
+    "Enabled": false
   },
   "100105": {
     "OriginalText": "エウリュードのハサミを物した鋼拳。\n目に見える洋はもちろん、見えない洋も\n接近すれば容赦なく狭み上げる。",
-    "Text": "A Knuckles in a shape of Eurude\nScissor. Even invisible things will be\nmercilessly cut down when approached.",
-    "Enabled": true
+    "Text": "에우류드의 집게를 본뜬 너클.\n눈에 보이는 것은 물론 보이지 않는 것도\n다가오면 가차 없이 집어 올린다.",
+    "Enabled": false
   },
   "100106": {
     "OriginalText": "星を覆うギガンテスの器官を組み込み\n試作された鋼拳。硬さと鋭さを兼ね備え\n新しい戦闘の形を提案する。",
-    "Text": "A prototype Knuckles made from the\norgans of a giant Gigantes. Focuses\non combined hardness and sharpness.",
+    "Text": "행성을 덮은 기간테스의 기관을 넣어\n시험 제작한 너클. 단단함과 예리함을\n겸비해 새로운 전투의 형태를 제안한다.",
     "Enabled": true
   },
   "100107": {
     "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した鋼拳。突き刺す感覚の\n爽快感が高い評価を受けている。",
-    "Text": "A Knuckles originally made by ARKS.\nHighly recommended due to its\nexhilarating sense of piercing.",
-    "Enabled": true
+    "Text": "기존 무기에 만족하지 못한 아크스가\n독자 개발한 너클. 찌르는 듯한\n느낌의 상쾌함이 높은 평가를 받는다.",
+    "Enabled": false
   },
   "100108": {
     "OriginalText": "とある惑星の人気キャラクターの手首を\n物した鋼拳。青い被り洋とセットで\n使用すれば、なりきり度がアップする。",
-    "Text": "A Knuckles that looks like a fist of\na popular character. Wear a blue\nheadgear to complete the costume.",
-    "Enabled": true
+    "Text": "어느 행성의 인기 캐릭터 손목을\n본뜬 너클. 푸른 머리 장식과 함께\n사용하면 캐릭터를 더 실감 나게 흉내 낼 수 있다.",
+    "Enabled": false
   },
   "100109": {
     "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n鋼拳。無骨なシルエットで敬遠された\n従来モデルが改良され、女性に人気。",
-    "Text": "A Knuckles forged from a rare ore. An\nimproved unique model with a rugged\nappearance but popular with women.",
+    "Text": "일부 우주 영역에 편중된 특수 광석을 단련한\n너클. 투박한 외형으로 외면받던 기존\n모델을 개량해 여성에게 인기를 끈다.",
     "Enabled": true
   },
   "100110": {
     "OriginalText": "イーグマンデルの頭部を物したした鋼拳。\n黄色く光る眼が敵の闘志を削ぎ、\nされるがままを許してしまう。",
-    "Text": "A Knuckles with an Eag Mandel head.\nIts glowing yellow eyes weaken the\nenemy's fighting spirit.",
-    "Enabled": true
+    "Text": "이그만델의 머리를 본뜬 너클.\n노랗게 빛나는 눈이 적의 투지를 꺾어\n당하는 대로 내버려 두게 한다.",
+    "Enabled": false
   },
   "100111": {
     "OriginalText": "グレイオスの頭部を物した鋼拳。\n怒りに燃えるかのようにドロドロした\n赤みが迫力既点で一部に人気を博した。",
-    "Text": "A popular Knuckles with a Greios\nhead. The redness gives off the\nimpression of burning with anger.",
-    "Enabled": true
+    "Text": "그레이오스의 머리를 본뜬 너클.\n분노에 타오르는 듯 끈적하게 흐르는\n붉은빛이 박력 넘쳐 일부에게 인기를 끌었다.",
+    "Enabled": false
   },
   "100112": {
     "OriginalText": "ヴィヴリュードのハサミを物した鋼拳。\n出力はオリジナルと同等だが、一時期、\n拡張の可能性をめぐる議論があった。",
-    "Text": "A Knuckles with a Vivryude Scissor.\nAlmost the same as the original, but\nit is improved in some aspect.",
-    "Enabled": true
+    "Text": "비브류드의 집게를 본뜬 너클.\n출력은 원형과 같지만, 한때\n확장 가능성을 둘러싼 논의가 있었다.",
+    "Enabled": false
   },
   "100113": {
     "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した鋼拳。突き刺す爽快感は\nそのままに手先の保極機能が向上。",
-    "Text": "A Knuckles originally made by ARKS.\nIts piercing feel is maintained, but\nits conservation function is improved.",
-    "Enabled": true
+    "Text": "기존 무기에 만족하지 못한 아크스가\n독자 개발한 너클. 찌르는 상쾌함은\n유지하면서 손끝을 보호하는 기능을 높였다.",
+    "Enabled": false
   },
   "100114": {
     "OriginalText": "アークスで正式採用されている長銃。\n連射による行動阻害に重きを置いた\nレンジャーのための武器。",
-    "Text": "A Rifle adopted by ARKS. A weapon\nfor Rangers who focus on pinning the\nenemy down with rapid-fire shots.",
+    "Text": "아크스에서 정식 채용한 어설트 라이플.\n연사로 행동을 방해하는 데 중점을 둔\n레인저를 위한 무기.",
     "Enabled": true
   },
   "100115": {
     "OriginalText": "アークスで使用される改良型の長銃。\n銃床がついて安定性が向上した。長めの\n銃身で命中力も向上した人気モデル。",
-    "Text": "An improved Assault Rifle used by ARKS.\nIt has a long barrel and the stock\nstability and accuracy is improved.",
+    "Text": "아크스에서 사용하는 개량형 어설트 라이플.\n개머리판으로 안정성이 높아졌다. 긴 총열로\n명중력도 높인 인기 모델.",
     "Enabled": true
   },
   "100116": {
-    "OriginalText": "基礎モデルに更なる改良を加えた長銃。\n全体構造を大型化し、より精度の高い\n照準器を標準伝備した上位モデル。",
-    "Text": "A more improved Assault Rifle. A high-\nend model with a larger structure and\nmore accurate targeting device.",
+    "OriginalText": "基礎モデルに更なる改良を加えた長銃。\n全体構造を大型化し、より精度の高い\n照準器を標準装備した上位モデル。",
+    "Text": "기본 모델을 더욱 개량한 어설트 라이플.\n전체 구조를 대형화하고 더욱 정밀한\n조준기를 기본 장착한 상위 모델.",
     "Enabled": true
   },
   "100117": {
     "OriginalText": "レンジャー有志が自主開発した長銃。\n高い狙撃力が好評ながらハンドメイドで\n少数しか生汎されなかった幻の名器。",
-    "Text": "An Assault Rifle made by volunteer\nRangers. A rare handmade masterpiece\nthat has a high sniping power.",
-    "Enabled": true
+    "Text": "뜻있는 레인저들이 자체 개발한 어설트 라이플.\n뛰어난 저격 능력으로 호평받았지만 수제품이라\n소량만 생산된 전설적인 명품.",
+    "Enabled": false
   },
   "100118": {
     "OriginalText": "退役レンジャーが試作した長銃。\n経験に裏打ちされた高い機動性、安定性\n狙撃力を備えビームに対抗した。",
-    "Text": "A prototype Assault Rifle made by a\nretired Ranger. It has high mobility\nand stable sniping power.",
+    "Text": "은퇴한 레인저가 시험 제작한 어설트 라이플.\n경험을 바탕으로 뛰어난 기동성, 안정성, 저격력을\n갖춰 빔에 맞섰다.",
     "Enabled": true
   },
   "100119": {
     "OriginalText": "試験的モデルとして開発された長銃。\nコンパクトな見た目ながら威力は高く\n集弾性能も高い、高レベルな水準の型。",
-    "Text": "An experimental Assault Rifle.\nAlthough light, it features high\npotency and precision.",
+    "Text": "시험 모델로 개발한 어설트 라이플.\n작은 외형에도 위력이 높고 집탄 성능도\n뛰어난 고수준 모델.",
     "Enabled": true
   },
   "100120": {
     "OriginalText": "細部まで入念にコーティングされた\n長銃。コスト面に配慮しながら\n全体性能を大幅に向上させた。",
-    "Text": "An Assault Rifle that is carefully\ncoated. Its overall performance is\ngreatly improved despite its cost.",
+    "Text": "세세한 부분까지 꼼꼼히 코팅한\n어설트 라이플. 비용을 고려하면서\n전체 성능을 크게 높였다.",
     "Enabled": true
   },
   "100121": {
     "OriginalText": "無駄を省くという設計思想の長銃。\nすらっとしたフォルムは、弾体への\n影響を抑え、精密な射撃を可能とする。",
-    "Text": "A Rifle designed to conserve energy.\nIts slender form suppresses the force\nof the bullet for precise shooting.",
+    "Text": "낭비를 줄인다는 설계 사상을 지닌 어설트 라이플.\n늘씬한 형태는 탄체에 미치는\n영향을 줄여 정밀한 사격을 가능하게 한다.",
     "Enabled": true
   },
   "100122": {
     "OriginalText": "洗練された流線形が目を引く長銃。\n性能自体もそのフォルムに負けず劣らず\n研ぎ澄まされており、愛用者は多い。",
-    "Text": "An Assault Rifle with a refined sleek\ndesign. It has many users due to its\nimproved performance and form.",
+    "Text": "세련된 유선형이 눈길을 끄는 어설트 라이플.\n성능도 그 형태에 뒤지지 않게\n정교하게 다듬어져 애용자가 많다.",
     "Enabled": true
   },
   "100123": {
     "OriginalText": "名銃と名高いヤスミノコフ型の長銃。\n古典的なフォルムからは想像のできない\n火力を誇る、レンジャー憧れの武器。",
-    "Text": "A Yasminokov-type Assault Rifle.\nAdmired by many Rangers, it boasts\nmore firepower than the classic model.",
+    "Text": "명총으로 이름난 야스미노코프형 어설트 라이플.\n고전적인 형태로는 상상하기 힘든 화력을\n자랑하는, 레인저들이 동경하는 무기.",
     "Enabled": true
   },
   "100124": {
     "OriginalText": "銃身を長大化した新規格の長銃。\n初速と集弾性能に特化した武器であり\n精密かつ威力の高い攻撃が可能。",
-    "Text": "A new standard Assault Rifle with a\nlonger barrel. It specializes in initial\nvelocity and bullet performance.",
+    "Text": "총열을 길고 크게 만든 신규격 어설트 라이플.\n초속과 집탄 성능에 특화된 무기로,\n정밀하고 위력 높은 공격이 가능하다.",
     "Enabled": true
   },
   "100125": {
     "OriginalText": "著名な賞金稼ぎが愛用していた長銃。\n目標に浴びせられる弾丸の雨は\nその身体を真紅に染め上げるという。",
-    "Text": "An Assault Rifle used by famous\nbounty hunters. Rumored its rain of\nbullets dyes the target in red.",
+    "Text": "유명한 현상금 사냥꾼이 애용했던 어설트 라이플.\n목표에 쏟아지는 탄환의 비는\n그 몸을 진홍빛으로 물들인다고 한다.",
     "Enabled": true
   },
   "100126": {
     "OriginalText": "弾丸の代わりに刃を撃ち出す長銃。\n射撃用途似外に、白兵戦での\n運用も考慮している。",
-    "Text": "An Assault Rifle that shoots blades\ninstead of a bullet. A firearm that\ncan be used in hand-to-hand combat.",
-    "Enabled": true
+    "Text": "탄환 대신 칼날을 발사하는 어설트 라이플.\n사격 용도 외에도 백병전에서의\n운용을 고려했다.",
+    "Enabled": false
   },
   "100127": {
     "OriginalText": "火山の強固な岩石を利用した長銃。\nマグマにも耐えうる銃身から放つ弾は\n厚い岩盤をも容易に貴く。",
-    "Text": "An Assault Rifle that uses strong\nigneous rocks. The fired bullets can\nwithstand magma and thick rocks.",
-    "Enabled": true
+    "Text": "화산의 견고한 암석을 이용한 어설트 라이플.\n마그마도 견디는 총열에서 발사한 탄환은\n두꺼운 암반조차 쉽게 꿰뚫는다.",
+    "Enabled": false
   },
   "100128": {
     "OriginalText": "巨大な槍が発射され敵を貴く特殊長銃。\n銃口がきらめいたその瞬間には光の槍が\n敵を無慈悲に貴いている。",
-    "Text": "A special Rifle that fires a huge\nspear. The moment its muzzle flashes,\nthe moment it decimates the enemy.",
-    "Enabled": true
+    "Text": "거대한 창을 발사해 적을 꿰뚫는\n특수 어설트 라이플. 총구가 빛나는 순간에는\n빛의 창이 적을 무자비하게 관통하고 있다.",
+    "Enabled": false
   },
   "100129": {
-    "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n長銃。素村のシルエットを生かした\nデザインはカムフラージュにもなる。",
-    "Text": "An Assault Rifle forged from a rare\nore. Designed to make use of the\ncamouflage colors  of the materials.",
+    "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n長銃。素材のシルエットを生かした\nデザインはカムフラージュにもなる。",
+    "Text": "일부 우주 영역에 편중된 특수 광석을 단련한\n어설트 라이플. 소재의 실루엣을 살린\n디자인은 위장 효과도 낸다.",
     "Enabled": true
   },
   "100130": {
-    "OriginalText": "ロウトルリンプの素村をコートした\n長銃。抵抗を抑える表皮の効果で\n射撃出力が向上した。",
-    "Text": "An Assault Rifle coated with Rol\nTorrimp material. The non-resistant\nskin improves the shooting output.",
+    "OriginalText": "ロウトルリンプの素材をコートした\n長銃。抵抗を抑える表皮の効果で\n射撃出力が向上した。",
+    "Text": "로우 토르림프의 소재를 코팅한\n어설트 라이플. 저항을 줄이는 표피의 효과로\n사격 출력이 높아졌다.",
     "Enabled": true
   },
   "100131": {
     "OriginalText": "生命力の強い植洋由来の長銃。\n光合成により機能が強化され、\n銃身がより固く厚みを増す。",
-    "Text": "A Rifle made from a strong plant. Its\nbarrel is harder and thicker, also it\nis enhanced by photosynthesis.",
-    "Enabled": true
+    "Text": "생명력이 강한 식물에서 비롯된 어설트 라이플.\n광합성으로 기능이 강화돼\n총열이 더욱 단단하고 두꺼워진다.",
+    "Enabled": false
   },
   "100132": {
     "OriginalText": "ギュゲンテの列車砲を物した長銃。\n長銃の中でも特に長い銃身の採用により\n命中精度が抜群に向上した。",
-    "Text": "An Assault Rifle that looks like\nGygante's main gun. Longest among gun\nbarrels, its accuracy is improved.",
-    "Enabled": true
+    "Text": "규겐테의 열차포를 본뜬 어설트 라이플.\n어설트 라이플 중에서도 특히 긴 총열을 채용해\n명중 정밀도를 크게 높였다.",
+    "Enabled": false
   },
   "100133": {
     "OriginalText": "ディートアスの伝甲を物した長銃。\n撃しいレーザー照射を再現し、\n標的に大きなダメージを与える。",
-    "Text": "An Assault Rifle made from Dietoas\narmor. Fires radioactive laser that\ncauses great damage to the target.",
-    "Enabled": true
+    "Text": "디토아스의 장갑을 본뜬 어설트 라이플.\n격렬한 레이저 조사를 재현해\n표적에 큰 데미지를 준다.",
+    "Enabled": false
   },
   "100134": {
     "OriginalText": "星を覆うギガンテスの器官を組み込み\n試作された長銃。伝飾が銃身と共鳴し\n射撃時の破壊力を大幅に向上させる。",
-    "Text": "A prototype Rifle made from the organs\nof a giant Gigantes. Its decoration\nresonates, enhancing its power.",
-    "Enabled": true
+    "Text": "행성을 덮은 기간테스의 기관을 넣어\n시험 제작한 어설트 라이플. 장식이 총열과 공명해\n사격 시 파괴력을 크게 높인다.",
+    "Enabled": false
   },
   "100135": {
     "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した長銃。銃身保護を第一に\n設計された独自フォルムの試作機。",
-    "Text": "An Assault Rifle originally made by\nARKS. A prototype model with a unique\nbarrel design.",
-    "Enabled": true
+    "Text": "기존 무기에 만족하지 못한 아크스가\n독자 개발한 어설트 라이플. 총열 보호를 우선으로\n설계한 독특한 형태의 시제품.",
+    "Enabled": false
   },
   "100136": {
     "OriginalText": "古き良き時代を懐古する長銃。\n鳥の翼がモチーフの流魅なレリーフは\n戦場でささくれた心を優しく癒す。",
-    "Text": "A nostalgic Assault Rifle. It has a\nbird wings motif that gently heals\nthe heart of the people around it.",
-    "Enabled": true
+    "Text": "좋았던 옛 시절을 그리게 하는 어설트 라이플.\n새 날개를 본뜬 아름다운 부조는\n전장에서 거칠어진 마음을 부드럽게 치유한다.",
+    "Enabled": false
   },
   "100137": {
     "OriginalText": "イズナの愛用品と同型の長銃。訓練校の\n卒業祝いに父がカスタムメイドしたが、\n評判になり今では一般に入手が可能。",
-    "Text": "A copy of Izuna's favorite weapon.\nA custom-made gift from her father as\na graduation present for finishing school.",
+    "Text": "이즈나의 애용품과 동형인 어설트 라이플. 훈련교\n졸업 선물로 아버지가 주문 제작했지만,\n평판이 좋아 지금은 누구나 구할 수 있다.",
     "Enabled": true
   },
   "100138": {
-    "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n長銃。同型モデルにクリスタル素村を\n組み込んだ高級感あふれる人気品。",
-    "Text": "An Assault Rifle made from a rare ore.\nPopular among higher-class due to the\nintegrated crystal material.",
+    "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n長銃。同型モデルにクリスタル素材を\n組み込んだ高級感あふれる人気品。",
+    "Text": "일부 우주 영역에 편중된 특수 광석을 단련한\n어설트 라이플. 동형 모델에 크리스털 소재를\n넣은 고급스러운 인기품.",
     "Enabled": true
   },
   "100139": {
-    "OriginalText": "ポルトルリンプの素村をコートした\n長銃。ヒレの弾力による衝撃吸収効果で\n連射時の命中精度が向上した。",
-    "Text": "A Rifle made from Pol Torrimp materials.\nThe fin's elasticity improved its\naccuracy during continuous shooting.",
+    "OriginalText": "ポルトルリンプの素材をコートした\n長銃。ヒレの弾力による衝撃吸収効果で\n連射時の命中精度が向上した。",
+    "Text": "폴토르림프의 소재를 코팅한 어설트 라이플.\n지느러미의 탄력으로 충격을 흡수해\n연사 시 명중 정밀도가 높아졌다.",
     "Enabled": true
   },
   "100140": {
     "OriginalText": "テュルトアスの伝甲を物した長銃。\n撃しいレーザー照射を再現し、\n敵に戦意を喪失させる。",
-    "Text": "An Assault Rifle made from Tulletoas\narmor. Fires a radioactive laser that\nweakens the enemy's fighting spirit.",
-    "Enabled": true
+    "Text": "튜르토아스의 장갑을 본뜬 어설트 라이플.\n격렬한 레이저 조사를 재현해\n적의 전의를 상실시킨다.",
+    "Enabled": false
   },
   "100141": {
     "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した長銃。銃身保護に加え\n弾倉保護も完壁にした完成機。",
-    "Text": "An Assault Rifle originally made by\nARKS. Refined to perfection due to\nits armored magazine and gun barrel.",
-    "Enabled": true
+    "Text": "기존 무기에 만족하지 못한 아크스가\n독자 개발한 어설트 라이플. 총열 보호에 더해\n탄창 보호도 완벽하게 갖춘 완성형.",
+    "Enabled": false
   },
   "100142": {
     "OriginalText": "アークスで正式採用されている双機銃。\n携帯性を追求した最軽量モデルで\n初心者にも扱いやすい入門機。",
-    "Text": "Twin machineguns adopted by ARKS.\nWith emphasis on lightweight mobility,\nthis weapon is ideal for beginners.",
+    "Text": "아크스에서 정식 채용한 트윈 머신 건.\n휴대성을 추구한 최경량 모델로,\n초보자도 다루기 쉬운 입문용 무기.",
     "Enabled": true
   },
   "100143": {
     "OriginalText": "アークスで使用される改良型の双機銃。\n射程の長さを追求した上級モデルで\n弾倉の大型化で連射性能も向上した。",
-    "Text": "Improved Twin Machine Gun used by\nARKS. A high-end model with increased\nrange and a larger magazine.",
+    "Text": "아크스에서 사용하는 개량형 트윈 머신 건.\n긴 사거리를 추구한 상급 모델로,\n탄창을 대형화해 연사 성능도 높였다.",
     "Enabled": true
   },
   "100144": {
     "OriginalText": "基礎モデルに改良を加えた双機銃。\nアークスの要望で付けられたグリップで\n安定性と命中精度を向上させた。",
-    "Text": "An improved Twin Machine Gun. It has\nan improved stability and accuracy\nwith the help of the grip attachment.",
+    "Text": "기본 모델을 개량한 트윈 머신 건.\n아크스의 요구로 더한 손잡이 덕에\n안정성과 명중 정밀도가 높아졌다.",
     "Enabled": true
   },
   "100145": {
     "OriginalText": "ゼロから設計し直された双機銃。\n丸みをおびたデザインで携帯性を追求し\n扱いやすさにおいて群を抜いている。",
-    "Text": "A Twin Machine Gun redesigned from\nscratch. Its rounded design proposes\nportability and ease of handling.",
+    "Text": "처음부터 다시 설계한 트윈 머신 건.\n둥근 디자인으로 휴대성을 추구해\n다루기 편하다는 점에서 단연 돋보인다.",
     "Enabled": true
   },
   "100146": {
     "OriginalText": "連射性能が向上した双機銃の改造版。\nエネルギー含有の増強によって全体の\nバランス性能の向上が図られている。",
-    "Text": "A modified Twin MG with an improved\nrate of fire. The overall performance\nand energy conservation is improved.",
+    "Text": "연사 성능이 높아진 트윈 머신 건의 개조판.\n에너지 함유량을 늘려 전체적인\n균형 성능을 높이고자 했다.",
     "Enabled": true
   },
   "100147": {
     "OriginalText": "独自に改造された双機銃。\nアークス有志が旧式の双機銃をベースに\n全体をチューンアップした。",
-    "Text": "A uniquely modified Twin Machine Gun.\nVolunteer ARKS tuned up the entire\ndesign based on a classic model.",
+    "Text": "독자적으로 개조한 트윈 머신 건.\n뜻있는 아크스들이 구형 트윈 머신 건을 토대로\n전체를 조정했다.",
     "Enabled": true
   },
   "100148": {
     "OriginalText": "生洋のようなフォルムをもつ双機銃。\n大気中のエネルギーを取り込むことを\n重点に置いた設計がなされている。",
-    "Text": "A Twin Machine Gun with a biological\ndesign. Designed to absorb energy\nfrom the atmosphere.",
-    "Enabled": true
+    "Text": "생물 같은 형태를 갖춘 트윈 머신 건.\n대기 중의 에너지를 흡수하는 데\n중점을 두고 설계했다.",
+    "Enabled": false
   },
   "100149": {
     "OriginalText": "機械部品による強化を重視した双機銃。\nレンジャーの誰もが同等に扱えることから\n人気となった。",
-    "Text": "A Twin Machine Gun with an improved\nmechanical parts. Very popular among\nRangers due to its versatility.",
+    "Text": "기계 부품에 의한 강화를 중시한 트윈 머신 건.\n레인저라면 누구나 동등하게 다룰 수 있어\n인기를 끌었다.",
     "Enabled": true
   },
   "100150": {
     "OriginalText": "機械部品による強化を重視した双機銃。\n誰もが同等に扱える簡易性はそのままに\nパーツを選別し基本性能を向上させた。",
-    "Text": "A Twin MG with an improved mechanical\nparts. Its basic performance is\nimproved while keeping its simplicity.",
+    "Text": "기계 부품에 의한 강화를 중시한 트윈 머신 건.\n누구나 쉽게 다룰 수 있다는 점은 유지하면서\n부품을 선별해 기본 성능을 높였다.",
     "Enabled": true
   },
   "100151": {
     "OriginalText": "珠玉の一品として名高い双機銃。\n凍り付くほどに洗練された設計で、\n機動力ある弾丸が容赦なく敵を射貴く。",
-    "Text": "A popular Twin Machine Gun. Designed\nto freeze the enemies, its mobile\nbullets mercilessly shoots the target.",
-    "Enabled": true
+    "Text": "주옥같은 명품으로 이름난 트윈 머신 건.\n얼어붙을 만큼 세련된 설계로,\n기동력 있는 탄환이 가차 없이 적을 꿰뚫는다.",
+    "Enabled": false
   },
   "100152": {
     "OriginalText": "一部のマニア層に大人気の双機銃。\nアンティークモデルながら、その威力は\n現行武器と比較してもひけをとらない。",
-    "Text": "A pair of guns that are popular with\ngun enthusiasts. Although old, they\nstill out-perform modern weapons.",
+    "Text": "일부 마니아층에게 큰 인기인 트윈 머신 건.\n앤티크 모델이지만 그 위력은\n현행 무기와 비교해도 뒤지지 않는다.",
     "Enabled": true
   },
   "100153": {
     "OriginalText": "絶大な支持を得たシリーズのリメイク。\n双機銃としての性能を重視した改良が\n施され、全体的に能力が向上している。",
-    "Text": "A remake of a series that had a cult\nfollowing. Improved with a focus on\nperformance and overall power.",
+    "Text": "절대적인 지지를 받은 시리즈의 리메이크.\n트윈 머신 건으로서의 성능을 중시한 개량을 더해\n전체적인 능력이 향상됐다.",
     "Enabled": true
   },
   "100154": {
     "OriginalText": "圧倒的な年を重ねた樹木の幹を用い\n長い時間を掛けてグランをなじませた\n至宝の双銃。樹とは思えぬ威力を誇る。",
-    "Text": "A Twin MG made from an ancient tree.\nIt took a long time to adapt Gran.\nIt boasts unexpected firepower.",
+    "Text": "헤아릴 수 없는 세월을 지낸 나무줄기에\n오랜 시간 그란을 스며들게 한\n진귀한 쌍총. 나무라고 믿기 힘든 위력이다.",
     "Enabled": true
   },
   "100155": {
     "OriginalText": "幾何学的な物様が刻まれている双機銃。\n図抜けた感応力によって、高い性能と\n安定性を両立させている。",
-    "Text": "A Twin Machine Gun with engraved\ndesigns. It has high performance and\nstability.",
-    "Enabled": true
+    "Text": "기하학적인 무늬를 새긴 트윈 머신 건.\n남다른 감응력으로 높은 성능과\n안정성을 모두 실현했다.",
+    "Enabled": false
   },
   "100156": {
     "OriginalText": "世界征服を企む某科学者が開発した\n特殊な双機銃。野望はいつも打ち砕かれ\n緑起が悪いにもかかわらず意外に人気。",
-    "Text": "A special Twin MG made by a scientist\nwho tried to conquer the world. Oddly\npopular despite its bad reputation.",
-    "Enabled": true
+    "Text": "세계 정복을 꾀하는 어느 과학자가 개발한\n특수 트윈 머신 건. 야망이 늘 좌절돼\n불길한데도 의외로 인기가 있다.",
+    "Enabled": false
   },
   "100157": {
     "OriginalText": "デザイナーズブランドの双機銃。\nイラストを基にゼロから設計され\nまったく新しい武器として完成した。",
-    "Text": "A designer brand Twin Machine Gun.\nRedesigned from scratch to give it a\nnew look.",
+    "Text": "디자이너 브랜드의 트윈 머신 건.\n일러스트를 토대로 처음부터 설계해\n완전히 새로운 무기로 완성했다.",
     "Enabled": true
   },
   "100158": {
     "OriginalText": "全てが謎に包まれた双機銃。\nその効果、性能は一切不明で\n詳細な解祈が待たれている。",
-    "Text": "A mysterious Twin Machine Gun.\nIts efficiency and performance is\ncompletely unknown.",
-    "Enabled": true
+    "Text": "모든 것이 수수께끼에 싸인 트윈 머신 건.\n효과와 성능은 전혀 알려지지 않았으며,\n상세한 분석을 기다리고 있다.",
+    "Enabled": false
   },
   "100159": {
     "OriginalText": "ただ一つの希望を守るという双機銃。\n死角のない攻撃を可能とし、一切の\n災厄を寄せ付けない。",
-    "Text": "Ordinary machineguns that keep\nhope alive. Attacks from these guns\nare flawless and accident free.",
+    "Text": "단 하나의 희망을 지킨다는 트윈 머신 건.\n사각 없는 공격을 가능하게 하며,\n어떤 재앙도 다가오지 못하게 한다.",
     "Enabled": true
   },
   "100160": {
     "OriginalText": "独自改造の双機銃。その一つの答え。\n経験に裏打ちされたカスタムのため\n非常に扱いやすく、それでいて強力。",
-    "Text": "Unique custom Twin Machine Gun.\nModifications backed by experience\nmakes use easy, but retains power.",
+    "Text": "독자 개조한 트윈 머신 건이 도달한 하나의 답.\n경험을 바탕으로 개조한 덕분에\n매우 다루기 쉬우면서도 강력하다.",
     "Enabled": true
   },
   "100161": {
     "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n双機銃。磁気による主軸の微妙なブレを\n自動調整し安定した射撃を可能にする。",
-    "Text": "A Twin Machine Gun made from a rare\nore. It automatically adjusts the\nspindle that enables stable shooting.",
+    "Text": "일부 우주 영역에 편중된 특수 광석을 단련한\n트윈 머신 건. 자기력에 따른 주축의 미세한\n흔들림을 자동 조정해 안정적으로 사격할 수 있다.",
     "Enabled": true
   },
   "100162": {
     "OriginalText": "バレダイナスの手砲を物した双機銃。\n伝着するとバレダイナスの攻撃スタイル\nそのままになる、ある意味変身グッズ。",
-    "Text": "A Twin Machine Gun made from Valdinas\narm gun. Processed to preserve the\nattack style of a Valdinas.",
-    "Enabled": true
+    "Text": "바레다이너스의 손대포를 본뜬 트윈 머신 건.\n착용하면 바레다이너스의 공격 방식 그대로가\n되는, 어떤 의미에서는 변신 도구.",
+    "Enabled": false
   },
   "100163": {
     "OriginalText": "ガラティオン種の伝甲を流用した双機銃。\n射出されるワイヤーアンカーは標的に\n撃しい苦痛を与え非人道的と噂される。",
-    "Text": "A Twin Machine Gun made from a\nGaration-type armor. Its wire anchors\ncan cause great pain to the target.",
-    "Enabled": true
+    "Text": "갈라티온 종의 장갑을 전용한 트윈 머신 건.\n발사되는 와이어 앵커가 표적에 극심한\n고통을 줘 비인도적이라는 소문이 있다.",
+    "Enabled": false
   },
   "100164": {
     "OriginalText": "アグリオスの頭部を物した双機銃。\n銃身と一体化した伝甲角が射出力を\n増幅し、脅威の破壊力を発揮する。",
-    "Text": "A Twin Machine Gun with an Agrios\nhead. The armor attached to the barrel\namplifies the firing output and power.",
-    "Enabled": true
+    "Text": "아그리오스의 머리를 본뜬 트윈 머신 건.\n총열과 일체화된 장갑 뿔이 발사력을\n증폭해 위협적인 파괴력을 발휘한다.",
+    "Enabled": false
   },
   "100165": {
     "OriginalText": "エウリュードと同じ弾倉を持つ双機銃。\n洋理的な制限所持量いっぱいに弾丸を\n備えてもなお余裕ある大型弾倉が評判。",
-    "Text": "A Twin MG with the same magazine as\na Eurude has. Still popular even\nits magazine has physical limitation.",
-    "Enabled": true
+    "Text": "에우류드와 같은 탄창을 갖춘 트윈 머신 건.\n물리적인 소지 한도만큼 탄환을 갖춰도\n여유가 남는 대형 탄창으로 호평받는다.",
+    "Enabled": false
   },
   "100166": {
     "OriginalText": "星を覆うギガンテスの器官を組み込み\n試作された双機銃。その目が狙いを\n定めれば頁発頁中と噂される。",
-    "Text": "A prototype Twin MG made from the\norgans of a giant Gigantes. The target\nis already dead the moment you aim it.",
-    "Enabled": true
+    "Text": "행성을 덮은 기간테스의 기관을 넣어\n시험 제작한 트윈 머신 건. 그 눈이 조준하면\n백발백중이라는 소문이 있다.",
+    "Enabled": false
   },
   "100167": {
     "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した双機銃。伝着可能な重量の\n最大値に挑戦した意欲作。",
-    "Text": "A Twin Machine Gun originally made by\nARKS. An ambitious work that tests\nthe maximum usable weight limit.",
-    "Enabled": true
+    "Text": "기존 무기에 만족하지 못한 아크스가\n독자 개발한 트윈 머신 건. 착용 가능한 무게의\n최댓값에 도전한 야심작.",
+    "Enabled": false
   },
   "100168": {
     "OriginalText": "童心を忘れないアークスに人気の\n双機銃。巨大ロボのように指先から\n射撃したいという願望を叶えてくれる。",
-    "Text": "A nostalgic Twin MG popular among\nARKS. It fulfills the user's desire to\nshoot from a giant robot's fingertip.",
+    "Text": "동심을 잊지 않은 아크스에게 인기 있는\n트윈 머신 건. 거대 로봇처럼 손끝에서\n사격하고 싶다는 소망을 이뤄 준다.",
     "Enabled": true
   },
   "100169": {
-    "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n双機銃。素村の配分を見直し、\n射出力の滅衰を冷限まで抑えた。",
-    "Text": "A Twin MG made from a rare ore. The\nusage of materials was managed to\ncontrol the decline in shooting output.",
+    "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n双機銃。素材の配分を見直し、\n射出力の減衰を極限まで抑えた。",
+    "Text": "일부 우주 영역에 편중된 특수 광석을 단련한\n트윈 머신 건. 소재의 배분을 재검토해\n발사력의 감쇠를 극한까지 줄였다.",
     "Enabled": true
   },
   "100170": {
     "OriginalText": "ヴィヴリュードと同じ形状の弾倉を持つ\n双機銃。単純な弾倉の大型化とは一線\nを画し、命中精度にこだわった。",
-    "Text": "A Twin MG with the same magazine as a\nVivryude has. Its size is increased\nand the accuracy is also improved.",
+    "Text": "비브류드와 같은 형태의 탄창을 갖춘\n트윈 머신 건. 단순한 탄창 대형화와는 선을 긋고\n명중 정밀도를 고집했다.",
     "Enabled": true
   },
   "100171": {
     "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した双機銃。重量はそのままに\n要望の多かった威圧感ある塗伝を採用。",
-    "Text": "A Twin MG originally made by ARKS.\nOften requested with an intimidating\ncoating while maintaining its weight.",
-    "Enabled": true
+    "Text": "기존 무기에 만족하지 못한 아크스가\n독자 개발한 트윈 머신 건. 무게는 유지하면서\n요구가 많았던 위압감 있는 도색을 채용했다.",
+    "Enabled": false
   },
   "100172": {
     "OriginalText": "とある世界で、運命を克服する女が\n愛用した双機銃。手に取れば何かが\n変わることを予期させる一級品。",
-    "Text": "A Twin MG used by a woman who overcomes\nher fate. A classy item that is\nexpected to change the user's life.",
+    "Text": "어느 세계에서 운명을 극복하는 여자가\n애용한 트윈 머신 건. 손에 넣으면 무언가\n달라질 것을 예감하게 하는 일급품.",
     "Enabled": true
   },
   "100173": {
     "OriginalText": "とある世界で、運命を受け入れた男が\n愛用した双機銃。本格的な戦闘訓練を\n積んだ者だけが使いこなす。",
-    "Text": "A Twin MG used by a man who accepted\nhis fate. Only those who have full-\nscale combat training can master it.",
+    "Text": "어느 세계에서 운명을 받아들인 남자가\n애용한 트윈 머신 건. 본격적인 전투 훈련을\n쌓은 사람만이 제대로 다룰 수 있다.",
     "Enabled": true
   },
   "100174": {
     "OriginalText": "とある世界で、運命に抗う少年が\n愛用した双機銃。思わず乱射して\nしまいたくなるほど扱いやすく強力。",
-    "Text": "A Twin MG used by a boy who resists\nhis fate. Easy to use and powerful\nthat you'll want to shoot it wildly.",
+    "Text": "어느 세계에서 운명에 맞선 소년이\n애용한 트윈 머신 건. 저도 모르게 난사하고\n싶어질 만큼 다루기 쉽고 강력하다.",
     "Enabled": true
   },
   "100175": {
     "OriginalText": "アークスで正式採用されている長杖。\n打突用の武器ではなくテクニック使用の\n補助デバイスとしての役割が主。",
-    "Text": "A Rod officially adopted by ARKS. Not\nsuitable for striking but as an\nsupport device for using techniques.",
+    "Text": "아크스에서 정식 채용한 로드.\n타격용 무기가 아니라 테크닉 사용을 돕는\n보조 장치로서의 역할이 주가 된다.",
     "Enabled": true
   },
   "100176": {
     "OriginalText": "アークスで使用される改良型の長杖。\n先端部の強度が高められ、法撃力の\n集束率も引き上げられている。",
-    "Text": "An improved Rod used in ARKS. The\nstrength of the tip and the focusing\nrate of the attack power are enhanced.",
+    "Text": "아크스에서 사용하는 개량형 로드.\n앞부분의 강도를 높이고 법격력의\n집속률도 높였다.",
     "Enabled": true
   },
   "100177": {
     "OriginalText": "基礎モデルに改良を加えた長杖。\nテクニック行使に最適な構造を\n再計算し微調整が施されている。",
-    "Text": "An improved Rod over its base model.\nThe optimal structure to exert the\ntechnique is calibrated and refined.",
+    "Text": "기본 모델을 개량한 로드.\n테크닉 사용에 최적인 구조를\n다시 계산하고 미세하게 조정했다.",
     "Enabled": true
   },
   "100178": {
     "OriginalText": "テクニック行使に最適化された長杖。\n法撃に必要ないパーツを潔く除外した\nシンプルな構造が特微的。",
-    "Text": "A Rod optimized for using techniques.\nIts simple structure eliminates\nunnecessary parts for attacking.",
-    "Enabled": true
+    "Text": "테크닉 사용에 최적화한 로드.\n법격에 필요 없는 부품을 과감히 제거한\n단순한 구조가 특징이다.",
+    "Enabled": false
   },
   "100179": {
     "OriginalText": "不可思議な力で伝者に不幸を呼ぶ長杖。\n返しのついたその刃は、捕らえた獲洋を\n決して離すことはない。",
-    "Text": "A mysterious Rod that causes\nmisfortune. Its barbed blade never releases\nits prey.",
-    "Enabled": true
+    "Text": "불가사의한 힘으로 착용자에게 불행을 부르는\n로드. 미늘이 달린 칼날은 붙잡은 사냥감을\n결코 놓치지 않는다.",
+    "Enabled": false
   },
   "100180": {
     "OriginalText": "龍説上の怪洋の頭を物した長杖。\nアークスに人気のジョークグッズだが、\n戦闘にも使える特殊な武器。",
-    "Text": "A Rod with a head of a legendary\nmonster. A popular joke item among\nARKS, but it can be used in battle.",
-    "Enabled": true
+    "Text": "전설 속 괴물의 머리를 본뜬 로드.\n아크스에게 인기 있는 장난용 물건이지만,\n전투에도 쓸 수 있는 특수 무기.",
+    "Enabled": false
   },
   "100181": {
     "OriginalText": "圧倒的な年を重ねた樹木の幹を用い\n長い時間を掛けてグランをなじませた\n至高の長杖。樹とは思えぬ性能を持つ。",
-    "Text": "A supreme Rod made from an ancient\ntree. Adapting Gran energy, it has an\nunexpected combat performance.",
+    "Text": "헤아릴 수 없는 세월을 지낸 나무줄기에\n오랜 시간 그란을 스며들게 한\n최상의 로드. 나무라고 믿기 힘든 성능이다.",
     "Enabled": true
   },
   "100182": {
     "OriginalText": "劇の結晶を物して作られた長杖。\n氷たい輝きは常に保たれており\n時に吹雪すら呼び起こすという。",
-    "Text": "A Rod made from ice crystals. It has\nan icy glow and sometimes it can\nevoke a blizzard.",
-    "Enabled": true
+    "Text": "얼음 결정을 본떠 만든 로드.\n차가운 빛을 항상 유지하며,\n때로는 눈보라까지 일으킨다고 한다.",
+    "Enabled": false
   },
   "100183": {
-    "OriginalText": "幾何学的な物様が刻まれた長杖。\n由来や素村に謎が多く、その性能の\n全貌は未だ明らかにされていない。",
-    "Text": "A Rod with an engraved designs. Its\norigin and material is a mystery, and\nits performance is yet unknown.",
+    "OriginalText": "幾何学的な紋様が刻まれた長杖。\n由来や素材に謎が多く、その性能の\n全貌は未だ明らかにされていない。",
+    "Text": "기하학적인 무늬를 새긴 로드.\n기원과 소재에 수수께끼가 많아 그 성능의\n전모는 아직 밝혀지지 않았다.",
     "Enabled": true
   },
   "100184": {
     "OriginalText": "元は拡声器を固定するためのスタンド。\n長杖として使用できるよう改造された。\n愛好家のみならず広く一般にも人気。",
-    "Text": "A Rod modified from an ordinary\nmicrophone stand. Popular with the\npublic especially with enthusiasts.",
+    "Text": "본래 확성기를 고정하던 스탠드.\n로드로 쓸 수 있게 개조했다.\n애호가뿐 아니라 일반인에게도 널리 인기다.",
     "Enabled": true
   },
   "100185": {
     "OriginalText": "童心を忘れないフォースのための長杖。\n伝者のグラン感応力が、そのまま\n星のきらめきに反映される。",
-    "Text": "A nostalgic Rod for the Force. The\nuser's Gran responsiveness is directly\nreflected in the sparkle of the star.",
-    "Enabled": true
+    "Text": "동심을 잊지 않은 포스를 위한 로드.\n착용자의 그란 감응력이 그대로\n별의 반짝임에 반영된다.",
+    "Enabled": false
   },
   "100186": {
     "OriginalText": "翼を持つ一角獣が由来といわれる長杖。\n持ち主を選ぶ武器といわれ、純粋な心を\n持たないものは使いこなせないという。",
-    "Text": "A Rod made from unicorn wings. It is\nsaid that it chooses its owner, and\nonly with a pure heart can master it.",
+    "Text": "날개 달린 일각수에서 비롯됐다는 로드.\n주인을 가리는 무기라 불리며, 순수한 마음이\n없으면 제대로 다룰 수 없다고 한다.",
     "Enabled": true
   },
   "100187": {
     "OriginalText": "夜を愛する芸術家が想いを込めた長杖。\n既ち欠けする月が既ちたその時\n真の姿をあらわすという。",
-    "Text": "A Rod made by an artist who loves the\nnight. It's said that it will reveal\nits true form when the moon is full.",
-    "Enabled": true
+    "Text": "밤을 사랑하는 예술가가 마음을 담은 로드.\n차고 기우는 달이 가득 차는 순간,\n진정한 모습을 드러낸다고 한다.",
+    "Enabled": false
   },
   "100188": {
     "OriginalText": "実験的に伝甲を付与した長杖。\nテクニック補助の用途も既たすだけの\n性能を保持した、巨大な試作品。",
-    "Text": "A huge armored Rod. A prototype that\npreserves the performance that helps\nin using techniques.",
-    "Enabled": true
+    "Text": "실험적으로 장갑을 더한 로드.\n테크닉 보조 용도로도 충분한\n성능을 유지한 거대한 시제품.",
+    "Enabled": false
   },
   "100189": {
     "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n長杖。細状鉱を多数配置する構造で\n法撃出力の最大化を目指した。",
-    "Text": "A Rod forged from a rare ore. Fine\nores are used as materials to maximize\nits attack output.",
+    "Text": "일부 우주 영역에 편중된 특수 광석을 단련한\n로드. 가느다란 광석을 다수 배치한 구조로\n법격 출력의 최대화를 추구했다.",
     "Enabled": true
   },
   "100190": {
     "OriginalText": "ファンアフォルの生体を物した長杖。\n各パーツは本洋から削り出されており\nギガンテスの攻撃を再現する。",
-    "Text": "A Rod made from the living body of a\nFan'aphol. Each part is used to mimic\nthe Gigantes' attack.",
-    "Enabled": true
+    "Text": "판아포르의 생체를 본뜬 로드.\n각 부품은 실제 생체에서 깎아 낸 것으로,\n기간테스의 공격을 재현한다.",
+    "Enabled": false
   },
   "100191": {
     "OriginalText": "生命力の強い植洋由来の長杖。\n光合成によりエネルギーを自己供給し\n花弁は半永久的に散ることがない。",
-    "Text": "A Rod made from a strong plant. It\nself-supplies energy by photosynthesis,\nand its petals don't scatter.",
-    "Enabled": true
+    "Text": "생명력이 강한 식물에서 비롯된 로드.\n광합성으로 에너지를 자체 공급하며,\n꽃잎은 반영구적으로 지지 않는다.",
+    "Enabled": false
   },
   "100192": {
     "OriginalText": "ガラティオンの鎖鋸翼を物した長杖。\n高速回転する鋸が法撃力を冷限増幅し\n異次元のテクニック行使を可能にする。",
-    "Text": "A Rod with a chainsaw wing of\nGaration. The saw rotates at high speed\nto reach the maximum attack power.",
-    "Enabled": true
+    "Text": "갈라티온의 사슬톱 날개를 본뜬 로드.\n고속 회전하는 톱이 법격력을 극한까지 증폭해\n차원이 다른 테크닉 사용을 가능하게 한다.",
+    "Enabled": false
   },
   "100193": {
     "OriginalText": "アグリオス種の伝甲を一部流用した長杖。\n蓄えた法撃力を爆発的に放出させ、\n脅威的なテクニックを行使できる。",
-    "Text": "A Rod made from Agrios armor. You can\nrelease the accumulated attack power\nand use powerful techniques.",
-    "Enabled": true
+    "Text": "아그리오스 종의 장갑 일부를 전용한 로드.\n축적한 법격력을 폭발적으로 방출해\n위협적인 테크닉을 사용할 수 있다.",
+    "Enabled": false
   },
   "100194": {
     "OriginalText": "星を覆うギガンテスの器官を組み込み\n試作された長杖。３つの目が互いに\n連携し合い、最適な法撃を見舞う。",
-    "Text": "A prototype Rod made from the organs\nof a giant Gigantes. The 3 eyes work\ntogether to hit the target.",
+    "Text": "행성을 덮은 기간테스의 기관을 넣어\n시험 제작한 로드. 3개의 눈이 서로\n연동해 최적의 법격을 가한다.",
     "Enabled": true
   },
   "100195": {
-    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した長杖。より優雅な法撃を\n追求した大人の標準伝備。",
-    "Text": "A Rod originally made by ARKS. Adult's\nstandard equipment for achieving\nelegant attacks.",
+    "OriginalText": "既存の武器に満足できないアークスが\n独自開発した長杖。より優雅な法撃を\n追求した大人の標準装備。",
+    "Text": "기존 무기에 만족하지 못한 아크스가\n독자 개발한 로드. 더욱 우아한 법격을\n추구한 어른의 표준 장비.",
     "Enabled": true
   },
   "100196": {
     "OriginalText": "交通事情に不既のあるアークスが\nストレス解消のため試作した長杖。\n見た者はハッとして一時停止する。",
-    "Text": "A prototype Rod made by ARKS. It relieve\nstress from managing the traffic,\nthose who will see it will stop.",
-    "Enabled": true
+    "Text": "교통 사정에 불만이 있는 아크스가\n스트레스 해소를 위해 시험 제작한 로드.\n본 사람은 움찔하며 잠깐 멈춰 선다.",
+    "Enabled": false
   },
   "100197": {
     "OriginalText": "ルティナの愛用品と同型の長杖。\n武器の扱いが不慣れな初心者向けに\n設計され、基本性能が充実した入門機。",
-    "Text": "A copy of Lutina's favorite weapon.\nDesigned for novices who are\nunfamiliar with weapons.",
+    "Text": "루티나의 애용품과 동형인 로드.\n무기를 다루는 데 익숙하지 않은 초보자용으로\n설계해 기본 성능이 충실한 입문용 모델.",
     "Enabled": true
   },
   "100198": {
     "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n長杖。同型モデルの構造そのままに\n細粒コーティングで色調を変換した。",
-    "Text": "A Rod made from a rare ore. Its color\nwas changed with a fine coating while\nkeeping the form of the base model.",
+    "Text": "일부 우주 영역에 편중된 특수 광석을 단련한\n로드. 동형 모델의 구조는 유지하면서\n미세 입자 코팅으로 색조를 바꿨다.",
     "Enabled": true
   },
   "100199": {
     "OriginalText": "ウィルアフォルの生体を物した長杖。\n凄味のある赤さと鋭い眼光には\n思わず目を背けたくなる。",
-    "Text": "A Rod made from the living body of a\nViluaphol. It has a terrifying red and\nsharp eyes attached to it.",
-    "Enabled": true
+    "Text": "윌아포르의 생체를 본뜬 로드.\n섬뜩한 붉은빛과 예리한 눈빛 때문에\n저도 모르게 시선을 피하고 싶어진다.",
+    "Enabled": false
   },
   "100200": {
     "OriginalText": "アルテイオスの黒伝甲を一部流用した\n長杖。蓄積されたエネルギーを反響させ\nより大きく増幅させる効果がある。",
-    "Text": "A Rod made from the black armor of\nAlteios. It can reverberate the stored\nenergy and amplify itself even more.",
-    "Enabled": true
+    "Text": "알테이오스의 검은 장갑 일부를 전용한\n로드. 축적한 에너지를 반향시켜\n더욱 크게 증폭하는 효과가 있다.",
+    "Enabled": false
   },
   "100201": {
-    "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した長杖。より優雅な法撃を\n追求した大人の標準伝備。",
-    "Text": "A Rod originally made by ARKS.\nStandard equipment for adults that\nfocuses more on elegant attacks.",
+    "OriginalText": "既存の武器に満足できないアークスが\n独自開発した長杖。より優雅な法撃を\n追求した大人の標準装備。",
+    "Text": "기존 무기에 만족하지 못한 아크스가\n독자 개발한 로드. 더욱 우아한 법격을\n추구한 어른의 표준 장비.",
     "Enabled": true
   },
   "100202": {
     "OriginalText": "アークスで正式採用されている導具。\nテクニックの行使により洋理的な\n射出攻撃を可能にする補助デバイス。",
-    "Text": "A Talis officially adopted by ARKS.\nHas a support device that enables\nphysical attacks by using techniques.",
-    "Enabled": true
+    "Text": "아크스에서 정식 채용한 탈리스.\n테크닉을 사용해 물리적인\n발사 공격을 가능하게 하는 보조 장치.",
+    "Enabled": false
   },
   "100203": {
     "OriginalText": "アークスで使用される改良型の導具。\n本体と一体の尖端から強力な射出攻撃を\n可能にした高出力モデル。",
-    "Text": "An improved Talis used in ARKS. High\noutput model that enables powerful\nthrowing attacks.",
+    "Text": "아크스에서 사용하는 개량형 탈리스.\n몸체와 일체화된 끝에서 강력한 발사 공격을\n가능하게 한 고출력 모델.",
     "Enabled": true
   },
   "100204": {
     "OriginalText": "アークスで正式採用されている導具。\nユニットの大型化により、射出性能を\n向上させた新モデル。",
-    "Text": "A Talis officially adopted by ARKS. A\nnew model with an improved throwing\nperformance by increasing its size.",
+    "Text": "아크스에서 정식 채용한 탈리스.\n유닛을 대형화해 발사 성능을\n높인 새 모델.",
     "Enabled": true
   },
   "100205": {
     "OriginalText": "射出性能が強化された導具の試作機。\n出力が干渉しにくい形状を追求し\n小型ながら驚異の法撃力を実現した。",
-    "Text": "A prototype Talis with enhanced\nthrowing performance. It can achieve\npowerful attacks despite its small size.",
+    "Text": "발사 성능을 강화한 탈리스의 시제품.\n출력 간섭이 적은 형태를 추구해\n작은 크기에도 놀라운 법격력을 실현했다.",
     "Enabled": true
   },
   "100206": {
     "OriginalText": "法撃力の向上にこだわった導具。\nアンバランスに見えるが、内部に\nエネルギー負荷がかかりにくい構造。",
-    "Text": "A Talis with an improved attack power.\nIt looks unbalanced, but can easily\nuse the stored energy inside.",
+    "Text": "법격력 향상을 고집한 탈리스.\n불균형해 보이지만 내부에\n에너지 부하가 잘 걸리지 않는 구조다.",
     "Enabled": true
   },
   "100207": {
     "OriginalText": "来歴が定かでない超高性能の導具。\nかつてテクニックによって生み出された\nとされるが、真偽のほどは不明。",
-    "Text": "A mysterious super-high performance\nTalis. It is rumored to be created\nby some kind of technique.",
+    "Text": "내력이 불분명한 초고성능 탈리스.\n옛날 테크닉으로 만들어졌다고\n전해지지만 진위는 알 수 없다.",
     "Enabled": true
   },
   "100208": {
     "OriginalText": "翼を物したフォルムが特微の導具。\n振るうその姿はさながら羽ばたきの如く\n万人がみとれる美しさを誇る。",
-    "Text": "A special Talis with a winged design.\nThe wings look like its flapping and\nit boasts attractive beauty.",
-    "Enabled": true
+    "Text": "날개를 본뜬 형태가 특징인 탈리스.\n휘두르는 모습은 흡사 날갯짓 같아\n누구나 넋을 잃을 만큼 아름답다.",
+    "Enabled": false
   },
   "100209": {
     "OriginalText": "機械的な機構をふんだんに用いた導具。\nその精度の高さに定評があり\n手堅い人気に支えられる名器。",
-    "Text": "A Talis that has mechanical parts. A\npopular weapon due to its reputation\nof being accurate.",
+    "Text": "기계 장치를 풍부하게 활용한 탈리스.\n높은 정밀도로 정평이 나 있으며,\n꾸준한 인기를 누리는 명품.",
     "Enabled": true
   },
   "100210": {
     "OriginalText": "子供の遊具のような形をした導具。\nしかしその性能は濃製品を凌ぐほどに\n高く、扱いには注意が必要。",
-    "Text": "A Talis that looks like a toy. Has\nhigher performance than other basic\nmodels, and must handled with care.",
-    "Enabled": true
+    "Text": "어린이의 놀이 기구 같은 형태의 탈리스.\n하지만 성능은 기존 제품을 능가할 만큼\n높아 취급에 주의가 필요하다.",
+    "Enabled": false
   },
   "100211": {
     "OriginalText": "念の込められた導具。\n従来のタリスと異なる系譜を持つ\nといわれる謎に包まれた武器。",
-    "Text": "A thoughtful Talis. A mysterious\nweapon that is said to have a different\norigin unlike the standard Talises.",
+    "Text": "염원을 담은 탈리스.\n기존 탈리스와 다른 계보를 지녔다고\n하는 수수께끼의 무기.",
     "Enabled": true
   },
   "100212": {
     "OriginalText": "古代呪術の文様が描かれた導具。\n古式体系の術形式が現世代において\n効果があるのかどうかは不明。",
-    "Text": "A Talis with an ancient magical\npattern. It is unclear whether the\nancient art is still effective.",
+    "Text": "고대 주술의 무늬를 그린 탈리스.\n옛 체계의 술식이 현세대에도\n효과가 있는지는 알 수 없다.",
     "Enabled": true
   },
   "100213": {
     "OriginalText": "古代呪術により力を得た導具。\n人の形を物しただけの紙のようだが\n各々が自律行動を見せる不思議な武器。",
-    "Text": "A mysterious Talis that gained power\nthrough ancient magic. A conscious\npiece of paper in shape of a human.",
-    "Enabled": true
+    "Text": "고대 주술로 힘을 얻은 탈리스.\n사람 형태를 본뜬 종이처럼 보이지만,\n각각 스스로 움직이는 불가사의한 무기.",
+    "Enabled": false
   },
   "100214": {
     "OriginalText": "踊り子が決して手離さないという導具。\nゆらゆらと舞い踊るその姿は\n華美の一言につきる。",
-    "Text": "A Talis used by dancers. Only few\nwords can describe its magnificence\nwhen being waved.",
+    "Text": "무희가 결코 놓지 않는다는 탈리스.\n흔들흔들 춤추는 그 모습은\n한마디로 화려하다.",
     "Enabled": true
   },
   "100215": {
     "OriginalText": "カードゲーム用デバイスを戦闘用に\n改造した導具。カードゲーム愛好家の\n枠を超えて人気の特殊な武器。",
-    "Text": "A Talis modified from a device used\nin a card game. Popular weapon even\nthey're not fan of the card game.",
+    "Text": "카드 게임용 장치를 전투용으로\n개조한 탈리스. 카드 게임 애호가를\n넘어 널리 인기 있는 특수 무기.",
     "Enabled": true
   },
   "100216": {
     "OriginalText": "局地戦闘用に作られた導具。\n過酷な環境に備え、導具発射の機構も\n精密性と密閉性を重視している。",
-    "Text": "A Talis made for close range combat.\nIts launching mechanism proposes\nprecision and aerodynamics.",
+    "Text": "국지 전투용으로 만든 탈리스.\n가혹한 환경에 대비해 탈리스 발사 기구도\n정밀성과 밀폐성을 중시했다.",
     "Enabled": true
   },
   "100217": {
     "OriginalText": "ラッピーの羽根を物したものを放つ\n愛らしい導具。本洋の羽根は決して\n使ってはいません。……決して。",
-    "Text": "A lovely Talis that casts Rappy\nfeathers. It doesn't really use real\nfeathers.",
-    "Enabled": true
+    "Text": "랍피의 깃털을 본뜬 것을 발사하는\n사랑스러운 탈리스. 진짜 깃털은 결코\n쓰지 않았습니다. ...결코.",
+    "Enabled": false
   },
   "100218": {
     "OriginalText": "魂を込めたストレートを放つ導具。\n途中でチャージすれば止まる魔球に\n変化する。使いこなすには練習が必要。",
-    "Text": "A Talis that shoot straight from the\nsoul. It transforms into a ball when\ncharged. Needs practice to master it.",
+    "Text": "혼을 담은 직구를 발사하는 탈리스.\n도중에 차지하면 멈추는 마구로\n변한다. 제대로 다루려면 연습이 필요하다.",
     "Enabled": true
   },
   "100219": {
     "OriginalText": "込められた念が具現化する聖なる導具。\n使いこなせるかどうかは伝者の才能に\n大きく左右される。",
-    "Text": "A sacred instrument that embodies\nfeelings. The wielder's own abilities\ndictate how well they can use it.",
-    "Enabled": true
+    "Text": "담긴 염원이 실체화하는 성스러운 탈리스.\n제대로 다룰 수 있는지는 착용자의 재능에\n크게 좌우된다.",
+    "Enabled": false
   },
   "100220": {
     "OriginalText": "生命力の強い植洋由来の導具。\n美しくもはかないカードを射出し、\n戦場を刹那的に彩る。",
-    "Text": "A Talis made from a strong plant.\nCasts beautiful and colorful cards to\npaint the battlefield.",
-    "Enabled": true
+    "Text": "생명력이 강한 식물에서 비롯된 탈리스.\n아름답지만 덧없는 카드를 발사해\n찰나의 순간 전장을 물들인다.",
+    "Enabled": false
   },
   "100221": {
-    "OriginalText": "ゴルドスの素村を加工し武器転用\nした導具。射出されるニードルが\nあらゆる標的を深くえぐる。",
-    "Text": "A Talis made from Gordes material.\nThe casted needle goes very deep into\nevery target.",
+    "OriginalText": "ゴルドスの素材を加工し武器転用\nした導具。射出されるニードルが\nあらゆる標的を深くえぐる。",
+    "Text": "골도스의 소재를 가공해 무기로 전용한\n탈리스. 발사되는 바늘은\n온갖 표적을 깊이 도려낸다.",
     "Enabled": true
   },
   "100222": {
     "OriginalText": "ディートアスの生体を組み込んだ導具。\n撃しいレーザー照射と同等の威力を持つ\nカードを射出し、敵を圧倒する。",
-    "Text": "A Talis made from the living body of a\nDietoas. It shoots a card with the\nsame power as the radioactive laser.",
-    "Enabled": true
+    "Text": "디토아스의 생체를 넣은 탈리스.\n격렬한 레이저 조사와 동등한 위력의\n카드를 발사해 적을 압도한다.",
+    "Enabled": false
   },
   "100223": {
     "OriginalText": "星を覆うギガンテスの器官を組み込み\n試作された導具。この上ない安定を誇り\nカード射出においてぶれることがない。",
-    "Text": "A prototype Talis made from the organ\nof a giant Gigantes. It has extreme\nstability even when casting cards.",
+    "Text": "행성을 덮은 기간테스의 기관을 넣어\n시험 제작한 탈리스. 더없이 안정적이어서\n카드를 발사할 때 흔들리지 않는다.",
     "Enabled": true
   },
   "100224": {
     "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した導具。新設計の渦巻き形状\nにより射出力が大幅に向上した。",
-    "Text": "A Talis developed by ARKS. Its newly\ndesigned spiral shape has greatly\nimproved the casting output.",
-    "Enabled": true
+    "Text": "기존 무기에 만족하지 못한 아크스가\n독자 개발한 탈리스. 새로 설계한 소용돌이\n형태로 발사력이 크게 높아졌다.",
+    "Enabled": false
   },
   "100225": {
     "OriginalText": "とある文化圏のコインを使った導具。\n紐に通したコインの束からチャリーンと\n小気味よくカードが飛ぶのが爽快。",
-    "Text": "A Talis that uses coins and a string.\nIt's refreshing to cast a card with\nthe sound of the jingle of the coins.",
+    "Text": "어느 문화권의 동전을 사용한 탈리스.\n끈에 꿴 동전 묶음에서 짤랑 소리와 함께\n카드가 경쾌하게 날아가는 감각이 상쾌하다.",
     "Enabled": true
   },
   "100226": {
     "OriginalText": "生命力の強い植洋由来の導具。\n明るい恒星のようなカードを射出し、\n戦場の暑さを視覚的に和らげる。",
-    "Text": "A Talis made from a strong plant. It\nshoots bright star-like cards to\nrelieve the heat of the battlefield.",
-    "Enabled": true
+    "Text": "생명력이 강한 식물에서 비롯된 탈리스.\n밝은 항성 같은 카드를 발사해\n시각적으로 전장의 더위를 누그러뜨린다.",
+    "Enabled": false
   },
   "100227": {
     "OriginalText": "マグネトアスの生体を組み込んだ導具。\n使用者と一体化し、撃しいレーザー照射と\n同等の威力を持つカードを射出する。",
-    "Text": "A Talis made from the living body of a\nMagnetoas. It casts a card with the\nsame power as the radioactive laser.",
-    "Enabled": true
+    "Text": "마그네토아스의 생체를 넣은 탈리스.\n사용자와 일체화해 격렬한 레이저 조사와\n동등한 위력의 카드를 발사한다.",
+    "Enabled": false
   },
   "100228": {
     "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した導具。渦巻き角度の\n微調整により扱いやすさが向上した。",
-    "Text": "A Talis developed by ARKS. Ease of\nhandling is improved by refining the\nangle.",
-    "Enabled": true
+    "Text": "기존 무기에 만족하지 못한 아크스가\n독자 개발한 탈리스. 소용돌이 각도를\n미세 조정해 다루기 쉬워졌다.",
+    "Enabled": false
   },
   "100229": {
     "OriginalText": "アークスで正式採用されている短杖。\nテクニック行使における即応性に優れ\n初心者でも安定した法撃が可能。",
-    "Text": "A Wand officially adopted by ARKS. Has\nexcellent responsiveness in using\ntechniques, suitable for beginners.",
+    "Text": "아크스에서 정식 채용한 완드.\n테크닉 사용 시 신속하게 대응할 수 있어\n초보자도 안정적인 법격이 가능하다.",
     "Enabled": true
   },
   "100230": {
     "OriginalText": "アークスで使用される改良型の短杖。\n安定した重心そのままに大型化し\nさらに法撃力を向上させた。",
-    "Text": "An improved Wand used by ARKS. The\nsize has been increased and the attack\npower is improved.",
+    "Text": "아크스에서 사용하는 개량형 완드.\n안정된 무게중심은 유지하면서 대형화해\n법격력을 더욱 높였다.",
     "Enabled": true
   },
   "100231": {
     "OriginalText": "基礎モデルに改良を加えた短杖。\nシンメトリー構造の採用により燥作性と\n安定性が向上した次世代バージョン。",
-    "Text": "An improved Wand. A next-gen version\nwith improved usability and stability\ndue to its symmetric structure.",
-    "Enabled": true
+    "Text": "기본 모델을 개량한 완드.\n대칭 구조로 조작성과 안정성을\n높인 차세대 버전.",
+    "Enabled": false
   },
   "100232": {
     "OriginalText": "従来の概念を覆す特殊形状の短杖。\n安定したテクニック行使のために、\n従来の倍近い法撃力制御を可能にした。",
-    "Text": "A specially shaped Wand. Needs more\ncontrol to use it due to its almost\ndouble increase in attack power.",
+    "Text": "기존 개념을 뒤집는 특수 형태의 완드.\n안정적인 테크닉 사용을 위해\n기존의 거의 두 배에 달하는 법격력을 제어한다.",
     "Enabled": true
   },
   "100233": {
     "OriginalText": "双方の柄に伝飾を施した短杖。\n法撃時の感応力とバランスが\n非常に良く、扱いやすいと好評。",
-    "Text": "A Wand with a decorative design.\nPopular due to its excellent balance\nand ease of handling when attacking.",
-    "Enabled": true
+    "Text": "양쪽 자루에 장식을 더한 완드.\n법격 시 감응력과 균형이\n매우 좋아 다루기 쉽다는 호평을 받는다.",
+    "Enabled": false
   },
   "100234": {
     "OriginalText": "発堀された謎の古代短杖。\n解祈不能な法撃力を備えており、一定の\nテクニックが行使できないと使えない。",
-    "Text": "A mysterious ancient Wand. It has an\nunfathomable attack power and can only\nbe used with certain techniques.",
-    "Enabled": true
+    "Text": "발굴된 수수께끼의 고대 완드.\n분석 불가능한 법격력을 갖췄으며, 일정한\n테크닉을 사용할 수 있어야 다룰 수 있다.",
+    "Enabled": false
   },
   "100235": {
     "OriginalText": "折れにくく壊れにくい頑強な短杖。\nテクニック行使においても武器使用と\n同等の打撃ダメージを与える。",
-    "Text": "A very robust Wand. Even capable of\nusing techniques, it deals the same\ndamage as other Hunter weapons.",
+    "Text": "쉽게 부러지거나 망가지지 않는 견고한 완드.\n테크닉을 사용할 때도 무기를 쓸 때와\n동등한 타격 데미지를 준다.",
     "Enabled": true
   },
   "100236": {
-    "OriginalText": "強固な伝甲を伝着した短杖。\n全体の構成素村をより自然洋質に\n近づけ、法撃時の龍導率を上げた。",
-    "Text": "A Wand with a strong build. Its form\nis closer to the original, its\nconductivity increases when attacking.",
+    "OriginalText": "強固な装甲を装着した短杖。\n全体の構成素材をより自然物質に\n近づけ、法撃時の伝導率を上げた。",
+    "Text": "견고한 장갑을 장착한 완드.\n전체 구성 소재를 자연 물질에 더욱\n가깝게 해 법격 시 전도율을 높였다.",
     "Enabled": true
   },
   "100237": {
     "OriginalText": "先端に魔石を備えた短杖。\nテクニックの威力と共に、愛の力も\n増幅させるという。真偽は不明。",
-    "Text": "A Wand with a magic stone at the tip.\nAside from the power of techniques,\nit also amplifies the power of love.",
+    "Text": "끝에 마석을 갖춘 완드.\n테크닉의 위력과 함께 사랑의 힘도\n증폭한다고 한다. 진위는 알 수 없다.",
     "Enabled": true
   },
   "100238": {
     "OriginalText": "かつて万洋の敵と恐れられた怪洋が\n所持していたとされる短杖。\n非常に重く、短杖とは思えない武器。",
-    "Text": "A Wand that is rumored to be possessed\nby a scary monster. A very heavy\nweapon that doesn't look like a Wand.",
-    "Enabled": true
+    "Text": "과거 만물의 적으로 두려움의 대상이었던 괴물이\n소유했다고 하는 완드.\n매우 무거워 완드라고 믿기 힘든 무기.",
+    "Enabled": false
   },
   "100239": {
     "OriginalText": "常しえの巫女が抱いたとされる短杖。\n龍承に残るのみの存在だが、伝者は\n神々しいまでの輝きに包まれるらしい。",
-    "Text": "A Wand that seems to have been used\nby a shrine maiden. It seems the user\nwrapped it with a divine brilliance.",
-    "Enabled": true
+    "Text": "영원한 무녀가 품었다고 하는 완드.\n전승에만 남은 존재지만, 착용자는\n신성할 만큼 찬란한 빛에 둘러싸인다고 한다.",
+    "Enabled": false
   },
   "100240": {
     "OriginalText": "火山に存在した鉱石を回収し\n短杖として再構成した武器。\nほのかに磁力を帯びている。",
-    "Text": "A Wand made from an ore from a\ncertain volcano. It has a faint\nmagnetic energy.",
+    "Text": "화산에 있던 광석을 회수해\n완드로 다시 구성한 무기.\n은은한 자성을 띤다.",
     "Enabled": true
   },
   "100241": {
     "OriginalText": "雪の結晶を物して作られた短杖。\n行使されるテクニックもどこか氷たく\n貴くように研ぎ澄まされている。",
-    "Text": "A Wand made from snowflakes. The\npower of techniques is enhanced with\nits icy nature.",
-    "Enabled": true
+    "Text": "눈 결정을 본떠 만든 완드.\n사용하는 테크닉도 어딘가 차갑고,\n꿰뚫을 듯 예리하게 다듬어졌다.",
+    "Enabled": false
   },
   "100242": {
     "OriginalText": "ファンタジックな形状をした短杖。\n見た目に反して、性能は非常に高く\n振り回されてしまうアークスが続出。",
-    "Text": "A Wand with a fantastic shape. Contrary\nto its appearance, its performance and\nease of handling is excellent.",
+    "Text": "환상적인 형태를 갖춘 완드.\n외형과 달리 성능은 매우 높아\n오히려 무기에 휘둘리는 아크스가 속출한다.",
     "Enabled": true
   },
   "100243": {
     "OriginalText": "先端に悪魔の目を備えた短杖。\n相手の命を軽々奪うほどに強力だが\n使用者の精神力も奪っていく。",
-    "Text": "A Wand with a devil's eyes. It can\ntake the life of the enemy, but also\ntakes the mentality of the user.",
+    "Text": "끝에 악마의 눈을 갖춘 완드.\n상대의 목숨을 쉽게 빼앗을 만큼 강력하지만,\n사용자의 정신력도 빼앗는다.",
     "Enabled": true
   },
   "100244": {
     "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n短杖。テクニックと連動した保熱構造で\n溶岩の状態で安定し出力を補助する。",
-    "Text": "A Wand forged from a rare ore. Its\nheat absorption feature maintains its\nhot state and increase the output.",
+    "Text": "일부 우주 영역에 편중된 특수 광석을 단련한\n완드. 테크닉과 연동한 보열 구조로\n용암 상태에서 안정돼 출력을 보조한다.",
     "Enabled": true
   },
   "100245": {
     "OriginalText": "バンクゥ種の宝石を加工した短杖。\n黄色い３つの眼石が共鳴して\n法撃をアシストする。",
-    "Text": "A Wand made from a Ban'qu gem. The 3\nyellow eye stones vibrates to help\nincrease the attack power.",
+    "Text": "방쿠 종의 보석을 가공한 완드.\n노란 3개의 눈 보석이 공명해\n법격을 보조한다.",
     "Enabled": true
   },
   "100246": {
     "OriginalText": "生命力の強い植洋由来の短杖。\nＤＮＡ解祈により老木の固い幹を再現し\n美術工芸品としても人気の一品。",
-    "Text": "A Wand made from a strong plant. A\npopular artistic weapon created from\nthe DNA of an ancient tree.",
-    "Enabled": true
+    "Text": "생명력이 강한 식물에서 비롯된 완드.\nDNA 분석으로 오래된 나무의 단단한 줄기를 재현해\n미술 공예품으로도 인기 있는 명품.",
+    "Enabled": false
   },
   "100247": {
     "OriginalText": "アルキュオネの生体組織を培養し\n組み込んだ短杖。その力はオリジナルに\n匹敵し、火炎のような法撃をくり出す。",
-    "Text": "A Wand made from the body tissue of an\nAlcyone. Same power as its origin, it\nalso fires a flame-like attack.",
+    "Text": "알키오네의 생체 조직을 배양해\n넣은 완드. 그 힘은 원형에\n필적하며 불꽃 같은 법격을 펼친다.",
     "Enabled": true
   },
   "100248": {
     "OriginalText": "ギュゲンテのパーツを組み込んだ短杖。\n法撃になじみやすい曲線が使用者の\nテクニックを最大限に引き出す。",
-    "Text": "A Wand made from Gygante parts. Each\nattack swing enhances the user's\ntechniques.",
+    "Text": "규겐테의 부품을 넣은 완드.\n법격에 잘 어울리는 곡선이 사용자의\n테크닉을 최대한 이끌어 낸다.",
     "Enabled": true
   },
   "100249": {
     "OriginalText": "星を覆うギガンテスの器官を組み込み\n試作された短杖。使用者に呼吸を合わせ\n最良のタイミングで法撃を補助する。",
-    "Text": "A prototype Wand made from a giant\nGigantes' organ. Boosts attack when\nsynchronized with the user's breathing.",
+    "Text": "행성을 덮은 기간테스의 기관을 넣어\n시험 제작한 완드. 사용자와 호흡을 맞춰\n최적의 타이밍에 법격을 보조한다.",
     "Enabled": true
   },
   "100250": {
     "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した短杖。羽根飾りのような\n法撃機構が最大級の力を引き出す。",
-    "Text": "A Wand originally made by ARKS. The\nattack mechanism of the feather\nornament brings out the maximum power.",
-    "Enabled": true
+    "Text": "기존 무기에 만족하지 못한 아크스가\n독자 개발한 완드. 깃털 장식 같은\n법격 기구가 최대급의 힘을 이끌어 낸다.",
+    "Enabled": false
   },
   "100251": {
     "OriginalText": "ラッピーをそのまま象った短杖。\nどこを持てばいいのか長らく論争が続いたが、\n職人が尾部に穴を作ることで決着した。",
-    "Text": "A Wand that looks like a Rappy. Puzzled\nwhere to put the handle, the craftsman\ndecided to put it at the bottom.",
+    "Text": "랍피를 그대로 본뜬 완드.\n어디를 잡아야 하는지 오랫동안 논쟁이 있었지만,\n장인이 꼬리에 구멍을 뚫어 결론이 났다.",
     "Enabled": true
   },
   "100252": {
     "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n短杖。テクニックと連動した保熱構造で\n劇結した状態で安定し出力を補助する。",
-    "Text": "A Wand forged from a rare ore. Its heat\nabsorption feature and frozen state\nhelps stabilize the techniques.",
-    "Enabled": true
+    "Text": "일부 우주 영역에 편중된 특수 광석을 단련한\n완드. 테크닉과 연동한 보열 구조로\n얼어붙은 상태에서 안정돼 출력을 보조한다.",
+    "Enabled": false
   },
   "100253": {
     "OriginalText": "トネルバンクゥの宝石を加工した短杖。\n宝飾品としての人気も高く、将来\n乱獲による捕獲制限が心配な一品。",
-    "Text": "A Wand made from a Toner Ban'qu gem.\nVery popular as a jewelry. A restriction\nwas set to prevent overfishing.",
+    "Text": "토넬방쿠의 보석을 가공한 완드.\n보석 장식으로도 인기가 높아 앞으로\n남획에 따른 포획 제한이 걱정되는 물건.",
     "Enabled": true
   },
   "100254": {
     "OriginalText": "リベルゲンテのパーツを組み込んだ短杖。\n毒々しい黄色の色合いが、見た目にも\n敵を威圧し、戦意を喪失させる。",
-    "Text": "A Wand made from Libelgante parts. The\npoisonous yellow tint intimidates the\nenemy and then weakens them.",
+    "Text": "리벨겐테의 부품을 넣은 완드.\n독을 연상시키는 노란 색감이 시각적으로도\n적을 위압해 전의를 상실시킨다.",
     "Enabled": true
   },
   "100255": {
     "OriginalText": "濃存の武器に既足できないアークスが\n独自開発した短杖。法撃機構の再設計で\n放熱性と耐熱性が向上した。",
-    "Text": "A Wand originally made by ARKS. They\nredesign the attack mechanism to\nimprove heat resistance and dissipation.",
-    "Enabled": true
+    "Text": "기존 무기에 만족하지 못한 아크스가\n독자 개발한 완드. 법격 기구를 다시 설계해\n방열성과 내열성을 높였다.",
+    "Enabled": false
   },
   "100256": {
     "OriginalText": "オルターの技術により新規開発された撃杭。\nブースターの力で遠距離に向けて\n杭を射出する。パワフルな大型武器。",
-    "Text": "A newly developed weapon created by Alter.\nA powerful weapon that is capable of injecting\na pile over long distances using a booster.",
+    "Text": "얼터의 기술로 새로 개발한 파일.\n부스터의 힘으로 원거리를 향해\n말뚝을 발사하는 강력한 대형 무기.",
     "Enabled": true
   },
   "100257": {
     "OriginalText": "オルターの技術により新規開発された撃杭。\nロケット機構を補助的に制御する機器を\n組み込み、理想的な推進速度を実現。",
-    "Text": "A Pile newly developed by the Alter\nCorps. Achieves ideal rocket propulsion\nspeed by adding a support control.",
+    "Text": "얼터의 기술로 새로 개발한 파일.\n로켓 기구를 보조적으로 제어하는 장치를\n넣어 이상적인 추진 속도를 실현했다.",
     "Enabled": true
   },
   "100258": {
     "OriginalText": "オルターの技術により新規開発された撃杭。\nロケットノズルの大型化により\n射出力が飛躍的に向上した。",
-    "Text": "A Pile newly developed by the Alter\nCorps. The larger rocket nozzle\nimproved the shooting output.",
+    "Text": "얼터의 기술로 새로 개발한 파일.\n로켓 노즐을 대형화해\n발사력을 비약적으로 높였다.",
     "Enabled": true
   },
   "100259": {
     "OriginalText": "改良が進んだ新型の撃杭。パワフルな\nブーストを追求し、ロケットの大型化と\n主軸の強化という答えに行き着いた。",
-    "Text": "An improved Pile. The size of the\nrocket and the strength of the spindle\nwas increased for more powerful boost.",
+    "Text": "개량이 진행된 신형 파일. 강력한\n부스트를 추구한 끝에 로켓 대형화와\n주축 강화라는 답에 도달했다.",
     "Enabled": true
   },
   "100260": {
     "OriginalText": "改良が進んだ新型の撃杭。大型化に\n歯止めをかけ、シルエットを洗練し、\nアークスらしさに回帰した意欲作。",
-    "Text": "An improved new-type Pile. Keeping its\nsize while refining its appearance\nsimilar to ARKS design.",
+    "Text": "개량이 진행된 신형 파일. 대형화를\n억제하고 실루엣을 다듬어\n아크스다운 모습으로 회귀한 야심작.",
     "Enabled": true
   },
   "100261": {
     "OriginalText": "オルターの持てる技術のすべてを\n注ぎ込んだ撃杭。先鋭的フォルムと\n最高の攻撃力が奇跡のコラボを実現。",
-    "Text": "A Pile developed by the Alter Corps.\nIts sharp form and high attack power\nis a miracle combination.",
+    "Text": "얼터가 가진 기술 전부를\n쏟아부은 파일. 첨예한 형태와\n최고의 공격력이 기적적으로 어우러졌다.",
     "Enabled": true
   },
   "100262": {
     "OriginalText": "武器研究に熱意なアークスが独自開発\nした撃杭。こだわり抜いた形状の杭は\n深い返しが特微的で標的に深く刺さる。",
-    "Text": "A Pile originally made by ARKS. The\npile is carefully shaped with a special\nbarb to pierce the target deeply.",
-    "Enabled": true
+    "Text": "무기 연구에 열성인 아크스가 독자 개발한\n파일. 심혈을 기울인 형태의 말뚝은\n깊은 미늘이 특징으로 표적을 깊이 찌른다.",
+    "Enabled": false
   },
   "100263": {
     "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n撃杭。ロケットノズルの固定パーツにも\nふんだんに晶石を使用し強度を上げた。",
-    "Text": "A Pile forged from a rare ore. They\nused crystal stones to create the\nrocket nozzle to increase the power.",
+    "Text": "일부 우주 영역에 편중된 특수 광석을 단련한\n파일. 로켓 노즐의 고정 부품에도\n결정석을 풍부하게 사용해 강도를 높였다.",
     "Enabled": true
   },
   "100264": {
     "OriginalText": "ロヴラッピーのジェットパックを改造\nした撃杭。シンプル構造だが扱いやすい\n特性が生かされ、軽量なのも人気。",
-    "Text": "A Pile remodeled from a Rove Rappy\njetpack. Its popular because it's easy\nto handle and lightweight.",
+    "Text": "로브 랍피의 제트팩을 개조한\n파일. 단순하지만 다루기 쉬운 구조를\n살렸으며 가벼운 점도 인기를 끈다.",
     "Enabled": true
   },
   "100265": {
     "OriginalText": "生命力の強い植洋由来の撃杭。樹齢が\n数千年を超える太い幹から削り出された\n硬木製のノズルは振動吸収に優れる。",
-    "Text": "A Pile made from a strong plant. The\nnozzle carved from an ancient tree has\nexcellent vibration absorption.",
-    "Enabled": true
+    "Text": "생명력이 강한 식물에서 비롯된 파일. 수령이\n수천 년을 넘는 굵은 줄기에서 깎아 낸\n단단한 나무 노즐은 진동 흡수가 뛰어나다.",
+    "Enabled": false
   },
   "100266": {
     "OriginalText": "アグリオス種の伝甲を一部流用した撃杭。\n奇跡的な硬構造がいかんなく発揮され\nあらゆる局面を打開する。",
-    "Text": "A Pile made from Agrios armor. Its\nmiraculous hard structure is almost\nresistant to all kinds of damage.",
-    "Enabled": true
+    "Text": "아그리오스 종의 장갑 일부를 전용한 파일.\n기적적인 경질 구조의 성능을 남김없이 발휘해\n어떤 국면에서도 돌파구를 연다.",
+    "Enabled": false
   },
   "100267": {
-    "OriginalText": "エウリュードの生体機能を物した撃杭。\n斬撃可能な設計を追求した結果、\n最適な素村として行き着いた。",
-    "Text": "A Pile made from a living body of a\nEurude. They achieve similar design\nwith optimum material usage.",
+    "OriginalText": "エウリュードの生体機能を模した撃杭。\n斬撃可能な設計を追求した結果、\n最適な素材として行き着いた。",
+    "Text": "에우류드의 생체 기능을 본뜬 파일.\n참격도 가능한 설계를 추구한 끝에\n최적의 소재로 선택됐다.",
     "Enabled": true
   },
   "100268": {
     "OriginalText": "アルキュオネの生体機構を物した撃杭。\nあらゆる的に深く突き刺さり、\nさらに高熱によるダメージを与える。",
-    "Text": "A Pile made from a living body of an\nAlcyone. It can pierce very deep due\nto the intense heat.",
-    "Enabled": true
+    "Text": "알키오네의 생체 기구를 본뜬 파일.\n어떤 표적도 깊숙이 찌르고,\n고열로 추가 데미지를 준다.",
+    "Enabled": false
   },
   "100269": {
     "OriginalText": "ギュゲンテの列車砲を物した撃杭。\n刺さりやすく抜けにくい尖端構造が\nパイルの特性に最適と評価された。",
-    "Text": "A Pile made from Gygante's railgun.\nThe pile's structure is optimized for\neasy piercing while hard to remove.",
-    "Enabled": true
+    "Text": "규겐테의 열차포를 본뜬 파일.\n잘 박히고 잘 빠지지 않는 끝부분 구조가\n파일의 특성에 최적이라는 평가를 받았다.",
+    "Enabled": false
   },
   "100270": {
     "OriginalText": "ガラティオンの器官を物した撃杭。\nワイヤーアンカーをしのぐ強烈な\n射出力で、どこにでも刺さる。",
-    "Text": "A Pile made from the organs of a\nGaration. Its strong shooting power\nsurpasses Garation's wire anchors.",
-    "Enabled": true
+    "Text": "갈라티온의 기관을 본뜬 파일.\n와이어 앵커보다도 강력한\n발사력으로 어디든 박힌다.",
+    "Enabled": false
   },
   "100271": {
     "OriginalText": "星を覆うギガンテスの器官を組み込み\n試作された撃杭。なめらかなリロードが\n特微的で、優雅な射出で使用者を跡了。",
-    "Text": "A prototype Pile made from an organ of\na giant Gigantes. The reload action is\nsmooth and the pile is traceable.",
-    "Enabled": true
+    "Text": "행성을 덮은 기간테스의 기관을 넣어\n시험 제작한 파일. 매끄러운 재장전이\n특징이며 우아한 발사로 사용자를 매료한다.",
+    "Enabled": false
   },
   "100272": {
     "OriginalText": "デルタ・ヴァリアントを物した撃杭。\n頑強な構造と高い出力がそのまま\n再現された、クルーの心の拠り所。",
-    "Text": "A Pile that looks like the Delta\nValiant. Its strong frame and power is\nmade the same as the heart of the crew.",
-    "Enabled": true
+    "Text": "델타 발리언트를 본뜬 파일.\n견고한 구조와 높은 출력을 그대로\n재현한, 크루의 마음의 버팀목.",
+    "Enabled": false
   },
   "100273": {
     "OriginalText": "呪われた魔女の撃杭。アンティークな\n伝いの中にたたずむ黒猫が狙いすまし、\n標的の心臓に光る杭を突き立てる。",
-    "Text": "A cursed witch's Pile. With a black\ncat attached, it thrusts a shining\npile into the target's heart.",
-    "Enabled": true
+    "Text": "저주받은 마녀의 파일. 앤티크한\n차림 속 검은 고양이가 조준해\n표적의 심장에 빛나는 말뚝을 꽂는다.",
+    "Enabled": false
   },
   "100274": {
     "OriginalText": "ブースターの出力を微調整した撃杭。\nパワフルな大型武器としての跡力を\n損なわずエレガントな色合いを追求。",
-    "Text": "A Pile with finely tuned booster\noutput. Even with elegant colors, it\ndidn't lose its tracking ability.",
-    "Enabled": true
+    "Text": "부스터의 출력을 미세 조정한 파일.\n강력한 대형 무기로서의 매력은\n유지하면서 우아한 색감을 추구했다.",
+    "Enabled": false
   },
   "100275": {
     "OriginalText": "改良が進んだ新型の撃杭。主軸の耐久性\n向上を主眼に全体を再構成し、ベース\nカラーを一新した次世代モデル。",
-    "Text": "An improved new-type Pile. A next-gen\nmodel completely redesigned to improve\nthe durability of the spindle.",
+    "Text": "개량이 진행된 신형 파일. 주축의 내구성\n향상을 중심으로 전체를 재구성하고 기본\n컬러를 새롭게 바꾼 차세대 모델.",
     "Enabled": true
   },
   "100276": {
     "OriginalText": "改良が進んだ新型の撃杭。アークス\nらしさにより一層のこだわりを求め、\n人気色による特別モデルとして完成。",
-    "Text": "An improved new-type Pile. A popular\ncolorful model that tries to mimic\nthe ARKS unique design style.",
+    "Text": "개량이 진행된 신형 파일. 아크스다운\n모습을 한층 더 고집하며\n인기 색상의 특별 모델로 완성했다.",
     "Enabled": true
   },
   "100277": {
     "OriginalText": "オルターの持てる技術のすべてを\n注ぎ込んだ撃杭。採算度外視でパーツを\nすべてコートし直した、輝く高級品。",
-    "Text": "A Pile made by the Alter Corps. A\nshiny luxurious weapon redesigned\nwithout thinking about profitability.",
+    "Text": "얼터가 가진 기술 전부를\n쏟아부은 파일. 수지타산을 무시하고 모든 부품을\n다시 코팅한 빛나는 고급품.",
     "Enabled": true
   },
   "100278": {
-    "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n撃杭。ブースターの加熱を防ぐ新素村を\n採用し、長時間でも安定した使い心地。",
-    "Text": "A Pile forged from a rare ore.\nRedesigned to prevent overheating, it\nis stable and comfortable to use.",
+    "OriginalText": "一部星域に偏在する特殊鉱石を鍛えた\n撃杭。ブースターの加熱を防ぐ新素材を\n採用し、長時間でも安定した使い心地。",
+    "Text": "일부 우주 영역에 편중된 특수 광석을 단련한\n파일. 부스터의 가열을 막는 새 소재로\n장시간 사용해도 안정적인 사용감을 준다.",
     "Enabled": true
   },
   "100279": {
-    "OriginalText": "レウ・ロヴラッピーのジェットパックを\n改造した撃杭。シンプル構造そのままに\n強度を増した人気色による再生汎品。",
-    "Text": "A Pile remodeled from a Leu Rove Rappy\njetpack. It has an enhanced strength\nwhile keeping its simple design.",
+    "OriginalText": "レウ・ロヴラッピーのジェットパックを\n改造した撃杭。シンプル構造そのままに\n強度を増した人気色による再生産品。",
+    "Text": "레우 로브 랍피의 제트팩을\n개조한 파일. 단순한 구조에 강도를 더한\n인기 색상의 재생산품.",
     "Enabled": true
   },
   "100280": {
     "OriginalText": "ヴィヴリュードの生体機能を物した撃杭。\n大きめのエネルギー貯蔵ユニットが\n力強い打ち込み攻撃を実現する。",
-    "Text": "A Pile made from a living body of a\nVivryude. The larger energy storage\nunit delivers powerful driving attacks.",
-    "Enabled": true
+    "Text": "비브류드의 생체 기능을 본뜬 파일.\n커다란 에너지 저장 유닛으로\n강력하게 때려 박는 공격을 실현했다.",
+    "Enabled": false
   },
   "100281": {
     "OriginalText": "オルターの技術により新規開発された光輪具。\n３本１組の触媒からグランの力場を\n生成するという、新発想の武器。",
-    "Text": "A Halo newly developed by the Alter\nCorps. It can create a Gran force\nfield from its set of 3 catalysts.",
+    "Text": "얼터의 기술로 새로 개발한 헤일로.\n3개가 1조인 촉매로 그란의 역장을\n만들어 내는 새로운 발상의 무기.",
     "Enabled": true
   },
   "100282": {
     "OriginalText": "オルターの技術により新規開発された光輪具。\n高速回転する復数のリングの干渉から\n生まれる強い反発力で攻撃する。",
-    "Text": "A Halo made by the Alter Corps. Can\nattack with a strong repulsive force\ngenerated from the rotating rings.",
-    "Enabled": true
+    "Text": "얼터의 기술로 새로 개발한 헤일로.\n고속 회전하는 여러 고리의 간섭으로\n발생하는 강한 반발력으로 공격한다.",
+    "Enabled": false
   },
   "100283": {
     "OriginalText": "オルターの技術により新規開発された光輪具。\n３本の触媒が放つ光子が互いに\n反発し合う強い力で攻撃する。",
-    "Text": "A Halo made by the Alter Corps. The\nphotons emitted by the 3 catalysts is\nstrong enough to repel each other.",
+    "Text": "얼터의 기술로 새로 개발한 헤일로.\n3개의 촉매가 발하는 광자가 서로\n반발하는 강한 힘으로 공격한다.",
     "Enabled": true
   },
   "100284": {
     "OriginalText": "球形の力場を生成する光輪具。\n渦巻く光子は共鳴によって輝きを増し、\n攻撃時に最大となる。",
-    "Text": "A Halo that creates a force field.\nThe swirling lights shine brighter due\nto resonance, enhancing its attack.",
+    "Text": "구형 역장을 생성하는 헤일로.\n소용돌이치는 광자는 공명으로 빛을 더하며,\n공격할 때 최대에 이른다.",
     "Enabled": true
   },
   "100285": {
     "OriginalText": "火の玉のような力場を生成する光輪具。\n燃え盛る火焔そのままのシルエットは\n視覚的にも敵を萎温させる。",
-    "Text": "A Halo that creates a fireball-like\nforce field. The image of the fiery\nflame feels like its warming the enemy.",
-    "Enabled": true
+    "Text": "불덩어리 같은 역장을 생성하는 헤일로.\n타오르는 화염 그대로의 실루엣이\n시각적으로도 적을 위축시킨다.",
+    "Enabled": false
   },
   "100286": {
     "OriginalText": "スパーク状態の力場を生成する光輪具。\n青白い輝きが氷たく周囲を照らし出し、\n自然の落雷に匹敵する攻撃をくり出す。",
-    "Text": "A glowing Halo that creates an\nelectrified force field. Its attack is\ncomparable to an actual lighting strike.",
-    "Enabled": true
+    "Text": "스파크 상태의 역장을 생성하는 헤일로.\n푸르스름한 빛이 차갑게 주변을 비추며,\n자연의 낙뢰에 필적하는 공격을 펼친다.",
+    "Enabled": false
   },
   "100287": {
     "OriginalText": "安定した力場を生成する光輪具。\n触媒作用の最適化により、\n理想的な配列で光子が展開される。",
-    "Text": "A Halo that creates a stable force\nfield. The optimized catalysis unfolds\nthe photons in an ideal arrangement.",
+    "Text": "안정적인 역장을 생성하는 헤일로.\n촉매 작용의 최적화로\n광자를 이상적인 배열로 전개한다.",
     "Enabled": true
   },
   "100288": {
     "OriginalText": "エウリュードのリボルバーを物した\n力場を生成する光輪具。洋理的な\n連続砲撃に匹敵する攻撃が可能。",
-    "Text": "A Halo that looks like Eurude's\nrevolver. Its attack power is\ncomparable to an actual bombardment.",
-    "Enabled": true
+    "Text": "에우류드의 리볼버를 본뜬\n역장을 생성하는 헤일로. 물리적인\n연속 포격에 필적하는 공격이 가능하다.",
+    "Enabled": false
   },
   "100289": {
     "OriginalText": "アグリオスの主砲を物した力場を\n生成する光輪具。巨大光子による\n強力な砲撃を見舞う。",
-    "Text": "A Halo that looks like a main gun of\nan Agrios. It can fire a powerful\nbombardment of light.",
-    "Enabled": true
+    "Text": "아그리오스의 주포를 본뜬 역장을\n생성하는 헤일로. 거대한 광자로\n강력한 포격을 가한다.",
+    "Enabled": false
   },
   "100290": {
     "OriginalText": "アルキュオネの触手を物した力場を\n生成する光輪具。それ自体が意志を\n持つかのように不気味にうごめく。",
-    "Text": "A Halo that creates a force field that\nlooks like the tentacles of Alcyone.\nIt moves eerily on its own.",
-    "Enabled": true
+    "Text": "알키오네의 촉수를 본뜬 역장을\n생성하는 헤일로. 그 자체가 의지를\n가진 것처럼 기괴하게 꿈틀거린다.",
+    "Enabled": false
   },
   "100291": {
     "OriginalText": "ガラティオンの鎖鋸翼を物した力場を\n生成する光輪具。触媒の周囲を高速で\n回転するまばゆい光子が敵を切り裂く。",
-    "Text": "A Halo the resembles a Garation\nchainsaw wing. The dazzling light that\nrotates can cut through the enemy.",
-    "Enabled": true
+    "Text": "갈라티온의 사슬톱 날개를 본뜬 역장을\n생성하는 헤일로. 촉매 주변을 고속으로\n회전하는 눈부신 광자가 적을 베어 찢는다.",
+    "Enabled": false
   },
   "100292": {
     "OriginalText": "ギュゲンテの列車砲を物した力場を\n生成する光輪具。標的を深くえぐる\nドリルは確かな手応えがあると評判。",
-    "Text": "A Halo that looks like the Gygante's\nrailgun. The drill that goes deep into\nthe target is very solid.",
-    "Enabled": true
+    "Text": "규겐테의 열차포를 본뜬 역장을\n생성하는 헤일로. 표적을 깊이 도려내는\n드릴은 확실한 손맛으로 호평받는다.",
+    "Enabled": false
   },
   "100293": {
     "OriginalText": "バンクゥの三尾の晶石を物した力場を\n生成する光輪具。瞬く光子を散らし、\n愛らしい攻撃をくり出す。",
-    "Text": "A Halo that looks like a Ban'qu gem.\nIt scatters light in a blink of an\neye and launches a charming attack.",
-    "Enabled": true
+    "Text": "방쿠의 세 꼬리 결정석을 본뜬 역장을\n생성하는 헤일로. 반짝이는 광자를 흩뿌려\n사랑스러운 공격을 펼친다.",
+    "Enabled": false
   },
   "100294": {
     "OriginalText": "植洋を物した力場を生成する光輪具。\n風になびく草花のように、優美で\nしなやかな攻撃をくり出す。",
-    "Text": "A Halo that looks like a plant. Its\nflowers flutter in the wind, and it\nfires a graceful and flexible attack.",
-    "Enabled": true
+    "Text": "식물을 본뜬 역장을 생성하는 헤일로.\n바람에 나부끼는 풀과 꽃처럼 우아하고\n유연한 공격을 펼친다.",
+    "Enabled": false
   },
   "100295": {
     "OriginalText": "晶石を物した力場を生成する光輪具。\n抜群の強度と硬度を誇り、\nその輝きはまさに永遠の美しさ。",
-    "Text": "A Halo that looks like a crystal. It\nboasts super strength and hardness,\nits brilliance is an eternal beauty.",
-    "Enabled": true
+    "Text": "결정석을 본뜬 역장을 생성하는 헤일로.\n뛰어난 강도와 경도를 갖췄으며,\n그 빛은 그야말로 영원한 아름다움이다.",
+    "Enabled": false
   },
   "100296": {
     "OriginalText": "求愛効果のある力場を生成する光輪具。\nいついかなる時も、どんな相手とも\nラブラブになれる副次的作用がある。",
-    "Text": "A Halo with a romantic effect. There's\na side effect in which you could fall\nin love with anyone anytime.",
+    "Text": "구애 효과가 있는 역장을 생성하는 헤일로.\n언제 어떤 때든 어떤 상대와도\n사랑에 빠지게 하는 부수적인 작용이 있다.",
     "Enabled": true
   },
   "100297": {
     "OriginalText": "呪詛効果のある力場を生成する光輪具。\nいついかなる時も、どんな相手をも\n不幸のどん底に陥れる作用がある。",
-    "Text": "A cursed Halo that creates a force\nfield. It can plunge any user into\nthe depths of misery at any time.",
+    "Text": "저주 효과가 있는 역장을 생성하는 헤일로.\n언제 어떤 때든 어떤 상대라도\n불행의 밑바닥으로 떨어뜨리는 작용이 있다.",
     "Enabled": true
   },
   "100298": {
     "OriginalText": "星を覆うギガンテスを物した力場を\n生成する光輪具。赤い光の粒が旋回し\n衝突時の撃しい衝撃を予期させる。",
-    "Text": "A Halo that looks like the giant\nGigantes. The red light particles swirl\nand anticipate the collision impact.",
-    "Enabled": true
+    "Text": "행성을 덮은 기간테스를 본뜬 역장을\n생성하는 헤일로. 붉은 빛 입자가 선회해\n충돌 시 격렬한 충격을 예감하게 한다.",
+    "Enabled": false
   },
   "100299": {
     "OriginalText": "オルターの技術により新規開発された光輪具。\n中心核を周回する光子が出力を増幅し\n攻撃時に最適な状態で発動される。",
-    "Text": "A Halo created by the Alter Corps. The\nlight orbiting the core amplifies the\npower at the moment of the attack.",
+    "Text": "얼터의 기술로 새로 개발한 헤일로.\n중심핵을 도는 광자가 출력을 증폭해\n공격 시 최적인 상태로 작동한다.",
     "Enabled": true
   },
   "100300": {
     "OriginalText": "オルターの技術により新規開発された光輪具。\n復数のリングの回転がさらに高速化し、\n干渉による反発力も強化された。",
-    "Text": "A Halo created by the Alter Corps. The\nrotation of the ring is faster, and\nthe repulsive force is also enhanced.",
-    "Enabled": true
+    "Text": "얼터의 기술로 새로 개발한 헤일로.\n여러 고리의 회전이 더욱 빨라져\n간섭에 의한 반발력도 강화됐다.",
+    "Enabled": false
   },
   "100301": {
     "OriginalText": "火の玉のような力場を生成する光輪具。\n燃え盛る鬼火を思わせるシルエットが\n超常現象的な恐怖心を敵に与える。",
-    "Text": "A Halo with a fireball-like force\nfield. The image of a burning demon\ngives the enemy a ghastly fear.",
+    "Text": "불덩어리 같은 역장을 생성하는 헤일로.\n타오르는 도깨비불 같은 실루엣이\n적에게 초자연적인 공포를 안겨 준다.",
     "Enabled": true
   },
   "100302": {
     "OriginalText": "スパーク状態の力場を生成する光輪具。\n触媒の作用で安定しているが\n取り扱いには細心の注意が必要。",
-    "Text": "A Halo with an electrified force field.\nIt is stable due to the catalyst, but\nneeds extra care when using it.",
+    "Text": "스파크 상태의 역장을 생성하는 헤일로.\n촉매 작용으로 안정돼 있지만,\n취급에는 세심한 주의가 필요하다.",
     "Enabled": true
   },
   "100303": {
     "OriginalText": "安定した力場を生成する光輪具。\nハニカム配列の光子は\n低密度でも抜群の強度を発揮する。",
-    "Text": "A Halo with a stable force field. The\nhoneycomb light arrays shows\nexcellent strength even at low density.",
+    "Text": "안정적인 역장을 생성하는 헤일로.\n벌집 배열의 광자는\n밀도가 낮아도 뛰어난 강도를 발휘한다.",
     "Enabled": true
   },
   "100304": {
     "OriginalText": "バンクゥの三尾の晶石を物した力場を\n生成する光輪具。紫水晶の光子は\n敵味方なく見る者を跡了する。",
-    "Text": "A Halo that looks like a Ban'qu gem.\nThe amethyst lights tracks the\nobserver be it enemy or ally.",
-    "Enabled": true
+    "Text": "방쿠의 세 꼬리 결정석을 본뜬 역장을\n생성하는 헤일로. 자수정 광자는\n적과 아군을 가리지 않고 보는 자를 매료한다.",
+    "Enabled": false
   },
   "100305": {
     "OriginalText": "花弁を物した力場を生成する光輪具。\nとある惑星の春を思わせる、美しく\nはかない攻撃は見ていて飽きない。",
-    "Text": "A Halo with a flowery force field. It\nhas beautiful and ephemeral attacks\nthat is reminiscent of spring.",
-    "Enabled": true
+    "Text": "꽃잎을 본뜬 역장을 생성하는 헤일로.\n어느 행성의 봄을 떠올리게 하는 아름답고\n덧없는 공격은 보고 있어도 질리지 않는다.",
+    "Enabled": false
   },
   "100306": {
     "OriginalText": "とある惑星の人気キャラクターの手首を\n物した鋼拳。青い被り洋とセットで\n使用すれば、なりきり度がアップする。",
-    "Text": "A Knuckles that looks like a fist of\na popular character. Wear a blue\nheadgear to complete the costume.",
-    "Enabled": true
+    "Text": "어느 행성의 인기 캐릭터 손목을\n본뜬 너클. 푸른 머리 장식과 함께\n사용하면 캐릭터를 더 실감 나게 흉내 낼 수 있다.",
+    "Enabled": false
   },
   "100307": {
     "OriginalText": "とある惑星の人気キャラクターの手首を\n物した鋼拳。青い被り洋とセットで\n使用すれば、なりきり度がアップする。",
-    "Text": "A Knuckles that looks like a fist of\na popular character. Wear a blue\nheadgear to complete the costume.",
-    "Enabled": true
+    "Text": "어느 행성의 인기 캐릭터 손목을\n본뜬 너클. 푸른 머리 장식과 함께\n사용하면 캐릭터를 더 실감 나게 흉내 낼 수 있다.",
+    "Enabled": false
   },
   "101000": {
     "OriginalText": "宇宙開柘隊で使われる一般的なブレード。\nエッジのカスタマイズにより、満用品似上の\n性能を発揮する強力な武器となっている。",
-    "Text": "A common Sword used by Space \nReconnaissance Force.  A weapon more\npowerful than the mass-produced model.",
-    "Enabled": true
+    "Text": "우주 개척대에서 사용하는 일반적인 블레이드.\n엣지의 커스터마이즈로 범용품 이상의\n성능을 발휘하는 강력한 무기가 됐다.",
+    "Enabled": false
   },
   "101001": {
     "OriginalText": "天使を殺し続けた人に贈られる\n破壊の剣。どんな偉大な神も\nこの剣の前には無力となる。",
-    "Text": "A Sword of destruction given to those\nwho slay angels. Any god will be\npowerless before this sword.",
+    "Text": "천사를 계속 죽인 사람에게 주어지는\n파괴의 검. 아무리 위대한 신이라도\n이 검 앞에서는 무력해진다.",
     "Enabled": true
   },
   "101002": {
     "OriginalText": "携帯しやすい小型のハンドガン。\n非常に多くのカスタマイズパーツが\n存在し、使い手を選ばない仕様。",
-    "Text": "A small hand gun that's easy to carry.\nThere are many customized parts to\ncater any kind of user.",
+    "Text": "휴대하기 쉬운 소형 핸드건.\n매우 다양한 커스터마이즈 부품이\n있으며 사용자를 가리지 않는다.",
     "Enabled": true
   },
   "101003": {
     "OriginalText": "標準的な性能ながら、カスタマイズ性に\n優れている、ゼファー愛用のマシンガン。\n近距離での攻撃力に優れている。",
-    "Text": "Zephyr's favorite customizable machine\ngun. It has an excellent attack power\nat close range.",
+    "Text": "표준적인 성능이지만 커스터마이즈 성능이\n뛰어난, 제퍼가 애용하는 머신건.\n근거리에서의 공격력이 뛰어나다.",
     "Enabled": true
   },
   "101004": {
     "OriginalText": "一発一発の威力はかけるが、\n連射性能に優れているハンドガン。\nリーンベルが好んで良く使う。",
-    "Text": "A hand gun that has excellent rapid\nfire, but also capable of single-fire.\nReanbell likes it and uses it often.",
+    "Text": "한 발 한 발의 위력은 부족하지만,\n연사 성능이 뛰어난 핸드건.\n린벨이 즐겨 사용한다.",
     "Enabled": true
   }
 }

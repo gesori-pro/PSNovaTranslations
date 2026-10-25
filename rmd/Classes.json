@@ -1,47 +1,42 @@
 {
   "10201": {
     "OriginalText": "ハンター",
-    "Text": "Hunter",
+    "Text": "헌터",
     "Enabled": true
   },
   "10202": {
     "OriginalText": "レンジャー",
-    "Text": "Ranger",
+    "Text": "레인저",
     "Enabled": true
   },
   "10203": {
     "OriginalText": "フォース",
-    "Text": "Force",
+    "Text": "포스",
     "Enabled": true
   },
   "10204": {
     "OriginalText": "バスター",
-    "Text": "Buster",
+    "Text": "버스터",
     "Enabled": true
-  },
-  "660000": {
-    "OriginalText": "",
-    "Text": "",
-    "Enabled": false
   },
   "660001": {
     "OriginalText": "近距離での戦闘に真価を発揮するクラス。\n高いHPと防御力を持ち、単独での戦闘能力に\n優れる。",
-    "Text": "A class that excels at close range. It\nhas high HP and defense, and excels at\nsolo combat.",
+    "Text": "근거리 전투에서 진가를 발휘하는 클래스.\nHP와 방어력이 높으며,\n단독 전투 능력이 뛰어나다.",
     "Enabled": true
   },
   "660002": {
     "OriginalText": "射撃武器による攻撃を主とし、中距離での\n戦闘を得意とするクラス。\n射撃に必要な能力が軒並み高く、精密な\n射撃での攻撃が可能。",
-    "Text": "Utilizes ranged weapons to fight at\nmid-range. High proficiency at all\nshooting abilities, including precision\nattacks.",
+    "Text": "주로 사격 무기로 공격하며 중거리 전투를\n특기로 하는 클래스.\n사격에 필요한 능력이 전반적으로 높아\n정밀한 사격 공격이 가능하다.",
     "Enabled": true
   },
   "660003": {
     "OriginalText": "フォトンを用いたテクニックの使用に長けた\n遠距離戦闘向きのクラス。\n使用可能なテクニックは強力かつ多彩で\n法撃武器を用いることでさらに強化される。",
-    "Text": "Long-ranged combat class focused on\ntechniques. Powerful and versitile, and\ncan be strengthened by equipping a tech\nweapon.",
+    "Text": "포톤을 활용한 테크닉 사용에 능한\n원거리 전투용 클래스.\n사용 가능한 테크닉이 강력하고 다양하며,\n법격 무기를 사용하면 더욱 강화된다.",
     "Enabled": true
   },
   "660004": {
-    "OriginalText": "対ギガンテス戦を想定し創設された新クラス。\n打撃、射撃、法撃ともに汰等な能力を備え、\n特殊武器パイルを含む、あらゆる武器を\n伝備でき、ダイブロールによる回避が可能。",
-    "Text": "A new class developed to battle\nGigantes. They possess equal ability in\nall stats, and can equip all weapons\nincluding Piles.",
+    "OriginalText": "対ギガンテス戦を想定し創設された新クラス。\n打撃、射撃、法撃ともに均等な能力を備え、\n特殊武器パイルを含む、あらゆる武器を\n装備でき、ダイブロールによる回避が可能。",
+    "Text": "대 기간테스전을 상정해 창설된 새로운 클래스.\n타격, 사격, 법격 능력이 균등하며,\n특수 무기인 파일을 포함한 모든 무기를\n장비할 수 있고, 다이브 롤로 회피할 수 있다.",
     "Enabled": true
   }
 }

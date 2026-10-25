@@ -1,3907 +1,3887 @@
 {
   "150000": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "150001": {
     "OriginalText": "パワーⅠ",
-    "Text": "Power I",
+    "Text": "파워 I",
     "Enabled": true
   },
   "150002": {
     "OriginalText": "パワーⅡ",
-    "Text": "Power II",
+    "Text": "파워 II",
     "Enabled": true
   },
   "150003": {
     "OriginalText": "パワーⅢ",
-    "Text": "Power III",
+    "Text": "파워 III",
     "Enabled": true
   },
   "150004": {
     "OriginalText": "パワーⅣ",
-    "Text": "Power IV",
+    "Text": "파워 IV",
     "Enabled": true
   },
   "150005": {
     "OriginalText": "パワーⅤ",
-    "Text": "Power V",
+    "Text": "파워 V",
     "Enabled": true
   },
   "150006": {
     "OriginalText": "シュートⅠ",
-    "Text": "Shoot I",
+    "Text": "슛 I",
     "Enabled": true
   },
   "150007": {
     "OriginalText": "シュートⅡ",
-    "Text": "Shoot II",
+    "Text": "슛 II",
     "Enabled": true
   },
   "150008": {
     "OriginalText": "シュートⅢ",
-    "Text": "Shoot III",
+    "Text": "슛 III",
     "Enabled": true
   },
   "150009": {
     "OriginalText": "シュートⅣ",
-    "Text": "Shoot IV",
+    "Text": "슛 IV",
     "Enabled": true
   },
   "150010": {
     "OriginalText": "シュートⅤ",
-    "Text": "Shoot V",
+    "Text": "슛 V",
     "Enabled": true
   },
   "150011": {
     "OriginalText": "テクニックⅠ",
-    "Text": "Tech I",
+    "Text": "테크닉 I",
     "Enabled": true
   },
   "150012": {
     "OriginalText": "テクニックⅡ",
-    "Text": "Tech II",
+    "Text": "테크닉 II",
     "Enabled": true
   },
   "150013": {
     "OriginalText": "テクニックⅢ",
-    "Text": "Tech III",
+    "Text": "테크닉 III",
     "Enabled": true
   },
   "150014": {
     "OriginalText": "テクニックⅣ",
-    "Text": "Tech IV",
+    "Text": "테크닉 IV",
     "Enabled": true
   },
   "150015": {
     "OriginalText": "テクニックⅤ",
-    "Text": "Tech V",
+    "Text": "테크닉 V",
     "Enabled": true
   },
   "150016": {
     "OriginalText": "スタミナⅠ",
-    "Text": "Stamina I",
+    "Text": "스태미너 I",
     "Enabled": true
   },
   "150017": {
     "OriginalText": "スタミナⅡ",
-    "Text": "Stamina II",
+    "Text": "스태미너 II",
     "Enabled": true
   },
   "150018": {
     "OriginalText": "スタミナⅢ",
-    "Text": "Stamina III",
+    "Text": "스태미너 III",
     "Enabled": true
   },
   "150019": {
     "OriginalText": "スタミナⅣ",
-    "Text": "Stamina IV",
+    "Text": "스태미너 IV",
     "Enabled": true
   },
   "150020": {
     "OriginalText": "スタミナⅤ",
-    "Text": "Stamina V",
+    "Text": "스태미너 V",
     "Enabled": true
   },
   "150021": {
     "OriginalText": "スピリタⅠ",
-    "Text": "Spirita I",
+    "Text": "스피리타 I",
     "Enabled": true
   },
   "150022": {
     "OriginalText": "スピリタⅡ",
-    "Text": "Spirita II",
+    "Text": "스피리타 II",
     "Enabled": true
   },
   "150023": {
     "OriginalText": "スピリタⅢ",
-    "Text": "Spirita III",
+    "Text": "스피리타 III",
     "Enabled": true
   },
   "150024": {
     "OriginalText": "スピリタⅣ",
-    "Text": "Spirita IV",
+    "Text": "스피리타 IV",
     "Enabled": true
   },
   "150025": {
     "OriginalText": "スピリタⅤ",
-    "Text": "Spirita V",
+    "Text": "스피리타 V",
     "Enabled": true
   },
   "150026": {
     "OriginalText": "アームⅠ",
-    "Text": "Arm I",
+    "Text": "암 I",
     "Enabled": true
   },
   "150027": {
     "OriginalText": "アームⅡ",
-    "Text": "Arm II",
+    "Text": "암 II",
     "Enabled": true
   },
   "150028": {
     "OriginalText": "アームⅢ",
-    "Text": "Arm III",
+    "Text": "암 III",
     "Enabled": true
   },
   "150029": {
     "OriginalText": "アームⅣ",
-    "Text": "Arm IV",
+    "Text": "암 IV",
     "Enabled": true
   },
   "150030": {
     "OriginalText": "アームⅤ",
-    "Text": "Arm V",
+    "Text": "암 V",
     "Enabled": true
   },
   "150031": {
     "OriginalText": "スタミナ・ブースト",
-    "Text": "Stamina Boost",
+    "Text": "스태미너 부스트",
     "Enabled": true
   },
   "150032": {
     "OriginalText": "スピリタ・ブースト",
-    "Text": "Spirita Boost",
+    "Text": "스피리타 부스트",
     "Enabled": true
   },
   "150033": {
     "OriginalText": "ミューテーションⅠ",
-    "Text": "Mutation I",
+    "Text": "뮤테이션 I",
     "Enabled": true
   },
   "150034": {
     "OriginalText": "アビリティⅠ",
-    "Text": "Ability I",
+    "Text": "어빌리티 I",
     "Enabled": true
   },
   "150035": {
     "OriginalText": "アビリティⅡ",
-    "Text": "Ability II",
+    "Text": "어빌리티 II",
     "Enabled": true
   },
   "150036": {
     "OriginalText": "アビリティⅢ",
-    "Text": "Ability III",
+    "Text": "어빌리티 III",
     "Enabled": true
   },
   "150037": {
     "OriginalText": "アビリティⅣ",
-    "Text": "Ability IV",
+    "Text": "어빌리티 IV",
     "Enabled": true
   },
   "150038": {
     "OriginalText": "アビリティⅤ",
-    "Text": "Ability V",
+    "Text": "어빌리티 V",
     "Enabled": true
   },
   "150039": {
     "OriginalText": "ボディⅠ",
-    "Text": "Body I",
+    "Text": "바디 I",
     "Enabled": true
   },
   "150040": {
     "OriginalText": "ボディⅡ",
-    "Text": "Body II",
+    "Text": "바디 II",
     "Enabled": true
   },
   "150041": {
     "OriginalText": "ボディⅢ",
-    "Text": "Body III",
+    "Text": "바디 III",
     "Enabled": true
   },
   "150042": {
     "OriginalText": "ボディⅣ",
-    "Text": "Body IV",
+    "Text": "바디 IV",
     "Enabled": true
   },
   "150043": {
     "OriginalText": "ボディⅤ",
-    "Text": "Body V",
+    "Text": "바디 V",
     "Enabled": true
   },
   "150044": {
     "OriginalText": "リアクトⅠ",
-    "Text": "React I",
+    "Text": "리액트 I",
     "Enabled": true
   },
   "150045": {
     "OriginalText": "リアクトⅡ",
-    "Text": "React II",
+    "Text": "리액트 II",
     "Enabled": true
   },
   "150046": {
     "OriginalText": "リアクトⅢ",
-    "Text": "React III",
+    "Text": "리액트 III",
     "Enabled": true
   },
   "150047": {
     "OriginalText": "リアクトⅣ",
-    "Text": "React IV",
+    "Text": "리액트 IV",
     "Enabled": true
   },
   "150048": {
     "OriginalText": "リアクトⅤ",
-    "Text": "React V",
+    "Text": "리액트 V",
     "Enabled": true
   },
   "150049": {
     "OriginalText": "マインドⅠ",
-    "Text": "Mind I",
+    "Text": "마인드 I",
     "Enabled": true
   },
   "150050": {
     "OriginalText": "マインドⅡ",
-    "Text": "Mind II",
+    "Text": "마인드 II",
     "Enabled": true
   },
   "150051": {
     "OriginalText": "マインドⅢ",
-    "Text": "Mind III",
+    "Text": "마인드 III",
     "Enabled": true
   },
   "150052": {
     "OriginalText": "マインドⅣ",
-    "Text": "Mind IV",
+    "Text": "마인드 IV",
     "Enabled": true
   },
   "150053": {
     "OriginalText": "マインドⅤ",
-    "Text": "Mind V",
+    "Text": "마인드 V",
     "Enabled": true
   },
   "150054": {
     "OriginalText": "ブロウレジストⅠ",
-    "Text": "Blow Resist I",
+    "Text": "블로우 레지스트 I",
     "Enabled": true
   },
   "150055": {
     "OriginalText": "ブロウレジストⅡ",
-    "Text": "Blow Resist II",
+    "Text": "블로우 레지스트 II",
     "Enabled": true
   },
   "150056": {
     "OriginalText": "ブロウレジストⅢ",
-    "Text": "Blow Resist III",
+    "Text": "블로우 레지스트 III",
     "Enabled": true
   },
   "150057": {
     "OriginalText": "ブロウレジストⅣ",
-    "Text": "Blow Resist IV",
+    "Text": "블로우 레지스트 IV",
     "Enabled": true
   },
   "150058": {
     "OriginalText": "ブロウレジストⅤ",
-    "Text": "Blow Resist V",
+    "Text": "블로우 레지스트 V",
     "Enabled": true
   },
   "150059": {
     "OriginalText": "ショットレジストⅠ",
-    "Text": "Shot Resist I",
+    "Text": "샷 레지스트 I",
     "Enabled": true
   },
   "150060": {
     "OriginalText": "ショットレジストⅡ",
-    "Text": "Shot Resist II",
+    "Text": "샷 레지스트 II",
     "Enabled": true
   },
   "150061": {
     "OriginalText": "ショットレジストⅢ",
-    "Text": "Shot Resist III",
+    "Text": "샷 레지스트 III",
     "Enabled": true
   },
   "150062": {
     "OriginalText": "ショットレジストⅣ",
-    "Text": "Shot Resist IV",
+    "Text": "샷 레지스트 IV",
     "Enabled": true
   },
   "150063": {
     "OriginalText": "ショットレジストⅤ",
-    "Text": "Shot Resist V",
+    "Text": "샷 레지스트 V",
     "Enabled": true
   },
   "150064": {
     "OriginalText": "マインドレジストⅠ",
-    "Text": "Mind Resist I",
+    "Text": "마인드 레지스트 I",
     "Enabled": true
   },
   "150065": {
     "OriginalText": "マインドレジストⅡ",
-    "Text": "Mind Resist II",
+    "Text": "마인드 레지스트 II",
     "Enabled": true
   },
   "150066": {
     "OriginalText": "マインドレジストⅢ",
-    "Text": "Mind Resist III",
+    "Text": "마인드 레지스트 III",
     "Enabled": true
   },
   "150067": {
     "OriginalText": "マインドレジストⅣ",
-    "Text": "Mind Resist IV",
+    "Text": "마인드 레지스트 IV",
     "Enabled": true
   },
   "150068": {
     "OriginalText": "マインドレジストⅤ",
-    "Text": "Mind Resist V",
+    "Text": "마인드 레지스트 V",
     "Enabled": true
   },
   "150069": {
     "OriginalText": "フレイムⅠ",
-    "Text": "Flame I",
+    "Text": "플레임 I",
     "Enabled": true
   },
   "150070": {
     "OriginalText": "フレイムⅡ",
-    "Text": "Flame II",
+    "Text": "플레임 II",
     "Enabled": true
   },
   "150071": {
     "OriginalText": "フレイムⅢ",
-    "Text": "Flame III",
+    "Text": "플레임 III",
     "Enabled": true
   },
   "150072": {
     "OriginalText": "フレイムⅣ",
-    "Text": "Flame IV",
+    "Text": "플레임 IV",
     "Enabled": true
   },
   "150073": {
     "OriginalText": "フレイムⅤ",
-    "Text": "Flame V",
+    "Text": "플레임 V",
     "Enabled": true
   },
   "150074": {
     "OriginalText": "アイスⅠ",
-    "Text": "Ice I",
+    "Text": "아이스 I",
     "Enabled": true
   },
   "150075": {
     "OriginalText": "アイスⅡ",
-    "Text": "Ice II",
+    "Text": "아이스 II",
     "Enabled": true
   },
   "150076": {
     "OriginalText": "アイスⅢ",
-    "Text": "Ice III",
+    "Text": "아이스 III",
     "Enabled": true
   },
   "150077": {
     "OriginalText": "アイスⅣ",
-    "Text": "Ice IV",
+    "Text": "아이스 IV",
     "Enabled": true
   },
   "150078": {
     "OriginalText": "アイスⅤ",
-    "Text": "Ice V",
+    "Text": "아이스 V",
     "Enabled": true
   },
   "150079": {
     "OriginalText": "ショックⅠ",
-    "Text": "Shock I",
+    "Text": "쇼크 I",
     "Enabled": true
   },
   "150080": {
     "OriginalText": "ショックⅡ",
-    "Text": "Shock II",
+    "Text": "쇼크 II",
     "Enabled": true
   },
   "150081": {
     "OriginalText": "ショックⅢ",
-    "Text": "Shock III",
+    "Text": "쇼크 III",
     "Enabled": true
   },
   "150082": {
     "OriginalText": "ショックⅣ",
-    "Text": "Shock IV",
+    "Text": "쇼크 IV",
     "Enabled": true
   },
   "150083": {
     "OriginalText": "ショックⅤ",
-    "Text": "Shock V",
+    "Text": "쇼크 V",
     "Enabled": true
   },
   "150084": {
     "OriginalText": "ウィンドⅠ",
-    "Text": "Wind I",
+    "Text": "윈드 I",
     "Enabled": true
   },
   "150085": {
     "OriginalText": "ウィンドⅡ",
-    "Text": "Wind II",
+    "Text": "윈드 II",
     "Enabled": true
   },
   "150086": {
     "OriginalText": "ウィンドⅢ",
-    "Text": "Wind III",
+    "Text": "윈드 III",
     "Enabled": true
   },
   "150087": {
     "OriginalText": "ウィンドⅣ",
-    "Text": "Wind IV",
+    "Text": "윈드 IV",
     "Enabled": true
   },
   "150088": {
     "OriginalText": "ウィンドⅤ",
-    "Text": "Wind V",
+    "Text": "윈드 V",
     "Enabled": true
   },
   "150089": {
     "OriginalText": "ライトⅠ",
-    "Text": "Light I",
+    "Text": "라이트 I",
     "Enabled": true
   },
   "150090": {
     "OriginalText": "ライトⅡ",
-    "Text": "Light II",
+    "Text": "라이트 II",
     "Enabled": true
   },
   "150091": {
     "OriginalText": "ライトⅢ",
-    "Text": "Light III",
+    "Text": "라이트 III",
     "Enabled": true
   },
   "150092": {
     "OriginalText": "ライトⅣ",
-    "Text": "Light IV",
+    "Text": "라이트 IV",
     "Enabled": true
   },
   "150093": {
     "OriginalText": "ライトⅤ",
-    "Text": "Light V",
+    "Text": "라이트 V",
     "Enabled": true
   },
   "150094": {
     "OriginalText": "グルームⅠ",
-    "Text": "Gloom I",
+    "Text": "그룸 I",
     "Enabled": true
   },
   "150095": {
     "OriginalText": "グルームⅡ",
-    "Text": "Gloom II",
+    "Text": "그룸 II",
     "Enabled": true
   },
   "150096": {
     "OriginalText": "グルームⅢ",
-    "Text": "Gloom III",
+    "Text": "그룸 III",
     "Enabled": true
   },
   "150097": {
     "OriginalText": "グルームⅣ",
-    "Text": "Gloom IV",
+    "Text": "그룸 IV",
     "Enabled": true
   },
   "150098": {
     "OriginalText": "グルームⅤ",
-    "Text": "Gloom V",
+    "Text": "그룸 V",
     "Enabled": true
   },
   "150099": {
     "OriginalText": "フレイムレジストⅠ",
-    "Text": "Flame Resist I",
+    "Text": "플레임 레지스트 I",
     "Enabled": true
   },
   "150100": {
     "OriginalText": "フレイムレジストⅡ",
-    "Text": "Flame Resist II",
+    "Text": "플레임 레지스트 II",
     "Enabled": true
   },
   "150101": {
     "OriginalText": "フレイムレジストⅢ",
-    "Text": "Flame Resist III",
+    "Text": "플레임 레지스트 III",
     "Enabled": true
   },
   "150102": {
     "OriginalText": "フレイムレジストⅣ",
-    "Text": "Flame Resist IV",
+    "Text": "플레임 레지스트 IV",
     "Enabled": true
   },
   "150103": {
     "OriginalText": "フレイムレジストⅤ",
-    "Text": "Flame Resist V",
+    "Text": "플레임 레지스트 V",
     "Enabled": true
   },
   "150104": {
     "OriginalText": "アイスレジストⅠ",
-    "Text": "Ice Resist I",
+    "Text": "아이스 레지스트 I",
     "Enabled": true
   },
   "150105": {
     "OriginalText": "アイスレジストⅡ",
-    "Text": "Ice Resist II",
+    "Text": "아이스 레지스트 II",
     "Enabled": true
   },
   "150106": {
     "OriginalText": "アイスレジストⅢ",
-    "Text": "Ice Resist III",
+    "Text": "아이스 레지스트 III",
     "Enabled": true
   },
   "150107": {
     "OriginalText": "アイスレジストⅣ",
-    "Text": "Ice Resist IV",
+    "Text": "아이스 레지스트 IV",
     "Enabled": true
   },
   "150108": {
     "OriginalText": "アイスレジストⅤ",
-    "Text": "Ice Resist V",
+    "Text": "아이스 레지스트 V",
     "Enabled": true
   },
   "150109": {
     "OriginalText": "ショックレジストⅠ",
-    "Text": "Shock Resist I",
+    "Text": "쇼크 레지스트 I",
     "Enabled": true
   },
   "150110": {
     "OriginalText": "ショックレジストⅡ",
-    "Text": "Shock Resist II",
+    "Text": "쇼크 레지스트 II",
     "Enabled": true
   },
   "150111": {
     "OriginalText": "ショックレジストⅢ",
-    "Text": "Shock Resist III",
+    "Text": "쇼크 레지스트 III",
     "Enabled": true
   },
   "150112": {
     "OriginalText": "ショックレジストⅣ",
-    "Text": "Shock Resist IV",
+    "Text": "쇼크 레지스트 IV",
     "Enabled": true
   },
   "150113": {
     "OriginalText": "ショックレジストⅤ",
-    "Text": "Shock Resist V",
+    "Text": "쇼크 레지스트 V",
     "Enabled": true
   },
   "150114": {
     "OriginalText": "ウィンドレジストⅠ",
-    "Text": "Wind Resist I",
+    "Text": "윈드 레지스트 I",
     "Enabled": true
   },
   "150115": {
     "OriginalText": "ウィンドレジストⅡ",
-    "Text": "Wind Resist II",
+    "Text": "윈드 레지스트 II",
     "Enabled": true
   },
   "150116": {
     "OriginalText": "ウィンドレジストⅢ",
-    "Text": "Wind Resist III",
+    "Text": "윈드 레지스트 III",
     "Enabled": true
   },
   "150117": {
     "OriginalText": "ウィンドレジストⅣ",
-    "Text": "Wind Resist IV",
+    "Text": "윈드 레지스트 IV",
     "Enabled": true
   },
   "150118": {
     "OriginalText": "ウィンドレジストⅤ",
-    "Text": "Wind Resist V",
+    "Text": "윈드 레지스트 V",
     "Enabled": true
   },
   "150119": {
     "OriginalText": "ライトレジストⅠ",
-    "Text": "Light Resist I",
+    "Text": "라이트 레지스트 I",
     "Enabled": true
   },
   "150120": {
     "OriginalText": "ライトレジストⅡ",
-    "Text": "Light Resist II",
+    "Text": "라이트 레지스트 II",
     "Enabled": true
   },
   "150121": {
     "OriginalText": "ライトレジストⅢ",
-    "Text": "Light Resist III",
+    "Text": "라이트 레지스트 III",
     "Enabled": true
   },
   "150122": {
     "OriginalText": "ライトレジストⅣ",
-    "Text": "Light Resist IV",
+    "Text": "라이트 레지스트 IV",
     "Enabled": true
   },
   "150123": {
     "OriginalText": "ライトレジストⅤ",
-    "Text": "Light Resist V",
+    "Text": "라이트 레지스트 V",
     "Enabled": true
   },
   "150124": {
     "OriginalText": "グルームレジストⅠ",
-    "Text": "Gloom Resist I",
+    "Text": "그룸 레지스트 I",
     "Enabled": true
   },
   "150125": {
     "OriginalText": "グルームレジストⅡ",
-    "Text": "Gloom Resist II",
+    "Text": "그룸 레지스트 II",
     "Enabled": true
   },
   "150126": {
     "OriginalText": "グルームレジストⅢ",
-    "Text": "Gloom Resist III",
+    "Text": "그룸 레지스트 III",
     "Enabled": true
   },
   "150127": {
     "OriginalText": "グルームレジストⅣ",
-    "Text": "Gloom Resist IV",
+    "Text": "그룸 레지스트 IV",
     "Enabled": true
   },
   "150128": {
     "OriginalText": "グルームレジストⅤ",
-    "Text": "Gloom Resist V",
+    "Text": "그룸 레지스트 V",
     "Enabled": true
   },
   "150129": {
     "OriginalText": "オールレジストⅠ",
-    "Text": "All Resist I",
+    "Text": "올 레지스트 I",
     "Enabled": true
   },
   "150130": {
     "OriginalText": "オールレジストⅡ",
-    "Text": "All Resist II",
+    "Text": "올 레지스트 II",
     "Enabled": true
   },
   "150131": {
     "OriginalText": "オールレジストⅢ",
-    "Text": "All Resist III",
+    "Text": "올 레지스트 III",
     "Enabled": true
   },
   "150132": {
     "OriginalText": "オールレジストⅣ",
-    "Text": "All Resist IV",
+    "Text": "올 레지스트 IV",
     "Enabled": true
   },
   "150133": {
     "OriginalText": "オールレジストⅤ",
-    "Text": "All Resist V",
+    "Text": "올 레지스트 V",
     "Enabled": true
   },
   "150134": {
     "OriginalText": "ラッキーライズⅠ",
-    "Text": "Lucky Rise I",
+    "Text": "럭키 라이즈 I",
     "Enabled": true
   },
   "150135": {
     "OriginalText": "テンプテーション",
-    "Text": "Temptation",
+    "Text": "템테이션",
     "Enabled": true
   },
   "150136": {
     "OriginalText": "ＥＸＰブースト",
-    "Text": "EXP Boost",
+    "Text": "EXP 부스트",
     "Enabled": true
   },
   "150137": {
     "OriginalText": "アナザーヒストリー",
-    "Text": "Another History",
+    "Text": "어나더 히스토리",
     "Enabled": true
   },
   "150138": {
     "OriginalText": "バインドⅠ",
-    "Text": "Bind I",
+    "Text": "바인드 I",
     "Enabled": true
   },
   "150139": {
     "OriginalText": "バインドⅡ",
-    "Text": "Bind II",
+    "Text": "바인드 II",
     "Enabled": true
   },
   "150140": {
     "OriginalText": "バインドⅢ",
-    "Text": "Bind III",
+    "Text": "바인드 III",
     "Enabled": true
   },
   "150141": {
     "OriginalText": "バインドⅣ",
-    "Text": "Bind IV",
+    "Text": "바인드 IV",
     "Enabled": true
   },
   "150142": {
     "OriginalText": "バインドⅤ",
-    "Text": "Bind V",
+    "Text": "바인드 V",
     "Enabled": true
   },
   "150143": {
     "OriginalText": "インフェクションⅠ",
-    "Text": "Infection I",
+    "Text": "인펙션 I",
     "Enabled": true
   },
   "150144": {
     "OriginalText": "インフェクションⅡ",
-    "Text": "Infection II",
+    "Text": "인펙션 II",
     "Enabled": true
   },
   "150145": {
     "OriginalText": "インフェクションⅢ",
-    "Text": "Infection III",
+    "Text": "인펙션 III",
     "Enabled": true
   },
   "150146": {
     "OriginalText": "インフェクションⅣ",
-    "Text": "Infection IV",
+    "Text": "인펙션 IV",
     "Enabled": true
   },
   "150147": {
     "OriginalText": "インフェクションⅤ",
-    "Text": "Infection V",
+    "Text": "인펙션 V",
     "Enabled": true
   },
   "150148": {
     "OriginalText": "ブラインドⅠ",
-    "Text": "Blind I",
+    "Text": "블라인드 I",
     "Enabled": true
   },
   "150149": {
     "OriginalText": "ブラインドⅡ",
-    "Text": "Blind II",
+    "Text": "블라인드 II",
     "Enabled": true
   },
   "150150": {
     "OriginalText": "ブラインドⅢ",
-    "Text": "Blind III",
+    "Text": "블라인드 III",
     "Enabled": true
   },
   "150151": {
     "OriginalText": "ブラインドⅣ",
-    "Text": "Blind IV",
+    "Text": "블라인드 IV",
     "Enabled": true
   },
   "150152": {
     "OriginalText": "ブラインドⅤ",
-    "Text": "Blind V",
+    "Text": "블라인드 V",
     "Enabled": true
   },
   "150153": {
     "OriginalText": "グラン中毒Ⅰ",
-    "Text": "Gran Poisoning I",
+    "Text": "그란 중독 I",
     "Enabled": true
   },
   "150154": {
     "OriginalText": "グラン中毒Ⅱ",
-    "Text": "Gran Poisoning II",
+    "Text": "그란 중독 II",
     "Enabled": true
   },
   "150155": {
     "OriginalText": "グラン中毒Ⅲ",
-    "Text": "Gran Poisoning III",
+    "Text": "그란 중독 III",
     "Enabled": true
   },
   "150156": {
     "OriginalText": "グラン中毒Ⅳ",
-    "Text": "Gran Poisoning IV",
+    "Text": "그란 중독 IV",
     "Enabled": true
   },
   "150157": {
     "OriginalText": "グラン中毒Ⅴ",
-    "Text": "Gran Poisoning V",
+    "Text": "그란 중독 V",
     "Enabled": true
   },
   "150158": {
     "OriginalText": "炎属性ダウンⅠ",
-    "Text": "Fire Resist Down I",
+    "Text": "염속성 저하 I",
     "Enabled": true
   },
   "150159": {
     "OriginalText": "炎属性ダウンⅡ",
-    "Text": "Fire Resist Down II",
+    "Text": "염속성 저하 II",
     "Enabled": true
   },
   "150160": {
     "OriginalText": "炎属性ダウンⅢ",
-    "Text": "Fire Resist Down III",
+    "Text": "염속성 저하 III",
     "Enabled": true
   },
   "150161": {
     "OriginalText": "炎属性ダウンⅣ",
-    "Text": "Fire Resist Down IV",
+    "Text": "염속성 저하 IV",
     "Enabled": true
   },
   "150162": {
     "OriginalText": "炎属性ダウンⅤ",
-    "Text": "Fire Resist Down V",
+    "Text": "염속성 저하 V",
     "Enabled": true
   },
   "150163": {
-    "OriginalText": "劇属性ダウンⅠ",
-    "Text": "Ice Resist Down I",
+    "OriginalText": "氷属性ダウンⅠ",
+    "Text": "빙속성 저하 I",
     "Enabled": true
   },
   "150164": {
-    "OriginalText": "劇属性ダウンⅡ",
-    "Text": "Ice Resist Down II",
+    "OriginalText": "氷属性ダウンⅡ",
+    "Text": "빙속성 저하 II",
     "Enabled": true
   },
   "150165": {
-    "OriginalText": "劇属性ダウンⅢ",
-    "Text": "Ice Resist Down III",
+    "OriginalText": "氷属性ダウンⅢ",
+    "Text": "빙속성 저하 III",
     "Enabled": true
   },
   "150166": {
-    "OriginalText": "劇属性ダウンⅣ",
-    "Text": "Ice Resist Down IV",
+    "OriginalText": "氷属性ダウンⅣ",
+    "Text": "빙속성 저하 IV",
     "Enabled": true
   },
   "150167": {
-    "OriginalText": "劇属性ダウンⅤ",
-    "Text": "Ice Resist Down V",
+    "OriginalText": "氷属性ダウンⅤ",
+    "Text": "빙속성 저하 V",
     "Enabled": true
   },
   "150168": {
     "OriginalText": "雷属性ダウンⅠ",
-    "Text": "Lightning Resist Down I",
+    "Text": "뇌속성 저하 I",
     "Enabled": true
   },
   "150169": {
     "OriginalText": "雷属性ダウンⅡ",
-    "Text": "Lightning Resist Down II",
+    "Text": "뇌속성 저하 II",
     "Enabled": true
   },
   "150170": {
     "OriginalText": "雷属性ダウンⅢ",
-    "Text": "Lightning Resist Down III",
+    "Text": "뇌속성 저하 III",
     "Enabled": true
   },
   "150171": {
     "OriginalText": "雷属性ダウンⅣ",
-    "Text": "Lightning Resist Down IV",
+    "Text": "뇌속성 저하 IV",
     "Enabled": true
   },
   "150172": {
     "OriginalText": "雷属性ダウンⅤ",
-    "Text": "Lightning Resist Down V",
+    "Text": "뇌속성 저하 V",
     "Enabled": true
   },
   "150173": {
     "OriginalText": "風属性ダウンⅠ",
-    "Text": "Wind Resist Down I",
+    "Text": "풍속성 저하 I",
     "Enabled": true
   },
   "150174": {
     "OriginalText": "風属性ダウンⅡ",
-    "Text": "Wind Resist Down II",
+    "Text": "풍속성 저하 II",
     "Enabled": true
   },
   "150175": {
     "OriginalText": "風属性ダウンⅢ",
-    "Text": "Wind Resist Down III",
+    "Text": "풍속성 저하 III",
     "Enabled": true
   },
   "150176": {
     "OriginalText": "風属性ダウンⅣ",
-    "Text": "Wind Resist Down IV",
+    "Text": "풍속성 저하 IV",
     "Enabled": true
   },
   "150177": {
     "OriginalText": "風属性ダウンⅤ",
-    "Text": "Wind Resist Down V",
+    "Text": "풍속성 저하 V",
     "Enabled": true
   },
   "150178": {
     "OriginalText": "光属性ダウンⅠ",
-    "Text": "Light Resist Down I",
+    "Text": "광속성 저하 I",
     "Enabled": true
   },
   "150179": {
     "OriginalText": "光属性ダウンⅡ",
-    "Text": "Light Resist Down II",
+    "Text": "광속성 저하 II",
     "Enabled": true
   },
   "150180": {
     "OriginalText": "光属性ダウンⅢ",
-    "Text": "Light Resist Down III",
+    "Text": "광속성 저하 III",
     "Enabled": true
   },
   "150181": {
     "OriginalText": "光属性ダウンⅣ",
-    "Text": "Light Resist Down IV",
+    "Text": "광속성 저하 IV",
     "Enabled": true
   },
   "150182": {
     "OriginalText": "光属性ダウンⅤ",
-    "Text": "Light Resist Down V",
+    "Text": "광속성 저하 V",
     "Enabled": true
   },
   "150183": {
     "OriginalText": "闇属性ダウンⅠ",
-    "Text": "Dark Resist Down I",
+    "Text": "암속성 저하 I",
     "Enabled": true
   },
   "150184": {
     "OriginalText": "闇属性ダウンⅡ",
-    "Text": "Dark Resist Down II",
+    "Text": "암속성 저하 II",
     "Enabled": true
   },
   "150185": {
     "OriginalText": "闇属性ダウンⅢ",
-    "Text": "Dark Resist Down III",
+    "Text": "암속성 저하 III",
     "Enabled": true
   },
   "150186": {
     "OriginalText": "闇属性ダウンⅣ",
-    "Text": "Dark Resist Down IV",
+    "Text": "암속성 저하 IV",
     "Enabled": true
   },
   "150187": {
     "OriginalText": "闇属性ダウンⅤ",
-    "Text": "Dark Resist Down V",
+    "Text": "암속성 저하 V",
     "Enabled": true
   },
   "150188": {
     "OriginalText": "全属性ダウンⅠ",
-    "Text": "All Resist Down I",
+    "Text": "모든 속성 저하 I",
     "Enabled": true
   },
   "150189": {
     "OriginalText": "全属性ダウンⅡ",
-    "Text": "All Resist Down II",
+    "Text": "모든 속성 저하 II",
     "Enabled": true
   },
   "150190": {
     "OriginalText": "全属性ダウンⅢ",
-    "Text": "All Resist Down III",
+    "Text": "모든 속성 저하 III",
     "Enabled": true
   },
   "150191": {
     "OriginalText": "全属性ダウンⅣ",
-    "Text": "All Resist Down IV",
+    "Text": "모든 속성 저하 IV",
     "Enabled": true
   },
   "150192": {
     "OriginalText": "全属性ダウンⅤ",
-    "Text": "All Resist Down V",
+    "Text": "모든 속성 저하 V",
     "Enabled": true
   },
   "150193": {
     "OriginalText": "刹那の撃鉄",
-    "Text": "Immediate Strike",
+    "Text": "찰나의 격철",
     "Enabled": true
   },
   "150194": {
     "OriginalText": "刹那の崩撃",
-    "Text": "Immediate Destruction",
+    "Text": "찰나의 붕격",
     "Enabled": true
   },
   "150195": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150196": {
     "OriginalText": "瞬刻の理",
-    "Text": "Moment of Truth",
+    "Text": "순각의 이",
     "Enabled": true
   },
   "150197": {
     "OriginalText": "瞬刻の天理",
-    "Text": "Moment of Absolute",
+    "Text": "순각의 천리",
     "Enabled": true
   },
   "150198": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150199": {
     "OriginalText": "人導体",
-    "Text": "Conductor",
+    "Text": "인도체",
     "Enabled": true
   },
   "150200": {
     "OriginalText": "超人導体",
-    "Text": "Strong Conductor",
+    "Text": "초인도체",
     "Enabled": true
   },
   "150201": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150202": {
     "OriginalText": "気配遮断",
-    "Text": "Block Presence",
+    "Text": "기척차단",
     "Enabled": true
   },
   "150203": {
     "OriginalText": "気配消去",
-    "Text": "Erase Presence",
+    "Text": "기척 소거",
     "Enabled": true
   },
   "150204": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150205": {
     "OriginalText": "不屈の心",
-    "Text": "Indomitable Heart",
+    "Text": "불굴의 마음",
     "Enabled": true
   },
   "150206": {
     "OriginalText": "不屈の決意",
-    "Text": "Indomitable Will",
+    "Text": "불굴의 결의",
     "Enabled": true
   },
   "150207": {
     "OriginalText": "不屈の闘志",
-    "Text": "Indomitable Spirit",
+    "Text": "불굴의 투지",
     "Enabled": true
   },
   "150208": {
     "OriginalText": "護攻陣",
-    "Text": "Defender Formation",
+    "Text": "호공진",
     "Enabled": true
   },
   "150209": {
     "OriginalText": "護攻塞",
-    "Text": "Defender Wall",
+    "Text": "호공새",
     "Enabled": true
   },
   "150210": {
     "OriginalText": "護攻砦",
-    "Text": "Defender Fortress",
+    "Text": "호공채",
     "Enabled": true
   },
   "150211": {
     "OriginalText": "護法陣",
-    "Text": "Safeguard Technique",
+    "Text": "호법진",
     "Enabled": true
   },
   "150212": {
     "OriginalText": "護法塞",
-    "Text": "Fortify Technique",
+    "Text": "호법새",
     "Enabled": true
   },
   "150213": {
     "OriginalText": "護法砦",
-    "Text": "Stronghold Technique",
+    "Text": "호법채",
     "Enabled": true
   },
   "150214": {
     "OriginalText": "修羅紋",
-    "Text": "Fighting Crest",
+    "Text": "수라문",
     "Enabled": true
   },
   "150215": {
     "OriginalText": "羅刹紋",
-    "Text": "Devil Crest",
+    "Text": "나찰문",
     "Enabled": true
   },
   "150216": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150217": {
     "OriginalText": "痛打必倒",
-    "Text": "Inevitable Pain",
+    "Text": "통타필도",
     "Enabled": true
   },
   "150218": {
     "OriginalText": "痛打必殺",
-    "Text": "Fatal Pain",
+    "Text": "통타필살",
     "Enabled": true
   },
   "150219": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150220": {
     "OriginalText": "零の手",
-    "Text": "Cipher Hand",
+    "Text": "영의 수",
     "Enabled": true
   },
   "150221": {
     "OriginalText": "零の腕",
-    "Text": "Cipher Arm",
+    "Text": "영의 완",
     "Enabled": true
   },
   "150222": {
-    "OriginalText": "零の挙",
-    "Text": "Cipher Fist",
+    "OriginalText": "零の拳",
+    "Text": "영의 권",
     "Enabled": true
   },
   "150223": {
     "OriginalText": "飛練撃",
-    "Text": "Rising Strike",
+    "Text": "비연격",
     "Enabled": true
   },
   "150224": {
     "OriginalText": "飛練暴",
-    "Text": "Rising Force",
+    "Text": "비연폭",
     "Enabled": true
   },
   "150225": {
     "OriginalText": "飛練爆",
-    "Text": "Rising Roar",
+    "Text": "비연폭발",
     "Enabled": true
   },
   "150226": {
     "OriginalText": "集気光",
-    "Text": "Gathering Light",
+    "Text": "집기광",
     "Enabled": true
   },
   "150227": {
     "OriginalText": "煌気光",
-    "Text": "Glittering Light",
+    "Text": "황기광",
     "Enabled": true
   },
   "150228": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150229": {
     "OriginalText": "紅蓮結晶",
-    "Text": "Crimson Crystal",
+    "Text": "홍련결정",
     "Enabled": true
   },
   "150230": {
     "OriginalText": "紅蓮双結晶",
-    "Text": "Crimson Twin Crystal",
+    "Text": "홍련 쌍결정",
     "Enabled": true
   },
   "150231": {
     "OriginalText": "紅蓮多結晶",
-    "Text": "Crimson Polycrystallite",
+    "Text": "홍련 다결정",
     "Enabled": true
   },
   "150232": {
     "OriginalText": "氷縛結晶",
-    "Text": "Ice Crystal",
+    "Text": "빙박결정",
     "Enabled": true
   },
   "150233": {
     "OriginalText": "氷縛双結晶",
-    "Text": "Ice Twin Crystal",
+    "Text": "빙박 쌍결정",
     "Enabled": true
   },
   "150234": {
     "OriginalText": "氷縛多結晶",
-    "Text": "Ice Polycrystalline",
+    "Text": "빙박 다결정",
     "Enabled": true
   },
   "150235": {
     "OriginalText": "雷鳴結晶",
-    "Text": "Thunder Crystal",
+    "Text": "뇌명 결정",
     "Enabled": true
   },
   "150236": {
     "OriginalText": "雷鳴双結晶",
-    "Text": "Thunder Twin Crystal",
+    "Text": "뇌명 쌍결정",
     "Enabled": true
   },
   "150237": {
     "OriginalText": "雷鳴多結晶",
-    "Text": "Thunder Polycrystalline",
+    "Text": "뇌명 다결정",
     "Enabled": true
   },
   "150238": {
     "OriginalText": "光輝の癒し",
-    "Text": "Healing Splendor",
+    "Text": "광휘의 치유",
     "Enabled": true
   },
   "150239": {
     "OriginalText": "光輝の快癒",
-    "Text": "Recovery Splendor",
+    "Text": "광휘의 쾌유",
     "Enabled": true
   },
   "150240": {
     "OriginalText": "光輝の神癒",
-    "Text": "Divine Splendor",
+    "Text": "광휘의 신유",
     "Enabled": true
   },
   "150241": {
     "OriginalText": "観理眼",
-    "Text": "Ocular Sharpness",
+    "Text": "관리안",
     "Enabled": true
   },
   "150242": {
     "OriginalText": "観理識",
-    "Text": "Ocular Awareness",
+    "Text": "관리식",
     "Enabled": true
   },
   "150243": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150244": {
     "OriginalText": "古の誓い",
-    "Text": "Old Vow",
+    "Text": "고의 맹세",
     "Enabled": true
   },
   "150245": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150246": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150247": {
     "OriginalText": "奪命剣",
-    "Text": "Deprived Sword",
+    "Text": "탈명검",
     "Enabled": true
   },
   "150248": {
     "OriginalText": "奪命刃",
-    "Text": "Deprived Blade",
+    "Text": "탈명인",
     "Enabled": true
   },
   "150249": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150250": {
     "OriginalText": "光戦形態",
-    "Text": "Battle Form",
+    "Text": "광전형태",
     "Enabled": true
   },
   "150251": {
     "OriginalText": "光争形態",
-    "Text": "Warfare Form",
+    "Text": "광쟁형태",
     "Enabled": true
   },
   "150252": {
     "OriginalText": "究極の加護",
-    "Text": "Ultimate Protection",
+    "Text": "궁극의 가호",
     "Enabled": true
   },
   "150253": {
     "OriginalText": "幸運の羽根",
-    "Text": "Feathers of Fortune",
+    "Text": "행운의 깃털",
     "Enabled": true
   },
   "150254": {
     "OriginalText": "幸運の翼",
-    "Text": "Wings of Fortune",
+    "Text": "행운의 날개",
     "Enabled": true
   },
   "150255": {
     "OriginalText": "幸運の輝翼",
-    "Text": "Shining Wings of Fortune",
+    "Text": "행운의 빛나는 날개",
     "Enabled": true
   },
   "150256": {
     "OriginalText": "不動の手盾",
-    "Text": "Immovable Buckler",
+    "Text": "부동의 손방패",
     "Enabled": true
   },
   "150257": {
     "OriginalText": "不動の盾",
-    "Text": "Immovable Shield",
+    "Text": "부동의 방패",
     "Enabled": true
   },
   "150258": {
     "OriginalText": "不動の大盾",
-    "Text": "Immovable Aegis",
+    "Text": "부동의 큰 방패",
     "Enabled": true
   },
   "150259": {
     "OriginalText": "薬の心得",
-    "Text": "Medical Knowledge",
+    "Text": "약의 소양",
     "Enabled": true
   },
   "150260": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150261": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150262": {
     "OriginalText": "審判の時",
-    "Text": "Hour of Judgement",
+    "Text": "심판의 때",
     "Enabled": true
   },
   "150263": {
     "OriginalText": "運命の時",
-    "Text": "Hour of Destiny",
+    "Text": "운명의 때",
     "Enabled": true
   },
   "150264": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150265": {
-    "OriginalText": "慎怒の構え",
-    "Text": "Angry Style",
+    "OriginalText": "憤怒の構え",
+    "Text": "분노의 자세",
     "Enabled": true
   },
   "150266": {
-    "OriginalText": "慎怒の型",
-    "Text": "Angry Stance",
+    "OriginalText": "憤怒の型",
+    "Text": "분노의 형태",
     "Enabled": true
   },
   "150267": {
-    "OriginalText": "慎怒の業",
-    "Text": "Angry Act",
+    "OriginalText": "憤怒の業",
+    "Text": "분노의 업",
     "Enabled": true
   },
   "150268": {
     "OriginalText": "捨身の証",
-    "Text": "Sacrifical Proof",
+    "Text": "투신의 증명",
     "Enabled": true
   },
   "150269": {
     "OriginalText": "捨身の印",
-    "Text": "Sacrifical Mark",
+    "Text": "투신의 인",
     "Enabled": true
   },
   "150270": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150271": {
     "OriginalText": "守勢練陣",
-    "Text": "Guardian Formation",
+    "Text": "수세연진",
     "Enabled": true
   },
   "150272": {
     "OriginalText": "守勢練塞",
-    "Text": "Guardian Blockade",
+    "Text": "수세연새",
     "Enabled": true
   },
   "150273": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150274": {
     "OriginalText": "正対の構え",
-    "Text": "Confronting Stance",
+    "Text": "정대의 자세",
     "Enabled": true
   },
   "150275": {
     "OriginalText": "正対の型",
-    "Text": "Confronting Pattern",
+    "Text": "정대의 형",
     "Enabled": true
   },
   "150276": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150277": {
     "OriginalText": "炎獄",
-    "Text": "Flaming Prison",
+    "Text": "염옥",
     "Enabled": true
   },
   "150278": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150279": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150280": {
     "OriginalText": "正対の必撃",
-    "Text": "Confronting Strike",
+    "Text": "정대의 필격",
     "Enabled": true
   },
   "150281": {
     "OriginalText": "正対の必墜",
-    "Text": "Confronting Crash",
+    "Text": "정대의 필추",
     "Enabled": true
   },
   "150282": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150283": {
     "OriginalText": "背撃の証",
-    "Text": "Proof of Rebellion",
+    "Text": "배격의 증거",
     "Enabled": true
   },
   "150284": {
     "OriginalText": "背撃の印",
-    "Text": "Mark of Rebellion",
+    "Text": "배격의 인",
     "Enabled": true
   },
   "150285": {
     "OriginalText": "背撃の誓",
-    "Text": "Vow of Rebellion",
+    "Text": "배격의 맹세",
     "Enabled": true
   },
   "150286": {
     "OriginalText": "不動の死使",
-    "Text": "Immovable Ghoul",
+    "Text": "부동의 사자",
     "Enabled": true
   },
   "150287": {
     "OriginalText": "不動の死神",
-    "Text": "Immovable Reaper",
+    "Text": "부동의 사신",
     "Enabled": true
   },
   "150288": {
     "OriginalText": "不動の死姫",
-    "Text": "Immovable Styx",
+    "Text": "부동의 사희",
     "Enabled": true
   },
   "150289": {
     "OriginalText": "原生滅牙",
-    "Text": "Native Destroyer",
+    "Text": "원생멸아",
     "Enabled": true
   },
   "150290": {
     "OriginalText": "原生王滅牙",
-    "Text": "Primeval Destroyer",
+    "Text": "원생왕멸아",
     "Enabled": true
   },
   "150291": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150292": {
     "OriginalText": "龍滅牙",
-    "Text": "",
-    "Enabled": false
+    "Text": "용멸아",
+    "Enabled": true
   },
   "150293": {
     "OriginalText": "龍王滅牙",
-    "Text": "",
-    "Enabled": false
+    "Text": "용왕멸아",
+    "Enabled": true
   },
   "150294": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150295": {
     "OriginalText": "絶龍印",
-    "Text": "Undefeated Mark",
+    "Text": "절룡인",
     "Enabled": true
   },
   "150296": {
     "OriginalText": "絶龍誓",
-    "Text": "Undefeated Oath",
+    "Text": "절룡의 맹세",
     "Enabled": true
   },
   "150297": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150298": {
     "OriginalText": "機甲滅牙",
-    "Text": "Armor Destroyer",
+    "Text": "기갑멸아",
     "Enabled": true
   },
   "150299": {
     "OriginalText": "機甲王滅牙",
-    "Text": "Tank Destroyer",
+    "Text": "기갑왕멸아",
     "Enabled": true
   },
   "150300": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150301": {
     "OriginalText": "負滅牙",
-    "Text": "Indestructible Fang",
+    "Text": "부멸아",
     "Enabled": true
   },
   "150302": {
     "OriginalText": "負王滅牙",
-    "Text": "Immortal Fang",
+    "Text": "부왕멸아",
     "Enabled": true
   },
   "150303": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150304": {
     "OriginalText": "アクセルアタック",
-    "Text": "Accel Attack",
+    "Text": "액셀 어택",
     "Enabled": true
   },
   "150305": {
     "OriginalText": "リーチブースト",
-    "Text": "Reach Boost",
+    "Text": "리치 부스트",
     "Enabled": true
   },
   "150308": {
     "OriginalText": "護攻法陣",
-    "Text": "Vanguard Form",
+    "Text": "호공법진",
     "Enabled": true
   },
   "150309": {
     "OriginalText": "護攻法塞",
-    "Text": "Vanguard Fort",
+    "Text": "호공법새",
     "Enabled": true
   },
   "150310": {
     "OriginalText": "星天弾",
-    "Text": "Stardust Bullet",
+    "Text": "성천탄",
     "Enabled": true
   },
   "150311": {
     "OriginalText": "星天玉",
-    "Text": "Stardust Jewel",
+    "Text": "성천옥",
     "Enabled": true
   },
   "150312": {
-    "OriginalText": "狐月蝕",
-    "Text": "Brown Eclipse",
+    "OriginalText": "孤月蝕",
+    "Text": "고월식",
     "Enabled": true
   },
   "150313": {
     "OriginalText": "双月蝕",
-    "Text": "Twin Eclipse",
+    "Text": "쌍월식",
     "Enabled": true
   },
   "150314": {
     "OriginalText": "朧月蝕",
-    "Text": "Hazy Eclipse",
+    "Text": "농월식",
     "Enabled": true
   },
   "150315": {
     "OriginalText": "西風の恵み",
-    "Text": "Wind's Grace",
+    "Text": "서풍의 은혜",
     "Enabled": true
   },
   "150316": {
     "OriginalText": "西風の加護",
-    "Text": "Wind's Protection",
+    "Text": "서풍의 가호",
     "Enabled": true
   },
   "150317": {
     "OriginalText": "西風の天恵",
-    "Text": "Wind's Blessing",
+    "Text": "서풍의 천혜",
     "Enabled": true
   },
   "150318": {
     "OriginalText": "月夜の尊",
-    "Text": "Noble Moonlight",
+    "Text": "월야의 존",
     "Enabled": true
   },
   "150319": {
     "OriginalText": "天照の尊",
-    "Text": "Noble Amaterasu",
+    "Text": "천조의 존",
     "Enabled": true
   },
   "150320": {
     "OriginalText": "月夜天照の尊",
-    "Text": "Noble Divine",
+    "Text": "월야천조의 존",
     "Enabled": true
   },
   "150321": {
     "OriginalText": "悪魔の微笑",
-    "Text": "Devil's Smile",
+    "Text": "악마의 미소",
     "Enabled": true
   },
   "150322": {
     "OriginalText": "悪魔のささやき",
-    "Text": "Devil's Whisper",
+    "Text": "악마의 속삭임",
     "Enabled": true
   },
   "150323": {
     "OriginalText": "悪魔の涙",
-    "Text": "Devil's Tears",
+    "Text": "악마의 눈물",
     "Enabled": true
   },
   "150324": {
-    "OriginalText": "会心一項",
-    "Text": "Critical Blow",
+    "OriginalText": "会心一擲",
+    "Text": "회심일척",
     "Enabled": true
   },
   "150325": {
     "OriginalText": "会心御手",
-    "Text": "Critical Control",
+    "Text": "회심어수",
     "Enabled": true
   },
   "150326": {
     "OriginalText": "暗心舞踏",
-    "Text": "Bitter Dance",
+    "Text": "암심무도",
     "Enabled": true
   },
   "150327": {
     "OriginalText": "虚心舞踏",
-    "Text": "Hollow Dance",
+    "Text": "허심무도",
     "Enabled": true
   },
   "150328": {
-    "OriginalText": "明擲止水",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "明鏡止水",
+    "Text": "명경지수",
+    "Enabled": true
   },
   "150329": {
     "OriginalText": "一意専心",
-    "Text": "Unique Devotion",
+    "Text": "일의전심",
     "Enabled": true
   },
   "150330": {
-    "OriginalText": "虚心鏡懐",
-    "Text": "Ambient Mirror",
+    "OriginalText": "虚心坦懐",
+    "Text": "허심탄회",
     "Enabled": true
   },
   "150331": {
     "OriginalText": "光風晴月",
-    "Text": "Zephyr Springtide",
+    "Text": "광풍청월",
     "Enabled": true
   },
   "150332": {
-    "OriginalText": "坦吸気",
-    "Text": "Life Collection",
+    "OriginalText": "贄吸気",
+    "Text": "지흡기",
     "Enabled": true
   },
   "150333": {
-    "OriginalText": "坦吸命",
-    "Text": "Life Absorption",
+    "OriginalText": "贄吸命",
+    "Text": "지흡명",
     "Enabled": true
   },
   "150334": {
-    "OriginalText": "回贄解放",
-    "Text": "Circuit Release",
+    "OriginalText": "回路解放",
+    "Text": "회로 해방",
     "Enabled": true
   },
   "150335": {
     "OriginalText": "力の預言",
-    "Text": "Prophecy of Power",
+    "Text": "힘의 예언",
     "Enabled": true
   },
   "150336": {
     "OriginalText": "祈願の形",
-    "Text": "Hope's Form",
+    "Text": "기원의 형태",
     "Enabled": true
   },
   "150337": {
     "OriginalText": "祈念の形",
-    "Text": "Prayer's Form",
+    "Text": "기념의 형태",
     "Enabled": true
   },
   "150338": {
     "OriginalText": "心願の形",
-    "Text": "Wish's Form",
+    "Text": "염원의 형태",
     "Enabled": true
   },
   "150339": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150340": {
     "OriginalText": "- 予備枠",
-    "Text": "Reserve Frame",
+    "Text": "- 예비 칸",
     "Enabled": true
   },
   "150351": {
-    "OriginalText": "パワー",
-    "Text": "Power",
+    "OriginalText": "パワーⅥ",
+    "Text": "파워 VI",
     "Enabled": true
   },
   "150361": {
-    "OriginalText": "シュート",
-    "Text": "Shot",
+    "OriginalText": "シュートⅥ",
+    "Text": "슛 VI",
     "Enabled": true
   },
   "150371": {
-    "OriginalText": "テクニック",
-    "Text": "Technique",
+    "OriginalText": "テクニックⅥ",
+    "Text": "테크닉 VI",
     "Enabled": true
   },
   "150381": {
-    "OriginalText": "スタミナ",
-    "Text": "Stamina",
+    "OriginalText": "スタミナⅥ",
+    "Text": "스태미너 VI",
     "Enabled": true
   },
   "150391": {
-    "OriginalText": "スピリタ",
-    "Text": "Spirita",
+    "OriginalText": "スピリタⅥ",
+    "Text": "스피리타 VI",
     "Enabled": true
   },
   "150401": {
-    "OriginalText": "アーム",
-    "Text": "Arm",
+    "OriginalText": "アームⅥ",
+    "Text": "암 VI",
     "Enabled": true
   },
   "150411": {
-    "OriginalText": "アビリティ",
-    "Text": "Ability",
+    "OriginalText": "アビリティⅥ",
+    "Text": "어빌리티 VI",
     "Enabled": true
   },
   "150421": {
-    "OriginalText": "ボディ",
-    "Text": "Body",
+    "OriginalText": "ボディⅥ",
+    "Text": "바디 VI",
     "Enabled": true
   },
   "150431": {
-    "OriginalText": "リアクト",
-    "Text": "React",
+    "OriginalText": "リアクトⅥ",
+    "Text": "리액트 VI",
     "Enabled": true
   },
   "150441": {
-    "OriginalText": "マインド",
-    "Text": "Mind",
+    "OriginalText": "マインドⅥ",
+    "Text": "마인드 VI",
     "Enabled": true
   },
   "150501": {
-    "OriginalText": "ブロウレジスト",
-    "Text": "Blow Resist",
+    "OriginalText": "ブロウレジストⅥ",
+    "Text": "블로우 레지스트 VI",
     "Enabled": true
   },
   "150511": {
-    "OriginalText": "ショットレジスト",
-    "Text": "Shot Resist",
+    "OriginalText": "ショットレジストⅥ",
+    "Text": "샷 레지스트 VI",
     "Enabled": true
   },
   "150521": {
-    "OriginalText": "マインドレジスト",
-    "Text": "Mind Resist",
+    "OriginalText": "マインドレジストⅥ",
+    "Text": "마인드 레지스트 VI",
     "Enabled": true
   },
   "150531": {
-    "OriginalText": "フレイムレジスト",
-    "Text": "Flame Resist",
+    "OriginalText": "フレイムレジストⅥ",
+    "Text": "플레임 레지스트 VI",
     "Enabled": true
   },
   "150541": {
-    "OriginalText": "アイスレジスト",
-    "Text": "Ice Resist",
+    "OriginalText": "アイスレジストⅥ",
+    "Text": "아이스 레지스트 VI",
     "Enabled": true
   },
   "150551": {
-    "OriginalText": "ショックレジスト",
-    "Text": "Shock Resist",
+    "OriginalText": "ショックレジストⅥ",
+    "Text": "쇼크 레지스트 VI",
     "Enabled": true
   },
   "150561": {
-    "OriginalText": "ウィンドレジスト",
-    "Text": "Wind Resist",
+    "OriginalText": "ウィンドレジストⅥ",
+    "Text": "윈드 레지스트 VI",
     "Enabled": true
   },
   "150571": {
-    "OriginalText": "ライトレジスト",
-    "Text": "Light Resist",
+    "OriginalText": "ライトレジストⅥ",
+    "Text": "라이트 레지스트 VI",
     "Enabled": true
   },
   "150581": {
-    "OriginalText": "グルームレジスト",
-    "Text": "Gloom Resist",
+    "OriginalText": "グルームレジストⅥ",
+    "Text": "그룸 레지스트 VI",
     "Enabled": true
   },
   "150601": {
     "OriginalText": "フレイムブースト",
-    "Text": "Flame Boost",
+    "Text": "플레임 부스트",
     "Enabled": true
   },
   "150611": {
     "OriginalText": "アイスブースト",
-    "Text": "Ice Boost",
+    "Text": "아이스 부스트",
     "Enabled": true
   },
   "150621": {
     "OriginalText": "ショックブースト",
-    "Text": "Shock Boost",
+    "Text": "쇼크 부스트",
     "Enabled": true
   },
   "150631": {
     "OriginalText": "ウィンドブースト",
-    "Text": "Wind Boost",
+    "Text": "윈드 부스트",
     "Enabled": true
   },
   "150641": {
     "OriginalText": "ライトブースト",
-    "Text": "Light Boost",
+    "Text": "라이트 부스트",
     "Enabled": true
   },
   "150651": {
     "OriginalText": "グルームブースト",
-    "Text": "Gloom Boost",
+    "Text": "그룸 부스트",
     "Enabled": true
   },
   "150701": {
     "OriginalText": "空連乱舞",
-    "Text": "Fierce Dance",
+    "Text": "공련난무",
     "Enabled": true
   },
   "150711": {
     "OriginalText": "零の壁",
-    "Text": "Cipher Wall",
+    "Text": "영의 벽",
     "Enabled": true
   },
   "150721": {
-    "OriginalText": "回贄掟進",
-    "Text": "Circuit Charge",
+    "OriginalText": "回路促進",
+    "Text": "회로 촉진",
     "Enabled": true
   },
   "150731": {
     "OriginalText": "最後の防壁",
-    "Text": "Final Barrier",
+    "Text": "최후의 방벽",
     "Enabled": true
   },
   "150741": {
     "OriginalText": "天運の一撃",
-    "Text": "Divine Blow",
+    "Text": "천운의 일격",
     "Enabled": true
   },
   "150742": {
     "OriginalText": "天運の剛撃",
-    "Text": "Divine Strike",
+    "Text": "천운의 강격",
     "Enabled": true
   },
   "150751": {
     "OriginalText": "無謀の型",
-    "Text": "Reckless Stance",
+    "Text": "무모의 형",
     "Enabled": true
   },
   "150761": {
     "OriginalText": "グランセンサー",
-    "Text": "Gran Sensor",
+    "Text": "그란 센서",
     "Enabled": true
   },
   "150771": {
-    "OriginalText": "復合連牙",
-    "Text": "",
-    "Enabled": false
+    "OriginalText": "複合連牙",
+    "Text": "복합연아",
+    "Enabled": true
   },
   "150811": {
     "OriginalText": "対バインド",
-    "Text": "Against Bind",
+    "Text": "바인드 내성",
     "Enabled": true
   },
   "150812": {
     "OriginalText": "対インフェクション",
-    "Text": "Against Infection",
+    "Text": "인펙션 내성",
     "Enabled": true
   },
   "150813": {
     "OriginalText": "対ブラインド",
-    "Text": "Against Blind",
+    "Text": "블라인드 내성",
     "Enabled": true
   },
   "150814": {
     "OriginalText": "対グラン中毒",
-    "Text": "Against G. Poison",
+    "Text": "그란 중독 내성",
     "Enabled": true
   },
   "150821": {
     "OriginalText": "ハンターバースト",
-    "Text": "Hunter BURST",
+    "Text": "헌터 버스트",
     "Enabled": true
   },
   "150822": {
     "OriginalText": "レンジャーバースト",
-    "Text": "Ranger BURST",
+    "Text": "레인저 버스트",
     "Enabled": true
   },
   "150823": {
     "OriginalText": "フォースバースト",
-    "Text": "Force BURST",
+    "Text": "포스 버스트",
     "Enabled": true
   },
   "150831": {
     "OriginalText": "ハイパーバースト",
-    "Text": "Hyper BURST",
+    "Text": "하이퍼 버스트",
     "Enabled": true
   },
   "152100": {
     "OriginalText": "エクステンド★1",
-    "Text": "1★ Extension",
+    "Text": "익스텐드★1",
     "Enabled": true
   },
   "152101": {
     "OriginalText": "エクステンド★2",
-    "Text": "2★ Extension",
+    "Text": "익스텐드★2",
     "Enabled": true
   },
   "152102": {
     "OriginalText": "エクステンド★3",
-    "Text": "3★ Extension",
+    "Text": "익스텐드★3",
     "Enabled": true
   },
   "152103": {
     "OriginalText": "エクステンド★4",
-    "Text": "4★ Extension",
+    "Text": "익스텐드★4",
     "Enabled": true
   },
   "152104": {
     "OriginalText": "エクステンド★5",
-    "Text": "5★ Extension",
+    "Text": "익스텐드★5",
     "Enabled": true
   },
   "152105": {
     "OriginalText": "エクステンド★6",
-    "Text": "6★ Extension",
+    "Text": "익스텐드★6",
     "Enabled": true
   },
   "152106": {
     "OriginalText": "エクステンド★7",
-    "Text": "7★ Extension",
+    "Text": "익스텐드★7",
     "Enabled": true
   },
   "152107": {
     "OriginalText": "エクステンド★8",
-    "Text": "8★ Extension",
+    "Text": "익스텐드★8",
     "Enabled": true
   },
   "152108": {
     "OriginalText": "エクステンド★9",
-    "Text": "9★ Extension",
+    "Text": "익스텐드★9",
     "Enabled": true
   },
   "152109": {
     "OriginalText": "エクステンド★10",
-    "Text": "10★ Extension",
+    "Text": "익스텐드★10",
     "Enabled": true
   },
   "152110": {
     "OriginalText": "エクステンド★11",
-    "Text": "11★ Extension",
+    "Text": "익스텐드★11",
     "Enabled": true
   },
   "152111": {
     "OriginalText": "エクステンド★12",
-    "Text": "12★ Extension",
+    "Text": "익스텐드★12",
     "Enabled": true
   },
   "152112": {
     "OriginalText": "エクステンド★13",
-    "Text": "13★ Extension",
+    "Text": "익스텐드★13",
     "Enabled": true
   },
   "152113": {
     "OriginalText": "エクステンド★14",
-    "Text": "14★ Extension",
+    "Text": "익스텐드★14",
     "Enabled": true
   },
   "152114": {
     "OriginalText": "エクステンド★15",
-    "Text": "15★ Extension",
+    "Text": "익스텐드★15",
     "Enabled": true
   },
   "152115": {
     "OriginalText": "エクステンド★EX",
-    "Text": "EX★ Extension",
+    "Text": "익스텐드★EX",
     "Enabled": true
   },
   "820000": {
     "OriginalText": "なし",
-    "Text": "None",
+    "Text": "없음",
     "Enabled": true
   },
   "820001": {
     "OriginalText": "打撃力が２５上昇する。",
-    "Text": "Boosts S-ATK by 25.",
+    "Text": "타격력이 25 증가한다.",
     "Enabled": true
   },
   "820002": {
     "OriginalText": "打撃力が５０上昇する。",
-    "Text": "Boosts S-ATK by 50.",
+    "Text": "타격력이 50 증가한다.",
     "Enabled": true
   },
   "820003": {
     "OriginalText": "打撃力が１００上昇する。",
-    "Text": "Boosts S-ATK by 100.",
+    "Text": "타격력이 100 증가한다.",
     "Enabled": true
   },
   "820004": {
     "OriginalText": "打撃力が１５０上昇する。",
-    "Text": "Boosts S-ATK by 150.",
+    "Text": "타격력이 150 증가한다.",
     "Enabled": true
   },
   "820005": {
     "OriginalText": "打撃力が３００上昇する。",
-    "Text": "Boosts S-ATK by 300.",
+    "Text": "타격력이 300 증가한다.",
     "Enabled": true
   },
   "820006": {
     "OriginalText": "射撃力が２５上昇する。",
-    "Text": "Boosts R-ATK by 25.",
+    "Text": "사격력이 25 증가한다.",
     "Enabled": true
   },
   "820007": {
     "OriginalText": "射撃力が５０上昇する。",
-    "Text": "Boosts R-ATK by 50.",
+    "Text": "사격력이 50 증가한다.",
     "Enabled": true
   },
   "820008": {
     "OriginalText": "射撃力が１００上昇する。",
-    "Text": "Boosts R-ATK by 100.",
+    "Text": "사격력이 100 증가한다.",
     "Enabled": true
   },
   "820009": {
     "OriginalText": "射撃力が１５０上昇する。",
-    "Text": "Boosts R-ATK by 150.",
+    "Text": "사격력이 150 증가한다.",
     "Enabled": true
   },
   "820010": {
     "OriginalText": "射撃力が３００上昇する。",
-    "Text": "Boosts R-ATK by 300.",
+    "Text": "사격력이 300 증가한다.",
     "Enabled": true
   },
   "820011": {
     "OriginalText": "法撃力が２５上昇する。",
-    "Text": "Boosts T-ATK by 25.",
+    "Text": "법격력이 25 증가한다.",
     "Enabled": true
   },
   "820012": {
     "OriginalText": "法撃力が５０上昇する。",
-    "Text": "Boosts T-ATK by 50.",
+    "Text": "법격력이 50 증가한다.",
     "Enabled": true
   },
   "820013": {
     "OriginalText": "法撃力が１００上昇する。",
-    "Text": "Boosts T-ATK by 100.",
+    "Text": "법격력이 100 증가한다.",
     "Enabled": true
   },
   "820014": {
     "OriginalText": "法撃力が１５０上昇する。",
-    "Text": "Boosts T-ATK by 150.",
+    "Text": "법격력이 150 증가한다.",
     "Enabled": true
   },
   "820015": {
     "OriginalText": "法撃力が３００上昇する。",
-    "Text": "Boosts T-ATK by 300.",
+    "Text": "법격력이 300 증가한다.",
     "Enabled": true
   },
   "820016": {
     "OriginalText": "ＨＰの上限値が１００上昇する。",
-    "Text": "Boosts base HP by 100.",
+    "Text": "HP 최대치가 100 증가한다.",
     "Enabled": true
   },
   "820017": {
     "OriginalText": "ＨＰの上限値が２００上昇する。",
-    "Text": "Boosts base HP by 200.",
+    "Text": "HP 최대치가 200 증가한다.",
     "Enabled": true
   },
   "820018": {
     "OriginalText": "ＨＰの上限値が３００上昇する。",
-    "Text": "Boosts base HP by 300.",
+    "Text": "HP 최대치가 300 증가한다.",
     "Enabled": true
   },
   "820019": {
     "OriginalText": "ＨＰの上限値が４００上昇する。",
-    "Text": "Boosts base HP by 400.",
+    "Text": "HP 최대치가 400 증가한다.",
     "Enabled": true
   },
   "820020": {
     "OriginalText": "ＨＰの上限値が５００上昇する。",
-    "Text": "Boosts base HP by 500.",
+    "Text": "HP 최대치가 500 증가한다.",
     "Enabled": true
   },
   "820021": {
     "OriginalText": "ＧＰの上限値が３上昇する。",
-    "Text": "Boosts base GP by 3.",
+    "Text": "GP 최대치가 3 증가한다.",
     "Enabled": true
   },
   "820022": {
     "OriginalText": "ＧＰの上限値が６上昇する。",
-    "Text": "Boosts base GP by 6.",
+    "Text": "GP 최대치가 6 증가한다.",
     "Enabled": true
   },
   "820023": {
     "OriginalText": "ＧＰの上限値が１０上昇する。",
-    "Text": "Boosts base GP by 10.",
+    "Text": "GP 최대치가 10 증가한다.",
     "Enabled": true
   },
   "820024": {
     "OriginalText": "ＧＰの上限値が１５上昇する。",
-    "Text": "Boosts base GP by 15.",
+    "Text": "GP 최대치가 15 증가한다.",
     "Enabled": true
   },
   "820025": {
     "OriginalText": "ＧＰの上限値が３０上昇する。",
-    "Text": "Boosts base GP by 30.",
+    "Text": "GP 최대치가 30 증가한다.",
     "Enabled": true
   },
   "820026": {
     "OriginalText": "技量が１０上昇する。",
-    "Text": "Boosts DEX by 10.",
+    "Text": "기량이 10 증가한다.",
     "Enabled": true
   },
   "820027": {
     "OriginalText": "技量が２０上昇する。",
-    "Text": "Boosts DEX by 20.",
+    "Text": "기량이 20 증가한다.",
     "Enabled": true
   },
   "820028": {
     "OriginalText": "技量が３０上昇する。",
-    "Text": "Boosts DEX by 30.",
+    "Text": "기량이 30 증가한다.",
     "Enabled": true
   },
   "820029": {
     "OriginalText": "技量が４０上昇する。",
-    "Text": "Boosts DEX by 40.",
+    "Text": "기량이 40 증가한다.",
     "Enabled": true
   },
   "820030": {
     "OriginalText": "技量が８０上昇する。",
-    "Text": "Boosts DEX by 80.",
+    "Text": "기량이 80 증가한다.",
     "Enabled": true
   },
   "820031": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820032": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820033": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820034": {
     "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n１０上昇し、技量が５上昇する。",
-    "Text": "Boosts all Attack and Defense stats by\n10 and DEX by 5.",
+    "Text": "타격력, 사격력, 법격력과\n타격 방어력, 사격 방어력, 법격 방어력이\n10 증가하고 기량이 5 증가한다.",
     "Enabled": true
   },
   "820035": {
     "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n２５上昇し、技量が１０上昇する。",
-    "Text": "Boosts all Attack and Defense stats by\n25 and DEX by 10.",
+    "Text": "타격력, 사격력, 법격력과\n타격 방어력, 사격 방어력, 법격 방어력이\n25 증가하고 기량이 10 증가한다.",
     "Enabled": true
   },
   "820036": {
     "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n３５上昇し、技量が１５上昇する。",
-    "Text": "Boosts all Attack and Defense stats by\n35 and DEX by 15.",
+    "Text": "타격력, 사격력, 법격력과\n타격 방어력, 사격 방어력, 법격 방어력이\n35 증가하고 기량이 15 증가한다.",
     "Enabled": true
   },
   "820037": {
     "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n５０上昇し、技量が２０上昇する。",
-    "Text": "Boosts all Attack and Defense stats by\n50 and DEX by 20.",
+    "Text": "타격력, 사격력, 법격력과\n타격 방어력, 사격 방어력, 법격 방어력이\n50 증가하고 기량이 20 증가한다.",
     "Enabled": true
   },
   "820038": {
     "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n１００上昇し、技量が３０上昇する。",
-    "Text": "Boosts all Attack and Defense stats by\n100 and DEX by 30.",
+    "Text": "타격력, 사격력, 법격력과\n타격 방어력, 사격 방어력, 법격 방어력이\n100 증가하고 기량이 30 증가한다.",
     "Enabled": true
   },
   "820039": {
     "OriginalText": "打撃防御力が２５上昇する。",
-    "Text": "Boosts S-DEF by 25.",
+    "Text": "타격 방어력이 25 증가한다.",
     "Enabled": true
   },
   "820040": {
     "OriginalText": "打撃防御力が５０上昇する。",
-    "Text": "Boosts S-DEF by 50.",
+    "Text": "타격 방어력이 50 증가한다.",
     "Enabled": true
   },
   "820041": {
     "OriginalText": "打撃防御力が１００上昇する。",
-    "Text": "Boosts S-DEF by 100.",
+    "Text": "타격 방어력이 100 증가한다.",
     "Enabled": true
   },
   "820042": {
     "OriginalText": "打撃防御力が１５０上昇する。",
-    "Text": "Boosts S-DEF by 150.",
+    "Text": "타격 방어력이 150 증가한다.",
     "Enabled": true
   },
   "820043": {
     "OriginalText": "打撃防御力が３００上昇する。",
-    "Text": "Boosts S-DEF by 300.",
+    "Text": "타격 방어력이 300 증가한다.",
     "Enabled": true
   },
   "820044": {
     "OriginalText": "射撃防御力が２５上昇する。",
-    "Text": "Boosts R-DEF by 25.",
+    "Text": "사격 방어력이 25 증가한다.",
     "Enabled": true
   },
   "820045": {
     "OriginalText": "射撃防御力が５０上昇する。",
-    "Text": "Boosts R-DEF by 50.",
+    "Text": "사격 방어력이 50 증가한다.",
     "Enabled": true
   },
   "820046": {
     "OriginalText": "射撃防御力が１００上昇する。",
-    "Text": "Boosts R-DEF by 100.",
+    "Text": "사격 방어력이 100 증가한다.",
     "Enabled": true
   },
   "820047": {
     "OriginalText": "射撃防御力が１５０上昇する。",
-    "Text": "Boosts R-DEF by 150.",
+    "Text": "사격 방어력이 150 증가한다.",
     "Enabled": true
   },
   "820048": {
     "OriginalText": "射撃防御力が３００上昇する。",
-    "Text": "Boosts R-DEF by 300.",
+    "Text": "사격 방어력이 300 증가한다.",
     "Enabled": true
   },
   "820049": {
     "OriginalText": "法撃防御力が２５上昇する。",
-    "Text": "Boosts T-DEF by 25.",
+    "Text": "법격 방어력이 25 증가한다.",
     "Enabled": true
   },
   "820050": {
     "OriginalText": "法撃防御力が５０上昇する。",
-    "Text": "Boosts T-DEF by 50.",
+    "Text": "법격 방어력이 50 증가한다.",
     "Enabled": true
   },
   "820051": {
     "OriginalText": "法撃防御力が１００上昇する。",
-    "Text": "Boosts T-DEF by 100.",
+    "Text": "법격 방어력이 100 증가한다.",
     "Enabled": true
   },
   "820052": {
     "OriginalText": "法撃防御力が１５０上昇する。",
-    "Text": "Boosts T-DEF by 150.",
+    "Text": "법격 방어력이 150 증가한다.",
     "Enabled": true
   },
   "820053": {
     "OriginalText": "法撃防御力が３００上昇する。",
-    "Text": "Boosts T-DEF by 300.",
+    "Text": "법격 방어력이 300 증가한다.",
     "Enabled": true
   },
   "820054": {
     "OriginalText": "打撃によるダメージを３％軽滅する。",
-    "Text": "Reduces Striking Attack damage by 3%.",
-    "Enabled": true
+    "Text": "타격으로 받는 데미지를 3% 줄인다.",
+    "Enabled": false
   },
   "820055": {
     "OriginalText": "打撃によるダメージを４％軽滅する。",
-    "Text": "Reduces Striking Attack damage by 4%.",
-    "Enabled": true
+    "Text": "타격으로 받는 데미지를 4% 줄인다.",
+    "Enabled": false
   },
   "820056": {
     "OriginalText": "打撃によるダメージを５％軽滅する。",
-    "Text": "Reduces Striking Attack damage by 5%.",
-    "Enabled": true
+    "Text": "타격으로 받는 데미지를 5% 줄인다.",
+    "Enabled": false
   },
   "820057": {
     "OriginalText": "打撃によるダメージを６％軽滅する。",
-    "Text": "Reduces Striking Attack damage by 6%.",
-    "Enabled": true
+    "Text": "타격으로 받는 데미지를 6% 줄인다.",
+    "Enabled": false
   },
   "820058": {
     "OriginalText": "打撃によるダメージを７％軽滅する。",
-    "Text": "Reduces Striking Attack damage by 7%.",
-    "Enabled": true
+    "Text": "타격으로 받는 데미지를 7% 줄인다.",
+    "Enabled": false
   },
   "820059": {
     "OriginalText": "射撃によるダメージを３％軽滅する。",
-    "Text": "Reduces Ranged Attack damage by 3%.",
-    "Enabled": true
+    "Text": "사격으로 받는 데미지를 3% 줄인다.",
+    "Enabled": false
   },
   "820060": {
     "OriginalText": "射撃によるダメージを４％軽滅する。",
-    "Text": "Reduces Ranged Attack damage by 4%.",
-    "Enabled": true
+    "Text": "사격으로 받는 데미지를 4% 줄인다.",
+    "Enabled": false
   },
   "820061": {
     "OriginalText": "射撃によるダメージを５％軽滅する。",
-    "Text": "Reduces Ranged Attack damage by 5%.",
-    "Enabled": true
+    "Text": "사격으로 받는 데미지를 5% 줄인다.",
+    "Enabled": false
   },
   "820062": {
     "OriginalText": "射撃によるダメージを６％軽滅する。",
-    "Text": "Reduces Ranged Attack damage by 6%.",
-    "Enabled": true
+    "Text": "사격으로 받는 데미지를 6% 줄인다.",
+    "Enabled": false
   },
   "820063": {
     "OriginalText": "射撃によるダメージを７％軽滅する。",
-    "Text": "Reduces Ranged Attack damage by 7%.",
-    "Enabled": true
+    "Text": "사격으로 받는 데미지를 7% 줄인다.",
+    "Enabled": false
   },
   "820064": {
     "OriginalText": "法撃によるダメージを３％軽滅する。",
-    "Text": "Reduces Technique Attack damage by 3%.",
-    "Enabled": true
+    "Text": "법격으로 받는 데미지를 3% 줄인다.",
+    "Enabled": false
   },
   "820065": {
     "OriginalText": "法撃によるダメージを４％軽滅する。",
-    "Text": "Reduces Technique Attack damage by 4%.",
-    "Enabled": true
+    "Text": "법격으로 받는 데미지를 4% 줄인다.",
+    "Enabled": false
   },
   "820066": {
     "OriginalText": "法撃によるダメージを５％軽滅する。",
-    "Text": "Reduces Technique Attack damage by 5%.",
-    "Enabled": true
+    "Text": "법격으로 받는 데미지를 5% 줄인다.",
+    "Enabled": false
   },
   "820067": {
     "OriginalText": "法撃によるダメージを６％軽滅する。",
-    "Text": "Reduces Technique Attack damage by 6%.",
-    "Enabled": true
+    "Text": "법격으로 받는 데미지를 6% 줄인다.",
+    "Enabled": false
   },
   "820068": {
     "OriginalText": "法撃によるダメージを７％軽滅する。",
-    "Text": "Reduces Technique Attack damage by 7%.",
-    "Enabled": true
+    "Text": "법격으로 받는 데미지를 7% 줄인다.",
+    "Enabled": false
   },
   "820069": {
     "OriginalText": "炎属性の攻撃力が１０上昇する。",
-    "Text": "Boosts Fire-attributed attack power by\n10.",
+    "Text": "염속성 공격력이 10 증가한다.",
     "Enabled": true
   },
   "820070": {
     "OriginalText": "炎属性の攻撃力が２０上昇する。",
-    "Text": "Boosts Fire-attributed attack power by\n20.",
+    "Text": "염속성 공격력이 20 증가한다.",
     "Enabled": true
   },
   "820071": {
     "OriginalText": "炎属性の攻撃力が３０上昇する。",
-    "Text": "Boosts Fire-attributed attack power by\n30.",
+    "Text": "염속성 공격력이 30 증가한다.",
     "Enabled": true
   },
   "820072": {
     "OriginalText": "炎属性の攻撃力が４０上昇する。",
-    "Text": "Boosts Fire-attributed attack power by\n40.",
+    "Text": "염속성 공격력이 40 증가한다.",
     "Enabled": true
   },
   "820073": {
     "OriginalText": "炎属性の攻撃力が５０上昇する。",
-    "Text": "Boosts Fire-attributed attack power by\n50.",
+    "Text": "염속성 공격력이 50 증가한다.",
     "Enabled": true
   },
   "820074": {
     "OriginalText": "劇属性の攻撃力が１０上昇する。",
-    "Text": "Boosts Ice-attributed attack power by\n10.",
-    "Enabled": true
+    "Text": "빙속성 공격력이 10 증가한다.",
+    "Enabled": false
   },
   "820075": {
     "OriginalText": "劇属性の攻撃力が２０上昇する。",
-    "Text": "Boosts Ice-attributed attack power by\n20.",
-    "Enabled": true
+    "Text": "빙속성 공격력이 20 증가한다.",
+    "Enabled": false
   },
   "820076": {
     "OriginalText": "劇属性の攻撃力が３０上昇する。",
-    "Text": "Boosts Ice-attributed attack power by\n30.",
-    "Enabled": true
+    "Text": "빙속성 공격력이 30 증가한다.",
+    "Enabled": false
   },
   "820077": {
     "OriginalText": "劇属性の攻撃力が４０上昇する。",
-    "Text": "Boosts Ice-attributed attack power by\n40.",
-    "Enabled": true
+    "Text": "빙속성 공격력이 40 증가한다.",
+    "Enabled": false
   },
   "820078": {
     "OriginalText": "劇属性の攻撃力が５０上昇する。",
-    "Text": "Boosts Ice-attributed attack power by\n50.",
-    "Enabled": true
+    "Text": "빙속성 공격력이 50 증가한다.",
+    "Enabled": false
   },
   "820079": {
     "OriginalText": "雷属性の攻撃力が１０上昇する。",
-    "Text": "Boosts Lightning-attributed attack power\nby 10.",
+    "Text": "뇌속성 공격력이 10 증가한다.",
     "Enabled": true
   },
   "820080": {
     "OriginalText": "雷属性の攻撃力が２０上昇する。",
-    "Text": "Boosts Lightning-attributed attack power\nby 20.",
+    "Text": "뇌속성 공격력이 20 증가한다.",
     "Enabled": true
   },
   "820081": {
     "OriginalText": "雷属性の攻撃力が３０上昇する。",
-    "Text": "Boosts Lightning-attributed attack power\nby 30.",
+    "Text": "뇌속성 공격력이 30 증가한다.",
     "Enabled": true
   },
   "820082": {
     "OriginalText": "雷属性の攻撃力が４０上昇する。",
-    "Text": "Boosts Lightning-attributed attack power\nby 40.",
+    "Text": "뇌속성 공격력이 40 증가한다.",
     "Enabled": true
   },
   "820083": {
     "OriginalText": "雷属性の攻撃力が５０上昇する。",
-    "Text": "Boosts Lightning-attributed attack power\nby 50.",
+    "Text": "뇌속성 공격력이 50 증가한다.",
     "Enabled": true
   },
   "820084": {
     "OriginalText": "風属性の攻撃力が１０上昇する。",
-    "Text": "Boosts Wind-attributed attack power by\n10.",
+    "Text": "풍속성 공격력이 10 증가한다.",
     "Enabled": true
   },
   "820085": {
     "OriginalText": "風属性の攻撃力が２０上昇する。",
-    "Text": "Boosts Wind-attributed attack power by\n20.",
+    "Text": "풍속성 공격력이 20 증가한다.",
     "Enabled": true
   },
   "820086": {
     "OriginalText": "風属性の攻撃力が３０上昇する。",
-    "Text": "Boosts Wind-attributed attack power by\n30.",
+    "Text": "풍속성 공격력이 30 증가한다.",
     "Enabled": true
   },
   "820087": {
     "OriginalText": "風属性の攻撃力が４０上昇する。",
-    "Text": "Boosts Wind-attributed attack power by\n40.",
+    "Text": "풍속성 공격력이 40 증가한다.",
     "Enabled": true
   },
   "820088": {
     "OriginalText": "風属性の攻撃力が５０上昇する。",
-    "Text": "Boosts Wind-attributed attack power by\n50.",
+    "Text": "풍속성 공격력이 50 증가한다.",
     "Enabled": true
   },
   "820089": {
     "OriginalText": "光属性の攻撃力が１０上昇する。",
-    "Text": "Boosts Light-attributed attack power by\n10.",
+    "Text": "광속성 공격력이 10 증가한다.",
     "Enabled": true
   },
   "820090": {
     "OriginalText": "光属性の攻撃力が２０上昇する。",
-    "Text": "Boosts Light-attributed attack power by\n20.",
+    "Text": "광속성 공격력이 20 증가한다.",
     "Enabled": true
   },
   "820091": {
     "OriginalText": "光属性の攻撃力が３０上昇する。",
-    "Text": "Boosts Light-attributed attack power by\n30.",
+    "Text": "광속성 공격력이 30 증가한다.",
     "Enabled": true
   },
   "820092": {
     "OriginalText": "光属性の攻撃力が４０上昇する。",
-    "Text": "Boosts Light-attributed attack power by\n40.",
+    "Text": "광속성 공격력이 40 증가한다.",
     "Enabled": true
   },
   "820093": {
     "OriginalText": "光属性の攻撃力が５０上昇する。",
-    "Text": "Boosts Light-attributed attack power by\n50.",
+    "Text": "광속성 공격력이 50 증가한다.",
     "Enabled": true
   },
   "820094": {
     "OriginalText": "闇属性の攻撃力が１０上昇する。",
-    "Text": "Boosts Dark-attributed attack power by\n10.",
+    "Text": "암속성 공격력이 10 증가한다.",
     "Enabled": true
   },
   "820095": {
     "OriginalText": "闇属性の攻撃力が２０上昇する。",
-    "Text": "Boosts Dark-attributed attack power by\n20.",
+    "Text": "암속성 공격력이 20 증가한다.",
     "Enabled": true
   },
   "820096": {
     "OriginalText": "闇属性の攻撃力が３０上昇する。",
-    "Text": "Boosts Dark-attributed attack power by\n30.",
+    "Text": "암속성 공격력이 30 증가한다.",
     "Enabled": true
   },
   "820097": {
     "OriginalText": "闇属性の攻撃力が４０上昇する。",
-    "Text": "Boosts Dark-attributed attack power by\n40.",
+    "Text": "암속성 공격력이 40 증가한다.",
     "Enabled": true
   },
   "820098": {
     "OriginalText": "闇属性の攻撃力が５０上昇する。",
-    "Text": "Boosts Dark-attributed attack power by\n50.",
+    "Text": "암속성 공격력이 50 증가한다.",
     "Enabled": true
   },
   "820099": {
     "OriginalText": "炎属性の攻撃によるダメージが\n２０％軽滅される。",
-    "Text": "Reduces Fire-attributed damage by 20%.",
-    "Enabled": true
+    "Text": "염속성 공격으로 받는 데미지를\n20% 줄인다.",
+    "Enabled": false
   },
   "820100": {
     "OriginalText": "炎属性の攻撃によるダメージが\n３０％軽滅される。",
-    "Text": "Reduces Fire-attributed damage by 30%.",
-    "Enabled": true
+    "Text": "염속성 공격으로 받는 데미지를\n30% 줄인다.",
+    "Enabled": false
   },
   "820101": {
     "OriginalText": "炎属性の攻撃によるダメージが\n４０％軽滅される。",
-    "Text": "Reduces Fire-attributed damage by 40%.",
-    "Enabled": true
+    "Text": "염속성 공격으로 받는 데미지를\n40% 줄인다.",
+    "Enabled": false
   },
   "820102": {
     "OriginalText": "炎属性の攻撃によるダメージが\n５０％軽滅される。",
-    "Text": "Reduces Fire-attributed damage by 50%.",
-    "Enabled": true
+    "Text": "염속성 공격으로 받는 데미지를\n50% 줄인다.",
+    "Enabled": false
   },
   "820103": {
     "OriginalText": "炎属性の攻撃によるダメージが\n６０％軽滅される。",
-    "Text": "Reduces Fire-attributed damage by 60%.",
-    "Enabled": true
+    "Text": "염속성 공격으로 받는 데미지를\n60% 줄인다.",
+    "Enabled": false
   },
   "820104": {
     "OriginalText": "劇属性の攻撃によるダメージが\n２０％軽滅される。",
-    "Text": "Reduces Ice-attributed damage by 20%.",
-    "Enabled": true
+    "Text": "빙속성 공격으로 받는 데미지를\n20% 줄인다.",
+    "Enabled": false
   },
   "820105": {
     "OriginalText": "劇属性の攻撃によるダメージが\n３０％軽滅される。",
-    "Text": "Reduces Ice-attributed damage by 30%.",
-    "Enabled": true
+    "Text": "빙속성 공격으로 받는 데미지를\n30% 줄인다.",
+    "Enabled": false
   },
   "820106": {
     "OriginalText": "劇属性の攻撃によるダメージが\n４０％軽滅される。",
-    "Text": "Reduces Ice-attributed damage by 40%.",
-    "Enabled": true
+    "Text": "빙속성 공격으로 받는 데미지를\n40% 줄인다.",
+    "Enabled": false
   },
   "820107": {
     "OriginalText": "劇属性の攻撃によるダメージが\n５０％軽滅される。",
-    "Text": "Reduces Ice-attributed damage by 50%.",
-    "Enabled": true
+    "Text": "빙속성 공격으로 받는 데미지를\n50% 줄인다.",
+    "Enabled": false
   },
   "820108": {
     "OriginalText": "劇属性の攻撃によるダメージが\n６０％軽滅される。",
-    "Text": "Reduces Ice-attributed damage by 60%.",
-    "Enabled": true
+    "Text": "빙속성 공격으로 받는 데미지를\n60% 줄인다.",
+    "Enabled": false
   },
   "820109": {
     "OriginalText": "雷属性の攻撃によるダメージが\n２０％軽滅される。",
-    "Text": "Reduces Lightning-attributed damage by\n20%.",
-    "Enabled": true
+    "Text": "뇌속성 공격으로 받는 데미지를\n20% 줄인다.",
+    "Enabled": false
   },
   "820110": {
     "OriginalText": "雷属性の攻撃によるダメージが\n３０％軽滅される。",
-    "Text": "Reduces Lightning-attributed damage by\n30%.",
-    "Enabled": true
+    "Text": "뇌속성 공격으로 받는 데미지를\n30% 줄인다.",
+    "Enabled": false
   },
   "820111": {
     "OriginalText": "雷属性の攻撃によるダメージが\n４０％軽滅される。",
-    "Text": "Reduces Lightning-attributed damage by\n40%.",
-    "Enabled": true
+    "Text": "뇌속성 공격으로 받는 데미지를\n40% 줄인다.",
+    "Enabled": false
   },
   "820112": {
     "OriginalText": "雷属性の攻撃によるダメージが\n５０％軽滅される。",
-    "Text": "Reduces Lightning-attributed damage by\n50%.",
-    "Enabled": true
+    "Text": "뇌속성 공격으로 받는 데미지를\n50% 줄인다.",
+    "Enabled": false
   },
   "820113": {
     "OriginalText": "雷属性の攻撃によるダメージが\n６０％軽滅される。",
-    "Text": "Reduces Lightning-attributed damage by\n60%.",
-    "Enabled": true
+    "Text": "뇌속성 공격으로 받는 데미지를\n60% 줄인다.",
+    "Enabled": false
   },
   "820114": {
     "OriginalText": "風属性の攻撃によるダメージが\n２０％軽滅される。",
-    "Text": "Reduces Wind-attributed damage by 20%.",
-    "Enabled": true
+    "Text": "풍속성 공격으로 받는 데미지를\n20% 줄인다.",
+    "Enabled": false
   },
   "820115": {
     "OriginalText": "風属性の攻撃によるダメージが\n３０％軽滅される。",
-    "Text": "Reduces Wind-attributed damage by 30%.",
-    "Enabled": true
+    "Text": "풍속성 공격으로 받는 데미지를\n30% 줄인다.",
+    "Enabled": false
   },
   "820116": {
     "OriginalText": "風属性の攻撃によるダメージが\n４０％軽滅される。",
-    "Text": "Reduces Wind-attributed damage by 40%.",
-    "Enabled": true
+    "Text": "풍속성 공격으로 받는 데미지를\n40% 줄인다.",
+    "Enabled": false
   },
   "820117": {
     "OriginalText": "風属性の攻撃によるダメージが\n５０％軽滅される。",
-    "Text": "Reduces Wind-attributed damage by 50%.",
-    "Enabled": true
+    "Text": "풍속성 공격으로 받는 데미지를\n50% 줄인다.",
+    "Enabled": false
   },
   "820118": {
     "OriginalText": "風属性の攻撃によるダメージが\n６０％軽滅される。",
-    "Text": "Reduces Wind-attributed damage by 60%.",
-    "Enabled": true
+    "Text": "풍속성 공격으로 받는 데미지를\n60% 줄인다.",
+    "Enabled": false
   },
   "820119": {
     "OriginalText": "光属性の攻撃によるダメージが\n２０％軽滅される。",
-    "Text": "Reduces Light-attributed damage by 20%.",
-    "Enabled": true
+    "Text": "광속성 공격으로 받는 데미지를\n20% 줄인다.",
+    "Enabled": false
   },
   "820120": {
     "OriginalText": "光属性の攻撃によるダメージが\n３０％軽滅される。",
-    "Text": "Reduces Light-attributed damage by 30%.",
-    "Enabled": true
+    "Text": "광속성 공격으로 받는 데미지를\n30% 줄인다.",
+    "Enabled": false
   },
   "820121": {
     "OriginalText": "光属性の攻撃によるダメージが\n４０％軽滅される。",
-    "Text": "Reduces Light-attributed damage by 40%.",
-    "Enabled": true
+    "Text": "광속성 공격으로 받는 데미지를\n40% 줄인다.",
+    "Enabled": false
   },
   "820122": {
     "OriginalText": "光属性の攻撃によるダメージが\n５０％軽滅される。",
-    "Text": "Reduces Light-attributed damage by 50%.",
-    "Enabled": true
+    "Text": "광속성 공격으로 받는 데미지를\n50% 줄인다.",
+    "Enabled": false
   },
   "820123": {
     "OriginalText": "光属性の攻撃によるダメージが\n６０％軽滅される。",
-    "Text": "Reduces Light-attributed damage by 60%.",
-    "Enabled": true
+    "Text": "광속성 공격으로 받는 데미지를\n60% 줄인다.",
+    "Enabled": false
   },
   "820124": {
     "OriginalText": "闇属性の攻撃によるダメージが\n２０％軽滅される。",
-    "Text": "Reduces Dark-attributed damage by 20%.",
-    "Enabled": true
+    "Text": "암속성 공격으로 받는 데미지를\n20% 줄인다.",
+    "Enabled": false
   },
   "820125": {
     "OriginalText": "闇属性の攻撃によるダメージが\n３０％軽滅される。",
-    "Text": "Reduces Dark-attributed damage by 30%.",
-    "Enabled": true
+    "Text": "암속성 공격으로 받는 데미지를\n30% 줄인다.",
+    "Enabled": false
   },
   "820126": {
     "OriginalText": "闇属性の攻撃によるダメージが\n４０％軽滅される。",
-    "Text": "Reduces Dark-attributed damage by 40%.",
-    "Enabled": true
+    "Text": "암속성 공격으로 받는 데미지를\n40% 줄인다.",
+    "Enabled": false
   },
   "820127": {
     "OriginalText": "闇属性の攻撃によるダメージが\n５０％軽滅される。",
-    "Text": "Reduces Dark-attributed damage by 50%.",
-    "Enabled": true
+    "Text": "암속성 공격으로 받는 데미지를\n50% 줄인다.",
+    "Enabled": false
   },
   "820128": {
     "OriginalText": "闇属性の攻撃によるダメージが\n６０％軽滅される。",
-    "Text": "Reduces Dark-attributed damage by 60%.",
-    "Enabled": true
+    "Text": "암속성 공격으로 받는 데미지를\n60% 줄인다.",
+    "Enabled": false
   },
   "820129": {
     "OriginalText": "全属性の攻撃によるダメージが\n３％軽滅される。",
-    "Text": "Reduces All elemental damage by 3%.",
-    "Enabled": true
+    "Text": "모든 속성 공격으로 받는 데미지를\n3% 줄인다.",
+    "Enabled": false
   },
   "820130": {
     "OriginalText": "全属性の攻撃によるダメージが\n５％軽滅される。",
-    "Text": "Reduces All elemental damage by 5%.",
-    "Enabled": true
+    "Text": "모든 속성 공격으로 받는 데미지를\n5% 줄인다.",
+    "Enabled": false
   },
   "820131": {
     "OriginalText": "全属性の攻撃によるダメージが\n６％軽滅される。",
-    "Text": "Reduces All elemental damage by 6%.",
-    "Enabled": true
+    "Text": "모든 속성 공격으로 받는 데미지를\n6% 줄인다.",
+    "Enabled": false
   },
   "820132": {
     "OriginalText": "全属性の攻撃によるダメージが\n７％軽滅される。",
-    "Text": "Reduces All elemental damage by 7%.",
-    "Enabled": true
+    "Text": "모든 속성 공격으로 받는 데미지를\n7% 줄인다.",
+    "Enabled": false
   },
   "820133": {
     "OriginalText": "全属性の攻撃によるダメージが\n８％軽滅される。",
-    "Text": "Reduces All elemental damage by 8%.",
-    "Enabled": true
+    "Text": "모든 속성 공격으로 받는 데미지를\n8% 줄인다.",
+    "Enabled": false
   },
   "820134": {
     "OriginalText": "アイテムドロップ率が５％上昇する。",
-    "Text": "Boosts Item Drop Rate by 5%.",
+    "Text": "아이템 드랍률이 5% 증가한다.",
     "Enabled": true
   },
   "820135": {
     "OriginalText": "アイテムドロップ率が１０％上昇する。",
-    "Text": "Boosts Item Drop Rate by 10%.",
+    "Text": "아이템 드랍률이 10% 증가한다.",
     "Enabled": true
   },
   "820136": {
     "OriginalText": "取得する経験値が５％上昇する。",
-    "Text": "Boosts gained EXP by 5%.",
+    "Text": "획득 경험치가 5% 증가한다.",
     "Enabled": true
   },
   "820137": {
     "OriginalText": "取得する経験値が１０％上昇する。",
-    "Text": "Boosts gained EXP by 10%.",
+    "Text": "획득 경험치가 10% 증가한다.",
     "Enabled": true
   },
   "820138": {
     "OriginalText": "敵をバインド状態にする確率が\n３％上昇する。",
-    "Text": "Increases chance of Bind infliction on\nenemies by 3%.",
+    "Text": "적을 바인드 상태로 만드는 확률이\n3% 증가한다.",
     "Enabled": true
   },
   "820139": {
     "OriginalText": "敵をバインド状態にする確率が\n４％上昇する。",
-    "Text": "Increases chance of Bind infliction on\nenemies by 4%.",
+    "Text": "적을 바인드 상태로 만드는 확률이\n4% 증가한다.",
     "Enabled": true
   },
   "820140": {
     "OriginalText": "敵をバインド状態にする確率が\n５％上昇する。",
-    "Text": "Increases chance of Bind infliction on\nenemies by 5%.",
+    "Text": "적을 바인드 상태로 만드는 확률이\n5% 증가한다.",
     "Enabled": true
   },
   "820141": {
     "OriginalText": "敵をバインド状態にする確率が\n６％上昇する。",
-    "Text": "Increases chance of Bind infliction on\nenemies by 6%.",
+    "Text": "적을 바인드 상태로 만드는 확률이\n6% 증가한다.",
     "Enabled": true
   },
   "820142": {
     "OriginalText": "敵をバインド状態にする確率が\n７％上昇する。",
-    "Text": "Increases chance of Bind infliction on\nenemies by 7%.",
+    "Text": "적을 바인드 상태로 만드는 확률이\n7% 증가한다.",
     "Enabled": true
   },
   "820143": {
     "OriginalText": "敵をインフェクション状態にする確率が\n３％上昇する。",
-    "Text": "Increases chance of Infection infliction\non enemies by 3%.",
+    "Text": "적을 인펙션 상태로 만드는 확률이\n3% 증가한다.",
     "Enabled": true
   },
   "820144": {
     "OriginalText": "敵をインフェクション状態にする確率が\n４％上昇する。",
-    "Text": "Increases chance of Infection infliction\non enemies by 4%.",
+    "Text": "적을 인펙션 상태로 만드는 확률이\n4% 증가한다.",
     "Enabled": true
   },
   "820145": {
     "OriginalText": "敵をインフェクション状態にする確率が\n５％上昇する。",
-    "Text": "Increases chance of Infection infliction\non enemies by 5%.",
+    "Text": "적을 인펙션 상태로 만드는 확률이\n5% 증가한다.",
     "Enabled": true
   },
   "820146": {
     "OriginalText": "敵をインフェクション状態にする確率が\n６％上昇する。",
-    "Text": "Increases chance of Infection infliction\non enemies by 6%.",
+    "Text": "적을 인펙션 상태로 만드는 확률이\n6% 증가한다.",
     "Enabled": true
   },
   "820147": {
     "OriginalText": "敵をインフェクション状態にする確率が\n７％上昇する。",
-    "Text": "Increases chance of Infection infliction\non enemies by 7%.",
+    "Text": "적을 인펙션 상태로 만드는 확률이\n7% 증가한다.",
     "Enabled": true
   },
   "820148": {
     "OriginalText": "敵をブラインド状態にする確率が\n１％上昇する。",
-    "Text": "Increases chance of Blind infliction on\nenemies by 1%.",
+    "Text": "적을 블라인드 상태로 만드는 확률이\n1% 증가한다.",
     "Enabled": true
   },
   "820149": {
     "OriginalText": "敵をブラインド状態にする確率が\n２％上昇する。",
-    "Text": "Increases chance of Blind infliction on\nenemies by 2%.",
+    "Text": "적을 블라인드 상태로 만드는 확률이\n2% 증가한다.",
     "Enabled": true
   },
   "820150": {
     "OriginalText": "敵をブラインド状態にする確率が\n３％上昇する。",
-    "Text": "Increases chance of Blind infliction on\nenemies by 3%.",
+    "Text": "적을 블라인드 상태로 만드는 확률이\n3% 증가한다.",
     "Enabled": true
   },
   "820151": {
     "OriginalText": "敵をブラインド状態にする確率が\n４％上昇する。",
-    "Text": "Increases chance of Blind infliction on\nenemies by 4%.",
+    "Text": "적을 블라인드 상태로 만드는 확률이\n4% 증가한다.",
     "Enabled": true
   },
   "820152": {
     "OriginalText": "敵をブラインド状態にする確率が\n５％上昇する。",
-    "Text": "Increases chance of Blind infliction on\nenemies by 5%.",
+    "Text": "적을 블라인드 상태로 만드는 확률이\n5% 증가한다.",
     "Enabled": true
   },
   "820153": {
     "OriginalText": "敵をグラン中毒状態にする確率が\n１％上昇する。",
-    "Text": "Increases chance of Gran Poisoning\ninfliction on enemies by 1%.",
+    "Text": "적을 그란 중독 상태로 만드는 확률이\n1% 증가한다.",
     "Enabled": true
   },
   "820154": {
     "OriginalText": "敵をグラン中毒状態にする確率が\n２％上昇する。",
-    "Text": "Increases chance of Gran Poisoning\ninfliction on enemies by 2%.",
+    "Text": "적을 그란 중독 상태로 만드는 확률이\n2% 증가한다.",
     "Enabled": true
   },
   "820155": {
     "OriginalText": "敵をグラン中毒状態にする確率が\n３％上昇する。",
-    "Text": "Increases chance of Gran Poisoning\ninfliction on enemies by 3%.",
+    "Text": "적을 그란 중독 상태로 만드는 확률이\n3% 증가한다.",
     "Enabled": true
   },
   "820156": {
     "OriginalText": "敵をグラン中毒状態にする確率が\n４％上昇する。",
-    "Text": "Increases chance of Gran Poisoning\ninfliction on enemies by 4%.",
+    "Text": "적을 그란 중독 상태로 만드는 확률이\n4% 증가한다.",
     "Enabled": true
   },
   "820157": {
     "OriginalText": "敵をグラン中毒状態にする確率が\n５％上昇する。",
-    "Text": "Increases chance of Gran Poisoning\ninfliction on enemies by 5%.",
+    "Text": "적을 그란 중독 상태로 만드는 확률이\n5% 증가한다.",
     "Enabled": true
   },
   "820158": {
     "OriginalText": "敵の炎耐性を下げる確率が\n１０％上昇する。",
-    "Text": "Chance to lower the enemy's fire\nresistance increases by 10%.",
+    "Text": "적의 염내성을 낮추는 확률이\n10% 증가한다.",
     "Enabled": true
   },
   "820159": {
     "OriginalText": "敵の炎耐性を下げる確率が\n１２％上昇する。",
-    "Text": "Chance to lower the enemy's fire\nresistance increases by 12%.",
+    "Text": "적의 염내성을 낮추는 확률이\n12% 증가한다.",
     "Enabled": true
   },
   "820160": {
     "OriginalText": "敵の炎耐性を下げる確率が\n１５％上昇する。",
-    "Text": "Chance to lower the enemy's fire\nresistance increases by 15%.",
+    "Text": "적의 염내성을 낮추는 확률이\n15% 증가한다.",
     "Enabled": true
   },
   "820161": {
     "OriginalText": "敵の炎耐性を下げる確率が\n１８％上昇する。",
-    "Text": "Chance to lower the enemy's fire\nresistance increases by 18%.",
+    "Text": "적의 염내성을 낮추는 확률이\n18% 증가한다.",
     "Enabled": true
   },
   "820162": {
     "OriginalText": "敵の炎耐性を下げる確率が\n２０％上昇する。",
-    "Text": "Chance to lower the enemy's fire\nresistance increases by 20%.",
+    "Text": "적의 염내성을 낮추는 확률이\n20% 증가한다.",
     "Enabled": true
   },
   "820163": {
     "OriginalText": "敵の劇耐性を下げる確率が\n１０％上昇する。",
-    "Text": "Chance to lower the enemy's ice\nresistance increases by 10%.",
-    "Enabled": true
+    "Text": "적의 빙내성을 낮추는 확률이\n10% 증가한다.",
+    "Enabled": false
   },
   "820164": {
     "OriginalText": "敵の劇耐性を下げる確率が\n１２％上昇する。",
-    "Text": "Chance to lower the enemy's ice\nresistance increases by 12%.",
-    "Enabled": true
+    "Text": "적의 빙내성을 낮추는 확률이\n12% 증가한다.",
+    "Enabled": false
   },
   "820165": {
     "OriginalText": "敵の劇耐性を下げる確率が\n１５％上昇する。",
-    "Text": "Chance to lower the enemy's ice\nresistance increases by 15%.",
-    "Enabled": true
+    "Text": "적의 빙내성을 낮추는 확률이\n15% 증가한다.",
+    "Enabled": false
   },
   "820166": {
     "OriginalText": "敵の劇耐性を下げる確率が\n１８％上昇する。",
-    "Text": "Chance to lower the enemy's ice\nresistance increases by 18%.",
-    "Enabled": true
+    "Text": "적의 빙내성을 낮추는 확률이\n18% 증가한다.",
+    "Enabled": false
   },
   "820167": {
     "OriginalText": "敵の劇耐性を下げる確率が\n２０％上昇する。",
-    "Text": "Chance to lower the enemy's ice\nresistance increases by 20%.",
-    "Enabled": true
+    "Text": "적의 빙내성을 낮추는 확률이\n20% 증가한다.",
+    "Enabled": false
   },
   "820168": {
     "OriginalText": "敵の雷耐性を下げる確率が\n１０％上昇する。",
-    "Text": "Chance to lower the enemy's lightning\nresistance increases by 10%.",
+    "Text": "적의 뇌내성을 낮추는 확률이\n10% 증가한다.",
     "Enabled": true
   },
   "820169": {
     "OriginalText": "敵の雷耐性を下げる確率が\n１２％上昇する。",
-    "Text": "Chance to lower the enemy's lightning\nresistance increases by 12%.",
+    "Text": "적의 뇌내성을 낮추는 확률이\n12% 증가한다.",
     "Enabled": true
   },
   "820170": {
     "OriginalText": "敵の雷耐性を下げる確率が\n１５％上昇する。",
-    "Text": "Chance to lower the enemy's lightning\nresistance increases by 15%.",
+    "Text": "적의 뇌내성을 낮추는 확률이\n15% 증가한다.",
     "Enabled": true
   },
   "820171": {
     "OriginalText": "敵の雷耐性を下げる確率が\n１８％上昇する。",
-    "Text": "Chance to lower the enemy's lightning\nresistance increases by 18%.",
+    "Text": "적의 뇌내성을 낮추는 확률이\n18% 증가한다.",
     "Enabled": true
   },
   "820172": {
     "OriginalText": "敵の雷耐性を下げる確率が\n２０％上昇する。",
-    "Text": "Chance to lower the enemy's lightning\nresistance increases by 20%.",
+    "Text": "적의 뇌내성을 낮추는 확률이\n20% 증가한다.",
     "Enabled": true
   },
   "820173": {
     "OriginalText": "敵の風耐性を下げる確率が\n１０％上昇する。",
-    "Text": "Chance to lower the enemy's wind\nresistance increases by 10%.",
+    "Text": "적의 풍내성을 낮추는 확률이\n10% 증가한다.",
     "Enabled": true
   },
   "820174": {
     "OriginalText": "敵の風耐性を下げる確率が\n１２％上昇する。",
-    "Text": "Chance to lower the enemy's wind\nresistance increases by 12%.",
+    "Text": "적의 풍내성을 낮추는 확률이\n12% 증가한다.",
     "Enabled": true
   },
   "820175": {
     "OriginalText": "敵の風耐性を下げる確率が\n１５％上昇する。",
-    "Text": "Chance to lower the enemy's wind\nresistance increases by 15%.",
+    "Text": "적의 풍내성을 낮추는 확률이\n15% 증가한다.",
     "Enabled": true
   },
   "820176": {
     "OriginalText": "敵の風耐性を下げる確率が\n１８％上昇する。",
-    "Text": "Chance to lower the enemy's wind\nresistance increases by 18%.",
+    "Text": "적의 풍내성을 낮추는 확률이\n18% 증가한다.",
     "Enabled": true
   },
   "820177": {
     "OriginalText": "敵の風耐性を下げる確率が\n２０％上昇する。",
-    "Text": "Chance to lower the enemy's wind\nresistance increases by 20%.",
+    "Text": "적의 풍내성을 낮추는 확률이\n20% 증가한다.",
     "Enabled": true
   },
   "820178": {
     "OriginalText": "敵の光耐性を下げる確率が\n１０％上昇する。",
-    "Text": "Chance to lower the enemy's light\nresistance increases by 10%.",
+    "Text": "적의 광내성을 낮추는 확률이\n10% 증가한다.",
     "Enabled": true
   },
   "820179": {
     "OriginalText": "敵の光耐性を下げる確率が\n１２％上昇する。",
-    "Text": "Chance to lower the enemy's light\nresistance increases by 12%.",
+    "Text": "적의 광내성을 낮추는 확률이\n12% 증가한다.",
     "Enabled": true
   },
   "820180": {
     "OriginalText": "敵の光耐性を下げる確率が\n１５％上昇する。",
-    "Text": "Chance to lower the enemy's light\nresistance increases by 15%.",
+    "Text": "적의 광내성을 낮추는 확률이\n15% 증가한다.",
     "Enabled": true
   },
   "820181": {
     "OriginalText": "敵の光耐性を下げる確率が\n１８％上昇する。",
-    "Text": "Chance to lower the enemy's light\nresistance increases by 18%.",
+    "Text": "적의 광내성을 낮추는 확률이\n18% 증가한다.",
     "Enabled": true
   },
   "820182": {
     "OriginalText": "敵の光耐性を下げる確率が\n２０％上昇する。",
-    "Text": "Chance to lower the enemy's light\nresistance increases by 20%.",
+    "Text": "적의 광내성을 낮추는 확률이\n20% 증가한다.",
     "Enabled": true
   },
   "820183": {
     "OriginalText": "敵の闇耐性を下げる確率が\n１０％上昇する。",
-    "Text": "Chance to lower the enemy's dark\nresistance increases by 10%.",
+    "Text": "적의 암내성을 낮추는 확률이\n10% 증가한다.",
     "Enabled": true
   },
   "820184": {
     "OriginalText": "敵の闇耐性を下げる確率が\n１２％上昇する。",
-    "Text": "Chance to lower the enemy's dark\nresistance increases by 12%.",
+    "Text": "적의 암내성을 낮추는 확률이\n12% 증가한다.",
     "Enabled": true
   },
   "820185": {
     "OriginalText": "敵の闇耐性を下げる確率が\n１５％上昇する。",
-    "Text": "Chance to lower the enemy's dark\nresistance increases by 15%.",
+    "Text": "적의 암내성을 낮추는 확률이\n15% 증가한다.",
     "Enabled": true
   },
   "820186": {
     "OriginalText": "敵の闇耐性を下げる確率が\n１８％上昇する。",
-    "Text": "Chance to lower the enemy's dark\nresistance increases by 18%.",
+    "Text": "적의 암내성을 낮추는 확률이\n18% 증가한다.",
     "Enabled": true
   },
   "820187": {
     "OriginalText": "敵の闇耐性を下げる確率が\n２０％上昇する。",
-    "Text": "Chance to lower the enemy's dark\nresistance increases by 20%.",
+    "Text": "적의 암내성을 낮추는 확률이\n20% 증가한다.",
     "Enabled": true
   },
   "820188": {
     "OriginalText": "敵の全耐性を下げる確率が\n５％上昇する。",
-    "Text": "Chance to lower all the enemy's\nresistances increases by 5%.",
+    "Text": "적의 모든 내성을 낮추는 확률이\n5% 증가한다.",
     "Enabled": true
   },
   "820189": {
     "OriginalText": "敵の全耐性を下げる確率が\n６％上昇する。",
-    "Text": "Chance to lower all the enemy's\nresistances increases by 6%.",
+    "Text": "적의 모든 내성을 낮추는 확률이\n6% 증가한다.",
     "Enabled": true
   },
   "820190": {
     "OriginalText": "敵の全耐性を下げる確率が\n８％上昇する。",
-    "Text": "Chance to lower all the enemy's\nresistances increases by 8%.",
+    "Text": "적의 모든 내성을 낮추는 확률이\n8% 증가한다.",
     "Enabled": true
   },
   "820191": {
     "OriginalText": "敵の全耐性を下げる確率が\n１０％上昇する。",
-    "Text": "Chance to lower all the enemy's\nresistances increases by 10%.",
+    "Text": "적의 모든 내성을 낮추는 확률이\n10% 증가한다.",
     "Enabled": true
   },
   "820192": {
     "OriginalText": "敵の全耐性を下げる確率が\n１２％上昇する。",
-    "Text": "Chance to lower all the enemy's\nresistances increases by 12%.",
+    "Text": "적의 모든 내성을 낮추는 확률이\n12% 증가한다.",
     "Enabled": true
   },
   "820193": {
     "OriginalText": "ジャストアタックしたときの\nダメージが４％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Increases Just Attacks damage by 4%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "저스트 어택을 했을 때의\n데미지량이 4% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820194": {
     "OriginalText": "ジャストアタックしたときの\nダメージが２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Increases Just Attacks damage by 20%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "저스트 어택을 했을 때의\n데미지량이 20% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820195": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820196": {
     "OriginalText": "テクニックでジャストアタックしたときの\nダメージが４％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "A Technique's Just Attack damage\nincreases by 4%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "테크닉으로 저스트 어택을 했을 때의\n데미지량이 4% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820197": {
     "OriginalText": "テクニックでジャストアタックしたときの\nダメージが２５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "A Technique's Just Attack damage\nincreases by 25%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "테크닉으로 저스트 어택을 했을 때의\n데미지량이 25% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820198": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820199": {
     "OriginalText": "エネミーに対するヘイト上昇率が５０％増加し、\n更に、受けるダメージを５％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Increases enemy hate accumulation by 50%\nand reduces damage received by 5%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "에너미에 대한 헤이트 증가율이 50% 증가하고\n추가로 받는 데미지를 5% 줄인다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820200": {
     "OriginalText": "エネミーに対するヘイト上昇率が８０％増加し、\n更に、受けるダメージを１０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Increases enemy hate accumulation by 80%\nand reduces damage received by 10%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "에너미에 대한 헤이트 증가율이 80% 증가하고\n추가로 받는 데미지를 10% 줄인다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820201": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820202": {
     "OriginalText": "エネミーに対するヘイト上昇率を\n１２％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Decreases enemy hate accumulation by\n12%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "에너미에 대한 헤이트 증가율을\n12% 줄인다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820203": {
     "OriginalText": "エネミーに対するヘイト上昇率を\n２０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Decreases enemy hate accumulation by\n20%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "에너미에 대한 헤이트 증가율을\n20% 줄인다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820204": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820205": {
     "OriginalText": "ＨＰが１０％似上で、戦闘不能となるダメージを\n受けたとき、１０％の確率でＨＰが１残る。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When HP is below 10% and you receive a\nfatal hit, 10% chance to survive with\n1 HP remaining.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "HP가 10% 이상일 때 전투 불능이 되는 데미지를\n받으면 10% 확률로 HP가 1 남는다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820206": {
     "OriginalText": "ＨＰが１０％似上で、戦闘不能となるダメージを\n受けたとき、１４％の確率でＨＰが１残る。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When HP is below 10% and you receive a\nfatal hit, 14% chance to survive with\n1 HP remaining.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "HP가 10% 이상일 때 전투 불능이 되는 데미지를\n받으면 14% 확률로 HP가 1 남는다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820207": {
     "OriginalText": "ＨＰが１０％似上で、戦闘不能となるダメージを\n受けたとき、１８％の確率でＨＰが１残る。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When HP is below 10% and you receive a\nfatal hit, 18% chance to survive with\n1 HP remaining.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "HP가 10% 이상일 때 전투 불능이 되는 데미지를\n받으면 18% 확률로 HP가 1 남는다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820208": {
     "OriginalText": "打撃と射撃によるダメージを\n２０％の確率で２０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "20% chance of reducing Striking and\nRanged damage by 20%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "타격과 사격으로 받는 데미지를\n20% 확률로 20% 줄인다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820209": {
     "OriginalText": "打撃と射撃によるダメージを\n３０％の確率で２０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "30% chance of reducing Striking and\nRanged damage by 20%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "타격과 사격으로 받는 데미지를\n30% 확률로 20% 줄인다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820210": {
     "OriginalText": "打撃と射撃によるダメージを\n４０％の確率で２０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "40% chance of reducing Striking and\nRanged damage by 20%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "타격과 사격으로 받는 데미지를\n40% 확률로 20% 줄인다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820211": {
     "OriginalText": "法撃によるダメージを\n２０％の確率で２０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "20% chance of reducing Technique damage\nby 20%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "법격으로 받는 데미지를\n20% 확률로 20% 줄인다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820212": {
     "OriginalText": "法撃によるダメージを\n３０％の確率で２０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "30% chance of reducing Technique damage\nby 20%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "법격으로 받는 데미지를\n30% 확률로 20% 줄인다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820213": {
     "OriginalText": "法撃によるダメージを\n４０％の確率で２０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "40% chance of reducing Technique damage\nby 20%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "법격으로 받는 데미지를\n40% 확률로 20% 줄인다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820214": {
     "OriginalText": "ＨＰが５０％のとき、\n打撃力と射撃力が１８０上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When HP reaches half or lower, S-ATK\nand R-ATK increases by 180.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "HP가 50%일 때\n타격력과 사격력이 180 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820215": {
     "OriginalText": "ＨＰが半分似下のとき、\n打撃力と射撃力が３００上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When HP reaches half or lower,\nS-ATK\nand R-ATK increases by 300.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "HP가 절반 이하일 때\n타격력과 사격력이 300 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820216": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820217": {
     "OriginalText": "射撃で弱点部位を攻撃したときの\nダメージが５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage done to weak points using Ranged\nattacks is increased by 5%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "사격으로 약점 부위를 공격했을 때의\n데미지량이 5% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820218": {
     "OriginalText": "射撃で弱点部位を攻撃したときの\nダメージが９％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage done to weak points using Ranged\nattacks is increased by 9%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "사격으로 약점 부위를 공격했을 때의\n데미지량이 9% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820219": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820220": {
     "OriginalText": "至近距離での射撃攻撃の\nダメージが１０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage done at close range from Ranged\nattacks is increased by 10%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "아주 가까운 거리에서 사격 공격을 하면\n데미지량이 10% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820221": {
     "OriginalText": "至近距離での射撃攻撃の\nダメージが１４％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage done at close range from Ranged\nattacks is increased by 14%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "아주 가까운 거리에서 사격 공격을 하면\n데미지량이 14% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820222": {
     "OriginalText": "至近距離での射撃攻撃の\nダメージが６０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage done at close range from Ranged\nattacks is increased by 60%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "아주 가까운 거리에서 사격 공격을 하면\n데미지량이 60% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820223": {
     "OriginalText": "空中にいるエネミーへの\n射撃攻撃によるダメージが６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When hitting aerial enemies, Ranged\nattack damage is increases by 6%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "공중에 있는 에너미를 사격으로 공격하면\n데미지량이 6% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820224": {
     "OriginalText": "空中にいるエネミーへの\n射撃攻撃によるダメージが１０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When hitting aerial enemies, Ranged\nattack damage is increases by 10%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "공중에 있는 에너미를 사격으로 공격하면\n데미지량이 10% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820225": {
     "OriginalText": "空中にいるエネミーへの\n射撃攻撃によるダメージが４０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When hitting aerial enemies, Ranged\nattack damage is increases by 40%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "공중에 있는 에너미를 사격으로 공격하면\n데미지량이 40% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820226": {
     "OriginalText": "通常攻撃のＧＰ回復量が\n２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "A standard attack's GP recovery\nincreases by 20%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "통상 공격의 GP 회복량이\n20% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820227": {
     "OriginalText": "通常攻撃のＧＰ回復量が\n４０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "A standard attack's GP recovery\nincreases by 40%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "통상 공격의 GP 회복량이\n40% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820228": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820229": {
     "OriginalText": "炎属性テクニックのダメージが\n１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Fire Technique damage increases by 12%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "염속성 테크닉의 데미지가\n12% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820230": {
     "OriginalText": "炎属性テクニックのダメージが\n１６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Fire Technique damage increases by 16%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "염속성 테크닉의 데미지가\n16% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820231": {
     "OriginalText": "炎属性テクニックのダメージが\n２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Fire Technique damage increases by 20%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "염속성 테크닉의 데미지가\n20% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820232": {
     "OriginalText": "劇属性テクニックのダメージが\n１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Ice Technique damage increases by 12%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "빙속성 테크닉의 데미지가\n12% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820233": {
     "OriginalText": "劇属性テクニックのダメージが\n１６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Ice Technique damage increases by 16%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "빙속성 테크닉의 데미지가\n16% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820234": {
     "OriginalText": "劇属性テクニックのダメージが\n２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Ice Technique damage increases by 20%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "빙속성 테크닉의 데미지가\n20% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820235": {
     "OriginalText": "雷属性テクニックのダメージが\n１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Lightning Technique damage increases by\n12%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "뇌속성 테크닉의 데미지가\n12% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820236": {
     "OriginalText": "雷属性テクニックのダメージが\n１６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Lightning Technique damage increases by\n16%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "뇌속성 테크닉의 데미지가\n16% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820237": {
     "OriginalText": "雷属性テクニックのダメージが\n２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Lightning Technique damage increases by\n20%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "뇌속성 테크닉의 데미지가\n20% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820238": {
     "OriginalText": "ＧＰ自動回復速度が８％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "GP Auto-recovery rate increases by 8%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "GP 자동 회복 속도가 8% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820239": {
     "OriginalText": "ＧＰ自動回復速度が１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "GP Auto-recovery rate increases by 12%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "GP 자동 회복 속도가 12% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820240": {
     "OriginalText": "ＧＰ自動回復速度が１６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "GP Auto-recovery rate increases by 16%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "GP 자동 회복 속도가 16% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820241": {
     "OriginalText": "弱点属性で攻撃したとき\nダメージが６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Elemental weakness damage increased by\n6%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "약점 속성으로 공격했을 때\n데미지량이 6% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820242": {
     "OriginalText": "弱点属性で攻撃したとき\nダメージが８％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Elemental weakness damage increased by\n8%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "약점 속성으로 공격했을 때\n데미지량이 8% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820243": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820244": {
     "OriginalText": "弱点属性で攻撃したとき\nダメージが１４％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Elemental weakness damage increased by\n14%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "약점 속성으로 공격했을 때\n데미지량이 14% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820245": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820246": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820247": {
     "OriginalText": "打撃で与えたダメージの２％を\nＨＰとして吸収する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Recover 2% of your Striking damage back\nas HP.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "타격으로 준 데미지의 2%를\nHP로 흡수한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820248": {
     "OriginalText": "打撃で与えたダメージの３％を\nＨＰとして吸収する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Recover 3% of your Striking damage back\nas HP.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "타격으로 준 데미지의 3%를\nHP로 흡수한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820249": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820250": {
-    "OriginalText": "ＧＰの消費量が６％滅少する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "GP consumption reduced by 6%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "OriginalText": "ＧＰの消費量が６％減少する。\n[a 03]※同名の特殊能力は重複しない[b]",
+    "Text": "GP 소모량이 6% 감소한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820251": {
-    "OriginalText": "ＧＰの消費量が１０％滅少する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "GP consumption reduced by 10%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "OriginalText": "ＧＰの消費量が１０％減少する。\n[a 03]※同名の特殊能力は重複しない[b]",
+    "Text": "GP 소모량이 10% 감소한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820252": {
-    "OriginalText": "ＧＰの消費量が１５％滅少する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "GP consumption reduced by 15%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "OriginalText": "ＧＰの消費量が１５％減少する。\n[a 03]※同名の特殊能力は重複しない[b]",
+    "Text": "GP 소모량이 15% 감소한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820253": {
     "OriginalText": "８％の確率でダメージを無効化する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "8% chance of Damage Nullification.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "8% 확률로 데미지를 무효화한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820254": {
     "OriginalText": "１０％の確率でダメージを無効化する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "10% chance of Damage Nullification.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "10% 확률로 데미지를 무효화한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820255": {
     "OriginalText": "１２％の確率でダメージを無効化する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "12% chance of Damage Nullification.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "12% 확률로 데미지를 무효화한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820256": {
     "OriginalText": "ダメージを受けたとき\n１５％の確率で玄け反らなくなる。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When receiving damage, there is a 15% \nchance nullifying hate accumulation.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "데미지를 받았을 때\n15% 확률로 경직되지 않는다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820257": {
     "OriginalText": "ダメージを受けたとき\n２０％の確率で玄け反らなくなる。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When receiving damage, there is a 20% \nchance nullifying hate accumulation.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "데미지를 받았을 때\n20% 확률로 경직되지 않는다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820258": {
     "OriginalText": "ダメージを受けたとき\n２５％の確率で玄け反らなくなる。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When receiving damage, there is a 25% \nchance nullifying hate accumulation.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "데미지를 받았을 때\n25% 확률로 경직되지 않는다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820259": {
     "OriginalText": "回復アイテムの効果が３０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Healing item's effects are boosted by\n30%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "회복 아이템의 효과가 30% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820260": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820261": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820262": {
     "OriginalText": "アベレージスタンス中に、\nダメージが４％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Average Stance, damage increases\nby 4%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "애버리지 스탠스 중\n데미지량이 4% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820263": {
     "OriginalText": "アベレージスタンス中に、\nダメージが３５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Average Stance, damage increases\nby 35%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "애버리지 스탠스 중\n데미지량이 35% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820264": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820265": {
     "OriginalText": "フューリースタンス中に、\nダメージが１％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Fury Stance, damage increases by\n1%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "퓨리 스탠스 중\n데미지량이 1% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820266": {
     "OriginalText": "フューリースタンス中に、\nダメージが３％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Fury Stance, damage increases by\n3%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "퓨리 스탠스 중\n데미지량이 3% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820267": {
     "OriginalText": "フューリースタンス中に\nダメージが４０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Fury Stance, damage increases by\n40%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "퓨리 스탠스 중\n데미지량이 40% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820268": {
     "OriginalText": "フューリースタンス中に、\nクリティカル率が１０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Fury Stance, Critical hit ratio\nboosts by 10%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "퓨리 스탠스 중\n크리티컬 발생률이 10% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820269": {
     "OriginalText": "フューリースタンス中に、\nクリティカル率が１５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Fury Stance, Critical hit ratio\nboosts by 15%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "퓨리 스탠스 중\n크리티컬 발생률이 15% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820270": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820271": {
     "OriginalText": "ガードスタンス中に、受けるダメージを１％軽滅し\n打撃力と射撃力が１５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Guard Stance, damage received\nreduced by 1% and S-ATK and R-ATK\nincreased by 15%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "가드 스탠스 중 받는 데미지를 1% 줄이고\n타격력과 사격력이 15% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820272": {
     "OriginalText": "ガードスタンス中に、受けるダメージを３％軽滅し\n打撃力と射撃力が２５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Guard Stance, damage received\nreduced by 3% and S-ATK and R-ATK\nincreased by 25%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "가드 스탠스 중 받는 데미지를 3% 줄이고\n타격력과 사격력이 25% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820273": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820274": {
     "OriginalText": "ブレイブスタンス中に、正面から与えるダメージが\n４％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Brave Stance, damage from the\nfront increases by 4%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "브레이브 스탠스 중 정면에서 주는 데미지량이\n4% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820275": {
     "OriginalText": "ブレイブスタンス中に、正面から与えるダメージが\n６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Brave Stance, damage from the\nfront increases by 6%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "브레이브 스탠스 중 정면에서 주는 데미지량이\n6% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820276": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820277": {
     "OriginalText": "ブレイブスタンス中に、正面から与えるダメージが\n５０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Brave Stance, damage from the\nfront increases by 50%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "브레이브 스탠스 중 정면에서 주는 데미지량이\n50% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820278": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820279": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820280": {
     "OriginalText": "ブレイブスタンス中に、正面からの攻撃の\nクリティカル率が５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Brave Stance, critical hit rate\nfrom the front increases by 5%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "브레이브 스탠스 중 정면 공격의\n크리티컬 발생률이 5% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820281": {
     "OriginalText": "ブレイブスタンス中に、正面からの攻撃の\nクリティカル率が８％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Brave Stance, critical hit rate\nfrom the front increases by 8%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "브레이브 스탠스 중 정면 공격의\n크리티컬 발생률이 8% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820282": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820283": {
     "OriginalText": "ワイズスタンス中に、背後から与えるダメージが\n８％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Wise Stance, damage from behind\nincreases by 8%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "와이즈 스탠스 중 후면에서 주는 데미지가\n8% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820284": {
     "OriginalText": "ワイズスタンス中に、背後から与えるダメージが\n１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Wise Stance, damage from behind\nincreases by 12%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "와이즈 스탠스 중 후면에서 주는 데미지가\n12% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820285": {
     "OriginalText": "ワイズスタンス中に、背後から与えるダメージを\n８０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Wise Stance, damage from behind\nincreases by 80%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "와이즈 스탠스 중 후면에서 주는 데미지가\n80% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820286": {
     "OriginalText": "スタンディングスナイプの効果が\n７％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "The effect of Standing Snipe is\nincreased by 7%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "스탠딩 스나이프의 효과가\n7% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820287": {
     "OriginalText": "スタンディングスナイプの効果が\n１１％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "The effect of Standing Snipe is\nincreased by 11%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "스탠딩 스나이프의 효과가\n11% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820288": {
     "OriginalText": "スタンディングスナイプの効果が\n３０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "The effect of Standing Snipe is\nincreased by 30%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "스탠딩 스나이프의 효과가\n30% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820289": {
     "OriginalText": "原生種に与えるダメージが\n７％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage against Natives increased by 7%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "원생종에게 주는 데미지량이\n7% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820290": {
     "OriginalText": "原生種に与えるダメージが\n１３％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage against Natives increased by 13%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "원생종에게 주는 데미지량이\n13% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820291": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820292": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820293": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820294": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820295": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820296": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820297": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820298": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820299": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820300": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820301": {
     "OriginalText": "ダーカーに与えるダメージが\n７％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage against Darkers increased by 7%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "다커에게 주는 데미지가\n7% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820302": {
     "OriginalText": "ダーカーに与えるダメージが\n１３％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage against Darkers increased by 13%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "다커에게 주는 데미지가\n13% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820303": {
     "OriginalText": "削除",
-    "Text": "Delete",
+    "Text": "삭제",
     "Enabled": true
   },
   "820304": {
     "OriginalText": "攻撃のアクション速度が１０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "The action speed of attack increases \nby 10%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "공격 액션 속도가 10% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820305": {
     "OriginalText": "打撃攻撃の効果範囲が１０％上昇する\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Effective range of the striking attack\nincreases by 10%\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "타격 공격의 효과 범위가 10% 증가한다\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820308": {
     "OriginalText": "あらゆるダメージを３０％の確率で\n１０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "30% chance that 10% of all damage will \nbe reduced.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "모든 데미지를 30% 확률로\n10% 줄인다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820309": {
     "OriginalText": "あらゆるダメージを４０％の確率で\n１０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "40% chance that 10% of all damage will \nbe reduced.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "모든 데미지를 40% 확률로\n10% 줄인다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820310": {
     "OriginalText": "射撃で与えたダメージの２％を\nＨＰとして吸収する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Recover 2% of your Ranged damage back as\nHP.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "사격으로 준 데미지의 2%를\nHP로 흡수한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820311": {
     "OriginalText": "射撃で与えたダメージの３％を\nＨＰとして吸収する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Recover 3% of your Ranged damage back as\nHP.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "사격으로 준 데미지의 3%를\nHP로 흡수한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820312": {
     "OriginalText": "打撃で与えたダメージの１５％を\n１５％の確率でＨＰとして吸収する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "15% chance to absorb 15% striking\ndamage as HP.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "타격으로 준 데미지의 15%를\n15% 확률로 HP로 흡수한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820313": {
     "OriginalText": "打撃で与えたダメージの１５％を\n２５％の確率でＨＰとして吸収する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "25% chance to absorb 15% striking\ndamage as HP.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "타격으로 준 데미지의 15%를\n25% 확률로 HP로 흡수한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820314": {
     "OriginalText": "打撃で与えたダメージの１５％を\n３５％の確率でＨＰとして吸収する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "35% chance to absorb 15% striking\ndamage as HP.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "타격으로 준 데미지의 15%를\n35% 확률로 HP로 흡수한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820315": {
     "OriginalText": "風属性テクニックのダメージが\n１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Wind Technique damage increases by 12%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "풍속성 테크닉의 데미지가\n12% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820316": {
     "OriginalText": "風属性テクニックのダメージが\n１６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Wind Technique damage increases by 16%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "풍속성 테크닉의 데미지가\n16% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820317": {
     "OriginalText": "風属性テクニックのダメージが\n２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Wind Technique damage increases by 20%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "풍속성 테크닉의 데미지가\n20% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820318": {
     "OriginalText": "光属性テクニックのダメージが\n１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Light Technique damage increases by 12%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "광속성 테크닉의 데미지가\n12% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820319": {
     "OriginalText": "光属性テクニックのダメージが\n１６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Light Technique damage increases by 16%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "광속성 테크닉의 데미지가\n16% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820320": {
     "OriginalText": "光属性テクニックのダメージが\n２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Light Technique damage increases by 20%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "광속성 테크닉의 데미지가\n20% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820321": {
     "OriginalText": "闇属性テクニックのダメージが\n１２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Dark Technique damage increases by 12%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "암속성 테크닉의 데미지가\n12% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820322": {
     "OriginalText": "闇属性テクニックのダメージが\n１６％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Dark Technique damage increases by 16%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "암속성 테크닉의 데미지가\n16% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820323": {
     "OriginalText": "闇属性テクニックのダメージが\n２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Dark Technique damage increases by 20%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "암속성 테크닉의 데미지가\n20% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820324": {
     "OriginalText": "射撃攻撃時\nクリティカル率が５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During shooting attacks, critical hit \nrate increases by 5%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "사격 공격 시\n크리티컬 발생률이 5% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820325": {
     "OriginalText": "テクニック攻撃時\nクリティカル率が５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During technique attacks, critical hit \nrate increases by 5%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "테크닉 공격 시\n크리티컬 발생률이 5% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820326": {
     "OriginalText": "ＧＰが５０％似下の時\n打撃力と射撃力が３００上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When GP is 50% or lower, S-ATK and R-ATK\nincrease by 300.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "GP가 50% 이하일 때\n타격력과 사격력이 300 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820327": {
     "OriginalText": "ＧＰが５０％似下の時\n打撃力と射撃力が５００上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When GP is 50% or lower, S-ATK and R-ATK\nincrease by 500.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
-  },
-  "820328": {
-    "OriginalText": "-",
-    "Text": "-",
-    "Enabled": true
-  },
-  "820329": {
-    "OriginalText": "-",
-    "Text": "-",
-    "Enabled": true
-  },
-  "820330": {
-    "OriginalText": "-",
-    "Text": "-",
-    "Enabled": true
-  },
-  "820331": {
-    "OriginalText": "-",
-    "Text": "-",
-    "Enabled": true
+    "Text": "GP가 50% 이하일 때\n타격력과 사격력이 500 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820332": {
     "OriginalText": "ガードスタンスの発動中、一定範囲内で\nエネミー死亡時ＨＰが微回復する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Guard Stance, enemies killed\nwithin range slightly recovers your HP.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "가드 스탠스 중 일정 범위 안에서\n에너미가 죽으면 HP가 아주 조금 회복된다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820333": {
     "OriginalText": "ガードスタンスの発動中、一定範囲内で\nエネミー死亡時ＨＰが少回復する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Guard Stance, enemies killed\nwithin range recovers some of your HP.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "가드 스탠스 중 일정 범위 안에서\n에너미가 죽으면 HP가 조금 회복된다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820334": {
     "OriginalText": "グランフレア中に、\n法撃力が６００上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Gran Flare, T-ATK is increased by\n600.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "그란 플레어 중\n법격력이 600 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820335": {
     "OriginalText": "グランフレア中に、\n法撃力が３０００上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "During Gran Flare, T-ATK is increased by\n3000.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "그란 플레어 중\n법격력이 3000 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820336": {
     "OriginalText": "テクニックのダメージ量が２％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage done by Techniques are increased\nby 2%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "테크닉의 데미지량이 2% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820337": {
     "OriginalText": "テクニックのダメージ量が５％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage done by Techniques are increased\nby 5%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "테크닉의 데미지량이 5% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820338": {
     "OriginalText": "テクニックのダメージ量が８％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage done by Techniques are increased\nby 8%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "테크닉의 데미지량이 8% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820339": {
     "OriginalText": "予備枠",
-    "Text": "Reserve Frame",
+    "Text": "예비 칸",
     "Enabled": true
   },
   "820340": {
     "OriginalText": "予備枠",
-    "Text": "Reserve Frame",
+    "Text": "예비 칸",
     "Enabled": true
   },
   "820341": {
     "OriginalText": "ＨＰが２５％似下のとき、\n打撃力・射撃力・法撃力が３０００上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When HP is 25% or lower, all ATK stats\nare boosted by 3000.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "HP가 25% 이하일 때\n타격력, 사격력, 법격력이 3000 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820342": {
     "OriginalText": "ＧＰが２５％似下のとき、\n打撃力・射撃力・法撃力が２０００上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When GP is 25% or lower, all ATK stats\nare boosted by 2000.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "GP가 25% 이하일 때\n타격력, 사격력, 법격력이 2000 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820343": {
     "OriginalText": "テクニックのダメージ量が２０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage done by Techniques are increased\nby 20%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "테크닉의 데미지량이 20% 상승한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820351": {
     "OriginalText": "打撃力が６００上昇する。",
-    "Text": "Boosts S-ATK by 600.",
+    "Text": "타격력이 600 증가한다.",
     "Enabled": true
   },
   "820361": {
     "OriginalText": "射撃力が６００上昇する。",
-    "Text": "Boosts R-ATK by 600.",
+    "Text": "사격력이 600 증가한다.",
     "Enabled": true
   },
   "820371": {
     "OriginalText": "法撃力が６００上昇する。",
-    "Text": "Boosts T-ATK by 600.",
+    "Text": "법격력이 600 증가한다.",
     "Enabled": true
   },
   "820381": {
     "OriginalText": "ＨＰの上限値が６００上昇する。",
-    "Text": "Boosts base HP by 600.",
+    "Text": "HP 최대치가 600 증가한다.",
     "Enabled": true
   },
   "820391": {
     "OriginalText": "ＧＰの上限値が５０上昇する。",
-    "Text": "Boosts base GP by 50.",
+    "Text": "GP 최대치가 50 증가한다.",
     "Enabled": true
   },
   "820401": {
     "OriginalText": "技量が１６０上昇する。",
-    "Text": "Boosts DEX by 60.",
+    "Text": "기량이 160 증가한다.",
     "Enabled": true
   },
   "820411": {
     "OriginalText": "打撃力、射撃力、法撃力、\n打撃防御力、射撃防御力、法撃防御力が\n２００上昇し、技量が６０上昇する。",
-    "Text": "Boosts all Attack and Defense stats by\n200 and DEX by 60.",
+    "Text": "타격력, 사격력, 법격력과\n타격 방어력, 사격 방어력, 법격 방어력이\n200 증가하고 기량이 60 증가한다.",
     "Enabled": true
   },
   "820421": {
     "OriginalText": "打撃防御力が６００上昇する。",
-    "Text": "Boosts S-DEF by 600.",
+    "Text": "타격 방어력이 600 증가한다.",
     "Enabled": true
   },
   "820431": {
     "OriginalText": "射撃防御力が６００上昇する。",
-    "Text": "Boosts R-DEF by 600.",
+    "Text": "사격 방어력이 600 증가한다.",
     "Enabled": true
   },
   "820441": {
     "OriginalText": "法撃防御力が６００上昇する。",
-    "Text": "Boosts T-DEF by 600.",
+    "Text": "법격 방어력이 600 증가한다.",
     "Enabled": true
   },
   "820501": {
     "OriginalText": "打撃によるダメージを８％軽滅する。",
-    "Text": "Reduces Striking Attack damage by 8%.",
-    "Enabled": true
+    "Text": "타격으로 받는 데미지를 8% 줄인다.",
+    "Enabled": false
   },
   "820511": {
     "OriginalText": "射撃によるダメージを８％軽滅する。",
-    "Text": "Reduces Ranged Attack damage by 8%.",
-    "Enabled": true
+    "Text": "사격으로 받는 데미지를 8% 줄인다.",
+    "Enabled": false
   },
   "820521": {
     "OriginalText": "法撃によるダメージを８％軽滅する。",
-    "Text": "Reduces Technique damage by 8%.",
-    "Enabled": true
+    "Text": "법격으로 받는 데미지를 8% 줄인다.",
+    "Enabled": false
   },
   "820531": {
     "OriginalText": "炎属性の攻撃によるダメージを\n８０％軽滅する。",
-    "Text": "Reduces Fire-attributed damage by 80%.",
-    "Enabled": true
+    "Text": "염속성 공격으로 받는 데미지를\n80% 줄인다.",
+    "Enabled": false
   },
   "820541": {
     "OriginalText": "劇属性の攻撃によるダメージを\n８０％軽滅する。",
-    "Text": "Reduces Ice-attributed damage by 80%.",
-    "Enabled": true
+    "Text": "빙속성 공격으로 받는 데미지를\n80% 줄인다.",
+    "Enabled": false
   },
   "820551": {
     "OriginalText": "雷属性の攻撃によるダメージを\n８０％軽滅する。",
-    "Text": "Reduces Lightning-attributed damage by\n80%.",
-    "Enabled": true
+    "Text": "뇌속성 공격으로 받는 데미지를\n80% 줄인다.",
+    "Enabled": false
   },
   "820561": {
     "OriginalText": "風属性の攻撃によるダメージを\n８０％軽滅する。",
-    "Text": "Reduces Wind-attributed damage by 80%.",
-    "Enabled": true
+    "Text": "풍속성 공격으로 받는 데미지를\n80% 줄인다.",
+    "Enabled": false
   },
   "820571": {
     "OriginalText": "光属性の攻撃によるダメージを\n８０％軽滅する。",
-    "Text": "Reduces Light-attributed damage by 80%.",
-    "Enabled": true
+    "Text": "광속성 공격으로 받는 데미지를\n80% 줄인다.",
+    "Enabled": false
   },
   "820581": {
     "OriginalText": "闇属性の攻撃によるダメージを\n８０％軽滅する。",
-    "Text": "Reduces Dark-attributed damage by 80%.",
-    "Enabled": true
+    "Text": "암속성 공격으로 받는 데미지를\n80% 줄인다.",
+    "Enabled": false
   },
   "820601": {
     "OriginalText": "炎属性攻撃のダメージが\n２０％上昇する。",
-    "Text": "Boosts Fire-attributed damage by 20%.",
+    "Text": "염속성 공격의 데미지량이\n20% 증가한다.",
     "Enabled": true
   },
   "820611": {
     "OriginalText": "劇属性攻撃のダメージが\n２０％上昇する。",
-    "Text": "Boosts Ice-attributed damage by 20%.",
-    "Enabled": true
+    "Text": "빙속성 공격의 데미지량이\n20% 증가한다.",
+    "Enabled": false
   },
   "820621": {
     "OriginalText": "雷属性攻撃のダメージが\n２０％上昇する。",
-    "Text": "Boosts Lightning-attributed damage by\n20%.",
+    "Text": "뇌속성 공격의 데미지량이\n20% 증가한다.",
     "Enabled": true
   },
   "820631": {
     "OriginalText": "風属性攻撃のダメージが\n２０％上昇する。",
-    "Text": "Boosts Wind-attributed damage by 20%.",
+    "Text": "풍속성 공격의 데미지량이\n20% 증가한다.",
     "Enabled": true
   },
   "820641": {
     "OriginalText": "光属性攻撃のダメージが\n２０％上昇する。",
-    "Text": "Boosts Light-attributed damage by 20%.",
+    "Text": "광속성 공격의 데미지량이\n20% 증가한다.",
     "Enabled": true
   },
   "820651": {
     "OriginalText": "闇属性攻撃のダメージが\n２０％上昇する。",
-    "Text": "Boosts Dark-attributed damage by 20%.",
+    "Text": "암속성 공격의 데미지량이\n20% 증가한다.",
     "Enabled": true
   },
   "820701": {
     "OriginalText": "空中にいるエネミーへの\n打撃攻撃によるダメージが１００％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When hitting aerial enemies, Striking\nattack damage is increases by 100%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "공중에 있는 에너미를 타격으로 공격하면\n데미지량이 100% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820711": {
     "OriginalText": "近距離でのエネミーから受けるダメージを\n３０％軽滅する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage received from enemies at close\nrange is reduced by 30%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "가까운 거리에서 에너미에게 받는 데미지를\n30% 줄인다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820721": {
     "OriginalText": "グランフレア中に\nテクニックのチャージ時間を短温する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Reduces the charge time of Techniques\nwhen using Gran Flare.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "그란 플레어 중\n테크닉의 차지 시간을 단축한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820731": {
     "OriginalText": "ＨＰが１０％似下になったとき、\n９０％の確率で受けるダメージを１にする。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "When HP is 10% or lower, 90% chance of\ntaking only 1 damage when hit.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
-    "Enabled": true
+    "Text": "HP가 10% 이하가 되었을 때\n90% 확률로 받는 데미지를 1로 줄인다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
+    "Enabled": false
   },
   "820741": {
     "OriginalText": "１％の確率で非常に強力な一撃を\n繰り出すことがある。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "1% chance of unleashing a very powerful blow.\n[a 03]※Abilities of the same name can't be\nstacked[b]",
+    "Text": "1% 확률로 매우 강력한 일격을\n날릴 때가 있다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820742": {
     "OriginalText": "１％の確率で非常に凶悪な一撃を\n繰り出すことがある。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "1% chance of unleashing a very vicious blow.\n[a 03]※Abilities of the same name can't be\nstacked[b]",
+    "Text": "1% 확률로 매우 흉악한 일격을\n날릴 때가 있다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820751": {
     "OriginalText": "ダメージが１００％上昇する。\n代わりに最大ＨＰが２０％になる。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage increased by 100%, but max HP\nreduced to 20%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "데미지량이 100% 증가한다.\n대신 최대 HP가 20%가 된다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820761": {
     "OriginalText": "入手グラン量が１００％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Received Gran increases by 100%.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "획득하는 그란의 양이 100% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820771": {
     "OriginalText": "別のＧＡやテクニックをジャストアタックすると\nダメージが５０％上昇する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage increases by 50% when Just\nAttacking with another GA or Technique.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "다른 GA나 테크닉을 저스트 어택으로 사용하면\n데미지량이 50% 증가한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820811": {
     "OriginalText": "バインドを完全に無効化する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Gives immunity to Bind status.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "바인드를 완전히 무효화한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820812": {
     "OriginalText": "インフェクションを完全に無効化する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Gives immunity to Infection status.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "인펙션을 완전히 무효화한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820813": {
     "OriginalText": "ブラインドを完全に無効化する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Gives immunity to Blind status.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "블라인드를 완전히 무효화한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820814": {
     "OriginalText": "グラン中毒を完全に無効化する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Gives immunity to Gran Poisoning status.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "Text": "그란 중독을 완전히 무효화한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   },
   "820821": {
     "OriginalText": "バースト発動中に打撃力が大幅に上昇し\nさらに防御力が上昇する。",
-    "Text": "Upon activating a Burst, Striking damage\nis boosted significantly and defensive\npower is increased.",
+    "Text": "버스트 발동 중 타격력이 크게 증가하고\n추가로 방어력이 증가한다.",
     "Enabled": true
   },
   "820822": {
     "OriginalText": "バースト発動中に射撃力が大幅に上昇し\nさらにバーストゲージの上昇率がアップする。",
-    "Text": "Upon activating a Burst, Ranged damage\nis boosted significantly and Burst gauge\naccumulation rate is increased.",
+    "Text": "버스트 발동 중 사격력이 크게 증가하고\n추가로 버스트 게이지 증가율이 높아진다.",
     "Enabled": true
   },
   "820823": {
     "OriginalText": "バースト発動中に法撃力が大幅に上昇し\nさらに最大ＧＰが上昇する。",
-    "Text": "Upon activating a Burst, Technique\ndamage is boosted significantly and max\nGP is increased.",
+    "Text": "버스트 발동 중 법격력이 크게 증가하고\n추가로 최대 GP가 증가한다.",
     "Enabled": true
   },
   "820831": {
-    "OriginalText": "バースト中にダメージが１００％上昇する。\n更に、ＧＰの消費量が１５％滅少する。\n[a 03]※同名の特殊能力は重復しない[b]",
-    "Text": "Damage is increased by 100% and GP\nconsumption is reduced by 15% during\nbursts.\n[a 03]＊Abilities of the same name cannot be\nstacked.[b]",
+    "OriginalText": "バースト中にダメージが１００％上昇する。\n更に、ＧＰの消費量が１５％減少する。\n[a 03]※同名の特殊能力は重複しない[b]",
+    "Text": "버스트 중 데미지량이 100% 증가한다.\n추가로 GP 소모량이 15% 감소한다.\n[a 03]주의: 같은 이름의 특수 능력은 중복되지 않는다.[b]",
     "Enabled": true
   }
 }

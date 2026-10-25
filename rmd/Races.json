@@ -1,27 +1,27 @@
 {
   "10401": {
     "OriginalText": "ヒューマン",
-    "Text": "Human",
+    "Text": "휴먼",
     "Enabled": true
   },
   "10402": {
     "OriginalText": "ニューマン",
-    "Text": "Newman",
+    "Text": "뉴먼",
     "Enabled": true
   },
   "10403": {
     "OriginalText": "キャスト",
-    "Text": "Cast",
+    "Text": "캐스트",
     "Enabled": true
   },
   "10404": {
     "OriginalText": "キャスト似外",
-    "Text": "Non-Cast",
-    "Enabled": true
+    "Text": "캐스트 제외",
+    "Enabled": false
   },
   "10405": {
     "OriginalText": "全種族",
-    "Text": "All Races",
+    "Text": "전 종족",
     "Enabled": true
   }
 }
