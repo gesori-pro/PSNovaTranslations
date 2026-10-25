@@ -6,12 +6,12 @@
   },
   "640001": {
     "OriginalText": "炎属性状態異常",
-    "Text": "염속성 상태이상",
+    "Text": "화염 속성 상태이상",
     "Enabled": true
   },
   "640002": {
     "OriginalText": "氷属性状態異常",
-    "Text": "빙속성 상태이상",
+    "Text": "빙결 속성 상태이상",
     "Enabled": true
   },
   "640003": {

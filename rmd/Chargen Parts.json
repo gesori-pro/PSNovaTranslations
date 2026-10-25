@@ -701,7 +701,7 @@
   },
   "440141": {
     "OriginalText": "ランクス・ヘッド",
-    "Text": "랭크스 헤드",
+    "Text": "랑크스 헤드",
     "Enabled": true
   },
   "440142": {
@@ -781,12 +781,12 @@
   },
   "440157": {
     "OriginalText": "ベリーショート",
-    "Text": "베리 쇼트",
+    "Text": "베리 숏",
     "Enabled": true
   },
   "440158": {
     "OriginalText": "ショートマッシュ",
-    "Text": "쇼트 매시",
+    "Text": "숏 매시",
     "Enabled": true
   },
   "440159": {
@@ -796,12 +796,12 @@
   },
   "440160": {
     "OriginalText": "カジュアル",
-    "Text": "캐쥬얼",
+    "Text": "캐주얼",
     "Enabled": true
   },
   "440161": {
     "OriginalText": "ショートウルフ",
-    "Text": "쇼트 울프",
+    "Text": "숏 울프",
     "Enabled": true
   },
   "440162": {
@@ -811,12 +811,12 @@
   },
   "440163": {
     "OriginalText": "ブレイズ",
-    "Text": "브레이즈",
+    "Text": "브레이드",
     "Enabled": true
   },
   "440164": {
     "OriginalText": "クラシックショート",
-    "Text": "클래식 쇼트",
+    "Text": "클래식 숏",
     "Enabled": true
   },
   "440165": {
@@ -851,12 +851,12 @@
   },
   "440171": {
     "OriginalText": "ショートストレート",
-    "Text": "쇼트 스트레이트",
+    "Text": "숏 스트레이트",
     "Enabled": true
   },
   "440172": {
     "OriginalText": "カジュアルレイヤー",
-    "Text": "캐쥬얼 레이어",
+    "Text": "캐주얼 레이어",
     "Enabled": true
   },
   "440173": {
@@ -871,7 +871,7 @@
   },
   "440175": {
     "OriginalText": "ショートボブ",
-    "Text": "쇼트 보브",
+    "Text": "숏 보브",
     "Enabled": true
   },
   "440176": {
@@ -886,7 +886,7 @@
   },
   "440178": {
     "OriginalText": "ふんわりアフロ",
-    "Text": "푹신한 아프로",
+    "Text": "폭신한 아프로",
     "Enabled": true
   },
   "440179": {
@@ -896,7 +896,7 @@
   },
   "440180": {
     "OriginalText": "中分けショートボブ",
-    "Text": "가운데 가르마 쇼트 보브",
+    "Text": "가운데 가르마 숏 보브",
     "Enabled": true
   },
   "440181": {
@@ -906,7 +906,7 @@
   },
   "440182": {
     "OriginalText": "ショートリーゼント",
-    "Text": "쇼트 리젠트",
+    "Text": "숏 리젠트",
     "Enabled": true
   },
   "440183": {
@@ -931,17 +931,17 @@
   },
   "440187": {
     "OriginalText": "外ハネセミロング",
-    "Text": "바깥 뻗침 세미 롱",
+    "Text": "바깥으로 뻗친 세미롱",
     "Enabled": true
   },
   "440188": {
     "OriginalText": "ヘリパイロットヘルメット",
-    "Text": "헬기 조종사 헬멧",
+    "Text": "헬리콥터 조종사 헬멧",
     "Enabled": true
   },
   "440189": {
     "OriginalText": "ヘリＰヘルメットＮＶ",
-    "Text": "헬기 조종사 헬멧 NV",
+    "Text": "헬리 Ｐ 헬멧ＮＶ",
     "Enabled": true
   },
   "440190": {
@@ -1011,7 +1011,7 @@
   },
   "440203": {
     "OriginalText": "ゆる三つ編み",
-    "Text": "느슨한 땋은 머리",
+    "Text": "느슨하게 땋은 머리",
     "Enabled": true
   },
   "440204": {
@@ -1406,22 +1406,22 @@
   },
   "440297": {
     "OriginalText": "ヘッドギア葉",
-    "Text": "헤드기어 (잎)",
+    "Text": "헤드기어 엽",
     "Enabled": true
   },
   "440298": {
     "OriginalText": "ヘッドギア紅",
-    "Text": "헤드기어 (진홍)",
+    "Text": "헤드기어 홍",
     "Enabled": true
   },
   "440299": {
     "OriginalText": "ヘッドギア影",
-    "Text": "헤드기어 (그림자)",
+    "Text": "헤드기어 영",
     "Enabled": true
   },
   "440300": {
     "OriginalText": "ヘッドギア月",
-    "Text": "헤드기어 (월)",
+    "Text": "헤드기어 월",
     "Enabled": true
   },
   "440301": {
@@ -1431,22 +1431,22 @@
   },
   "440302": {
     "OriginalText": "アイハット月",
-    "Text": "아이 햇 (월)",
+    "Text": "아이 햇 월",
     "Enabled": true
   },
   "440303": {
     "OriginalText": "アイハット銀",
-    "Text": "아이 햇 (은)",
+    "Text": "아이 햇 은",
     "Enabled": true
   },
   "440304": {
     "OriginalText": "アイハット影",
-    "Text": "아이 햇 (그림자)",
+    "Text": "아이 햇 영",
     "Enabled": true
   },
   "440305": {
     "OriginalText": "アイハット鋼",
-    "Text": "아이 햇 (강철)",
+    "Text": "아이 햇 강",
     "Enabled": true
   },
   "440306": {
@@ -1456,27 +1456,27 @@
   },
   "440307": {
     "OriginalText": "ウィオラキャップ夜",
-    "Text": "위올라 캡 (밤)",
+    "Text": "위올라 캡 야",
     "Enabled": true
   },
   "440308": {
     "OriginalText": "ウィオラキャップ影",
-    "Text": "위올라 캡 (그림자)",
+    "Text": "위올라 캡 영",
     "Enabled": true
   },
   "440309": {
     "OriginalText": "ウィオラキャップ紅",
-    "Text": "위올라 캡 (진홍)",
+    "Text": "위올라 캡 홍",
     "Enabled": true
   },
   "440310": {
     "OriginalText": "ウィオラキャップ鋼",
-    "Text": "위올라 캡 (강철)",
+    "Text": "위올라 캡 강",
     "Enabled": true
   },
   "440311": {
     "OriginalText": "背高帽",
-    "Text": "높은 모자",
+    "Text": "키다리 모자",
     "Enabled": true
   },
   "440312": {
@@ -1506,22 +1506,22 @@
   },
   "440317": {
     "OriginalText": "クルーンハット影",
-    "Text": "크룬 햇 (그림자)",
+    "Text": "크룬 햇 영",
     "Enabled": true
   },
   "440318": {
     "OriginalText": "クルーンハット銀",
-    "Text": "크룬 햇 (은)",
+    "Text": "크룬 햇 은",
     "Enabled": true
   },
   "440319": {
     "OriginalText": "クルーンハット雅",
-    "Text": "크룬 햇 (우아)",
+    "Text": "크룬 햇 아",
     "Enabled": true
   },
   "440320": {
     "OriginalText": "クルーンハット月",
-    "Text": "크룬 햇 (월)",
+    "Text": "크룬 햇 월",
     "Enabled": true
   },
   "440321": {
@@ -1571,7 +1571,7 @@
   },
   "440330": {
     "OriginalText": "月桂樹の冠",
-    "Text": "월계관",
+    "Text": "월계수 관",
     "Enabled": true
   },
   "440331": {
@@ -1586,7 +1586,7 @@
   },
   "440333": {
     "OriginalText": "ホルスタインＴハット",
-    "Text": "홀스타인 텐갤런 햇",
+    "Text": "홀스타인 T 햇",
     "Enabled": true
   },
   "440334": {
@@ -1601,27 +1601,27 @@
   },
   "440336": {
     "OriginalText": "ブラウンキャスケット帽",
-    "Text": "브라운 캐스켓 모자",
+    "Text": "브라운 카스케트 모자",
     "Enabled": true
   },
   "440337": {
     "OriginalText": "ホワイトキャスケット帽",
-    "Text": "화이트 캐스켓 모자",
+    "Text": "화이트 카스케트 모자",
     "Enabled": true
   },
   "440338": {
     "OriginalText": "ピンクキャスケット帽",
-    "Text": "핑크 캐스켓 모자",
+    "Text": "핑크 카스케트 모자",
     "Enabled": true
   },
   "440339": {
     "OriginalText": "ブラックキャスケット帽",
-    "Text": "블랙 캐스켓 모자",
+    "Text": "블랙 카스케트 모자",
     "Enabled": true
   },
   "440340": {
     "OriginalText": "イエローキャスケット帽",
-    "Text": "옐로 캐스켓 모자",
+    "Text": "옐로 카스케트 모자",
     "Enabled": true
   },
   "440341": {
@@ -1646,7 +1646,7 @@
   },
   "440345": {
     "OriginalText": "赤ハチマキ",
-    "Text": "빨간 머리띠",
+    "Text": "붉은 머리띠",
     "Enabled": true
   },
   "440346": {
@@ -1661,17 +1661,17 @@
   },
   "440348": {
     "OriginalText": "カンカン帽Ａ",
-    "Text": "보터 햇 A",
+    "Text": "캉캉 모자 A",
     "Enabled": true
   },
   "440349": {
     "OriginalText": "カンカン帽Ｂ",
-    "Text": "보터 햇 B",
+    "Text": "캉캉 모자 B",
     "Enabled": true
   },
   "440350": {
     "OriginalText": "ナースキャップＢ",
-    "Text": "간호사 모자 B",
+    "Text": "너스 캡 B",
     "Enabled": true
   },
   "440351": {
@@ -1681,7 +1681,7 @@
   },
   "440352": {
     "OriginalText": "魔女の付け鼻",
-    "Text": "마녀 가짜 코",
+    "Text": "마녀의 가짜 코",
     "Enabled": true
   },
   "440353": {
@@ -1706,12 +1706,12 @@
   },
   "440357": {
     "OriginalText": "フリューヘッド",
-    "Text": "플뤼 헤드",
+    "Text": "프류 헤드",
     "Enabled": true
   },
   "440358": {
     "OriginalText": "ファームイヤーマフ",
-    "Text": "펌 이어머프",
+    "Text": "팜 이어머프",
     "Enabled": true
   },
   "440359": {
@@ -1726,7 +1726,7 @@
   },
   "440361": {
     "OriginalText": "ブレイカーズヘアバンド",
-    "Text": "브레이커즈 헤어밴드",
+    "Text": "브레이커스 헤어밴드",
     "Enabled": true
   },
   "440362": {
@@ -1741,7 +1741,7 @@
   },
   "440364": {
     "OriginalText": "ラッピーのたまご",
-    "Text": "랍피 알",
+    "Text": "랍피의 알",
     "Enabled": true
   },
   "440365": {
@@ -1766,7 +1766,7 @@
   },
   "440369": {
     "OriginalText": "イヤータイプＡ",
-    "Text": "이어 타입 A",
+    "Text": "귀 타입 A",
     "Enabled": true
   },
   "440370": {
@@ -1776,7 +1776,7 @@
   },
   "440371": {
     "OriginalText": "イヤータイプＣ",
-    "Text": "이어 타입 C",
+    "Text": "귀 타입 C",
     "Enabled": true
   },
   "440372": {
@@ -1821,7 +1821,7 @@
   },
   "440380": {
     "OriginalText": "立ちうさ耳",
-    "Text": "선 토끼 귀",
+    "Text": "쫑긋 선 토끼 귀",
     "Enabled": true
   },
   "440381": {
@@ -1831,7 +1831,7 @@
   },
   "440382": {
     "OriginalText": "クマ耳",
-    "Text": "곰 귀",
+    "Text": "곰돌이 귀",
     "Enabled": true
   },
   "440383": {
@@ -1886,7 +1886,7 @@
   },
   "440393": {
     "OriginalText": "オーバルフチありメガネ",
-    "Text": "테 있는 타원형 안경",
+    "Text": "테 있는 오벌 안경",
     "Enabled": true
   },
   "440394": {
@@ -1941,12 +1941,12 @@
   },
   "440404": {
     "OriginalText": "ハートメガネ",
-    "Text": "하트 안경",
+    "Text": "하트 모양 안경",
     "Enabled": true
   },
   "440405": {
     "OriginalText": "スターメガネ",
-    "Text": "스타 안경",
+    "Text": "별 모양 안경",
     "Enabled": true
   },
   "440406": {
@@ -1956,17 +1956,17 @@
   },
   "440407": {
     "OriginalText": "ホワイトフェザーピアス",
-    "Text": "화이트 깃털 귀걸이",
+    "Text": "화이트 페더 피어스",
     "Enabled": true
   },
   "440408": {
     "OriginalText": "ブルーフェザーピアス",
-    "Text": "블루 깃털 귀걸이",
+    "Text": "블루 페더 피어스",
     "Enabled": true
   },
   "440409": {
     "OriginalText": "ピンクフェザーピアス",
-    "Text": "핑크 깃털 귀걸이",
+    "Text": "핑크 페더 피어스",
     "Enabled": true
   },
   "440410": {
@@ -2031,7 +2031,7 @@
   },
   "440422": {
     "OriginalText": "トゲトゲのリストバンド",
-    "Text": "가시 손목밴드",
+    "Text": "스파이크 리스트밴드",
     "Enabled": true
   },
   "440423": {
@@ -2061,27 +2061,27 @@
   },
   "440428": {
     "OriginalText": "黄リスのしっぽ",
-    "Text": "노란 다람쥐 꼬리",
+    "Text": "노란색 다람쥐 꼬리",
     "Enabled": true
   },
   "440429": {
     "OriginalText": "ブラウンフォックステイル",
-    "Text": "브라운 여우 꼬리",
+    "Text": "브라운 폭스 테일",
     "Enabled": true
   },
   "440430": {
     "OriginalText": "イエローフォックステイル",
-    "Text": "옐로 여우 꼬리",
+    "Text": "옐로 폭스 테일",
     "Enabled": true
   },
   "440431": {
     "OriginalText": "ホワイトフォックステイル",
-    "Text": "화이트 여우 꼬리",
+    "Text": "화이트 폭스 테일",
     "Enabled": true
   },
   "440432": {
     "OriginalText": "ウォレットチェーン",
-    "Text": "월릿 체인",
+    "Text": "월렛 체인",
     "Enabled": true
   },
   "440433": {
@@ -2096,7 +2096,7 @@
   },
   "440435": {
     "OriginalText": "リリーパザック",
-    "Text": "리리파 자크",
+    "Text": "리리파 배낭",
     "Enabled": true
   },
   "440436": {
@@ -2291,7 +2291,7 @@
   },
   "440474": {
     "OriginalText": "リュクスソワール",
-    "Text": "류크스 소와르",
+    "Text": "뤽스 수아르",
     "Enabled": true
   },
   "440475": {
@@ -2576,7 +2576,7 @@
   },
   "440531": {
     "OriginalText": "ランクス・ヘッド破",
-    "Text": "랭크스 헤드 (파손)",
+    "Text": "랑크스 헤드 (파손)",
     "Enabled": true
   },
   "440532": {
